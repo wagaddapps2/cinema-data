@@ -1,0 +1,467 @@
+{
+ "updatedAt": "2026-10-10T14:52:25.757Z",
+ "territory": "KW",
+ "cinemas": {
+  "vox-kw": {
+   "name": "VOX Cinemas Kuwait",
+   "films": [
+    {
+     "slug": "other-mommy",
+     "title": "Other Mommy",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/other-mommy",
+     "status": "now_showing"
+    },
+    {
+     "slug": "matloub-3a2eleyain-arabic",
+     "title": "Matloub 3a2eleyain",
+     "rating": "R15",
+     "language": "Arabic",
+     "url": "https://kwt.voxcinemas.com/movies/matloub-3a2eleyain-arabic",
+     "status": "now_showing"
+    },
+    {
+     "slug": "verity",
+     "title": "Verity",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/verity",
+     "status": "now_showing"
+    },
+    {
+     "slug": "digger",
+     "title": "Digger",
+     "rating": "R18",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/digger",
+     "status": "now_showing"
+    },
+    {
+     "slug": "resident-evil",
+     "title": "Resident Evil",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/resident-evil",
+     "status": "now_showing"
+    },
+    {
+     "slug": "heart-of-the-beast",
+     "title": "Heart of the Beast",
+     "rating": "PG12",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/heart-of-the-beast",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-odyssey",
+     "title": "The Odyssey",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/the-odyssey",
+     "status": "now_showing"
+    },
+    {
+     "slug": "beware-boiuna",
+     "title": "Beware Boiuna",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/beware-boiuna",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-social-reckoning",
+     "title": "The Social Reckoning",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/the-social-reckoning",
+     "status": "now_showing"
+    },
+    {
+     "slug": "street-fighter",
+     "title": "Street Fighter",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/street-fighter",
+     "status": "now_showing"
+    },
+    {
+     "slug": "whalefall",
+     "title": "Whalefall",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/whalefall",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-smurfs-timeless-adventure-volume-2",
+     "title": "The Smurfs Timeless Adventure Volume 2",
+     "rating": "PG",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/the-smurfs-timeless-adventure-volume-2",
+     "status": "now_showing"
+    },
+    {
+     "slug": "pressure",
+     "title": "Pressure",
+     "rating": "PG12",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/pressure",
+     "status": "now_showing"
+    },
+    {
+     "slug": "shish-dou-arabic",
+     "title": "Shish Dou",
+     "rating": "R15",
+     "language": "Arabic",
+     "url": "https://kwt.voxcinemas.com/movies/shish-dou-arabic",
+     "status": "now_showing"
+    },
+    {
+     "slug": "practical-magic-2",
+     "title": "Practical Magic 2",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/practical-magic-2",
+     "status": "now_showing"
+    },
+    {
+     "slug": "red-flag-arabic",
+     "title": "Red Flag",
+     "rating": "R18",
+     "language": "Arabic",
+     "url": "https://kwt.voxcinemas.com/movies/red-flag-arabic",
+     "status": "now_showing"
+    },
+    {
+     "slug": "coyote-vs-acme",
+     "title": "Coyote VS Acme",
+     "rating": "PG12",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/coyote-vs-acme",
+     "status": "now_showing"
+    },
+    {
+     "slug": "paw-patrol-the-dino-movie",
+     "title": "Paw Patrol: The Dino Movie",
+     "rating": "PG",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/paw-patrol-the-dino-movie",
+     "status": "now_showing"
+    },
+    {
+     "slug": "sb19-wakas-at-simula-trilogy-concert-tagalog",
+     "title": "SB19 Wakas at Simula: Trilogy Concert",
+     "rating": "R15",
+     "language": "Tagalog",
+     "url": "https://kwt.voxcinemas.com/movies/sb19-wakas-at-simula-trilogy-concert-tagalog",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-beast",
+     "title": "The Beast",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/the-beast",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-florist",
+     "title": "The Florist",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/the-florist",
+     "status": "now_showing"
+    },
+    {
+     "slug": "street-fighter",
+     "title": "Street Fighter",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": "2026-10-15",
+     "url": "https://kwt.voxcinemas.com/movies/street-fighter",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-dino-family",
+     "title": "The Dino Family",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-15",
+     "url": "https://kwt.voxcinemas.com/movies/the-dino-family",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "whalefall",
+     "title": "Whalefall",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": "2026-10-15",
+     "url": "https://kwt.voxcinemas.com/movies/whalefall",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "it-feeds",
+     "title": "It Feeds",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-15",
+     "url": "https://kwt.voxcinemas.com/movies/it-feeds",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "sense-and-sensibility",
+     "title": "Sense and Sensibility",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-15",
+     "url": "https://kwt.voxcinemas.com/movies/sense-and-sensibility",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "clayface",
+     "title": "Clayface",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-22",
+     "url": "https://kwt.voxcinemas.com/movies/clayface",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "klara-and-the-sun",
+     "title": "Klara and the Sun",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-22",
+     "url": "https://kwt.voxcinemas.com/movies/klara-and-the-sun",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "treasure-trekkers",
+     "title": "Treasure Trekkers",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-22",
+     "url": "https://kwt.voxcinemas.com/movies/treasure-trekkers",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-mongoose",
+     "title": "The Mongoose",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-29",
+     "url": "https://kwt.voxcinemas.com/movies/the-mongoose",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "wala-kan-ala-el-bal-arabic",
+     "title": "Wala Kan Ala El-Bal",
+     "rating": "18TC",
+     "language": "Arabic",
+     "releaseDate": "2026-10-29",
+     "url": "https://kwt.voxcinemas.com/movies/wala-kan-ala-el-bal-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-influencer-project",
+     "title": "The Influencer Project",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-29",
+     "url": "https://kwt.voxcinemas.com/movies/the-influencer-project",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "wildwood",
+     "title": "Wildwood",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-29",
+     "url": "https://kwt.voxcinemas.com/movies/wildwood",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-cat-in-the-hat",
+     "title": "The Cat In The Hat",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-11-05",
+     "url": "https://kwt.voxcinemas.com/movies/the-cat-in-the-hat",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-draw",
+     "title": "The Draw",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-11-05",
+     "url": "https://kwt.voxcinemas.com/movies/the-draw",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "godzilla-minus-zero-japanese",
+     "title": "Godzilla Minus Zero",
+     "rating": "18TC",
+     "language": "Japanese",
+     "releaseDate": "2026-11-05",
+     "url": "https://kwt.voxcinemas.com/movies/godzilla-minus-zero-japanese",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "how-to-rob-a-bank",
+     "title": "How to Rob a Bank",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-11-12",
+     "url": "https://kwt.voxcinemas.com/movies/how-to-rob-a-bank",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "les-mis-rables",
+     "title": "Les Misérables",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-11-12",
+     "url": "https://kwt.voxcinemas.com/movies/les-mis-rables",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "victorian-psycho",
+     "title": "Victorian Psycho",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-11-12",
+     "url": "https://kwt.voxcinemas.com/movies/victorian-psycho",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "league-of-legends-worlds26-finals-in-cinemas",
+     "title": "League of Legends Worlds26 | Finals in Cinemas",
+     "rating": "TBC",
+     "language": "English",
+     "releaseDate": "2026-11-14",
+     "url": "https://kwt.voxcinemas.com/movies/league-of-legends-worlds26-finals-in-cinemas",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-hunger-games-sunrise-on-the-reaping",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-11-19",
+     "url": "https://kwt.voxcinemas.com/movies/the-hunger-games-sunrise-on-the-reaping",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "focker-in-law",
+     "title": "Focker In-Law",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-11-26",
+     "url": "https://kwt.voxcinemas.com/movies/focker-in-law",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "hexed",
+     "title": "Hexed",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-11-26",
+     "url": "https://kwt.voxcinemas.com/movies/hexed",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "violent-night-2",
+     "title": "Violent Night 2",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-12-04",
+     "url": "https://kwt.voxcinemas.com/movies/violent-night-2",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "avengers-doomsday",
+     "title": "Avengers: Doomsday",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-12-16",
+     "url": "https://kwt.voxcinemas.com/movies/avengers-doomsday",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "avengers-doomsday-infinity-vision",
+     "title": "Avengers: Doomsday (Infinity Vision)",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-12-16",
+     "url": "https://kwt.voxcinemas.com/movies/avengers-doomsday-infinity-vision",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "dune-part-three",
+     "title": "Dune: Part Three",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-12-17",
+     "url": "https://kwt.voxcinemas.com/movies/dune-part-three",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "voice-message",
+     "title": "Voice Message",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2027-01-07",
+     "url": "https://kwt.voxcinemas.com/movies/voice-message",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "children-of-blood-and-bone",
+     "title": "Children of Blood and Bone",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2027-01-14",
+     "url": "https://kwt.voxcinemas.com/movies/children-of-blood-and-bone",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "cocomelon-the-movie",
+     "title": "Cocomelon: The Movie",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2027-02-04",
+     "url": "https://kwt.voxcinemas.com/movies/cocomelon-the-movie",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "gatto",
+     "title": "Gatto",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2027-03-04",
+     "url": "https://kwt.voxcinemas.com/movies/gatto",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-thomas-crown-affair",
+     "title": "The Thomas Crown Affair",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2027-03-04",
+     "url": "https://kwt.voxcinemas.com/movies/the-thomas-crown-affair",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "day-drinker",
+     "title": "Day Drinker",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2027-04-01",
+     "url": "https://kwt.voxcinemas.com/movies/day-drinker",
+     "status": "coming_soon"
+    }
+   ]
+  }
+ }
+}
