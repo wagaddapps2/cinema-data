@@ -1,0 +1,245 @@
+{
+ "updatedAt": "2026-10-10T17:14:17.278Z",
+ "territory": "JO",
+ "cinemas": {
+  "elcinema-jo": {
+   "name": "Cinemas in Jordan",
+   "films": [
+    {
+     "slug": "2100784",
+     "title": "The Florist",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2100784/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101678",
+     "title": "The Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2101678/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101362",
+     "title": "Beware Boiúna",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2101362/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095519",
+     "title": "Other Mommy",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097950",
+     "title": "Digger",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2097950/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101963",
+     "title": "The Smurfs Timeless Adventure Volume 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2101963/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098173",
+     "title": "Resident Evil",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-17",
+     "url": "https://elcinema.com/en/work/2098173/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095662",
+     "title": "Red Flag",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-17",
+     "url": "https://elcinema.com/en/work/2095662/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099778",
+     "title": "Tad and the Magic Lamp",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-17",
+     "url": "https://elcinema.com/en/work/2099778/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099118",
+     "title": "Insidious: Out of the Further",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-20",
+     "url": "https://elcinema.com/en/work/2099118/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2069657",
+     "title": "El Gawahergy",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-05",
+     "url": "https://elcinema.com/en/work/2069657/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095765",
+     "title": "Spider-Man: Brand New Day",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-07-30",
+     "url": "https://elcinema.com/en/work/2095765/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098609",
+     "title": "Khally Balak Min Nafsak",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-07-22",
+     "url": "https://elcinema.com/en/work/2098609/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095329",
+     "title": "The Odyssey",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-07-16",
+     "url": "https://elcinema.com/en/work/2095329/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2093181",
+     "title": "Saqr w Kanarya",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-06-25",
+     "url": "https://elcinema.com/en/work/2093181/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2032663",
+     "title": "Avengers Endgame: Encore re-release",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2019-04-24",
+     "url": "https://elcinema.com/en/work/2032663/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096404",
+     "title": "Dune: Part Three",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-18",
+     "url": "https://elcinema.com/en/work/2096404/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-16",
+     "url": "https://elcinema.com/en/work/2096857/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-16",
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2098162",
+     "title": "Jumanji: Open World",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-11",
+     "url": "https://elcinema.com/en/work/2098162/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2098170",
+     "title": "The Angry Birds Movie 3",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-23",
+     "url": "https://elcinema.com/en/work/2098170/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2099110",
+     "title": "Hexed",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-25",
+     "url": "https://elcinema.com/en/work/2099110/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2099776",
+     "title": "Violent Night 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-03",
+     "url": "https://elcinema.com/en/work/2099776/",
+     "status": "coming_soon"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,146 @@
+{
+ "updatedAt": "2026-10-10T17:14:19.948Z",
+ "territory": "TN",
+ "cinemas": {
+  "elcinema-tn": {
+   "name": "Cinemas in Tunisia",
+   "films": [
+    {
+     "slug": "2032663",
+     "title": "Avengers Endgame: Encore re-release",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-10",
+     "url": "https://elcinema.com/en/work/2032663/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101794",
+     "title": "Dar El3ers",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-18",
+     "url": "https://elcinema.com/en/work/2101794/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101795",
+     "title": "Lass Chayeh",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-11",
+     "url": "https://elcinema.com/en/work/2101795/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096404",
+     "title": "Dune: Part Three",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-18",
+     "url": "https://elcinema.com/en/work/2096404/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-16",
+     "url": "https://elcinema.com/en/work/2096857/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2097360",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2097360/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-16",
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-23",
+     "url": "https://elcinema.com/en/work/2098155/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2098162",
+     "title": "Jumanji: Open World",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-11",
+     "url": "https://elcinema.com/en/work/2098162/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2098170",
+     "title": "The Angry Birds Movie 3",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-23",
+     "url": "https://elcinema.com/en/work/2098170/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2098323",
+     "title": "Godzilla Minus Zero",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-03",
+     "url": "https://elcinema.com/en/work/2098323/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2099119",
+     "title": "Sense and Sensibility",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099119/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2099776",
+     "title": "Violent Night 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-03",
+     "url": "https://elcinema.com/en/work/2099776/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099777/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2101651",
+     "title": "Doktor Dinozavrov / The Dino Family",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101651/",
+     "status": "coming_soon"
+    }
+   ]
+  }
+ }
+}

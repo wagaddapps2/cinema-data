@@ -1,0 +1,119 @@
+{
+ "updatedAt": "2026-10-10T17:14:17.973Z",
+ "territory": "SY",
+ "cinemas": {
+  "elcinema-sy": {
+   "name": "Cinemas in Syria",
+   "films": [
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100853",
+     "title": "The Love Hypothesis",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2100853/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098173",
+     "title": "Resident Evil",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-17",
+     "url": "https://elcinema.com/en/work/2098173/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095662",
+     "title": "Red Flag",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-10",
+     "url": "https://elcinema.com/en/work/2095662/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096404",
+     "title": "Dune: Part Three",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-18",
+     "url": "https://elcinema.com/en/work/2096404/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-16",
+     "url": "https://elcinema.com/en/work/2096857/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-16",
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2098162",
+     "title": "Jumanji: Open World",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-11",
+     "url": "https://elcinema.com/en/work/2098162/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2098170",
+     "title": "The Angry Birds Movie 3",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-23",
+     "url": "https://elcinema.com/en/work/2098170/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2099110",
+     "title": "Hexed",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-25",
+     "url": "https://elcinema.com/en/work/2099110/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2099776",
+     "title": "Violent Night 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-03",
+     "url": "https://elcinema.com/en/work/2099776/",
+     "status": "coming_soon"
+    }
+   ]
+  }
+ }
+}

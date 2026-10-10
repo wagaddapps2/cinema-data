@@ -1,0 +1,2687 @@
+{
+ "updatedAt": "2026-10-10T17:12:55.081Z",
+ "territory": "KW",
+ "cinemas": {
+  "vox-kw": {
+   "name": "VOX Cinemas Kuwait",
+   "films": [
+    {
+     "slug": "other-mommy",
+     "title": "Other Mommy",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/other-mommy",
+     "status": "now_showing"
+    },
+    {
+     "slug": "matloub-3a2eleyain-arabic",
+     "title": "Matloub 3a2eleyain",
+     "rating": "R15",
+     "language": "Arabic",
+     "url": "https://kwt.voxcinemas.com/movies/matloub-3a2eleyain-arabic",
+     "status": "now_showing"
+    },
+    {
+     "slug": "verity",
+     "title": "Verity",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/verity",
+     "status": "now_showing"
+    },
+    {
+     "slug": "digger",
+     "title": "Digger",
+     "rating": "R18",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/digger",
+     "status": "now_showing"
+    },
+    {
+     "slug": "resident-evil",
+     "title": "Resident Evil",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/resident-evil",
+     "status": "now_showing"
+    },
+    {
+     "slug": "heart-of-the-beast",
+     "title": "Heart of the Beast",
+     "rating": "PG12",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/heart-of-the-beast",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-odyssey",
+     "title": "The Odyssey",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/the-odyssey",
+     "status": "now_showing"
+    },
+    {
+     "slug": "beware-boiuna",
+     "title": "Beware Boiuna",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/beware-boiuna",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-social-reckoning",
+     "title": "The Social Reckoning",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/the-social-reckoning",
+     "status": "now_showing"
+    },
+    {
+     "slug": "street-fighter",
+     "title": "Street Fighter",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/street-fighter",
+     "status": "now_showing"
+    },
+    {
+     "slug": "whalefall",
+     "title": "Whalefall",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/whalefall",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-smurfs-timeless-adventure-volume-2",
+     "title": "The Smurfs Timeless Adventure Volume 2",
+     "rating": "PG",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/the-smurfs-timeless-adventure-volume-2",
+     "status": "now_showing"
+    },
+    {
+     "slug": "pressure",
+     "title": "Pressure",
+     "rating": "PG12",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/pressure",
+     "status": "now_showing"
+    },
+    {
+     "slug": "shish-dou-arabic",
+     "title": "Shish Dou",
+     "rating": "R15",
+     "language": "Arabic",
+     "url": "https://kwt.voxcinemas.com/movies/shish-dou-arabic",
+     "status": "now_showing"
+    },
+    {
+     "slug": "practical-magic-2",
+     "title": "Practical Magic 2",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/practical-magic-2",
+     "status": "now_showing"
+    },
+    {
+     "slug": "red-flag-arabic",
+     "title": "Red Flag",
+     "rating": "R18",
+     "language": "Arabic",
+     "url": "https://kwt.voxcinemas.com/movies/red-flag-arabic",
+     "status": "now_showing"
+    },
+    {
+     "slug": "coyote-vs-acme",
+     "title": "Coyote VS Acme",
+     "rating": "PG12",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/coyote-vs-acme",
+     "status": "now_showing"
+    },
+    {
+     "slug": "paw-patrol-the-dino-movie",
+     "title": "Paw Patrol: The Dino Movie",
+     "rating": "PG",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/paw-patrol-the-dino-movie",
+     "status": "now_showing"
+    },
+    {
+     "slug": "sb19-wakas-at-simula-trilogy-concert-tagalog",
+     "title": "SB19 Wakas at Simula: Trilogy Concert",
+     "rating": "R15",
+     "language": "Tagalog",
+     "url": "https://kwt.voxcinemas.com/movies/sb19-wakas-at-simula-trilogy-concert-tagalog",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-beast",
+     "title": "The Beast",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/the-beast",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-florist",
+     "title": "The Florist",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/the-florist",
+     "status": "now_showing"
+    },
+    {
+     "slug": "street-fighter",
+     "title": "Street Fighter",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": "2026-10-15",
+     "url": "https://kwt.voxcinemas.com/movies/street-fighter",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-dino-family",
+     "title": "The Dino Family",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-15",
+     "url": "https://kwt.voxcinemas.com/movies/the-dino-family",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "whalefall",
+     "title": "Whalefall",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": "2026-10-15",
+     "url": "https://kwt.voxcinemas.com/movies/whalefall",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "it-feeds",
+     "title": "It Feeds",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-15",
+     "url": "https://kwt.voxcinemas.com/movies/it-feeds",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "sense-and-sensibility",
+     "title": "Sense and Sensibility",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-15",
+     "url": "https://kwt.voxcinemas.com/movies/sense-and-sensibility",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "clayface",
+     "title": "Clayface",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-22",
+     "url": "https://kwt.voxcinemas.com/movies/clayface",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "klara-and-the-sun",
+     "title": "Klara and the Sun",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-22",
+     "url": "https://kwt.voxcinemas.com/movies/klara-and-the-sun",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "treasure-trekkers",
+     "title": "Treasure Trekkers",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-22",
+     "url": "https://kwt.voxcinemas.com/movies/treasure-trekkers",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-mongoose",
+     "title": "The Mongoose",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-29",
+     "url": "https://kwt.voxcinemas.com/movies/the-mongoose",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "wala-kan-ala-el-bal-arabic",
+     "title": "Wala Kan Ala El-Bal",
+     "rating": "18TC",
+     "language": "Arabic",
+     "releaseDate": "2026-10-29",
+     "url": "https://kwt.voxcinemas.com/movies/wala-kan-ala-el-bal-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-influencer-project",
+     "title": "The Influencer Project",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-29",
+     "url": "https://kwt.voxcinemas.com/movies/the-influencer-project",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "wildwood",
+     "title": "Wildwood",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-29",
+     "url": "https://kwt.voxcinemas.com/movies/wildwood",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-cat-in-the-hat",
+     "title": "The Cat In The Hat",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-11-05",
+     "url": "https://kwt.voxcinemas.com/movies/the-cat-in-the-hat",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-draw",
+     "title": "The Draw",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-11-05",
+     "url": "https://kwt.voxcinemas.com/movies/the-draw",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "godzilla-minus-zero-japanese",
+     "title": "Godzilla Minus Zero",
+     "rating": "18TC",
+     "language": "Japanese",
+     "releaseDate": "2026-11-05",
+     "url": "https://kwt.voxcinemas.com/movies/godzilla-minus-zero-japanese",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "how-to-rob-a-bank",
+     "title": "How to Rob a Bank",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-11-12",
+     "url": "https://kwt.voxcinemas.com/movies/how-to-rob-a-bank",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "les-mis-rables",
+     "title": "Les Misérables",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-11-12",
+     "url": "https://kwt.voxcinemas.com/movies/les-mis-rables",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "victorian-psycho",
+     "title": "Victorian Psycho",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-11-12",
+     "url": "https://kwt.voxcinemas.com/movies/victorian-psycho",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "league-of-legends-worlds26-finals-in-cinemas",
+     "title": "League of Legends Worlds26 | Finals in Cinemas",
+     "rating": "TBC",
+     "language": "English",
+     "releaseDate": "2026-11-14",
+     "url": "https://kwt.voxcinemas.com/movies/league-of-legends-worlds26-finals-in-cinemas",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-hunger-games-sunrise-on-the-reaping",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-11-19",
+     "url": "https://kwt.voxcinemas.com/movies/the-hunger-games-sunrise-on-the-reaping",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "focker-in-law",
+     "title": "Focker In-Law",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-11-26",
+     "url": "https://kwt.voxcinemas.com/movies/focker-in-law",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "hexed",
+     "title": "Hexed",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-11-26",
+     "url": "https://kwt.voxcinemas.com/movies/hexed",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "violent-night-2",
+     "title": "Violent Night 2",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-12-04",
+     "url": "https://kwt.voxcinemas.com/movies/violent-night-2",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "avengers-doomsday",
+     "title": "Avengers: Doomsday",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-12-16",
+     "url": "https://kwt.voxcinemas.com/movies/avengers-doomsday",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "avengers-doomsday-infinity-vision",
+     "title": "Avengers: Doomsday (Infinity Vision)",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-12-16",
+     "url": "https://kwt.voxcinemas.com/movies/avengers-doomsday-infinity-vision",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "dune-part-three",
+     "title": "Dune: Part Three",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-12-17",
+     "url": "https://kwt.voxcinemas.com/movies/dune-part-three",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "voice-message",
+     "title": "Voice Message",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2027-01-07",
+     "url": "https://kwt.voxcinemas.com/movies/voice-message",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "children-of-blood-and-bone",
+     "title": "Children of Blood and Bone",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2027-01-14",
+     "url": "https://kwt.voxcinemas.com/movies/children-of-blood-and-bone",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "cocomelon-the-movie",
+     "title": "Cocomelon: The Movie",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2027-02-04",
+     "url": "https://kwt.voxcinemas.com/movies/cocomelon-the-movie",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "gatto",
+     "title": "Gatto",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2027-03-04",
+     "url": "https://kwt.voxcinemas.com/movies/gatto",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-thomas-crown-affair",
+     "title": "The Thomas Crown Affair",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2027-03-04",
+     "url": "https://kwt.voxcinemas.com/movies/the-thomas-crown-affair",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "day-drinker",
+     "title": "Day Drinker",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2027-04-01",
+     "url": "https://kwt.voxcinemas.com/movies/day-drinker",
+     "status": "coming_soon"
+    }
+   ]
+  },
+  "grand-1": {
+   "name": "Grand Hamra",
+   "films": [
+    {
+     "slug": "heart-of-the-beast",
+     "title": "HEART OF THE BEAST",
+     "rating": "PG12",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/heart-of-the-beast/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "resident-evil",
+     "title": "RESIDENT EVIL",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/resident-evil/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-beast",
+     "title": "THE BEAST",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/the-beast/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "other-mommy",
+     "title": "Other Mommy",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/other-mommy/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "verity",
+     "title": "VERITY",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/verity/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-florist",
+     "title": "THE FLORIST",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/the-florist/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "matloub-3a2eleyain",
+     "title": "MATLOUB 3A2ELEYAIN",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/matloub-3a2eleyain/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "idiots",
+     "title": "Idiots",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/idiots/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "buttery-effect--azzam",
+     "title": "Buttery Effect -Azzam",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/buttery-effect--azzam/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "shaun-the-sheep-the-beast-of-mossy-bottom",
+     "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/shaun-the-sheep-the-beast-of-mossy-bottom/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "dune-part-three",
+     "title": "DUNE: PART THREE",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/dune-part-three/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "lockbox",
+     "title": "LOCKBOX",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/lockbox/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "i-object",
+     "title": "I, OBJECT",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/i-object/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-hunger-games-sunrise-on-the-reaping",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/the-hunger-games-sunrise-on-the-reaping/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "avengers-doomsday",
+     "title": "AVENGERS DOOMSDAY",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/avengers-doomsday/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "jumanji-open-world",
+     "title": "Jumanji: Open World",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/jumanji-open-world/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "wala-kan-ala-el-bal",
+     "title": "WALA KAN ALA EL-BAL",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/wala-kan-ala-el-bal/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "into-the-wonderwoods",
+     "title": "Into The Wonderwoods",
+     "rating": "PG",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/into-the-wonderwoods/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "street-fighter",
+     "title": "STREET FIGHTER",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/street-fighter/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "whalefall",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/whalefall/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "godzilla-minus-zero",
+     "title": "GODZILLA MINUS ZERO",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/godzilla-minus-zero/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "focker-in-law",
+     "title": "FOCKER IN-LAW",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/focker-in-law/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "clayface",
+     "title": "CLAYFACE",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/clayface/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-angry-birds-movie-3",
+     "title": "THE ANGRY BIRDS MOVIE 3",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/the-angry-birds-movie-3/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "chopin-chopin",
+     "title": "Chopin, Chopin!",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/chopin-chopin/en",
+     "status": "coming_soon"
+    }
+   ]
+  },
+  "grand-4": {
+   "name": "Grand Al Andalus",
+   "films": [
+    {
+     "slug": "heart-of-the-beast",
+     "title": "HEART OF THE BEAST",
+     "rating": "PG12",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/heart-of-the-beast/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "resident-evil",
+     "title": "RESIDENT EVIL",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/resident-evil/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "practical-magic-2",
+     "title": "PRACTICAL MAGIC 2",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/practical-magic-2/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-beast",
+     "title": "THE BEAST",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/the-beast/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "other-mommy",
+     "title": "Other Mommy",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/other-mommy/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "verity",
+     "title": "VERITY",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/verity/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-florist",
+     "title": "THE FLORIST",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/the-florist/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-social-reckoning",
+     "title": "The Social Reckoning",
+     "rating": "R18",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/the-social-reckoning/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "matloub-3a2eleyain",
+     "title": "MATLOUB 3A2ELEYAIN",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/matloub-3a2eleyain/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "beware-boiuna",
+     "title": "BEWARE BOIUNA",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/beware-boiuna/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "idiots",
+     "title": "Idiots",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/idiots/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "buttery-effect--azzam",
+     "title": "Buttery Effect -Azzam",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/buttery-effect--azzam/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "shaun-the-sheep-the-beast-of-mossy-bottom",
+     "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/shaun-the-sheep-the-beast-of-mossy-bottom/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "dune-part-three",
+     "title": "DUNE: PART THREE",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/dune-part-three/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "lockbox",
+     "title": "LOCKBOX",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/lockbox/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "i-object",
+     "title": "I, OBJECT",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/i-object/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-hunger-games-sunrise-on-the-reaping",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/the-hunger-games-sunrise-on-the-reaping/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "avengers-doomsday",
+     "title": "AVENGERS DOOMSDAY",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/avengers-doomsday/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "jumanji-open-world",
+     "title": "Jumanji: Open World",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/jumanji-open-world/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "wala-kan-ala-el-bal",
+     "title": "WALA KAN ALA EL-BAL",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/wala-kan-ala-el-bal/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "into-the-wonderwoods",
+     "title": "Into The Wonderwoods",
+     "rating": "PG",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/into-the-wonderwoods/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "street-fighter",
+     "title": "STREET FIGHTER",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/street-fighter/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "whalefall",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/whalefall/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "godzilla-minus-zero",
+     "title": "GODZILLA MINUS ZERO",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/godzilla-minus-zero/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "focker-in-law",
+     "title": "FOCKER IN-LAW",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/focker-in-law/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "clayface",
+     "title": "CLAYFACE",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/clayface/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-angry-birds-movie-3",
+     "title": "THE ANGRY BIRDS MOVIE 3",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/the-angry-birds-movie-3/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "chopin-chopin",
+     "title": "Chopin, Chopin!",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/chopin-chopin/en",
+     "status": "coming_soon"
+    }
+   ]
+  },
+  "ozone-0000000274": {
+   "name": "Ozone Cinemas Khaitan",
+   "films": [
+    {
+     "slug": "jailer-2-tamil",
+     "title": "Jailer 2",
+     "rating": "R15",
+     "language": "Tamil",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/jailer-2-tamil",
+     "status": "now_showing"
+    },
+    {
+     "slug": "drishyam-the-conclusion-hindi",
+     "title": "Drishyam: The Conclusion",
+     "rating": "PG12",
+     "language": "Hindi",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/drishyam-the-conclusion-hindi",
+     "status": "now_showing"
+    },
+    {
+     "slug": "prem-keetanu-hindi",
+     "title": "Prem Keetanu",
+     "rating": "R15",
+     "language": "Hindi",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/prem-keetanu-hindi",
+     "status": "now_showing"
+    },
+    {
+     "slug": "sigma-tamil",
+     "title": "Sigma",
+     "rating": "R15",
+     "language": "Tamil",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/sigma-tamil",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-paradise-telugu",
+     "title": "The Paradise",
+     "rating": "R18",
+     "language": "Telugu",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-paradise-telugu",
+     "status": "now_showing"
+    },
+    {
+     "slug": "pradhama-drishtiya-kuttakkar-malayalam",
+     "title": "Pradhama Drishtiya Kuttakkar",
+     "rating": "R15",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/pradhama-drishtiya-kuttakkar-malayalam",
+     "status": "now_showing"
+    },
+    {
+     "slug": "bethlehem-kudumba-unit-malayalam",
+     "title": "Bethlehem Kudumba Unit",
+     "rating": "PG12",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/bethlehem-kudumba-unit-malayalam",
+     "status": "now_showing"
+    },
+    {
+     "slug": "street-fighter-english",
+     "title": "Street Fighter",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/street-fighter-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "saoud-wainah-qatari-arabic",
+     "title": "Saoud Wainah (Qatari) -",
+     "rating": "PG12",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/saoud-wainah-qatari-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "whalefall-english",
+     "title": "Whalefall",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/whalefall-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-dino-family-english",
+     "title": "The Dino Family",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-dino-family-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "ranabaali-telugu",
+     "title": "Ranabaali",
+     "rating": "",
+     "language": "Telugu",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/ranabaali-telugu",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "clayface-english",
+     "title": "Clayface",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/clayface-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "train-to-busan-korean",
+     "title": "Train to Busan",
+     "rating": "",
+     "language": "Korean",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/train-to-busan-korean",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "ghost-soldier-english",
+     "title": "Ghost Soldier",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/ghost-soldier-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "titans-malayalam",
+     "title": "Titans",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/titans-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "focker-in-law-english",
+     "title": "Focker in Law",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/focker-in-law-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "paper-tiger-english",
+     "title": "Paper Tiger",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/paper-tiger-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "hexed-english",
+     "title": "Hexed",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/hexed-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "monster-mia-english",
+     "title": "Monster Mia",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/monster-mia-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "a-talent-for-murder-english",
+     "title": "A Talent for Murder",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/a-talent-for-murder-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "maserati-the-brothers-english",
+     "title": "Maserati: The Brothers",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/maserati-the-brothers-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "aadarsha-kutumbam-house-no-47-ak-47-telugu",
+     "title": "Aadarsha Kutumbam House No: 47 - AK 47",
+     "rating": "",
+     "language": "Telugu",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/aadarsha-kutumbam-house-no-47-ak-47-telugu",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "naseeb-arabic",
+     "title": "Naseeb",
+     "rating": "",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/naseeb-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "just-marriedcom-konkani",
+     "title": "Just Married.com",
+     "rating": "PG12",
+     "language": "Konkani",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/just-marriedcom-konkani",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "treasure-trekkers-english",
+     "title": "Treasure Trekkers",
+     "rating": "PG",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/treasure-trekkers-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "ramayana-hindi",
+     "title": "Ramayana",
+     "rating": "",
+     "language": "Hindi",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/ramayana-hindi",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "bury-the-devil-english",
+     "title": "Bury the Devil",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/bury-the-devil-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-hunger-games-sunrise-on-the-reaping-english",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-hunger-games-sunrise-on-the-reaping-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "sense-and-sensibility-english",
+     "title": "Sense and Sensibility",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/sense-and-sensibility-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "wildwood-english",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/wildwood-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "wala-kan-ala-el-bal-arabic",
+     "title": "Wala Kan Ala El-Bal",
+     "rating": "",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/wala-kan-ala-el-bal-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-influencer-project-english",
+     "title": "The Influencer Project",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-influencer-project-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "i-play-rocky-english",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/i-play-rocky-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "violent-night-2-english",
+     "title": "Violent Night 2",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/violent-night-2-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "pinocchio-and-the-water-of-life-english",
+     "title": "Pinocchio and the Water of Life",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/pinocchio-and-the-water-of-life-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "godzilla-minus-zero-japanese",
+     "title": "Godzilla Minus Zero",
+     "rating": "PG12",
+     "language": "Japanese",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/godzilla-minus-zero-japanese",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-mongoose-english",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-mongoose-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "i-object-english",
+     "title": "I, Object",
+     "rating": "PG",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/i-object-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "how-to-rob-a-bank-english",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/how-to-rob-a-bank-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-angry-birds-movie-3-english",
+     "title": "The Angry Birds Movie 3",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-angry-birds-movie-3-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-cat-in-the-hat-english",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-cat-in-the-hat-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-cat-in-the-hat-arabic",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-cat-in-the-hat-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "gatto-english",
+     "title": "Gatto",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/gatto-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "dune-part-three-english",
+     "title": "Dune: Part Three",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/dune-part-three-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "avengers-doomsday-english",
+     "title": "Avengers: Doomsday",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/avengers-doomsday-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "jumanji-open-world-english",
+     "title": "Jumanji: Open World",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/jumanji-open-world-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "king-hindi",
+     "title": "King",
+     "rating": "",
+     "language": "Hindi",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/king-hindi",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-thomas-crown-affair-english",
+     "title": "The Thomas Crown Affair",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-thomas-crown-affair-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "day-drinker-english",
+     "title": "Day Drinker",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/day-drinker-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-rescue-english",
+     "title": "The Rescue",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-rescue-english",
+     "status": "coming_soon"
+    }
+   ]
+  },
+  "ozone-0000000386": {
+   "name": "Ozone Cinemas Jahra",
+   "films": [
+    {
+     "slug": "matloub-aaeleyan-arabic",
+     "title": "Matloub Aaeleyan",
+     "rating": "R15",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/matloub-aaeleyan-arabic",
+     "status": "now_showing"
+    },
+    {
+     "slug": "jailer-2-tamil",
+     "title": "Jailer 2",
+     "rating": "R15",
+     "language": "Tamil",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/jailer-2-tamil",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-social-reckoning-english",
+     "title": "The Social Reckoning",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-social-reckoning-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "other-mommy-english",
+     "title": "Other Mommy",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/other-mommy-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-beast-english",
+     "title": "The Beast",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-beast-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "beware-boiuna-english",
+     "title": "Beware Boiuna",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/beware-boiuna-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-florist-english",
+     "title": "The Florist",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-florist-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "sb19-wakas-at-simula-the-trilogy-filipino",
+     "title": "SB19 Wakas at Simula...",
+     "rating": "R15",
+     "language": "Filipino",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/sb19-wakas-at-simula-the-trilogy-filipino",
+     "status": "now_showing"
+    },
+    {
+     "slug": "digger-english",
+     "title": "Digger",
+     "rating": "R18",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/digger-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "heart-of-the-beast-english",
+     "title": "Heart of the Beast",
+     "rating": "PG12",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/heart-of-the-beast-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "verity-english",
+     "title": "Verity",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/verity-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "shish-dou-arabic",
+     "title": "Shish Dou",
+     "rating": "R15",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/shish-dou-arabic",
+     "status": "now_showing"
+    },
+    {
+     "slug": "buttery-effect-azzam-saudi-arabic",
+     "title": "Buttery Effect: Azzam-Saudi",
+     "rating": "PG",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/buttery-effect-azzam-saudi-arabic",
+     "status": "now_showing"
+    },
+    {
+     "slug": "spider-man-brand-new-day-english",
+     "title": "Spider-Man: Brand New Day",
+     "rating": "PG12",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/spider-man-brand-new-day-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "street-fighter-english",
+     "title": "Street Fighter",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/street-fighter-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "saoud-wainah-qatari-arabic",
+     "title": "Saoud Wainah (Qatari) -",
+     "rating": "PG12",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/saoud-wainah-qatari-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "whalefall-english",
+     "title": "Whalefall",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/whalefall-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-dino-family-english",
+     "title": "The Dino Family",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-dino-family-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "ranabaali-telugu",
+     "title": "Ranabaali",
+     "rating": "",
+     "language": "Telugu",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/ranabaali-telugu",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "clayface-english",
+     "title": "Clayface",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/clayface-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "train-to-busan-korean",
+     "title": "Train to Busan",
+     "rating": "",
+     "language": "Korean",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/train-to-busan-korean",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "ghost-soldier-english",
+     "title": "Ghost Soldier",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/ghost-soldier-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "titans-malayalam",
+     "title": "Titans",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/titans-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "focker-in-law-english",
+     "title": "Focker in Law",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/focker-in-law-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "paper-tiger-english",
+     "title": "Paper Tiger",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/paper-tiger-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "hexed-english",
+     "title": "Hexed",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/hexed-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "monster-mia-english",
+     "title": "Monster Mia",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/monster-mia-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "a-talent-for-murder-english",
+     "title": "A Talent for Murder",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/a-talent-for-murder-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "maserati-the-brothers-english",
+     "title": "Maserati: The Brothers",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/maserati-the-brothers-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "aadarsha-kutumbam-house-no-47-ak-47-telugu",
+     "title": "Aadarsha Kutumbam House No: 47 - AK 47",
+     "rating": "",
+     "language": "Telugu",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/aadarsha-kutumbam-house-no-47-ak-47-telugu",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "naseeb-arabic",
+     "title": "Naseeb",
+     "rating": "",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/naseeb-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "just-marriedcom-konkani",
+     "title": "Just Married.com",
+     "rating": "PG12",
+     "language": "Konkani",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/just-marriedcom-konkani",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "treasure-trekkers-english",
+     "title": "Treasure Trekkers",
+     "rating": "PG",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/treasure-trekkers-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "ramayana-hindi",
+     "title": "Ramayana",
+     "rating": "",
+     "language": "Hindi",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/ramayana-hindi",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "bury-the-devil-english",
+     "title": "Bury the Devil",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/bury-the-devil-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-hunger-games-sunrise-on-the-reaping-english",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-hunger-games-sunrise-on-the-reaping-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "sense-and-sensibility-english",
+     "title": "Sense and Sensibility",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/sense-and-sensibility-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "wildwood-english",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/wildwood-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "wala-kan-ala-el-bal-arabic",
+     "title": "Wala Kan Ala El-Bal",
+     "rating": "",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/wala-kan-ala-el-bal-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-influencer-project-english",
+     "title": "The Influencer Project",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-influencer-project-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "i-play-rocky-english",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/i-play-rocky-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "violent-night-2-english",
+     "title": "Violent Night 2",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/violent-night-2-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "pinocchio-and-the-water-of-life-english",
+     "title": "Pinocchio and the Water of Life",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/pinocchio-and-the-water-of-life-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "godzilla-minus-zero-japanese",
+     "title": "Godzilla Minus Zero",
+     "rating": "PG12",
+     "language": "Japanese",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/godzilla-minus-zero-japanese",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-mongoose-english",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-mongoose-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "i-object-english",
+     "title": "I, Object",
+     "rating": "PG",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/i-object-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "how-to-rob-a-bank-english",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/how-to-rob-a-bank-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-angry-birds-movie-3-english",
+     "title": "The Angry Birds Movie 3",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-angry-birds-movie-3-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-cat-in-the-hat-english",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-cat-in-the-hat-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-cat-in-the-hat-arabic",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-cat-in-the-hat-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "gatto-english",
+     "title": "Gatto",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/gatto-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "dune-part-three-english",
+     "title": "Dune: Part Three",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/dune-part-three-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "avengers-doomsday-english",
+     "title": "Avengers: Doomsday",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/avengers-doomsday-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "jumanji-open-world-english",
+     "title": "Jumanji: Open World",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/jumanji-open-world-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "king-hindi",
+     "title": "King",
+     "rating": "",
+     "language": "Hindi",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/king-hindi",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-thomas-crown-affair-english",
+     "title": "The Thomas Crown Affair",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-thomas-crown-affair-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "day-drinker-english",
+     "title": "Day Drinker",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/day-drinker-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-rescue-english",
+     "title": "The Rescue",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-rescue-english",
+     "status": "coming_soon"
+    }
+   ]
+  },
+  "cinescape-3101202": {
+   "name": "Cinescape 360",
+   "films": [
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100784",
+     "title": "The Florist",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100784/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095519",
+     "title": "Other Mommy",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098173",
+     "title": "Resident Evil",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098173/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101362",
+     "title": "Beware Boiúna",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101362/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095876",
+     "title": "Pressure",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095876/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101678",
+     "title": "The Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101678/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097950",
+     "title": "Digger",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097950/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101963",
+     "title": "The Smurfs Timeless Adventure Volume 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101963/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095765",
+     "title": "Spider-Man: Brand New Day",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095765/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2094924",
+     "title": "Coyote vs. Acme",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2094924/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099939",
+     "title": "Shish Doo",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099939/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095662",
+     "title": "Red Flag",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095662/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101955",
+     "title": "SB19 Wakas at Simula: Trilogy Concert",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101955/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101332",
+     "title": "Wake",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101332/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "cinescape-3101203": {
+   "name": "Cinescape Al-Bairaq",
+   "films": [
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100784",
+     "title": "The Florist",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100784/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095519",
+     "title": "Other Mommy",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101963",
+     "title": "The Smurfs Timeless Adventure Volume 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101963/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "cinescape-3101206": {
+   "name": "Cinescape Ajial",
+   "films": [
+    {
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101997/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "cinescape-3101208": {
+   "name": "Cinescape Al Kout",
+   "films": [
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095519",
+     "title": "Other Mommy",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101678",
+     "title": "The Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101678/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097950",
+     "title": "Digger",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097950/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098173",
+     "title": "Resident Evil",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098173/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101362",
+     "title": "Beware Boiúna",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101362/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100784",
+     "title": "The Florist",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100784/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101997/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101955",
+     "title": "SB19 Wakas at Simula: Trilogy Concert",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101955/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "cinescape-3101210": {
+   "name": "Cinescape Avenues",
+   "films": [
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100784",
+     "title": "The Florist",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100784/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095519",
+     "title": "Other Mommy",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098173",
+     "title": "Resident Evil",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098173/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101678",
+     "title": "The Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101678/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101963",
+     "title": "The Smurfs Timeless Adventure Volume 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101963/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097950",
+     "title": "Digger",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097950/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101955",
+     "title": "SB19 Wakas at Simula: Trilogy Concert",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101955/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "cinescape-3101339": {
+   "name": "Cinescape 1954 Film House",
+   "films": [
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100784",
+     "title": "The Florist",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100784/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "cinescape-3101460": {
+   "name": "Cinescape Assima",
+   "films": [
+    {
+     "slug": "2098168",
+     "title": "The Social Reckoning",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098168/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100784",
+     "title": "The Florist",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100784/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095876",
+     "title": "Pressure",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095876/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101678",
+     "title": "The Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101678/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095765",
+     "title": "Spider-Man: Brand New Day",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095765/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101362",
+     "title": "Beware Boiúna",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101362/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097950",
+     "title": "Digger",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097950/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095519",
+     "title": "Other Mommy",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098173",
+     "title": "Resident Evil",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098173/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101963",
+     "title": "The Smurfs Timeless Adventure Volume 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101963/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101997/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101955",
+     "title": "SB19 Wakas at Simula: Trilogy Concert",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101955/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095662",
+     "title": "Red Flag",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095662/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "sky-salmiya": {
+   "name": "SKY Cinemas Salmiya",
+   "films": [
+    {
+     "slug": "matloub-aaeleyan-(egyptian)-arabic/9999001517",
+     "title": "MATLOUB AAELEYAN",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/matloub-aaeleyan-(egyptian)-arabic/9999001517",
+     "status": "now_showing"
+    },
+    {
+     "slug": "other-mommy/9999001516",
+     "title": "OTHER MOMMY",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/other-mommy/9999001516",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-social-reckoning/9999001515",
+     "title": "THE SOCIAL RECKONING",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/the-social-reckoning/9999001515",
+     "status": "now_showing"
+    },
+    {
+     "slug": "beware-boluna/9999001514",
+     "title": "BEWARE BOLUNA",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/beware-boluna/9999001514",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-florist/9999001513",
+     "title": "THE FLORIST",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/the-florist/9999001513",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-beast/9999001512",
+     "title": "THE BEAST",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/the-beast/9999001512",
+     "status": "now_showing"
+    },
+    {
+     "slug": "verity/9999001510",
+     "title": "VERITY",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/verity/9999001510",
+     "status": "now_showing"
+    },
+    {
+     "slug": "digger/9999001509",
+     "title": "DIGGER",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/digger/9999001509",
+     "status": "now_showing"
+    },
+    {
+     "slug": "heart-of-the-beast/9999001504",
+     "title": "HEART OF THE BEAST",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/heart-of-the-beast/9999001504",
+     "status": "now_showing"
+    },
+    {
+     "slug": "whalefall/9999001434",
+     "title": "WHALEFALL",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/whalefall/9999001434",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "clayface/9999001435",
+     "title": "CLAYFACE",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/clayface/9999001435",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "avengers-doomsday/9999001436",
+     "title": "AVENGERS: DOOMSDAY",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/avengers-doomsday/9999001436",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "dune-part-three/9999001437",
+     "title": "DUNE: PART THREE",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/dune-part-three/9999001437",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-angry-birds-movie-3/9999001438",
+     "title": "THE ANGRY BIRDS MOVIE 3",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/the-angry-birds-movie-3/9999001438",
+     "status": "coming_soon"
+    }
+   ]
+  }
+ }
+}

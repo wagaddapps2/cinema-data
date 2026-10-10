@@ -1,0 +1,3431 @@
+{
+ "updatedAt": "2026-10-10T17:13:57.832Z",
+ "territory": "BE",
+ "cinemas": {
+  "cinebel-be": {
+   "name": "Cinemas in Belgium (Cinebel)",
+   "films": [
+    {
+     "slug": "1027524",
+     "title": "L'île des souvenirs",
+     "originalTitle": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/film/1027524/Forgotten%20Island",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027125",
+     "title": "Digger",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/film/1027125/Digger",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027645",
+     "title": "Verity",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/film/1027645/Verity",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028011",
+     "title": "La Maison de nos rêves",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/film/1028011/La%20Maison%20de%20nos%20r%C3%AAves",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027760",
+     "title": "The Social Reckoning",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/film/1027760/The%20Social%20Reckoning",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027651",
+     "title": "Resident Evil",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-16",
+     "url": "https://cinebel.dhnet.be/film/1027651/Resident%20Evil",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027742",
+     "title": "Heart of the Beast",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-23",
+     "url": "https://cinebel.dhnet.be/film/1027742/Heart%20of%20the%20Beast",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027241",
+     "title": "Ducobu et le fantôme de Saint-Potache",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/film/1027241/Ducobu%20et%20le%20fant%C3%B4me%20de%20Saint-Potache",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027913",
+     "title": "Primetime",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/film/1027913/Primetime",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027593",
+     "title": "Notre salut",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/film/1027593/Notre%20salut",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028012",
+     "title": "Naza",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/film/1028012/Naza",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027719",
+     "title": "L'Invitation",
+     "originalTitle": "The Invite",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-16",
+     "url": "https://cinebel.dhnet.be/film/1027719/The%20Invite",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027124",
+     "title": "L'Odyssée",
+     "originalTitle": "The Odyssey",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-07-15",
+     "url": "https://cinebel.dhnet.be/film/1027124/The%20Odyssey",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027758",
+     "title": "Ni vue, ni connue",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/film/1027758/Ni%20vue,%20ni%20connue",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027749",
+     "title": "Garance",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-23",
+     "url": "https://cinebel.dhnet.be/film/1027749/Garance",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027688",
+     "title": "Si tu penses bien",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/film/1027688/Si%20tu%20penses%20bien",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1026727",
+     "title": "Spider-Man: Brand New Day",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-07-29",
+     "url": "https://cinebel.dhnet.be/film/1026727/Spider-Man:%20Brand%20New%20Day",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027230",
+     "title": "Fausse note",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/film/1027230/Fausse%20note",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027818",
+     "title": "Raison et sentiments",
+     "originalTitle": "Sense and Sensibility",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-23",
+     "url": "https://cinebel.dhnet.be/film/1027818/Sense%20and%20Sensibility",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027806",
+     "title": "Tad l'explorateur et la lampe magique",
+     "originalTitle": "Tadeo Jones y la lámpara maravillosa",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/film/1027806/Tadeo%20Jones%20y%20la%20l%C3%A1mpara%20maravillosa",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027692",
+     "title": "Mémoire de fille",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/film/1027692/M%C3%A9moire%20de%20fille",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027572",
+     "title": "Tombé du ciel",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-12",
+     "url": "https://cinebel.dhnet.be/film/1027572/Tomb%C3%A9%20du%20ciel",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027915",
+     "title": "Avengers : Endgame Extended",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-23",
+     "url": "https://cinebel.dhnet.be/film/1027915/Avengers%20:%20Endgame%20Extended",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027586",
+     "title": "Coward",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/film/1027586/Coward",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027587",
+     "title": "La Vie d'une femme",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-16",
+     "url": "https://cinebel.dhnet.be/film/1027587/La%20Vie%20d'une%20femme",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027750",
+     "title": "L'Espèce explosive",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/film/1027750/L'Esp%C3%A8ce%20explosive",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027919",
+     "title": "Joyeuse Jungle !",
+     "originalTitle": "Born in the Jungle",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/film/1027919/Born%20in%20the%20Jungle",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027857",
+     "title": "Kraken",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/film/1027857/Kraken",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027312",
+     "title": "Des Minions et des Monstres",
+     "originalTitle": "Minions & Monsters",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-06-24",
+     "url": "https://cinebel.dhnet.be/film/1027312/Minions%20&%20Monsters",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027828",
+     "title": "Mochy",
+     "originalTitle": "Yugly",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/film/1027828/Yugly",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027594",
+     "title": "Le Corset",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/film/1027594/Le%20Corset",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027604",
+     "title": "Insidious: L'Invasion du Lointain",
+     "originalTitle": "Insidious: Out of the Further",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-19",
+     "url": "https://cinebel.dhnet.be/film/1027604/Insidious:%20Out%20of%20the%20Further",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027662",
+     "title": "Franz",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/film/1027662/Franz",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027844",
+     "title": "Les Misérables",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/film/1027844/Les%20Mis%C3%A9rables",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "11327",
+     "title": "Les Adieux à L'Olympia",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/11327/Les%20Adieux%20%C3%A0%20L'Olympia",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027544",
+     "title": "La Pat' Patrouille - Le Film: Mission Dino",
+     "originalTitle": "PAW Patrol: The Dino Movie",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-05",
+     "url": "https://cinebel.dhnet.be/film/1027544/PAW%20Patrol:%20The%20Dino%20Movie",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027687",
+     "title": "Pressure",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-09",
+     "url": "https://cinebel.dhnet.be/film/1027687/Pressure",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027744",
+     "title": "Vivre encore",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/film/1027744/Vivre%20encore",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027842",
+     "title": "Paradise",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-23",
+     "url": "https://cinebel.dhnet.be/film/1027842/Paradise",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027626",
+     "title": "Les Ensorceleuses 2",
+     "originalTitle": "Practical Magic 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-09",
+     "url": "https://cinebel.dhnet.be/film/1027626/Practical%20Magic%202",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027765",
+     "title": "Leviticus",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/film/1027765/Leviticus",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028031",
+     "title": "JJ Records",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1028031/JJ%20Records",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027874",
+     "title": "Chopin, Chopin!",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-23",
+     "url": "https://cinebel.dhnet.be/film/1027874/Chopin,%20Chopin!",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027753",
+     "title": "La Gradiva",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://cinebel.dhnet.be/film/1027753/La%20Gradiva",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027876",
+     "title": "Le Dernier pour la route / The Last One for the Road",
+     "originalTitle": "Andiamo a bere l'ultima",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/film/1027876/Andiamo%20a%20bere%20l'ultima",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1028030",
+     "title": "Tegenwoordig heet iedereen sorry",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1028030/Tegenwoordig%20heet%20iedereen%20sorry",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027716",
+     "title": "Mutiny",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-19",
+     "url": "https://cinebel.dhnet.be/film/1027716/Mutiny",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027848",
+     "title": "The Pout-Pout Fish",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027848/The%20Pout-Pout%20Fish",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027890",
+     "title": "Wicker",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/film/1027890/Wicker",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027020",
+     "title": "Toy Story 5",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-06-17",
+     "url": "https://cinebel.dhnet.be/film/1027020/Toy%20Story%205",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027062",
+     "title": "Vaiana: La Légende du bout du monde",
+     "originalTitle": "Moana",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-07-08",
+     "url": "https://cinebel.dhnet.be/film/1027062/Moana",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027647",
+     "title": "J'aime les Belges !",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027647/J'aime%20les%20Belges%C2%A0!",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027761",
+     "title": "Rose",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-09",
+     "url": "https://cinebel.dhnet.be/film/1027761/Rose",
+     "status": "now_showing"
+    },
+    {
+     "slug": "15787",
+     "title": "Les Diables",
+     "originalTitle": "The Devils",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/15787/The%20Devils",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027649",
+     "title": "L'Atlantique",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027649/L'Atlantique",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027650",
+     "title": "Le Pacifique",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027650/Le%20Pacifique",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027965",
+     "title": "De Tatta's: Daan",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027965/De%20Tatta's:%20Daan",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027242",
+     "title": "Street Fighter",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/film/1027242/Street%20Fighter",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027338",
+     "title": "Obsession",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-05-13",
+     "url": "https://cinebel.dhnet.be/film/1027338/Obsession",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028023",
+     "title": "Moulin",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://cinebel.dhnet.be/film/1028023/Moulin",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027315",
+     "title": "Shaun le Mouton: La Bêêête d'Halloween",
+     "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/film/1027315/Shaun%20The%20Sheep:%20The%20Beast%20Of%20Mossy%20Bottom",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027318",
+     "title": "La Grande rêvasion",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-07-01",
+     "url": "https://cinebel.dhnet.be/film/1027318/La%20Grande%20r%C3%AAvasion",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027856",
+     "title": "Gruffalo, de père en fils",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/film/1027856/Gruffalo,%20de%20p%C3%A8re%20en%20fils",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027859",
+     "title": "Le Mystère Lucy Lost",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://cinebel.dhnet.be/film/1027859/Le%20Myst%C3%A8re%20Lucy%20Lost",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027894",
+     "title": "The Only Living Pickpocket in New York",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://cinebel.dhnet.be/film/1027894/The%20Only%20Living%20Pickpocket%20in%20New%20York",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027908",
+     "title": "Coyote vs. Acme",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/film/1027908/Coyote%20vs.%20Acme",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027918",
+     "title": "Hope",
+     "originalTitle": "Hopeu",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://cinebel.dhnet.be/film/1027918/Hopeu",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027933",
+     "title": "Talking to Men Who Have Sex",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027933/Talking%20to%20Men%20Who%20Have%20Sex",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027982",
+     "title": "L'Autre Côté du soleil",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/film/1027982/L'Autre%20C%C3%B4t%C3%A9%20du%20soleil",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027526",
+     "title": "La Fin d'Oak Street",
+     "originalTitle": "The End of Oak Street",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-12",
+     "url": "https://cinebel.dhnet.be/film/1027526/The%20End%20of%20Oak%20Street",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027648",
+     "title": "L'Alizé",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027648/L'Aliz%C3%A9",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027741",
+     "title": "The Sessions",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/film/1027741/The%20Sessions",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027863",
+     "title": "Malfaisante",
+     "originalTitle": "Other Mommy",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/film/1027863/Other%20Mommy",
+     "status": "now_showing"
+    },
+    {
+     "slug": "697",
+     "title": "Trainspotting",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/697/Trainspotting",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1022020",
+     "title": "Akira (Version restaurée 4K)",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-09",
+     "url": "https://cinebel.dhnet.be/film/1022020/Akira%20(Version%20restaur%C3%A9e%204K)",
+     "status": "now_showing"
+    },
+    {
+     "slug": "3275",
+     "title": "Shall We Dance?",
+     "originalTitle": "Shall we dansu",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/3275/Shall%20we%20dansu",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027265",
+     "title": "Scary Movie",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-06-03",
+     "url": "https://cinebel.dhnet.be/film/1027265/Scary%20Movie",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027745",
+     "title": "500 Miles",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/film/1027745/500%20Miles",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027855",
+     "title": "Backrooms - Everything Must Go Edition",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027855/Backrooms%20-%20Everything%20Must%20Go%20Edition",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027880",
+     "title": "Ceci n'est pas un film français",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027880/Ceci%20n'est%20pas%20un%20film%20fran%C3%A7ais",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027917",
+     "title": "Nagi Notes",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/film/1027917/Nagi%20Notes",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027939",
+     "title": "Monster Mia",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/film/1027939/Monster%20Mia",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027987",
+     "title": "Les Recommencements",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027987/Les%20Recommencements",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028020",
+     "title": "Bumba: Het Circusorkest",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1028020/Bumba:%20Het%20Circusorkest",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028042",
+     "title": "Inochi",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1028042/Inochi",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1690",
+     "title": "Sueurs froides",
+     "originalTitle": "Vertigo",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1690/Vertigo",
+     "status": "now_showing"
+    },
+    {
+     "slug": "8867",
+     "title": "Intervention divine",
+     "originalTitle": "Yadon Ilaheyya",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2002-10-23",
+     "url": "https://cinebel.dhnet.be/film/8867/Yadon%20Ilaheyya",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1013425",
+     "title": "The Revenant",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2016-01-27",
+     "url": "https://cinebel.dhnet.be/film/1013425/The%20Revenant",
+     "status": "now_showing"
+    },
+    {
+     "slug": "341",
+     "title": "Les Temps modernes",
+     "originalTitle": "Modern Times",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2003-06-18",
+     "url": "https://cinebel.dhnet.be/film/341/Modern%20Times",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11163",
+     "title": "D.E.B.S.",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2005-05-18",
+     "url": "https://cinebel.dhnet.be/film/11163/D.E.B.S.",
+     "status": "now_showing"
+    },
+    {
+     "slug": "592",
+     "title": "Dangereuse Alliance",
+     "originalTitle": "The Craft",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/592/The%20Craft",
+     "status": "now_showing"
+    },
+    {
+     "slug": "5947",
+     "title": "Jules et Jim",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/5947/Jules%20et%20Jim",
+     "status": "now_showing"
+    },
+    {
+     "slug": "7112",
+     "title": "Les Onze Fioretti de François d'Assise",
+     "originalTitle": "Francesco, giullare di Dio",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/7112/Francesco,%20giullare%20di%20Dio",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2855",
+     "title": "Un chien andalou",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/2855/Un%20chien%20andalou",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1002013",
+     "title": "Paprika",
+     "originalTitle": "Papurika",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1002013/Papurika",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10503",
+     "title": "Le Crime de Monsieur Lange",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/10503/Le%20Crime%20de%20Monsieur%20Lange",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1026821",
+     "title": "Super Mario Galaxy, le Film",
+     "originalTitle": "The Super Mario Galaxy Movie",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-04-01",
+     "url": "https://cinebel.dhnet.be/film/1026821/The%20Super%20Mario%20Galaxy%20Movie",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1026948",
+     "title": "The Magic City: Birmingham selon Sun Ra",
+     "originalTitle": "The Magic City - Birmingham according to Sun Ra",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1026948/The%20Magic%20City%20-%20Birmingham%20according%20to%20Sun%20Ra",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027583",
+     "title": "The Plague",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-16",
+     "url": "https://cinebel.dhnet.be/film/1027583/The%20Plague",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027591",
+     "title": "Blue Heron",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-02",
+     "url": "https://cinebel.dhnet.be/film/1027591/Blue%20Heron",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027643",
+     "title": "Res Nullius",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027643/Res%20Nullius",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027679",
+     "title": "Klara et le soleil",
+     "originalTitle": "Klara and the Sun",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://cinebel.dhnet.be/film/1027679/Klara%20and%20the%20Sun",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027684",
+     "title": "La Fille dans les nuages",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-07-22",
+     "url": "https://cinebel.dhnet.be/film/1027684/La%20Fille%20dans%20les%20nuages",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027740",
+     "title": "Karma",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/film/1027740/Karma",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027807",
+     "title": "Sunny Dancer",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-12",
+     "url": "https://cinebel.dhnet.be/film/1027807/Sunny%20Dancer",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2986",
+     "title": "Un autre regard / Another Way",
+     "originalTitle": "Egymásra nézve",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/2986/Egym%C3%A1sra%20n%C3%A9zve",
+     "status": "now_showing"
+    },
+    {
+     "slug": "5948",
+     "title": "Cléo de 5 à 7",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/5948/Cl%C3%A9o%20de%205%20%C3%A0%207",
+     "status": "now_showing"
+    },
+    {
+     "slug": "6920",
+     "title": "Ghost World",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2002-05-22",
+     "url": "https://cinebel.dhnet.be/film/6920/Ghost%20World",
+     "status": "now_showing"
+    },
+    {
+     "slug": "7188",
+     "title": "Un grand amour",
+     "originalTitle": "Die grosse Liebe",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/7188/Die%20grosse%20Liebe",
+     "status": "now_showing"
+    },
+    {
+     "slug": "8417",
+     "title": "Le Chant de la fleur écarlate",
+     "originalTitle": "Sången om den eldröda blomman",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/8417/S%C3%A5ngen%20om%20den%20eldr%C3%B6da%20blomman",
+     "status": "now_showing"
+    },
+    {
+     "slug": "8799",
+     "title": "La Quatrième Alliance de Dame Marguerite",
+     "originalTitle": "Prästänkan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/8799/Pr%C3%A4st%C3%A4nkan",
+     "status": "now_showing"
+    },
+    {
+     "slug": "8890",
+     "title": "Amadeus",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/8890/Amadeus",
+     "status": "now_showing"
+    },
+    {
+     "slug": "9782",
+     "title": "Bugsy Malone",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/9782/Bugsy%20Malone",
+     "status": "now_showing"
+    },
+    {
+     "slug": "9952",
+     "title": "Le Septième Voyage de Sinbad",
+     "originalTitle": "The 7th Voyage of Sinbad",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/9952/The%207th%20Voyage%20of%20Sinbad",
+     "status": "now_showing"
+    },
+    {
+     "slug": "5714",
+     "title": "Punishment Park",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/5714/Punishment%20Park",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1009313",
+     "title": "Pilote malgré lui",
+     "originalTitle": "Quax, der Bruchpilot",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1009313/Quax,%20der%20Bruchpilot",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11130",
+     "title": "La Femme des sables",
+     "originalTitle": "Suna no onna",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/11130/Suna%20no%20onna",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1010766",
+     "title": "L'homme de Sable, le cinéma de Thierry Michel",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1010766/L'homme%20de%20Sable,%20le%20cin%C3%A9ma%20de%20Thierry%20Michel",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1012204",
+     "title": "L'Âge de raison, le cinéma des frères Dardenne",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1012204/L'%C3%82ge%20de%20raison,%20le%20cin%C3%A9ma%20des%20fr%C3%A8res%20Dardenne",
+     "status": "now_showing"
+    },
+    {
+     "slug": "7737",
+     "title": "Vers le bonheur",
+     "originalTitle": "Erotikon",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/7737/Erotikon",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2672",
+     "title": "Le Maître de musique",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/2672/Le%20Ma%C3%AEtre%20de%20musique",
+     "status": "now_showing"
+    },
+    {
+     "slug": "9877",
+     "title": "Les Tueurs fous",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/9877/Les%20Tueurs%20fous",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1015108",
+     "title": "I don't belong anywhere, le cinéma de Chantal Akerman",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2015-09-23",
+     "url": "https://cinebel.dhnet.be/film/1015108/I%20don't%20belong%20anywhere,%20le%20cin%C3%A9ma%20de%20Chantal%20Akerman",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1016023",
+     "title": "La Montre brisée",
+     "originalTitle": "Karin Ingmarsdotter",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1016023/Karin%20Ingmarsdotter",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1019520",
+     "title": "Des cowboys et des indiens: le cinéma de Patar et Aubier",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1019520/Des%20cowboys%20et%20des%20indiens:%20le%20cin%C3%A9ma%20de%20Patar%20et%20Aubier",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10890",
+     "title": "Les Inconnus dans la maison",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/10890/Les%20Inconnus%20dans%20la%20maison",
+     "status": "now_showing"
+    },
+    {
+     "slug": "3839",
+     "title": "Le Géant de fer",
+     "originalTitle": "The Iron Giant",
+     "rating": "",
+     "language": "",
+     "releaseDate": "1999-12-22",
+     "url": "https://cinebel.dhnet.be/film/3839/The%20Iron%20Giant",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1017048",
+     "title": "Au-delà des mots, le cinéma de Joachim Lafosse",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1017048/Au-del%C3%A0%20des%20mots,%20le%20cin%C3%A9ma%20de%20Joachim%20Lafosse",
+     "status": "now_showing"
+    },
+    {
+     "slug": "8248",
+     "title": "Miracle à Milan",
+     "originalTitle": "Miracolo a Milano",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/8248/Miracolo%20a%20Milano",
+     "status": "now_showing"
+    },
+    {
+     "slug": "416",
+     "title": "The Rocky Horror Picture Show",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/416/The%20Rocky%20Horror%20Picture%20Show",
+     "status": "now_showing"
+    },
+    {
+     "slug": "8478",
+     "title": "La Sorcellerie à travers les âges",
+     "originalTitle": "Häxan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/8478/H%C3%A4xan",
+     "status": "now_showing"
+    },
+    {
+     "slug": "12135",
+     "title": "Les Amants crucifiés",
+     "originalTitle": "Chikamatsu monogatari",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/12135/Chikamatsu%20monogatari",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1021383",
+     "title": "L'Odyssée de Choum",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2020-07-01",
+     "url": "https://cinebel.dhnet.be/film/1021383/L'Odyss%C3%A9e%20de%20Choum",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1020806",
+     "title": "Par-delà les nuages: le cinéma de Marion Hänsel",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1020806/Par-del%C3%A0%20les%20nuages:%20le%20cin%C3%A9ma%20de%20Marion%20H%C3%A4nsel",
+     "status": "now_showing"
+    },
+    {
+     "slug": "6535",
+     "title": "Les Aventures fantastiques du baron Münchhausen",
+     "originalTitle": "Münchhausen",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/6535/M%C3%BCnchhausen",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11685",
+     "title": "Fin d'automne",
+     "originalTitle": "Akibiyori",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/11685/Akibiyori",
+     "status": "now_showing"
+    },
+    {
+     "slug": "8418",
+     "title": "Le Président",
+     "originalTitle": "Praesidenten",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/8418/Praesidenten",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11747",
+     "title": "La Couronne de fer",
+     "originalTitle": "La corona di ferro",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/11747/La%20corona%20di%20ferro",
+     "status": "now_showing"
+    },
+    {
+     "slug": "9221",
+     "title": "Vers la lumière",
+     "originalTitle": "Mod lyset",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/9221/Mod%20lyset",
+     "status": "now_showing"
+    },
+    {
+     "slug": "566",
+     "title": "Le Grand Sommeil",
+     "originalTitle": "The Big Sleep",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/566/The%20Big%20Sleep",
+     "status": "now_showing"
+    },
+    {
+     "slug": "7530",
+     "title": "Devine qui vient dîner...",
+     "originalTitle": "Guess Who's Coming to Dinner",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/7530/Guess%20Who's%20Coming%20to%20Dinner",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1010971",
+     "title": "Le Loup de Wall Street",
+     "originalTitle": "The Wolf of Wall Street",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2014-01-08",
+     "url": "https://cinebel.dhnet.be/film/1010971/The%20Wolf%20of%20Wall%20Street",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1015222",
+     "title": "Abdel Rahman El Bacha - Un piano entre Orient et Occident",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1015222/Abdel%20Rahman%20El%20Bacha%20-%20Un%20piano%20entre%20Orient%20et%20Occident",
+     "status": "now_showing"
+    },
+    {
+     "slug": "426",
+     "title": "Le Huitième Jour",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/426/Le%20Huiti%C3%A8me%20Jour",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1687",
+     "title": "Ascenseur pour l'échafaud",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1687/Ascenseur%20pour%20l'%C3%A9chafaud",
+     "status": "now_showing"
+    },
+    {
+     "slug": "7561",
+     "title": "Jeux dangereux",
+     "originalTitle": "To Be or Not to Be",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/7561/To%20Be%20or%20Not%20to%20Be",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1002198",
+     "title": "Céline et Julie vont en bateau",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1002198/C%C3%A9line%20et%20Julie%20vont%20en%20bateau",
+     "status": "now_showing"
+    },
+    {
+     "slug": "8517",
+     "title": "La Nouvelle Babylone",
+     "originalTitle": "Novyj Babilon",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/8517/Novyj%20Babilon",
+     "status": "now_showing"
+    },
+    {
+     "slug": "8571",
+     "title": "Le Meilleur film de Thomas Graal",
+     "originalTitle": "Thomas Graals bästa film",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/8571/Thomas%20Graals%20b%C3%A4sta%20film",
+     "status": "now_showing"
+    },
+    {
+     "slug": "4721",
+     "title": "Amours chiennes",
+     "originalTitle": "Amores perros",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2000-12-27",
+     "url": "https://cinebel.dhnet.be/film/4721/Amores%20perros",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1022954",
+     "title": "Tout va bien ! Le Cinéma de Jan Bucquoy",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1022954/Tout%20va%20bien%20!%20Le%20Cin%C3%A9ma%20de%20Jan%20Bucquoy",
+     "status": "now_showing"
+    },
+    {
+     "slug": "3212",
+     "title": "Les Quatre cents coups",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/3212/Les%20Quatre%20cents%20coups",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1007179",
+     "title": "Ce n'est pas l'homosexuel qui est pervers mais la société dans laquelle il vit",
+     "originalTitle": "Nicht der Homosexuelle ist pervers, sondern die Situation, in der er lebt",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1007179/Nicht%20der%20Homosexuelle%20ist%20pervers,%20sondern%20die%20Situation,%20in%20der%20er%20lebt",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11189",
+     "title": "Fitzcarraldo",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/11189/Fitzcarraldo",
+     "status": "now_showing"
+    },
+    {
+     "slug": "7458",
+     "title": "Le Trésor d'Arne",
+     "originalTitle": "Herr Arnes pengar",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/7458/Herr%20Arnes%20pengar",
+     "status": "now_showing"
+    },
+    {
+     "slug": "6812",
+     "title": "La Famille Addams",
+     "originalTitle": "The Addams Family",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/6812/The%20Addams%20Family",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1025008",
+     "title": "Chut… petit ours",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1025008/Chut%E2%80%A6%20petit%20ours",
+     "status": "now_showing"
+    },
+    {
+     "slug": "8455",
+     "title": "Au revoir Franziska",
+     "originalTitle": "Auf wiedersehen, Franziska!",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/8455/Auf%20wiedersehen,%20Franziska!",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11667",
+     "title": "Fleurs d'équinoxe",
+     "originalTitle": "Higanbana",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/11667/Higanbana",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027355",
+     "title": "Silent Friend",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-07-01",
+     "url": "https://cinebel.dhnet.be/film/1027355/Silent%20Friend",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027412",
+     "title": "Rural",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-04-08",
+     "url": "https://cinebel.dhnet.be/film/1027412/Rural",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027673",
+     "title": "Little Trouble Girls",
+     "originalTitle": "Kaj ti je deklica",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-02",
+     "url": "https://cinebel.dhnet.be/film/1027673/Kaj%20ti%20je%20deklica",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027705",
+     "title": "Teenage Sex and Death at Camp Miasma",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-19",
+     "url": "https://cinebel.dhnet.be/film/1027705/Teenage%20Sex%20and%20Death%20at%20Camp%20Miasma",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027843",
+     "title": "Alice au pays des colons",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027843/Alice%20au%20pays%20des%20colons",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027909",
+     "title": "Comme un château fort",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027909/Comme%20un%20ch%C3%A2teau%20fort",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027954",
+     "title": "Le Couteau dans la tête",
+     "originalTitle": "Messer im Kopf",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027954/Messer%20im%20Kopf",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027958",
+     "title": "Cora Terry",
+     "originalTitle": "Kora Terry",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027958/Kora%20Terry",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027959",
+     "title": "Le Troisième Témoin",
+     "originalTitle": "Der Mann, der sich verkaufte",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027959/Der%20Mann,%20der%20sich%20verkaufte",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027961",
+     "title": "La Fille au vautour",
+     "originalTitle": "Die Geierwally",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027961/Die%20Geierwally",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027972",
+     "title": "Action Item",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027972/Action%20Item",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027973",
+     "title": "Tales of the Wounded Land",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027973/Tales%20of%20the%20Wounded%20Land",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027979",
+     "title": "Gavagai, et autres malentendus",
+     "originalTitle": "Gavagai",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027979/Gavagai",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027980",
+     "title": "Cartographie d'un graveur",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027980/Cartographie%20d'un%20graveur",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027983",
+     "title": "Clorindo Testa",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027983/Clorindo%20Testa",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027985",
+     "title": "Ostende",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027985/Ostende",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027988",
+     "title": "Dao",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027988/Dao",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027990",
+     "title": "Hors limites : le cinéma de Jaco Van Dormael",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027990/Hors%20limites%20:%20le%20cin%C3%A9ma%20de%20Jaco%20Van%20Dormael",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027996",
+     "title": "Je veux être femme",
+     "originalTitle": "Cambio de sexo",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027996/Cambio%20de%20sexo",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027997",
+     "title": "Miss O'Gynie et les Hommes fleurs",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027997/Miss%20O'Gynie%20et%20les%20Hommes%20fleurs",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028001",
+     "title": "Rembrandt",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1028001/Rembrandt",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028032",
+     "title": "Antidote",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1028032/Antidote",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028033",
+     "title": "Jeunes filles en uniforme",
+     "originalTitle": "Mädchen in Uniform",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1028033/M%C3%A4dchen%20in%20Uniform",
+     "status": "now_showing"
+    },
+    {
+     "slug": "465",
+     "title": "Toto le héros",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/465/Toto%20le%20h%C3%A9ros",
+     "status": "now_showing"
+    },
+    {
+     "slug": "3026",
+     "title": "Vampires",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "1999-02-10",
+     "url": "https://cinebel.dhnet.be/film/3026/Vampires",
+     "status": "now_showing"
+    },
+    {
+     "slug": "4313",
+     "title": "Code inconnu",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2001-01-03",
+     "url": "https://cinebel.dhnet.be/film/4313/Code%20inconnu",
+     "status": "now_showing"
+    },
+    {
+     "slug": "4553",
+     "title": "Ghosts of Mars",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2001-12-05",
+     "url": "https://cinebel.dhnet.be/film/4553/Ghosts%20of%20Mars",
+     "status": "now_showing"
+    },
+    {
+     "slug": "8696",
+     "title": "Les Nuits chaudes de Berlin",
+     "originalTitle": "Salon Kitty",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/8696/Salon%20Kitty",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10653",
+     "title": "21 grammes",
+     "originalTitle": "21 Grams",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2004-02-11",
+     "url": "https://cinebel.dhnet.be/film/10653/21%20Grams",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11315",
+     "title": "Elfe",
+     "originalTitle": "Elf",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2003-12-24",
+     "url": "https://cinebel.dhnet.be/film/11315/Elf",
+     "status": "now_showing"
+    },
+    {
+     "slug": "14015",
+     "title": "L'Enfant",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2005-09-14",
+     "url": "https://cinebel.dhnet.be/film/14015/L'Enfant",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1000669",
+     "title": "Reviens-moi",
+     "originalTitle": "Atonement",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2008-01-09",
+     "url": "https://cinebel.dhnet.be/film/1000669/Atonement",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1001634",
+     "title": "Crin-blanc",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1001634/Crin-blanc",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1002326",
+     "title": "Fantastic Mr. Fox",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2010-02-17",
+     "url": "https://cinebel.dhnet.be/film/1002326/Fantastic%20Mr.%20Fox",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1002613",
+     "title": "Le Ballon Rouge",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1002613/Le%20Ballon%20Rouge",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1003087",
+     "title": "Eldorado",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2008-06-04",
+     "url": "https://cinebel.dhnet.be/film/1003087/Eldorado",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1007265",
+     "title": "Super 8",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2011-07-27",
+     "url": "https://cinebel.dhnet.be/film/1007265/Super%208",
+     "status": "now_showing"
+    },
+    {
+     "slug": "13808",
+     "title": "Tommy",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/13808/Tommy",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1008883",
+     "title": "On the Road Again : Le Cinéma de Bouli Lanners",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1008883/On%20the%20Road%20Again%20:%20Le%20Cin%C3%A9ma%20de%20Bouli%20Lanners",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1009278",
+     "title": "Le Juif Süss",
+     "originalTitle": "Jud Süss",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1009278/Jud%20S%C3%BCss",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1002634",
+     "title": "César et Rosalie",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1002634/C%C3%A9sar%20et%20Rosalie",
+     "status": "now_showing"
+    },
+    {
+     "slug": "762",
+     "title": "Los Angeles 2013",
+     "originalTitle": "Escape from L.A.",
+     "rating": "",
+     "language": "",
+     "releaseDate": "1996-11-13",
+     "url": "https://cinebel.dhnet.be/film/762/Escape%20from%20L.A.",
+     "status": "now_showing"
+    },
+    {
+     "slug": "3236",
+     "title": "Mirage",
+     "originalTitle": "Assarab",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/3236/Assarab",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11557",
+     "title": "Li",
+     "originalTitle": "Between the Devil and the Deep Blue Sea",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/11557/Between%20the%20Devil%20and%20the%20Deep%20Blue%20Sea",
+     "status": "now_showing"
+    },
+    {
+     "slug": "12492",
+     "title": "Le Danseur du dessus",
+     "originalTitle": "Top Hat",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/12492/Top%20Hat",
+     "status": "now_showing"
+    },
+    {
+     "slug": "8224",
+     "title": "Païsa",
+     "originalTitle": "Paisà",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/8224/Pais%C3%A0",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11161",
+     "title": "Nos Meilleures Années - partie 1",
+     "originalTitle": "La Meglio Gioventù - part 1",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2003-11-05",
+     "url": "https://cinebel.dhnet.be/film/11161/La%20Meglio%20Giovent%C3%B9%20-%20part%201",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1006587",
+     "title": "Hugo Cabret",
+     "originalTitle": "Hugo",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2011-12-21",
+     "url": "https://cinebel.dhnet.be/film/1006587/Hugo",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1016665",
+     "title": "Je ne regrette rien de ma jeunesse",
+     "originalTitle": "Waga seishun ni kuinashi",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1016665/Waga%20seishun%20ni%20kuinashi",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1016249",
+     "title": "L'Economie du couple",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2016-06-08",
+     "url": "https://cinebel.dhnet.be/film/1016249/L'Economie%20du%20couple",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1018004",
+     "title": "Spit'n'Split",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2017-09-20",
+     "url": "https://cinebel.dhnet.be/film/1018004/Spit'n'Split",
+     "status": "now_showing"
+    },
+    {
+     "slug": "3439",
+     "title": "Mobutu, roi du Zaïre",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "1999-06-02",
+     "url": "https://cinebel.dhnet.be/film/3439/Mobutu,%20roi%20du%20Za%C3%AFre",
+     "status": "now_showing"
+    },
+    {
+     "slug": "6432",
+     "title": "La Nuit des masques",
+     "originalTitle": "Halloween",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/6432/Halloween",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1020505",
+     "title": "Wardi",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2019-09-18",
+     "url": "https://cinebel.dhnet.be/film/1020505/Wardi",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1020897",
+     "title": "Loups tendres et loufoques",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2019-10-16",
+     "url": "https://cinebel.dhnet.be/film/1020897/Loups%20tendres%20et%20loufoques",
+     "status": "now_showing"
+    },
+    {
+     "slug": "13641",
+     "title": "Les Sorcières",
+     "originalTitle": "The Witches",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/13641/The%20Witches",
+     "status": "now_showing"
+    },
+    {
+     "slug": "8977",
+     "title": "La Chasse",
+     "originalTitle": "Cruising",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/8977/Cruising",
+     "status": "now_showing"
+    },
+    {
+     "slug": "783",
+     "title": "The Pillow Book",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "1996-12-25",
+     "url": "https://cinebel.dhnet.be/film/783/The%20Pillow%20Book",
+     "status": "now_showing"
+    },
+    {
+     "slug": "14630",
+     "title": "Chien enragé",
+     "originalTitle": "Nora inu",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/14630/Nora%20inu",
+     "status": "now_showing"
+    },
+    {
+     "slug": "5685",
+     "title": "Cinema Paradiso",
+     "originalTitle": "Nuovo Cinema Paradiso",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/5685/Nuovo%20Cinema%20Paradiso",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1864",
+     "title": "Heat",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1864/Heat",
+     "status": "now_showing"
+    },
+    {
+     "slug": "6485",
+     "title": "Sebastiane",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/6485/Sebastiane",
+     "status": "now_showing"
+    },
+    {
+     "slug": "6469",
+     "title": "Evil Dead 2",
+     "originalTitle": "Evil Dead 2: Dead by Dawn",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/6469/Evil%20Dead%202:%20Dead%20by%20Dawn",
+     "status": "now_showing"
+    },
+    {
+     "slug": "95",
+     "title": "Casper",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/95/Casper",
+     "status": "now_showing"
+    },
+    {
+     "slug": "8019",
+     "title": "La Bête humaine",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/8019/La%20B%C3%AAte%20humaine",
+     "status": "now_showing"
+    },
+    {
+     "slug": "6677",
+     "title": "Et Dieu... créa la femme",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/6677/Et%20Dieu...%20cr%C3%A9a%20la%20femme",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11964",
+     "title": "Les Hommes du président",
+     "originalTitle": "All The President's Men",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/11964/All%20The%20President's%20Men",
+     "status": "now_showing"
+    },
+    {
+     "slug": "7981",
+     "title": "Notre héros",
+     "originalTitle": "Lazybones",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/7981/Lazybones",
+     "status": "now_showing"
+    },
+    {
+     "slug": "8828",
+     "title": "Sabrina",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/8828/Sabrina",
+     "status": "now_showing"
+    },
+    {
+     "slug": "3231",
+     "title": "Le Parrain",
+     "originalTitle": "The Godfather",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/3231/The%20Godfather",
+     "status": "now_showing"
+    },
+    {
+     "slug": "657",
+     "title": "Le Parrain, 2e partie",
+     "originalTitle": "The Godfather: Part II",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/657/The%20Godfather:%20Part%20II",
+     "status": "now_showing"
+    },
+    {
+     "slug": "711",
+     "title": "The Mask",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/711/The%20Mask",
+     "status": "now_showing"
+    },
+    {
+     "slug": "4348",
+     "title": "Memento",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2001-01-24",
+     "url": "https://cinebel.dhnet.be/film/4348/Memento",
+     "status": "now_showing"
+    },
+    {
+     "slug": "7018",
+     "title": "Stark Love",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/7018/Stark%20Love",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1005395",
+     "title": "Le Million",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1005395/Le%20Million",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1002453",
+     "title": "7h58 ce samedi-là",
+     "originalTitle": "Before the Devil Knows You're Dead",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2008-01-16",
+     "url": "https://cinebel.dhnet.be/film/1002453/Before%20the%20Devil%20Knows%20You're%20Dead",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1008816",
+     "title": "Les Innocents Charmeurs",
+     "originalTitle": "Niewinni czarodzieje",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1008816/Niewinni%20czarodzieje",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1004208",
+     "title": "Panique au village",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2009-06-17",
+     "url": "https://cinebel.dhnet.be/film/1004208/Panique%20au%20village",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1005397",
+     "title": "Ilsa, la louve des SS",
+     "originalTitle": "Ilsa, She Wolf of the SS",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1005397/Ilsa,%20She%20Wolf%20of%20the%20SS",
+     "status": "now_showing"
+    },
+    {
+     "slug": "3453",
+     "title": "Je t'aime moi non plus",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/3453/Je%20t'aime%20moi%20non%20plus",
+     "status": "now_showing"
+    },
+    {
+     "slug": "4361",
+     "title": "Le Roi danse",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2000-12-06",
+     "url": "https://cinebel.dhnet.be/film/4361/Le%20Roi%20danse",
+     "status": "now_showing"
+    },
+    {
+     "slug": "5243",
+     "title": "Mad Max 2: Le Défi",
+     "originalTitle": "Mad Max 2: The Road Warrior",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/5243/Mad%20Max%202:%20The%20Road%20Warrior",
+     "status": "now_showing"
+    },
+    {
+     "slug": "13873",
+     "title": "Les Lèvres rouges",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/13873/Les%20L%C3%A8vres%20rouges",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1021747",
+     "title": "Effacer l'historique",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2020-08-26",
+     "url": "https://cinebel.dhnet.be/film/1021747/Effacer%20l'historique",
+     "status": "now_showing"
+    },
+    {
+     "slug": "5191",
+     "title": "Le Droit du plus fort",
+     "originalTitle": "Faustrecht der Freiheit",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/5191/Faustrecht%20der%20Freiheit",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11392",
+     "title": "Je sais où je vais",
+     "originalTitle": "I Know Where I'm Going!",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/11392/I%20Know%20Where%20I'm%20Going!",
+     "status": "now_showing"
+    },
+    {
+     "slug": "7026",
+     "title": "L'Homme à la caméra",
+     "originalTitle": "Chelovek s kino-apparatom",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/7026/Chelovek%20s%20kino-apparatom",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1607",
+     "title": "Braindead",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1607/Braindead",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1000590",
+     "title": "Passion",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1000590/Passion",
+     "status": "now_showing"
+    },
+    {
+     "slug": "4036",
+     "title": "Le Labyrinthe des passions",
+     "originalTitle": "Laberinto de pasiones",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/4036/Laberinto%20de%20pasiones",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1005450",
+     "title": "The Ward: L'Hôpital de la terreur",
+     "originalTitle": "The Ward",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1005450/The%20Ward",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1004209",
+     "title": "Jennifer's Body",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2009-10-21",
+     "url": "https://cinebel.dhnet.be/film/1004209/Jennifer's%20Body",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1686",
+     "title": "Thelma & Louise",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1686/Thelma%20&%20Louise",
+     "status": "now_showing"
+    },
+    {
+     "slug": "7436",
+     "title": "Les Autres",
+     "originalTitle": "The Others",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2002-01-16",
+     "url": "https://cinebel.dhnet.be/film/7436/The%20Others",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11198",
+     "title": "Un dimanche comme les autres",
+     "originalTitle": "Sunday, Bloody Sunday",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/11198/Sunday,%20Bloody%20Sunday",
+     "status": "now_showing"
+    },
+    {
+     "slug": "6700",
+     "title": "La Légende de Gösta Berling",
+     "originalTitle": "Gösta Berlings saga",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/6700/G%C3%B6sta%20Berlings%20saga",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1005730",
+     "title": "La Petite Boutique des horreurs",
+     "originalTitle": "Little Shop of Horrors",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1005730/Little%20Shop%20of%20Horrors",
+     "status": "now_showing"
+    },
+    {
+     "slug": "6745",
+     "title": "L'Oeuvre au noir",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/6745/L'Oeuvre%20au%20noir",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2516",
+     "title": "L'Antre de la folie",
+     "originalTitle": "In the Mouth of Madness",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/2516/In%20the%20Mouth%20of%20Madness",
+     "status": "now_showing"
+    },
+    {
+     "slug": "470",
+     "title": "Le Village des damnés",
+     "originalTitle": "Village of the Damned",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/470/Village%20of%20the%20Damned",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1022876",
+     "title": "Julie (en 12 chapitres) / The Worst Person in the World",
+     "originalTitle": "Verdens verste menneske",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2021-11-17",
+     "url": "https://cinebel.dhnet.be/film/1022876/Verdens%20verste%20menneske",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1022839",
+     "title": "De son vivant",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2021-11-24",
+     "url": "https://cinebel.dhnet.be/film/1022839/De%20son%20vivant",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1357",
+     "title": "Scream",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "1997-07-18",
+     "url": "https://cinebel.dhnet.be/film/1357/Scream",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1010527",
+     "title": "Pink Flamingos",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1010527/Pink%20Flamingos",
+     "status": "now_showing"
+    },
+    {
+     "slug": "549",
+     "title": "La Vie sexuelle des Belges 1950-1978",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/549/La%20Vie%20sexuelle%20des%20Belges%201950-1978",
+     "status": "now_showing"
+    },
+    {
+     "slug": "754",
+     "title": "Le Décameron",
+     "originalTitle": "Il Decameron",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/754/Il%20Decameron",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1023375",
+     "title": "L'Anniversaire de Tommy",
+     "originalTitle": "Best Birthday Ever",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2022-08-03",
+     "url": "https://cinebel.dhnet.be/film/1023375/Best%20Birthday%20Ever",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2802",
+     "title": "Toute une nuit",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/2802/Toute%20une%20nuit",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1023596",
+     "title": "Notre Nature, le Film",
+     "originalTitle": "Onze Natuur, De Film",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2022-09-21",
+     "url": "https://cinebel.dhnet.be/film/1023596/Onze%20Natuur,%20De%20Film",
+     "status": "now_showing"
+    },
+    {
+     "slug": "6396",
+     "title": "Sherlock Junior",
+     "originalTitle": "Sherlock Jr.",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/6396/Sherlock%20Jr.",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2628",
+     "title": "A Bigger Splash",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/2628/A%20Bigger%20Splash",
+     "status": "now_showing"
+    },
+    {
+     "slug": "304",
+     "title": "Farinelli",
+     "originalTitle": "Farinelli, Il Castrato",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/304/Farinelli,%20Il%20Castrato",
+     "status": "now_showing"
+    },
+    {
+     "slug": "6199",
+     "title": "The Connection",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/6199/The%20Connection",
+     "status": "now_showing"
+    },
+    {
+     "slug": "14300",
+     "title": "Le Secret magnifique",
+     "originalTitle": "Magnificent Obsession",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/14300/Magnificent%20Obsession",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1985",
+     "title": "Ils aimaient la vie",
+     "originalTitle": "Kanal",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1985/Kanal",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1004500",
+     "title": "Lost Persons Area",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2009-09-09",
+     "url": "https://cinebel.dhnet.be/film/1004500/Lost%20Persons%20Area",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1580",
+     "title": "E.T. l'extra-terrestre",
+     "originalTitle": "E.T. the Extra-Terrestrial",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1580/E.T.%20the%20Extra-Terrestrial",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1221",
+     "title": "Peau d'âne",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1221/Peau%20d'%C3%A2ne",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1003216",
+     "title": "Glissements progressifs du plaisir",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1003216/Glissements%20progressifs%20du%20plaisir",
+     "status": "now_showing"
+    },
+    {
+     "slug": "5210",
+     "title": "Yi Yi",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2001-01-31",
+     "url": "https://cinebel.dhnet.be/film/5210/Yi%20Yi",
+     "status": "now_showing"
+    },
+    {
+     "slug": "495",
+     "title": "Don Giovanni",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/495/Don%20Giovanni",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1024889",
+     "title": "Last Things",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1024889/Last%20Things",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1024962",
+     "title": "La Grande Barrière de corail",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1024962/La%20Grande%20Barri%C3%A8re%20de%20corail",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1008022",
+     "title": "Les Muppets, le retour",
+     "originalTitle": "The Muppets",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2012-02-15",
+     "url": "https://cinebel.dhnet.be/film/1008022/The%20Muppets",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1025489",
+     "title": "L'Année de l'éveil",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1025489/L'Ann%C3%A9e%20de%20l'%C3%A9veil",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1025669",
+     "title": "N’attendez pas trop de la fin du monde",
+     "originalTitle": "Nu astepta prea mult de la sfârsitul lumii",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1025669/Nu%20astepta%20prea%20mult%20de%20la%20sf%C3%A2rsitul%20lumii",
+     "status": "now_showing"
+    },
+    {
+     "slug": "6970",
+     "title": "La Charrette fantôme",
+     "originalTitle": "Körkarlen",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/6970/K%C3%B6rkarlen",
+     "status": "now_showing"
+    },
+    {
+     "slug": "12723",
+     "title": "La Planète sauvage",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/12723/La%20Plan%C3%A8te%20sauvage",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1026012",
+     "title": "Miss Mary",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1026012/Miss%20Mary",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1026145",
+     "title": "Hola Frida !",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2025-07-02",
+     "url": "https://cinebel.dhnet.be/film/1026145/Hola%20Frida%20!",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1026482",
+     "title": "Valeur sentimentale",
+     "originalTitle": "Sentimental Value",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2025-08-20",
+     "url": "https://cinebel.dhnet.be/film/1026482/Sentimental%20Value",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1026754",
+     "title": "We Had Fun Yesterday",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1026754/We%20Had%20Fun%20Yesterday",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1026855",
+     "title": "De Club van Sinterklaas - Een Dolle Beestenboel",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1026855/De%20Club%20van%20Sinterklaas%20-%20Een%20Dolle%20Beestenboel",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1026892",
+     "title": "Olivia",
+     "originalTitle": "Olivia y el terremoto invisible",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-02-11",
+     "url": "https://cinebel.dhnet.be/film/1026892/Olivia%20y%20el%20terremoto%20invisible",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1026986",
+     "title": "Sauf le passé",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1026986/Sauf%20le%20pass%C3%A9",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027011",
+     "title": "Michael",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-04-22",
+     "url": "https://cinebel.dhnet.be/film/1027011/Michael",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027100",
+     "title": "Les Echos du passé / Sound of Falling",
+     "originalTitle": "In die Sonne schauen",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-01-14",
+     "url": "https://cinebel.dhnet.be/film/1027100/In%20die%20Sonne%20schauen",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027156",
+     "title": "It's Never Over, Jeff Buckley",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-02-11",
+     "url": "https://cinebel.dhnet.be/film/1027156/It's%20Never%20Over,%20Jeff%20Buckley",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027248",
+     "title": "Agatha's Almanac",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-07-15",
+     "url": "https://cinebel.dhnet.be/film/1027248/Agatha's%20Almanac",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027263",
+     "title": "EPiC: Elvis Presley in Concert",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-02-25",
+     "url": "https://cinebel.dhnet.be/film/1027263/EPiC:%20Elvis%20Presley%20in%20Concert",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027368",
+     "title": "La Guerre des prix",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-04-15",
+     "url": "https://cinebel.dhnet.be/film/1027368/La%20Guerre%20des%20prix",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027372",
+     "title": "Bandes d'hystériques",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027372/Bandes%20d'hyst%C3%A9riques",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027376",
+     "title": "Iron Maiden: Burning Ambition",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-05-13",
+     "url": "https://cinebel.dhnet.be/film/1027376/Iron%20Maiden:%20Burning%20Ambition",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027525",
+     "title": "Broken English",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-06-24",
+     "url": "https://cinebel.dhnet.be/film/1027525/Broken%20English",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027550",
+     "title": "Omaha",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-06-17",
+     "url": "https://cinebel.dhnet.be/film/1027550/Omaha",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027642",
+     "title": "En nous",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027642/En%20nous",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027661",
+     "title": "Le Maître du Kabuki",
+     "originalTitle": "Kokuho",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-26",
+     "url": "https://cinebel.dhnet.be/film/1027661/Kokuho",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027882",
+     "title": "Colony",
+     "originalTitle": "Gunche",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-18",
+     "url": "https://cinebel.dhnet.be/film/1027882/Gunche",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027901",
+     "title": "Grandir",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027901/Grandir",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027902",
+     "title": "L'Affaire Marie-Claire",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/film/1027902/L'Affaire%20Marie-Claire",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027955",
+     "title": "L’Atelier à 15 ans",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027955/L%E2%80%99Atelier%20%C3%A0%2015%20ans",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027956",
+     "title": "Black Roots",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027956/Black%20Roots",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027957",
+     "title": "Sax",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027957/Sax",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027960",
+     "title": "Driven by Light",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027960/Driven%20by%20Light",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027962",
+     "title": "Paris Is Burning",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027962/Paris%20Is%20Burning",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027963",
+     "title": "Out Laws",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027963/Out%20Laws",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027964",
+     "title": "Trotacalles",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027964/Trotacalles",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027969",
+     "title": "Un lugar más grande",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027969/Un%20lugar%20m%C3%A1s%20grande",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027976",
+     "title": "Des poussières d'étoiles",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027976/Des%20poussi%C3%A8res%20d'%C3%A9toiles",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027977",
+     "title": "With Love and Rage",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027977/With%20Love%20and%20Rage",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027981",
+     "title": "How to Live",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027981/How%20to%20Live",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027984",
+     "title": "Clementina",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027984/Clementina",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027986",
+     "title": "Por el dinero",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027986/Por%20el%20dinero",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027989",
+     "title": "José van Dam, 25 ans après",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027989/Jos%C3%A9%20van%20Dam,%2025%20ans%20apr%C3%A8s",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027991",
+     "title": "La Prise de pouvoir par Louis XIV",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027991/La%20Prise%20de%20pouvoir%20par%20Louis%20XIV",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027992",
+     "title": "Mijn vader woont in Rio",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027992/Mijn%20vader%20woont%20in%20Rio",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027993",
+     "title": "Hélène Trésore Transnationale",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027993/H%C3%A9l%C3%A8ne%20Tr%C3%A9sore%20Transnationale",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027994",
+     "title": "Wozzeck",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027994/Wozzeck",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027995",
+     "title": "Mineshaft: The Cruising Murders",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027995/Mineshaft:%20The%20Cruising%20Murders",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027998",
+     "title": "Sous le masque noir",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027998/Sous%20le%20masque%20noir",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027999",
+     "title": "Barbara Forever",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1027999/Barbara%20Forever",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028000",
+     "title": "Tender Fictions",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1028000/Tender%20Fictions",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028002",
+     "title": "Woodcutters of the Deep South",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1028002/Woodcutters%20of%20the%20Deep%20South",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028003",
+     "title": "Working Together",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1028003/Working%20Together",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028004",
+     "title": "Black Fantasy",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1028004/Black%20Fantasy",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028006",
+     "title": "Arab Israeli Dialogue",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1028006/Arab%20Israeli%20Dialogue",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028007",
+     "title": "You Never Know",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1028007/You%20Never%20Know",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028013",
+     "title": "Elvira Notari: Beyond Silence",
+     "originalTitle": "Elvira Notari: Oltre il silenzio",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1028013/Elvira%20Notari:%20Oltre%20il%20silenzio",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028014",
+     "title": "Der Postmeister",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1028014/Der%20Postmeister",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028015",
+     "title": "Sainte Nuit",
+     "originalTitle": "'A Santanotte",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1028015/'A%20Santanotte",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028016",
+     "title": "Dans les ruches",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1028016/Dans%20les%20ruches",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028029",
+     "title": "Petite Casbah",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1028029/Petite%20Casbah",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028046",
+     "title": "Comète",
+     "originalTitle": "",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/film/1028046/Com%C3%A8te",
+     "status": "now_showing"
+    }
+   ]
+  }
+ }
+}
