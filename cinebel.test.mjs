@@ -1,8 +1,8 @@
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import {
-  audienceLabel, brandOfTheater, cinemasToFeed, dayMonthToIso, fetchCinebel, isCinemaPage, lastPage, parseCinebel,
-  parseCinemaPage, parseCity, parseFrDate, parseTheaters, restoredCinema, todayInBelgium,
+  addressText, audienceLabel, brandOfTheater, cinemasToFeed, dayMonthToIso, fetchCinebel, isCinemaPage, lastPage, locateTheaters,
+  parseAddress, parseCinebel, parseCinemaPage, parseCity, parseFrDate, parseTheaters, restoredCinema, todayInBelgium,
 } from './cinebel.mjs';
 
 // --- Liste nationale « Films à l'affiche » ---
@@ -28,6 +28,15 @@ assert.ok(theaters.some((t) => t.id === '956' && t.name === 'Cinéma For&ver'));
 const cinema = readFileSync('test-fixtures/cinebel_cinema.html', 'utf8');
 assert.equal(parseCity(cinema), 'Bruxelles');
 assert.equal(parseCity('<p class="adress">Rue X 1<br/>L-9530&nbsp;Wiltz <br/>Téléphone : 1</p>'), 'Wiltz');
+// Adresse : rue, code postal, ville, pays (le téléphone est ignoré).
+assert.deepEqual(parseAddress(cinema), { street: "Avenue de la Toison d'Or 8-17", postalCode: '1050', city: 'Bruxelles', country: 'be' });
+assert.equal(addressText(parseAddress(cinema)), "Avenue de la Toison d'Or 8-17, 1050 Bruxelles");
+assert.deepEqual(parseAddress('<p class="adress">Rue X 1<br/>L-9530&nbsp;Wiltz <br/>Téléphone : 1</p>'), { street: 'Rue X 1', postalCode: '9530', city: 'Wiltz', country: 'lu' });
+assert.equal(addressText(parseAddress('<p class="adress">Rue X 1<br/>L-9530&nbsp;Wiltz</p>')), 'Rue X 1, L-9530 Wiltz');
+assert.deepEqual(parseAddress('<p class="adress">1000&nbsp;Bruxelles</p>'), { street: '', postalCode: '1000', city: 'Bruxelles', country: 'be' });
+assert.equal(addressText(parseAddress('<p class="adress">1000&nbsp;Bruxelles</p>')), '1000 Bruxelles');
+assert.equal(parseAddress('<p class="adress">Adresse à venir</p>'), null);
+assert.equal(parseAddress('<html><body>Just a moment...</body></html>'), null);
 const shows = parseCinemaPage(cinema, '2026-10-11');
 console.log(shows.map((f) => `${f.slug} ${f.title} (${f.originalTitle || '-'}) ${f.year} ${f.versions.join('/')} ${f.rating || '-'} ${f.firstDate}`));
 // Le faux bloc du pied de page n'est pas un film de la salle.
@@ -66,6 +75,12 @@ assert.equal(ugc.name, "UGC Toison d'Or");
 assert.equal(ugc.city, 'Bruxelles');
 assert.equal(ugc.brand, 'UGC');
 assert.equal(ugc.fetchedAt, '2026-10-11');
+// Sans adresse ni coordonnées lues : aucun champ (l'app trie alors cette salle sans distance).
+assert.ok(!('address' in ugc) && !('lat' in ugc) && !('lng' in ugc));
+const located = cinemasToFeed([{ id: '730', name: "UGC Toison d'Or" }], new Map([['730', { city: 'Bruxelles', address: parseAddress(cinema), lat: 50.8353, lng: 4.3604, films: shows }]]), national, '2026-10-11')['cinebel-730'];
+assert.deepEqual([located.address, located.lat, located.lng], ["Avenue de la Toison d'Or 8-17, 1050 Bruxelles", 50.8353, 4.3604]);
+const addressOnly = cinemasToFeed([{ id: '730', name: 'X' }], new Map([['730', { city: 'Bruxelles', address: parseAddress(cinema), films: shows }]]), national, '2026-10-11')['cinebel-730'];
+assert.ok(addressOnly.address && !('lat' in addressOnly) && !('lng' in addressOnly));
 const byTitle = Object.fromEntries(ugc.films.map((f) => [f.title, f]));
 assert.deepEqual(byTitle.Digger, {
   slug: '1027125', title: 'Digger', originalTitle: '', year: 2026, rating: '12+', language: 'VF/VO', releaseDate: '2026-10-08',
@@ -132,4 +147,72 @@ const fallback = await fetchCinebel(async (p) => { if (p.startsWith('/cinema/'))
 assert.deepEqual(Object.keys(fallback), ['cinebel-be']);
 assert.equal(fallback['cinebel-be'].films.length, 10); // pages identiques : dédoublonnées par identifiant
 assert.equal(fallback['cinebel-be'].fetchedAt, '2026-10-10'); // l'entrée nationale vieillit comme les salles
+
+// --- Coordonnées des salles ---
+const addr = (street, postalCode, city) => ({ street, postalCode, city, country: 'be' });
+const stage = () => ({
+  theaters: ['1', '2', '3', '4', '5'].map((id) => ({ id, name: `Salle ${id}` })),
+  pages: new Map([
+    ['1', { city: 'Bruxelles', address: addr('Rue A 1', '1000', 'Bruxelles'), films: [{}] }], // déjà publiée, même adresse : reprise
+    ['2', { city: 'Liège', address: addr('Rue B 2', '4000', 'Liège'), films: [{}] }], // nouvelle : recherchée
+    ['3', { city: 'Namur', address: addr('Rue C 3', '5000', 'Namur'), films: [{}] }], // adresse changée : recherchée de nouveau
+    ['4', { city: 'Ath', address: addr('Rue D 4', '7800', 'Ath'), films: [] }], // aucun film : pas recherchée
+    ['5', { city: 'Mons', address: null, films: [{}] }], // adresse illisible : pas recherchée
+  ]),
+});
+const published = {
+  'cinebel-1': { address: 'Rue A 1, 1000 Bruxelles', lat: 50.85, lng: 4.35 },
+  'cinebel-3': { address: 'Ancienne rue 9, 5000 Namur', lat: 1, lng: 1 },
+};
+{
+  const asked = [];
+  const { theaters, pages } = stage();
+  const stats = await locateTheaters(theaters, pages, published, async (a) => { asked.push(a.street); return { lat: 50.6, lng: 5.5 }; }, () => {});
+  assert.deepEqual(asked, ['Rue B 2', 'Rue C 3']); // une seule recherche par salle à localiser
+  assert.deepEqual(stats, { reused: 1, found: 2, missing: 0 });
+  assert.deepEqual([pages.get('1').lat, pages.get('1').lng], [50.85, 4.35]);
+  assert.deepEqual([pages.get('3').lat, pages.get('3').lng], [50.6, 5.5]); // pas les anciennes coordonnées d'une autre adresse
+  assert.ok(!('lat' in pages.get('4')) && !('lat' in pages.get('5')));
+}
+{
+  // Adresse introuvable : la salle reste publiée, sans coordonnées, et on ne la cherche pas en boucle.
+  const { theaters, pages } = stage();
+  const stats = await locateTheaters(theaters, pages, published, async () => null, () => {});
+  assert.deepEqual(stats, { reused: 1, found: 0, missing: 2 });
+  assert.ok(!('lat' in pages.get('2')));
+}
+{
+  // Service indisponible : après 3 échecs de suite, on le laisse tranquille jusqu'à la collecte suivante.
+  const theaters = Array.from({ length: 6 }, (_, i) => ({ id: String(i), name: `S${i}` }));
+  const pages = new Map(theaters.map((t) => [t.id, { city: 'X', address: addr(`Rue ${t.id}`, '1000', 'Bruxelles'), films: [{}] }]));
+  let calls = 0;
+  const warnings = [];
+  const stats = await locateTheaters(theaters, pages, {}, async () => { calls++; throw new Error('HTTP 429'); }, (m) => warnings.push(m));
+  assert.equal(calls, 3);
+  assert.deepEqual(stats, { reused: 0, found: 0, missing: 6 });
+  assert.equal(warnings.length, 3);
+  assert.match(warnings[2], /429.*suspendue/);
+  // Un succès remet le compteur à zéro : deux échecs, un succès, deux échecs ne suspendent rien.
+  let n = 0;
+  const pages2 = new Map(theaters.slice(0, 5).map((t) => [t.id, { city: 'X', address: addr(`Rue ${t.id}`, '1000', 'Bruxelles'), films: [{}] }]));
+  await locateTheaters(theaters.slice(0, 5), pages2, {}, async () => { n++; if (n === 3) return { lat: 50.8, lng: 4.3 }; throw new Error('boom'); }, () => {});
+  assert.equal(n, 5);
+  // Sans géocodeur (tests, GEOCODER_URL=off) : seules les coordonnées déjà publiées sont reprises.
+  const { theaters: t3, pages: p3 } = stage();
+  assert.deepEqual(await locateTheaters(t3, p3, published, undefined, () => {}), { reused: 1, found: 0, missing: 2 });
+}
+{
+  // Collecte complète : seules les salles qui ont des films sont localisées ; une salle illisible garde ses coordonnées.
+  const asked = [];
+  const withCoords = { ...previous, 'cinebel-693': { ...previous['cinebel-693'], address: 'Rue 1, 1000 Bruxelles', lat: 50.84, lng: 4.36 } };
+  const located = await fetchCinebel(site, { maxPages: 1, pauseMs: 0, today: '2026-10-11', previous: withCoords, geocode: async (a) => { asked.push(a.street); return { lat: 50.8353, lng: 4.3604 }; } });
+  assert.deepEqual(asked, ["Avenue de la Toison d'Or 8-17"]); // les 65 autres pages n'ont aucun film
+  const ugcLocated = located['cinebel-730'];
+  assert.deepEqual([ugcLocated.address, ugcLocated.lat, ugcLocated.lng], ["Avenue de la Toison d'Or 8-17, 1050 Bruxelles", 50.8353, 4.3604]);
+  assert.deepEqual([located['cinebel-693'].lat, located['cinebel-693'].lng], [50.84, 4.36]); // salle illisible : coordonnées gardées
+  // Deuxième collecte, avec le fichier de la première : plus aucune recherche.
+  const again = [];
+  await fetchCinebel(site, { maxPages: 1, pauseMs: 0, today: '2026-10-11', previous: located, geocode: async (a) => { again.push(a.street); return null; } });
+  assert.deepEqual(again, []);
+}
 console.log('ok');

@@ -4,7 +4,8 @@
  *  1. « Films à l'affiche » (10 films par page, ?page=N) : titre français, titre original et date de sortie de chaque
  *     film. Sert à dater les films des salles et de repli si aucune page de salle n'est lisible.
  *  2. La liste des salles : le menu « Cinéma » (id="theaterSelector"), présent sur chaque page du site.
- *  3. La page de chaque salle (/cinema/<id>/<nom>) : les films qu'elle programme cette semaine.
+ *  3. La page de chaque salle (/cinema/<id>/<nom>) : son adresse et les films qu'elle programme cette semaine.
+ *  4. Les coordonnées des salles qui ont des films (voir locateTheaters), pour que l'app les trie par distance.
  *
  * Seuls le titre, les versions (VF/VO/NV), l'âge conseillé et le statut sont gardés : aucun horaire.
  * Une salle momentanément illisible garde ses données de la collecte précédente (option `previous`), trois jours au plus.
@@ -86,6 +87,23 @@ export function parseCity(html) {
   return '';
 }
 
+/**
+ * Adresse d'une salle : la rue (avec son numéro), puis la ligne « 1000 Bruxelles » (code postal belge, ou « L-1234 » au
+ * Luxembourg) ; le téléphone et le reste sont ignorés. Null sans ligne de code postal.
+ */
+export function parseAddress(html) {
+  const adr = /<p class="adress">([\s\S]*?)<\/p>/.exec(html)?.[1] ?? '';
+  const lines = adr.split(/<br\s*\/?>/i).map((l) => decode(stripTags(l))).filter(Boolean);
+  const at = lines.findIndex((l) => /^(?:[A-Z]-)?\d{4,5}\s+\S/.test(l));
+  if (at < 0) return null;
+  const m = /^(?:([A-Z])-)?(\d{4,5})\s+(.+)$/.exec(lines[at]);
+  return { street: lines.slice(0, at).join(', '), postalCode: m[2], city: m[3], country: m[1] === 'L' ? 'lu' : 'be' };
+}
+
+/** « Avenue de la Toison d'Or 8-17, 1050 Bruxelles » : sert aussi à reconnaître une salle dont l'adresse n'a pas changé. */
+export const addressText = (a) =>
+  [a.street, `${a.country === 'lu' ? 'L-' : ''}${a.postalCode} ${a.city}`].filter(Boolean).join(', ');
+
 /** « 11/10 » (jour/mois, sans année) -> AAAA-MM-JJ, avec l'année qui place la date au plus près d'aujourd'hui. */
 export function dayMonthToIso(day, month, today) {
   const y = Number(today.slice(0, 4));
@@ -159,6 +177,9 @@ export function cinemasToFeed(theaters, pages, national, today = todayInBelgium(
       name: t.name,
       ...(page.city ? { city: page.city } : {}),
       brand: brandOfTheater(t.name),
+      // Adresse et coordonnées : l'app trie les salles par distance (lat/lng absents = salle pas encore localisée).
+      ...(page.address ? { address: addressText(page.address) } : {}),
+      ...(Number.isFinite(page.lat) && Number.isFinite(page.lng) ? { lat: page.lat, lng: page.lng } : {}),
       // Date de lecture : une salle illisible ensuite garde ces données quelques jours seulement (l'app l'ignore).
       fetchedAt: today,
       films: page.films.map((f) => {
@@ -222,10 +243,47 @@ export function restoredCinema(entry, today = todayInBelgium()) {
 }
 
 /**
+ * Coordonnées des salles publiées (celles qui ont des films) : reprises du dernier fichier tant que l'adresse n'a pas
+ * changé, sinon cherchées auprès du géocodeur — une seule fois par salle. Après 3 échecs de suite (blocage, quota), le
+ * géocodeur est laissé tranquille jusqu'à la collecte suivante. Une salle sans coordonnées reste publiée, sans distance.
+ * @param geocode adresse -> { lat, lng } | null (null : introuvable ; lève : service indisponible) ; absent : pas de recherche
+ */
+export async function locateTheaters(theaters, pages, previous, geocode, warn = console.warn) {
+  let reused = 0;
+  let found = 0;
+  let missing = 0;
+  let failures = 0;
+  for (const t of theaters) {
+    const page = pages.get(t.id);
+    if (!page || page.films.length === 0 || !page.address) continue;
+    const old = previous[`cinebel-${t.id}`];
+    if (old?.address === addressText(page.address) && Number.isFinite(old.lat) && Number.isFinite(old.lng)) {
+      page.lat = old.lat;
+      page.lng = old.lng;
+      reused++;
+      continue;
+    }
+    if (!geocode || failures >= 3) { missing++; continue; }
+    try {
+      const hit = await geocode(page.address);
+      failures = 0;
+      if (hit) { page.lat = hit.lat; page.lng = hit.lng; found++; } else missing++;
+    } catch (e) {
+      failures++;
+      missing++;
+      warn(`::warning::cinebel : coordonnées de la salle ${t.id} (${t.name}) : ${e.message}${failures >= 3 ? ' — recherche suspendue jusqu\'à la prochaine collecte' : ''}`);
+    }
+  }
+  console.log(`cinebel : coordonnées des salles — ${reused} reprise(s), ${found} trouvée(s), ${missing} manquante(s)`);
+  return { reused, found, missing };
+}
+
+/**
  * @param get      lecteur de page (chemin -> HTML), remplacé dans les tests
  * @param previous entrées du dernier fichier publié : une salle illisible cette fois garde les siennes
+ * @param geocode  adresse -> { lat, lng } | null, pour localiser les salles ; absent : aucune recherche (les tests)
  */
-export async function fetchCinebel(get = getPath, { maxPages = 40, pauseMs = 250, today = todayInBelgium(), previous = {} } = {}) {
+export async function fetchCinebel(get = getPath, { maxPages = 40, pauseMs = 250, today = todayInBelgium(), previous = {}, geocode } = {}) {
   const pause = () => (pauseMs ? new Promise((r) => setTimeout(r, pauseMs)) : Promise.resolve());
 
   // 1. Liste nationale (dates de sortie, titres originaux).
@@ -245,7 +303,7 @@ export async function fetchCinebel(get = getPath, { maxPages = 40, pauseMs = 250
   const readCinema = async (t) => {
     const html = await get(`/cinema/${t.id}/${encodeURIComponent(t.name)}`);
     if (!isCinemaPage(html)) throw new Error('page inattendue (ni adresse ni film)');
-    return { city: parseCity(html), films: parseCinemaPage(html, today) };
+    return { city: parseCity(html), address: parseAddress(html), films: parseCinemaPage(html, today) };
   };
   for (const t of theaters) {
     await pause();
@@ -261,6 +319,8 @@ export async function fetchCinebel(get = getPath, { maxPages = 40, pauseMs = 250
     const list = failed.slice(0, 5).join(' ; ') + (failed.length > 5 ? ` ; +${failed.length - 5}` : '');
     console.warn(`::warning::cinebel : ${failed.length}/${theaters.length} salle(s) illisible(s) — ${list}`);
   }
+
+  await locateTheaters(theaters, pages, previous, geocode);
 
   const cinemas = cinemasToFeed(theaters, pages, films, today);
   let restored = 0;

@@ -10,6 +10,7 @@ import { mkdirSync, writeFileSync } from 'node:fs';
 import { fetchCinebel, restoredCinema } from './cinebel.mjs';
 import { fetchCinescapeViaElcinema } from './cinescape-elcinema.mjs';
 import { COUNTRIES, fetchElcinemaCountry } from './elcinema.mjs';
+import { createNominatimGeocoder } from './geocode.mjs';
 import { fetchGrand } from './grand.mjs';
 import { fetchLinternaute } from './linternaute.mjs';
 import { fetchOzone } from './ozone.mjs';
@@ -36,7 +37,9 @@ const OFFICIAL = {
   be: [
     // Une entrée par salle (66 salles listées par Cinebel) ; une salle illisible garde ses données précédentes.
     // `restore` : en cas de panne complète, les données précédentes ne sont gardées que 3 jours, statuts mis à jour.
-    { name: 'cinebel', prefix: 'cinebel-', run: async (previous) => nonEmpty(await fetchCinebel(undefined, { previous })), restore: (entry) => restoredCinema(entry) },
+    // Coordonnées des salles (tri par distance dans l'app) : cherchées une fois par salle, ensuite reprises du fichier publié.
+    // GEOCODER_URL=off les désactive (aucune requête de localisation).
+    { name: 'cinebel', prefix: 'cinebel-', run: async (previous) => nonEmpty(await fetchCinebel(undefined, { previous, geocode: /^off$/i.test(process.env.GEOCODER_URL ?? '') ? undefined : createNominatimGeocoder() })), restore: (entry) => restoredCinema(entry) },
   ],
 };
 
