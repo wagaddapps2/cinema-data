@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-11T00:16:41.774Z",
+ "updatedAt": "2026-10-11T06:14:35.874Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
@@ -33,15 +33,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101678",
-     "title": "The Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2101678/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095519",
      "title": "Other Mommy",
      "rating": "",
@@ -51,21 +42,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098168",
-     "title": "The Social Reckoning",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2098168/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101678",
+     "title": "The Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2101678/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098168",
+     "title": "The Social Reckoning",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2098168/",
      "status": "now_showing"
     },
     {
@@ -84,24 +84,6 @@
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2101997/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102075",
-     "title": "The Legendaries",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2102075/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101672",
-     "title": "The Crystal Planet",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101672/",
      "status": "now_showing"
     },
     {
@@ -141,6 +123,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099939",
+     "title": "Shish Doo",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-23",
+     "url": "https://elcinema.com/en/work/2099939/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-23",
+     "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100562",
      "title": "Heart of the Beast",
      "rating": "",
@@ -156,15 +156,6 @@
      "language": "",
      "releaseDate": "2026-09-23",
      "url": "https://elcinema.com/en/work/2099939/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097036",
-     "title": "Avengers: Doomsday",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-23",
-     "url": "https://elcinema.com/en/work/2097036/",
      "status": "now_showing"
     },
     {
@@ -195,21 +186,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099594",
-     "title": "Practical Magic 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-09",
-     "url": "https://elcinema.com/en/work/2099594/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095662",
      "title": "Red Flag",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-09",
      "url": "https://elcinema.com/en/work/2095662/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099594",
+     "title": "Practical Magic 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-09",
+     "url": "https://elcinema.com/en/work/2099594/",
      "status": "now_showing"
     },
     {
@@ -240,21 +231,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100068",
-     "title": "Aks Sir",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-13",
-     "url": "https://elcinema.com/en/work/2100068/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2094876",
      "title": "Mutiny",
      "rating": "",
      "language": "",
      "releaseDate": "2026-08-13",
      "url": "https://elcinema.com/en/work/2094876/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100068",
+     "title": "Aks Sir",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-13",
+     "url": "https://elcinema.com/en/work/2100068/",
      "status": "now_showing"
     },
     {

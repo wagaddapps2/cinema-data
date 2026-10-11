@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-11T00:16:47.006Z",
+ "updatedAt": "2026-10-11T06:14:40.546Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
@@ -114,6 +114,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101328",
+     "title": "The Vvaan: Force of the Forrest",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-25",
+     "url": "https://elcinema.com/en/work/2101328/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101963",
      "title": "The Smurfs Timeless Adventure Volume 2",
      "rating": "",
@@ -177,21 +186,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101010",
-     "title": "Runner",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-09",
-     "url": "https://elcinema.com/en/work/2101010/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095662",
      "title": "Red Flag",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-09",
      "url": "https://elcinema.com/en/work/2095662/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101010",
+     "title": "Runner",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-09",
+     "url": "https://elcinema.com/en/work/2101010/",
      "status": "now_showing"
     },
     {
@@ -219,6 +228,15 @@
      "language": "",
      "releaseDate": "2026-08-19",
      "url": "https://elcinema.com/en/work/2094876/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099167",
+     "title": "Vishwanath & Sons",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-14",
+     "url": "https://elcinema.com/en/work/2099167/",
      "status": "now_showing"
     },
     {

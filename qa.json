@@ -1,26 +1,17 @@
 {
- "updatedAt": "2026-10-11T00:16:44.787Z",
+ "updatedAt": "2026-10-11T06:14:38.617Z",
  "territory": "QA",
  "cinemas": {
   "elcinema-qa": {
    "name": "Cinemas in Qatar",
    "films": [
     {
-     "slug": "2102195",
-     "title": "Sa3oud Wainah",
+     "slug": "2101955",
+     "title": "SB19 Wakas at Simula: Trilogy Concert",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2102195/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101362",
-     "title": "Beware Boiúna",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101362/",
+     "url": "https://elcinema.com/en/work/2101955/",
      "status": "now_showing"
     },
     {
@@ -42,21 +33,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101955",
-     "title": "SB19 Wakas at Simula: Trilogy Concert",
+     "slug": "2101362",
+     "title": "Beware Boiúna",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101955/",
+     "url": "https://elcinema.com/en/work/2101362/",
      "status": "now_showing"
     },
     {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
+     "slug": "2102195",
+     "title": "Sa3oud Wainah",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2099520/",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2102195/",
      "status": "now_showing"
     },
     {
@@ -78,12 +69,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101991",
-     "title": "Baththa",
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101991/",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -96,6 +87,33 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101991",
+     "title": "Baththa",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101991/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101997/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101996",
+     "title": "Sigma",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101996/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101969",
      "title": "Anbil Avan",
      "rating": "",
@@ -105,21 +123,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101992",
-     "title": "Seven Seas Seven Hills",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101992/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2084491",
      "title": "Feeha Eh Yaani",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2084491/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101672",
+     "title": "The Crystal Planet",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101672/",
      "status": "now_showing"
     },
     {
@@ -159,33 +177,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101997",
-     "title": "Drishyam: The Conclusion",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101997/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101996",
-     "title": "Sigma",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101996/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101672",
-     "title": "The Crystal Planet",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101672/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101963",
      "title": "The Smurfs Timeless Adventure Volume 2",
      "rating": "",
@@ -201,6 +192,15 @@
      "language": "",
      "releaseDate": "2026-09-24",
      "url": "https://elcinema.com/en/work/2101957/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101960",
+     "title": "Pension Patta",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2101960/",
      "status": "now_showing"
     },
     {
@@ -276,30 +276,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099118",
-     "title": "Insidious: Out of the Further",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-20",
-     "url": "https://elcinema.com/en/work/2099118/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2094876",
      "title": "Mutiny",
      "rating": "",
      "language": "",
      "releaseDate": "2026-08-16",
      "url": "https://elcinema.com/en/work/2094876/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099167",
-     "title": "Vishwanath & Sons",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-14",
-     "url": "https://elcinema.com/en/work/2099167/",
      "status": "now_showing"
     },
     {
@@ -390,6 +372,15 @@
      "language": "",
      "releaseDate": "2025-10-23",
      "url": "https://elcinema.com/en/work/2096297/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2081888",
+     "title": "Rabbit Academy: Mission Eggpossible",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2023-09-14",
+     "url": "https://elcinema.com/en/work/2081888/",
      "status": "now_showing"
     },
     {

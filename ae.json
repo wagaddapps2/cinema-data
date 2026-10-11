@@ -1,37 +1,10 @@
 {
- "updatedAt": "2026-10-11T00:16:38.995Z",
+ "updatedAt": "2026-10-11T06:14:34.579Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
    "name": "Cinemas in United Arab Emirates",
    "films": [
-    {
-     "slug": "2098168",
-     "title": "The Social Reckoning",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2098168/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102185",
-     "title": "Adarsha Kutumbam House No: 47",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2102185/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102183",
-     "title": "Premada Oorali",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2102183/",
-     "status": "now_showing"
-    },
     {
      "slug": "2102182",
      "title": "Linkin Park: Unshatter",
@@ -42,12 +15,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101362",
-     "title": "Beware Boiúna",
+     "slug": "2098168",
+     "title": "The Social Reckoning",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101362/",
+     "url": "https://elcinema.com/en/work/2098168/",
      "status": "now_showing"
     },
     {
@@ -60,6 +33,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100784",
      "title": "The Florist",
      "rating": "",
@@ -69,12 +51,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
+     "slug": "2102183",
+     "title": "Premada Oorali",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2099520/",
+     "url": "https://elcinema.com/en/work/2102183/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102185",
+     "title": "Adarsha Kutumbam House No: 47",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2102185/",
      "status": "now_showing"
     },
     {
@@ -96,12 +87,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101362",
+     "title": "Beware Boiúna",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2101362/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2095519",
      "title": "Other Mommy",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101969",
+     "title": "Anbil Avan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-02",
+     "url": "https://elcinema.com/en/work/2101969/",
      "status": "now_showing"
     },
     {
@@ -123,102 +132,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101969",
-     "title": "Anbil Avan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-02",
-     "url": "https://elcinema.com/en/work/2101969/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101997",
-     "title": "Drishyam: The Conclusion",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101997/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2100812",
      "title": "Charlie Harper",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2100812/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101672",
-     "title": "The Crystal Planet",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101672/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101991",
-     "title": "Baththa",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101991/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101992",
-     "title": "Seven Seas Seven Hills",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101992/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101993",
-     "title": "Prem Keetanu",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101993/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101996",
-     "title": "Sigma",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101996/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101998",
-     "title": "Mitrata",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101998/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102075",
-     "title": "The Legendaries",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2102075/",
      "status": "now_showing"
     },
     {
@@ -231,66 +150,93 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102075",
+     "title": "The Legendaries",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2102075/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101998",
+     "title": "Mitrata",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101997/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101996",
+     "title": "Sigma",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101996/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101993",
+     "title": "Prem Keetanu",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101993/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101992",
+     "title": "Seven Seas Seven Hills",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101992/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101991",
+     "title": "Baththa",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101991/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101672",
+     "title": "The Crystal Planet",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101672/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2097950",
      "title": "Digger",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-30",
      "url": "https://elcinema.com/en/work/2097950/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099939",
-     "title": "Shish Doo",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2099939/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101957",
-     "title": "Meesaya Murukku 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101957/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099729",
-     "title": "Sacrifice",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2099729/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2100562/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101958",
-     "title": "Dhoomakethu",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101958/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101963",
-     "title": "The Smurfs Timeless Adventure Volume 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101963/",
      "status": "now_showing"
     },
     {
@@ -303,6 +249,33 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099939",
+     "title": "Shish Doo",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2099939/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101963",
+     "title": "The Smurfs Timeless Adventure Volume 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2101963/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101960",
      "title": "Pension Patta",
      "rating": "",
@@ -312,21 +285,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095876",
-     "title": "Pressure",
+     "slug": "2101958",
+     "title": "Dhoomakethu",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2095876/",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2101958/",
      "status": "now_showing"
     },
     {
-     "slug": "2098173",
-     "title": "Resident Evil",
+     "slug": "2101957",
+     "title": "Meesaya Murukku 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2101957/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099778",
+     "title": "Tad and the Magic Lamp",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2098173/",
+     "url": "https://elcinema.com/en/work/2099778/",
      "status": "now_showing"
     },
     {
@@ -339,12 +321,57 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099778",
-     "title": "Tad and the Magic Lamp",
+     "slug": "2098173",
+     "title": "Resident Evil",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2099778/",
+     "url": "https://elcinema.com/en/work/2098173/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095876",
+     "title": "Pressure",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-17",
+     "url": "https://elcinema.com/en/work/2095876/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095662",
+     "title": "Red Flag",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-10",
+     "url": "https://elcinema.com/en/work/2095662/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101674",
+     "title": "Hanuman Ansh",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-10",
+     "url": "https://elcinema.com/en/work/2101674/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101735",
+     "title": "Mandaadi",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-10",
+     "url": "https://elcinema.com/en/work/2101735/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101010",
+     "title": "Runner",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-10",
+     "url": "https://elcinema.com/en/work/2101010/",
      "status": "now_showing"
     },
     {
@@ -366,48 +393,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101010",
-     "title": "Runner",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-10",
-     "url": "https://elcinema.com/en/work/2101010/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101674",
-     "title": "Hanuman Ansh",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-10",
-     "url": "https://elcinema.com/en/work/2101674/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101733",
      "title": "Prima Facie Guilty",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-10",
      "url": "https://elcinema.com/en/work/2101733/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101735",
-     "title": "Mandaadi",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-10",
-     "url": "https://elcinema.com/en/work/2101735/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095662",
-     "title": "Red Flag",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-10",
-     "url": "https://elcinema.com/en/work/2095662/",
      "status": "now_showing"
     },
     {
@@ -420,21 +411,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098943",
-     "title": "I'm Game",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-01",
-     "url": "https://elcinema.com/en/work/2098943/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098942",
      "title": "Mirzapur: The Movie",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-01",
      "url": "https://elcinema.com/en/work/2098942/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098943",
+     "title": "I'm Game",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-01",
+     "url": "https://elcinema.com/en/work/2098943/",
      "status": "now_showing"
     },
     {
@@ -447,21 +438,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2094876",
-     "title": "Mutiny",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-20",
-     "url": "https://elcinema.com/en/work/2094876/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101416",
      "title": "Bethlehem Kudumba Unit",
      "rating": "",
      "language": "",
      "releaseDate": "2026-08-20",
      "url": "https://elcinema.com/en/work/2101416/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2094876",
+     "title": "Mutiny",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-20",
+     "url": "https://elcinema.com/en/work/2094876/",
      "status": "now_showing"
     },
     {

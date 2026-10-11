@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-11T00:15:38.894Z",
+ "updatedAt": "2026-10-11T06:13:25.271Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -2361,6 +2361,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098168",
+     "title": "The Social Reckoning",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098168/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100562",
      "title": "Heart of the Beast",
      "rating": "",
@@ -2488,15 +2497,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100562/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095876",
      "title": "Pressure",
      "rating": "",
@@ -2512,6 +2512,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {
