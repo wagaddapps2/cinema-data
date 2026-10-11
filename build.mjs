@@ -3,10 +3,11 @@
  *  - Pays avec sites officiels (OFFICIAL) : on lit uniquement ces sites.
  *  - Tous les autres pays d'elCinema : repli sur elCinema, SEULEMENT s'ils n'ont aucun site officiel ici.
  * Un site en panne ne bloque pas les autres : ses données reprennent celles du dernier fichier publié
- * (PREVIOUS_BASE). L'exécution n'échoue que si aucun fichier n'a pu être produit.
+ * (PREVIOUS_BASE). Une source peut aussi recevoir ces données précédentes (run(previous)) pour ne remplacer
+ * que ce qu'elle a pu relire. L'exécution n'échoue que si aucun fichier n'a pu être produit.
  */
 import { mkdirSync, writeFileSync } from 'node:fs';
-import { fetchCinebel } from './cinebel.mjs';
+import { fetchCinebel, restoredCinema } from './cinebel.mjs';
 import { fetchCinescapeViaElcinema } from './cinescape-elcinema.mjs';
 import { COUNTRIES, fetchElcinemaCountry } from './elcinema.mjs';
 import { fetchGrand } from './grand.mjs';
@@ -33,7 +34,9 @@ const OFFICIAL = {
     { name: 'linternaute', prefix: 'linternaute-', run: async () => nonEmpty(await fetchLinternaute()) },
   ],
   be: [
-    { name: 'cinebel', prefix: 'cinebel-', run: async () => nonEmpty(await fetchCinebel()) },
+    // Une entrée par salle (66 salles listées par Cinebel) ; une salle illisible garde ses données précédentes.
+    // `restore` : en cas de panne complète, les données précédentes ne sont gardées que 3 jours, statuts mis à jour.
+    { name: 'cinebel', prefix: 'cinebel-', run: async (previous) => nonEmpty(await fetchCinebel(undefined, { previous })), restore: (entry) => restoredCinema(entry) },
   ],
 };
 
@@ -53,11 +56,15 @@ for (const [cc, sources] of Object.entries(territories)) {
   let ok = 0;
   for (const s of sources) {
     try {
-      Object.assign(cinemas, await s.run());
+      Object.assign(cinemas, await s.run(previous));
       ok++;
     } catch (e) {
       console.warn(`::warning::${cc}/${s.name} en échec (${e.message}) — données précédentes conservées`);
-      for (const [k, v] of Object.entries(previous)) if (k.startsWith(s.prefix)) cinemas[k] = v;
+      for (const [k, v] of Object.entries(previous)) {
+        if (!k.startsWith(s.prefix)) continue;
+        const kept = s.restore ? s.restore(v) : v;
+        if (kept) cinemas[k] = kept;
+      }
     }
   }
   if (Object.keys(cinemas).length === 0) { console.warn(`::warning::${cc} : rien à publier`); continue; }
