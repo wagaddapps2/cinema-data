@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-11T06:14:46.805Z",
+ "updatedAt": "2026-10-11T12:14:28.627Z",
  "territory": "TN",
  "cinemas": {
   "elcinema-tn": {
@@ -19,7 +19,7 @@
      "title": "Dar El3ers",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-09-18",
+     "releaseDate": "2026-09-23",
      "url": "https://elcinema.com/en/work/2101794/",
      "status": "now_showing"
     },
@@ -133,7 +133,7 @@
     },
     {
      "slug": "2101651",
-     "title": "Doktor Dinozavrov / The Dino Family",
+     "title": "The Dino Family",
      "rating": "",
      "language": "",
      "releaseDate": null,
