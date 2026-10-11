@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-10T18:11:00.104Z",
+ "updatedAt": "2026-10-11T00:15:38.894Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -2521,15 +2521,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101678/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095765",
-     "title": "Spider-Man: Brand New Day",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095765/",
      "status": "now_showing"
     },
     {

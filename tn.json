@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-10-10T18:12:20.733Z",
+ "updatedAt": "2026-10-11T00:16:57.415Z",
  "territory": "TN",
  "cinemas": {
   "elcinema-tn": {
    "name": "Cinemas in Tunisia",
    "films": [
     {
-     "slug": "2032663",
-     "title": "Avengers Endgame: Encore re-release",
+     "slug": "2098232",
+     "title": "Verity",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-10",
-     "url": "https://elcinema.com/en/work/2032663/",
+     "releaseDate": "2026-10-02",
+     "url": "https://elcinema.com/en/work/2098232/",
      "status": "now_showing"
     },
     {

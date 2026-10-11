@@ -1,17 +1,26 @@
 {
- "updatedAt": "2026-10-10T18:11:59.121Z",
+ "updatedAt": "2026-10-11T00:16:32.088Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
    "name": "Cinemas in Egypt",
    "films": [
     {
-     "slug": "2102084",
-     "title": "Two.Five Analog Short Film Competition",
+     "slug": "2101362",
+     "title": "Beware Boiúna",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-10",
-     "url": "https://elcinema.com/en/work/2102084/",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2101362/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100784",
+     "title": "The Florist",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2100784/",
      "status": "now_showing"
     },
     {
@@ -33,24 +42,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101362",
-     "title": "Beware Boiúna",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101362/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100784",
-     "title": "The Florist",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2100784/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
@@ -69,12 +60,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097950",
-     "title": "Digger",
+     "slug": "2102060",
+     "title": "Gator Face",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2097950/",
+     "url": "https://elcinema.com/en/work/2102060/",
      "status": "now_showing"
     },
     {
@@ -87,12 +78,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102060",
-     "title": "Gator Face",
+     "slug": "2099729",
+     "title": "Sacrifice",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2102060/",
+     "url": "https://elcinema.com/en/work/2099729/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097950",
+     "title": "Digger",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2097950/",
      "status": "now_showing"
     },
     {
@@ -168,21 +168,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2094876",
-     "title": "Mutiny",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-20",
-     "url": "https://elcinema.com/en/work/2094876/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099118",
      "title": "Insidious: Out of the Further",
      "rating": "",
      "language": "",
      "releaseDate": "2026-08-20",
      "url": "https://elcinema.com/en/work/2099118/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2094876",
+     "title": "Mutiny",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-20",
+     "url": "https://elcinema.com/en/work/2094876/",
      "status": "now_showing"
     },
     {
@@ -249,6 +249,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2097177",
+     "title": "Al Qisas",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-06-10",
+     "url": "https://elcinema.com/en/work/2097177/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2092144",
      "title": "Seven Dogs",
      "rating": "",
@@ -264,6 +273,15 @@
      "language": "",
      "releaseDate": "2019-04-24",
      "url": "https://elcinema.com/en/work/2032663/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1010121",
+     "title": "Iskanderija... lih?",
+     "rating": "",
+     "language": "",
+     "releaseDate": "1979-08-23",
+     "url": "https://elcinema.com/en/work/1010121/",
      "status": "now_showing"
     },
     {
