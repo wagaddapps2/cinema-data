@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-10-11T18:13:11.205Z",
+ "updatedAt": "2026-10-11T21:31:50.132Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
    "name": "Cinemas in Syria",
    "films": [
-    {
-     "slug": "2100853",
-     "title": "The Love Hypothesis",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2100853/",
-     "status": "now_showing"
-    },
     {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
@@ -21,6 +12,15 @@
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100853",
+     "title": "The Love Hypothesis",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2100853/",
      "status": "now_showing"
     },
     {
@@ -48,33 +48,6 @@
      "language": "",
      "releaseDate": "2026-09-10",
      "url": "https://elcinema.com/en/work/2095662/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095884",
-     "title": "Moana",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-07-09",
-     "url": "https://elcinema.com/en/work/2095884/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2090948",
-     "title": "Smurfs",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2025-08-21",
-     "url": "https://elcinema.com/en/work/2090948/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2085638",
-     "title": "Mufasa: The Lion King",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2024-11-14",
-     "url": "https://elcinema.com/en/work/2085638/",
      "status": "now_showing"
     },
     {

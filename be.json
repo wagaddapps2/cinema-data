@@ -1,11 +1,14 @@
 {
- "updatedAt": "2026-10-11T18:12:49.241Z",
+ "updatedAt": "2026-10-11T21:31:31.281Z",
  "territory": "BE",
  "cinemas": {
   "cinebel-693": {
    "name": "Aventure Ciné Confort",
    "city": "Bruxelles",
    "brand": "",
+   "address": "Galerie du Centre - Rue des Fripiers 15, 1000 Bruxelles",
+   "lat": 50.8469,
+   "lng": 4.3667,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -158,6 +161,9 @@
    "name": "Bouillon Ciné",
    "city": "Bouillon",
    "brand": "",
+   "address": "Rue du Nord, 6830 Bouillon",
+   "lat": 49.7952,
+   "lng": 5.0676,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -276,6 +282,9 @@
    "name": "Bozar",
    "city": "Bruxelles",
    "brand": "",
+   "address": "Rue Ravenstein 23, 1000 Bruxelles",
+   "lat": 50.8443,
+   "lng": 4.3595,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -458,6 +467,9 @@
    "name": "CINEMATEK",
    "city": "Bruxelles",
    "brand": "",
+   "address": "Rue Baron Horta 9, 1000 Bruxelles",
+   "lat": 50.8442,
+   "lng": 4.3602,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -2323,6 +2335,9 @@
    "name": "CineXtra Bastogne",
    "city": "Bastogne",
    "brand": "CineXtra",
+   "address": "Rue Gustave-Delperdange 3, 6600 Bastogne",
+   "lat": 50.0054,
+   "lng": 5.724,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -2441,6 +2456,9 @@
    "name": "CineXtra Marche",
    "city": "Marche-en-Famenne",
    "brand": "CineXtra",
+   "address": "Rue Notre Dame de Grâces 2, 6900 Marche-en-Famenne",
+   "lat": 50.2299,
+   "lng": 5.3424,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -2592,6 +2610,9 @@
    "name": "Cineflagey",
    "city": "Bruxelles",
    "brand": "",
+   "address": "Place Sainte-Croix, 1050 Bruxelles",
+   "lat": 50.8266,
+   "lng": 4.3727,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -2880,6 +2901,9 @@
    "name": "Cinema Cartoon's",
    "city": "Antwerpen",
    "brand": "",
+   "address": "Kaasstraat 4-6, 2000 Antwerpen",
+   "lat": 51.2215,
+   "lng": 4.398,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -3009,6 +3033,9 @@
    "name": "Cinema Rio",
    "city": "De Haan",
    "brand": "",
+   "address": "Monicastraat, 11, 8420 De Haan",
+   "lat": 51.2717,
+   "lng": 3.0356,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -3118,6 +3145,9 @@
    "name": "Cinema ZED-STUK",
    "city": "Leuven",
    "brand": "",
+   "address": "Naamsestraat 96, 3000 Leuven",
+   "lat": 50.8739,
+   "lng": 4.6991,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -3283,6 +3313,9 @@
    "name": "Cinema ZED-Vesalius",
    "city": "Leuven",
    "brand": "",
+   "address": "Andreas Vesaliusstraat 9c, 3000 Leuven",
+   "lat": 50.875,
+   "lng": 4.7084,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -3744,6 +3777,9 @@
    "name": "Ciné Centre",
    "city": "Rixensart",
    "brand": "",
+   "address": "Avenue de Mérode 91, 1330 Rixensart",
+   "lat": 50.7117,
+   "lng": 4.521,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -3895,6 +3931,9 @@
    "name": "Ciné Couvin",
    "city": "Couvin",
    "brand": "",
+   "address": "Place Général Piron 6, 5660 Couvin",
+   "lat": 50.0531,
+   "lng": 4.4944,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -3991,6 +4030,9 @@
    "name": "Ciné Gedinne",
    "city": "Gedinne",
    "brand": "",
+   "address": "Rue de la Croisette 11, 5575 Gedinne",
+   "lat": 49.9788,
+   "lng": 4.9368,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -4098,6 +4140,9 @@
    "name": "Ciné-Chaplin",
    "city": "Viroinval",
    "brand": "",
+   "address": "Rue de l'Eglise 20, 5670 Viroinval",
+   "lat": 50.0758,
+   "lng": 4.5488,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -4161,6 +4206,9 @@
    "name": "Ciné4 Nivelles",
    "city": "Nivelles",
    "brand": "",
+   "address": "Rue de Soignies 4, 1400 Nivelles",
+   "lat": 50.5978,
+   "lng": 4.3217,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -4356,6 +4404,9 @@
    "name": "CinéBrel - Fondation Jacques Brel",
    "city": "Bruxelles",
    "brand": "",
+   "address": "Place de la Vieille Halle aux Blés, 1000 Bruxelles",
+   "lat": 50.844,
+   "lng": 4.352,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -4420,8 +4471,22 @@
    "name": "Cinéma CAMEO",
    "city": "Namur",
    "brand": "",
+   "address": "Rue des Carmes 49, 5000 Namur",
+   "lat": 50.4668,
+   "lng": 4.8637,
    "fetchedAt": "2026-10-11",
    "films": [
+    {
+     "slug": "1022020",
+     "title": "Akira (Version restaurée 4K)",
+     "originalTitle": "",
+     "year": 1988,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-09-09",
+     "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie1022020",
+     "status": "now_showing"
+    },
     {
      "slug": "1027874",
      "title": "Chopin, Chopin!",
@@ -4465,6 +4530,18 @@
      "releaseDate": "2026-09-23",
      "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie1027749",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027901",
+     "title": "Grandir",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-10-15",
+     "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie1027901",
+     "status": "coming_soon"
     },
     {
      "slug": "1027856",
@@ -4564,6 +4641,17 @@
      "releaseDate": "2026-10-14",
      "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie1027844",
      "status": "coming_soon"
+    },
+    {
+     "slug": "1027765",
+     "title": "Leviticus",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie1027765",
+     "status": "now_showing"
     },
     {
      "slug": "1027828",
@@ -4747,6 +4835,9 @@
    "name": "Cinéma Cameo (Tamines)",
    "city": "Tamines",
    "brand": "",
+   "address": "Rue Notre Dame 27, 5060 Tamines",
+   "lat": 50.442,
+   "lng": 4.6082,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -4843,6 +4934,9 @@
    "name": "Cinéma For&ver",
    "city": "Mouscron",
    "brand": "",
+   "address": "Rue de la Marlière 31, 7700 Mouscron",
+   "lat": 50.7424,
+   "lng": 3.2045,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -5027,6 +5121,9 @@
    "name": "Cinéma Le Stockel",
    "city": "Bruxelles",
    "brand": "",
+   "address": "Avenue de Hinnisdael 17, 1150 Bruxelles",
+   "lat": 50.841,
+   "lng": 4.4657,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -5189,6 +5286,9 @@
    "name": "Cinéma Nova",
    "city": "Bruxelles",
    "brand": "",
+   "address": "Rue d'Arenberg 3, 1000 Bruxelles",
+   "lat": 50.8484,
+   "lng": 4.3561,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -5278,6 +5378,9 @@
    "name": "Cinéma Vendôme",
    "city": "Bruxelles",
    "brand": "",
+   "address": "Chaussée de Wavre 18, 1050 Bruxelles",
+   "lat": 50.8374,
+   "lng": 4.3629,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -5396,6 +5499,9 @@
    "name": "Cinéma l'Etoile",
    "city": "Jodoigne",
    "brand": "",
+   "address": "Grand'Place 40, 1370 Jodoigne",
+   "lat": 50.7249,
+   "lng": 4.8684,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -5503,6 +5609,9 @@
    "name": "Galeries Cinéma",
    "city": "Bruxelles",
    "brand": "",
+   "address": "Galerie de la Reine 26, 1000 Bruxelles",
+   "lat": 50.8475,
+   "lng": 4.3546,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -5587,6 +5696,9 @@
    "name": "Imagix Tournai",
    "city": "Tournai",
    "brand": "Imagix",
+   "address": "Boulevard Delwart 60, 7500 Tournai",
+   "lat": 50.6147,
+   "lng": 3.3866,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -5727,6 +5839,9 @@
    "name": "Kinepolis Antwerpen",
    "city": "Antwerpen",
    "brand": "Kinepolis",
+   "address": "Groenendaallaan 394, 2030 Antwerpen",
+   "lat": 51.2453,
+   "lng": 4.4158,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -6075,6 +6190,9 @@
    "name": "Kinepolis Bruxelles",
    "city": "Bruxelles",
    "brand": "Kinepolis",
+   "address": "Boulevard du Centenaire 20, 1020 Bruxelles",
+   "lat": 50.8954,
+   "lng": 4.3374,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -6380,6 +6498,9 @@
    "name": "Kinepolis Imagibraine",
    "city": "Braine-l'Alleud",
    "brand": "Kinepolis",
+   "address": "Boulevard de France, 1420 Braine-l'Alleud",
+   "lat": 50.6662,
+   "lng": 4.3788,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -6619,6 +6740,9 @@
    "name": "Kinepolis Liège",
    "city": "Liège",
    "brand": "Kinepolis",
+   "address": "Chaussée de Tongres 200, 4000 Liège",
+   "lat": 50.5557,
+   "lng": 5.3065,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -6737,6 +6861,9 @@
    "name": "L'Ecran Ath",
    "city": "Ath",
    "brand": "",
+   "address": "Rue du Gouvernement 1, 7800 Ath",
+   "lat": 50.6306,
+   "lng": 3.7759,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -6814,6 +6941,9 @@
    "name": "Le Churchill",
    "city": "Liège",
    "brand": "",
+   "address": "Rue du Mouton Blanc 20, 4000 Liège",
+   "lat": 50.6413,
+   "lng": 5.5699,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -7011,6 +7141,9 @@
    "name": "Le Foyer",
    "city": "Habay-la-Vieille",
    "brand": "",
+   "address": "Place Saint-Etienne 6, 6723 Habay-la-Vieille",
+   "lat": 49.7231,
+   "lng": 5.6184,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -7140,6 +7273,9 @@
    "name": "Le Parc",
    "city": "Liège",
    "brand": "",
+   "address": "Rue Paul Joseph Carpay 22, 4020 Liège",
+   "lat": 50.6462,
+   "lng": 5.6025,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -7236,6 +7372,9 @@
    "name": "Le Stuart",
    "city": "La Louvière",
    "brand": "",
+   "address": "Rue Sylvain Guyaux 16, 7100 La Louvière",
+   "lat": 50.4754,
+   "lng": 4.1864,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -7398,6 +7537,9 @@
    "name": "Le Totem",
    "city": "Libramont",
    "brand": "",
+   "address": "Avenue d’Houffalize 56D, 6800 Libramont",
+   "lat": 49.9462,
+   "lng": 5.4224,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -7418,6 +7560,9 @@
    "name": "Les Variétés",
    "city": "Waremme",
    "brand": "",
+   "address": "Avenue Edmond Leburton 39, 4300 Waremme",
+   "lat": 50.6985,
+   "lng": 5.2592,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -7547,6 +7692,9 @@
    "name": "Lumière Antwerpen",
    "city": "Antwerpen",
    "brand": "Lumière",
+   "address": "Lakenstraat 14, 2000 Antwerpen",
+   "lat": 51.2094,
+   "lng": 4.3876,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -7633,6 +7781,9 @@
    "name": "Lumière Mechelen",
    "city": "Mechelen",
    "brand": "Lumière",
+   "address": "Frederik de Merodestraat 28, 2800 Mechelen",
+   "lat": 51.03,
+   "lng": 4.482,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -7762,6 +7913,9 @@
    "name": "Moviemills",
    "city": "Malmedy",
    "brand": "",
+   "address": "Avenue de la Libération 1a, 4960 Malmedy",
+   "lat": 50.4319,
+   "lng": 6.028,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -7924,6 +8078,9 @@
    "name": "Nos Loisirs",
    "city": "Saint-Mard",
    "brand": "",
+   "address": "Rue Léon Colleaux 34, 6762 Saint-Mard",
+   "lat": 49.5545,
+   "lng": 5.5332,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -8009,6 +8166,9 @@
    "name": "Palace",
    "city": "Bruxelles",
    "brand": "",
+   "address": "Boulevard Anspach 85, 1000 Bruxelles",
+   "lat": 50.8477,
+   "lng": 4.3488,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -8249,6 +8409,9 @@
    "name": "Pathé Charleroi",
    "city": "Charleroi",
    "brand": "Pathé",
+   "address": "Centre commercial Ville 2 - Grand Rue 141-143, 6000 Charleroi",
+   "lat": 50.4163,
+   "lng": 4.4485,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -8532,6 +8695,9 @@
    "name": "Patria",
    "city": "Virton",
    "brand": "",
+   "address": "Rue des Fossés 20, 6760 Virton",
+   "lat": 49.5681,
+   "lng": 5.5337,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -8639,6 +8805,9 @@
    "name": "Plaza ArtHouse Cinema",
    "city": "Mons",
    "brand": "",
+   "address": "Rue de Nimy 12, 7000 Mons",
+   "lat": 50.4553,
+   "lng": 3.9534,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -8849,6 +9018,9 @@
    "name": "Plaza Hotton",
    "city": "Hotton",
    "brand": "",
+   "address": "Rue Simon 14, 6990 Hotton",
+   "lat": 50.2666,
+   "lng": 5.4483,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -8956,6 +9128,9 @@
    "name": "Sauvenière",
    "city": "Liège",
    "brand": "",
+   "address": "Place Xavier Neujean 14, 4000 Liège",
+   "lat": 50.6429,
+   "lng": 5.5681,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -9140,6 +9315,9 @@
    "name": "Sphinx",
    "city": "Gent",
    "brand": "",
+   "address": "Sint-Michielshelling 3, 9000 Gent",
+   "lat": 51.0537,
+   "lng": 3.7214,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -9280,6 +9458,9 @@
    "name": "Studio Skoop",
    "city": "Gent",
    "brand": "",
+   "address": "Sint-Annaplein 63, 9000 Gent",
+   "lat": 51.0488,
+   "lng": 3.7339,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -9432,6 +9613,9 @@
    "name": "UGC De Brouckère",
    "city": "Bruxelles",
    "brand": "UGC",
+   "address": "Place de Brouckère 38, 1000 Bruxelles",
+   "lat": 50.8518,
+   "lng": 4.3525,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -9672,6 +9856,9 @@
    "name": "UGC Toison d'Or",
    "city": "Bruxelles",
    "brand": "UGC",
+   "address": "Avenue de la Toison d'Or 8-17, 1050 Bruxelles",
+   "lat": 50.8384,
+   "lng": 4.3618,
    "fetchedAt": "2026-10-11",
    "films": [
     {
@@ -9955,6 +10142,9 @@
    "name": "Versailles",
    "city": "Stavelot",
    "brand": "",
+   "address": "Rue Hottonruy 3, 4970 Stavelot",
+   "lat": 50.3928,
+   "lng": 5.9291,
    "fetchedAt": "2026-10-11",
    "films": [
     {

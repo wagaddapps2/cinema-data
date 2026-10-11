@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-11T18:12:58.422Z",
+ "updatedAt": "2026-10-11T21:31:37.584Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
@@ -141,6 +141,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101993",
+     "title": "Prem Keetanu",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101993/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102075",
      "title": "The Legendaries",
      "rating": "",
@@ -168,6 +177,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101996",
      "title": "Sigma",
      "rating": "",
@@ -177,12 +195,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101993",
-     "title": "Prem Keetanu",
+     "slug": "2102088",
+     "title": "Acharya",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101993/",
+     "url": "https://elcinema.com/en/work/2102088/",
      "status": "now_showing"
     },
     {
@@ -204,12 +222,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098232",
-     "title": "Verity",
+     "slug": "2100812",
+     "title": "Charlie Harper",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2098232/",
+     "url": "https://elcinema.com/en/work/2100812/",
      "status": "now_showing"
     },
     {
@@ -231,12 +249,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101328",
-     "title": "The Vvaan: Force of the Forrest",
+     "slug": "2100562",
+     "title": "Heart of the Beast",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101328/",
+     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {
@@ -249,30 +267,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101963",
-     "title": "The Smurfs Timeless Adventure Volume 2",
+     "slug": "2101328",
+     "title": "The Vvaan: Force of the Forrest",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101963/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2100562/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101960",
-     "title": "Pension Patta",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101960/",
+     "url": "https://elcinema.com/en/work/2101328/",
      "status": "now_showing"
     },
     {
@@ -285,6 +285,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101963",
+     "title": "The Smurfs Timeless Adventure Volume 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2101963/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099729",
+     "title": "Sacrifice",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2099729/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101957",
      "title": "Meesaya Murukku 2",
      "rating": "",
@@ -294,21 +312,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099778",
-     "title": "Tad and the Magic Lamp",
+     "slug": "2101960",
+     "title": "Pension Patta",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2099778/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101847",
-     "title": "Vibe",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2101847/",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2101960/",
      "status": "now_showing"
     },
     {
@@ -321,12 +330,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101847",
+     "title": "Vibe",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-17",
+     "url": "https://elcinema.com/en/work/2101847/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2095876",
      "title": "Pressure",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-17",
      "url": "https://elcinema.com/en/work/2095876/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099778",
+     "title": "Tad and the Magic Lamp",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-17",
+     "url": "https://elcinema.com/en/work/2099778/",
      "status": "now_showing"
     },
     {
@@ -339,12 +366,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101674",
-     "title": "Hanuman Ansh",
+     "slug": "2095662",
+     "title": "Red Flag",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-10",
-     "url": "https://elcinema.com/en/work/2101674/",
+     "url": "https://elcinema.com/en/work/2095662/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099594",
+     "title": "Practical Magic 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-10",
+     "url": "https://elcinema.com/en/work/2099594/",
      "status": "now_showing"
     },
     {
@@ -354,6 +390,15 @@
      "language": "",
      "releaseDate": "2026-09-10",
      "url": "https://elcinema.com/en/work/2100043/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101674",
+     "title": "Hanuman Ansh",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-10",
+     "url": "https://elcinema.com/en/work/2101674/",
      "status": "now_showing"
     },
     {
@@ -375,30 +420,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099594",
-     "title": "Practical Magic 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-10",
-     "url": "https://elcinema.com/en/work/2099594/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095662",
-     "title": "Red Flag",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-10",
-     "url": "https://elcinema.com/en/work/2095662/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099766",
      "title": "Fall 2: Deadpoint",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-03",
      "url": "https://elcinema.com/en/work/2099766/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098943",
+     "title": "I'm Game",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-01",
+     "url": "https://elcinema.com/en/work/2098943/",
      "status": "now_showing"
     },
     {
@@ -492,15 +528,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099005",
-     "title": "Backrooms",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-05-27",
-     "url": "https://elcinema.com/en/work/2099005/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095884",
      "title": "Moana",
      "rating": "",
@@ -516,33 +543,6 @@
      "language": "",
      "releaseDate": "2019-04-23",
      "url": "https://elcinema.com/en/work/2032663/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2044084",
-     "title": "Smurfs: The Lost Village",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2017-03-30",
-     "url": "https://elcinema.com/en/work/2044084/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2020979",
-     "title": "Interstellar",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2014-12-18",
-     "url": "https://elcinema.com/en/work/2020979/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "1293917",
-     "title": "The Dark Knight Rises",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2012-08-16",
-     "url": "https://elcinema.com/en/work/1293917/",
      "status": "now_showing"
     },
     {

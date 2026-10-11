@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-11T18:11:03.376Z",
+ "updatedAt": "2026-10-11T21:29:03.875Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -172,15 +172,6 @@
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/the-florist",
      "status": "now_showing"
-    },
-    {
-     "slug": "street-fighter",
-     "title": "Street Fighter",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": "2026-10-15",
-     "url": "https://kwt.voxcinemas.com/movies/street-fighter",
-     "status": "coming_soon"
     },
     {
      "slug": "the-dino-family",
@@ -2186,6 +2177,15 @@
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101332/",
      "status": "now_showing"
+    },
+    {
+     "slug": "2101955",
+     "title": "SB19 Wakas at Simula: Trilogy Concert",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101955/",
+     "status": "now_showing"
     }
    ]
   },
@@ -2226,6 +2226,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100784",
+     "title": "The Florist",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100784/",
      "status": "now_showing"
     }
    ]
@@ -2542,15 +2551,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100784",
-     "title": "The Florist",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100784/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2100562",
      "title": "Heart of the Beast",
      "rating": "",
@@ -2584,15 +2584,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101678",
-     "title": "The Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101678/",
      "status": "now_showing"
     },
     {
@@ -2656,15 +2647,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2095662/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101362",
-     "title": "Beware Boiúna",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101362/",
      "status": "now_showing"
     }
    ]
