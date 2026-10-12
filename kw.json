@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T12:22:35.222Z",
+ "updatedAt": "2026-10-12T18:12:01.495Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -1053,33 +1053,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "street-fighter-english",
-     "title": "Street Fighter",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/street-fighter-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "saoud-wainah-qatari-arabic",
-     "title": "Saoud Wainah (Qatari) -",
-     "rating": "PG12",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/saoud-wainah-qatari-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "whalefall-english",
-     "title": "Whalefall",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/whalefall-english",
-     "status": "coming_soon"
-    },
-    {
      "slug": "ranabaali-telugu",
      "title": "Ranabaali",
      "rating": "",
@@ -1472,6 +1445,33 @@
    "name": "Ozone Cinemas Jahra",
    "films": [
     {
+     "slug": "street-fighter-english",
+     "title": "Street Fighter",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/street-fighter-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "saoud-wainah-qatari-arabic",
+     "title": "Saoud Wainah (Qatari) -",
+     "rating": "PG12",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/saoud-wainah-qatari-arabic",
+     "status": "now_showing"
+    },
+    {
+     "slug": "whalefall-english",
+     "title": "Whalefall",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/whalefall-english",
+     "status": "now_showing"
+    },
+    {
      "slug": "matloub-aaeleyan-arabic",
      "title": "Matloub Aaeleyan",
      "rating": "R15",
@@ -1604,33 +1604,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-shawshank-redemption-1994-re-release-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "street-fighter-english",
-     "title": "Street Fighter",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/street-fighter-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "saoud-wainah-qatari-arabic",
-     "title": "Saoud Wainah (Qatari) -",
-     "rating": "PG12",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/saoud-wainah-qatari-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "whalefall-english",
-     "title": "Whalefall",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/whalefall-english",
      "status": "coming_soon"
     },
     {
