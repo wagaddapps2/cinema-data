@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T06:17:36.925Z",
+ "updatedAt": "2026-10-12T12:22:35.222Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -1044,6 +1044,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "the-shawshank-redemption-1994-re-release-english",
+     "title": "The Shawshank Redemption 1994 Re-Release",
+     "rating": "R18",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-shawshank-redemption-1994-re-release-english",
+     "status": "coming_soon"
+    },
+    {
      "slug": "street-fighter-english",
      "title": "Street Fighter",
      "rating": "R15",
@@ -1086,6 +1095,24 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/clayface-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "no-paradise-if-you-are-killed-by-a-woman-english",
+     "title": "No Paradise If You Are Killed by a Woman",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/no-paradise-if-you-are-killed-by-a-woman-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "soy-turkish",
+     "title": "Soy",
+     "rating": "",
+     "language": "Turkish",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/soy-turkish",
      "status": "coming_soon"
     },
     {
@@ -1571,6 +1598,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "the-shawshank-redemption-1994-re-release-english",
+     "title": "The Shawshank Redemption 1994 Re-Release",
+     "rating": "R18",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-shawshank-redemption-1994-re-release-english",
+     "status": "coming_soon"
+    },
+    {
      "slug": "street-fighter-english",
      "title": "Street Fighter",
      "rating": "R15",
@@ -1613,6 +1649,24 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/clayface-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "no-paradise-if-you-are-killed-by-a-woman-english",
+     "title": "No Paradise If You Are Killed by a Woman",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/no-paradise-if-you-are-killed-by-a-woman-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "soy-turkish",
+     "title": "Soy",
+     "rating": "",
+     "language": "Turkish",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/soy-turkish",
      "status": "coming_soon"
     },
     {
@@ -2035,15 +2089,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098168",
-     "title": "The Social Reckoning",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098168/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095876",
      "title": "Pressure",
      "rating": "",
@@ -2089,6 +2134,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098168",
+     "title": "The Social Reckoning",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098168/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2094924",
      "title": "Coyote vs. Acme",
      "rating": "",
@@ -2123,15 +2177,6 @@
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101955/",
      "status": "now_showing"
-    },
-    {
-     "slug": "2101332",
-     "title": "Wake",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101332/",
-     "status": "now_showing"
     }
    ]
   },
@@ -2148,12 +2193,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100784",
-     "title": "The Florist",
+     "slug": "2100562",
+     "title": "Heart of the Beast",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100784/",
+     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {
@@ -2172,15 +2217,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101963/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     }
    ]
@@ -2239,12 +2275,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098168",
-     "title": "The Social Reckoning",
+     "slug": "2100562",
+     "title": "Heart of the Beast",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098168/",
+     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {
@@ -2257,21 +2293,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101997/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098173",
      "title": "Resident Evil",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2098173/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101362",
-     "title": "Beware Boiúna",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101362/",
      "status": "now_showing"
     },
     {
@@ -2284,12 +2320,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
+     "slug": "2098168",
+     "title": "The Social Reckoning",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100562/",
+     "url": "https://elcinema.com/en/work/2098168/",
      "status": "now_showing"
     },
     {
@@ -2299,15 +2335,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101997",
-     "title": "Drishyam: The Conclusion",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101997/",
      "status": "now_showing"
     },
     {
@@ -2438,12 +2465,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098168",
-     "title": "The Social Reckoning",
+     "slug": "2100562",
+     "title": "Heart of the Beast",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098168/",
+     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {
@@ -2465,12 +2492,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
+     "slug": "2098168",
+     "title": "The Social Reckoning",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100562/",
+     "url": "https://elcinema.com/en/work/2098168/",
      "status": "now_showing"
     }
    ]

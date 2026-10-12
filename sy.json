@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-10-12T06:19:14.893Z",
+ "updatedAt": "2026-10-12T12:24:16.202Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
    "name": "Cinemas in Syria",
    "films": [
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
     {
      "slug": "2100853",
      "title": "The Love Hypothesis",
@@ -21,6 +12,15 @@
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2100853/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -48,6 +48,33 @@
      "language": "",
      "releaseDate": "2026-09-10",
      "url": "https://elcinema.com/en/work/2095662/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2033248",
+     "title": "Inside Out",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-05-21",
+     "url": "https://elcinema.com/en/work/2033248/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2086212",
+     "title": "In Your Dreams",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-01-01",
+     "url": "https://elcinema.com/en/work/2086212/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2042564",
+     "title": "Dumbo",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-08-28",
+     "url": "https://elcinema.com/en/work/2042564/",
      "status": "now_showing"
     },
     {
