@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T18:12:01.495Z",
+ "updatedAt": "2026-10-13T00:18:09.547Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -174,6 +174,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "jailer-2-tamil",
+     "title": "Jailer 2",
+     "rating": "R15",
+     "language": "Tamil",
+     "url": "https://kwt.voxcinemas.com/movies/jailer-2-tamil",
+     "status": "now_showing"
+    },
+    {
+     "slug": "sa3oud-wainah-arabic",
+     "title": "Sa3oud Wainah",
+     "rating": "PG12",
+     "language": "Arabic",
+     "url": "https://kwt.voxcinemas.com/movies/sa3oud-wainah-arabic",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-shawshank-redemption-re-release",
+     "title": "The Shawshank Redemption (Re-release)",
+     "rating": "R18",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/the-shawshank-redemption-re-release",
+     "status": "now_showing"
+    },
+    {
      "slug": "the-dino-family",
      "title": "The Dino Family",
      "rating": "18TC",
@@ -212,7 +236,7 @@
     {
      "slug": "sa3oud-wainah-arabic",
      "title": "Sa3oud Wainah",
-     "rating": "18TC",
+     "rating": "PG12",
      "language": "Arabic",
      "releaseDate": "2026-10-15",
      "url": "https://kwt.voxcinemas.com/movies/sa3oud-wainah-arabic",
@@ -221,7 +245,7 @@
     {
      "slug": "jailer-2-tamil",
      "title": "Jailer 2",
-     "rating": "18TC",
+     "rating": "R15",
      "language": "Tamil",
      "releaseDate": "2026-10-15",
      "url": "https://kwt.voxcinemas.com/movies/jailer-2-tamil",
@@ -230,7 +254,7 @@
     {
      "slug": "the-shawshank-redemption-re-release",
      "title": "The Shawshank Redemption (Re-release)",
-     "rating": "18TC",
+     "rating": "R18",
      "language": "English",
      "releaseDate": "2026-10-15",
      "url": "https://kwt.voxcinemas.com/movies/the-shawshank-redemption-re-release",
@@ -306,6 +330,15 @@
      "language": "English",
      "releaseDate": "2026-10-29",
      "url": "https://kwt.voxcinemas.com/movies/wildwood",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "godzilla-minus-zero-preview-screening-japanese",
+     "title": "Godzilla Minus Zero - Preview Screening",
+     "rating": "18TC",
+     "language": "Japanese",
+     "releaseDate": "2026-11-03",
+     "url": "https://kwt.voxcinemas.com/movies/godzilla-minus-zero-preview-screening-japanese",
      "status": "coming_soon"
     },
     {
@@ -2062,6 +2095,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098168",
+     "title": "The Social Reckoning",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098168/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2095876",
      "title": "Pressure",
      "rating": "",
@@ -2107,15 +2149,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098168",
-     "title": "The Social Reckoning",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098168/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2094924",
      "title": "Coyote vs. Acme",
      "rating": "",
@@ -2150,6 +2183,15 @@
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101955/",
      "status": "now_showing"
+    },
+    {
+     "slug": "2101332",
+     "title": "Wake",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101332/",
+     "status": "now_showing"
     }
    ]
   },
@@ -2166,12 +2208,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
+     "slug": "2100784",
+     "title": "The Florist",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100562/",
+     "url": "https://elcinema.com/en/work/2100784/",
      "status": "now_showing"
     },
     {
@@ -2190,6 +2232,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101963/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     }
    ]
@@ -2248,6 +2299,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098168",
+     "title": "The Social Reckoning",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098168/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100562",
      "title": "Heart of the Beast",
      "rating": "",
@@ -2284,21 +2344,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101362",
+     "title": "Beware Boiúna",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101362/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100784",
      "title": "The Florist",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2100784/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098168",
-     "title": "The Social Reckoning",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098168/",
      "status": "now_showing"
     },
     {
@@ -2463,15 +2523,6 @@
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2100784/",
      "status": "now_showing"
-    },
-    {
-     "slug": "2098168",
-     "title": "The Social Reckoning",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098168/",
-     "status": "now_showing"
     }
    ]
   },
@@ -2497,12 +2548,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101997",
-     "title": "Drishyam: The Conclusion",
+     "slug": "2100784",
+     "title": "The Florist",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101997/",
+     "url": "https://elcinema.com/en/work/2100784/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095519",
+     "title": "Other Mommy",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098232/",
      "status": "now_showing"
     },
     {
@@ -2524,21 +2593,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095519",
-     "title": "Other Mommy",
+     "slug": "2101678",
+     "title": "The Beast",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098232/",
+     "url": "https://elcinema.com/en/work/2101678/",
      "status": "now_showing"
     },
     {
@@ -2569,21 +2629,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095765",
-     "title": "Spider-Man: Brand New Day",
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095765/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101955",
-     "title": "SB19 Wakas at Simula: Trilogy Concert",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101955/",
+     "url": "https://elcinema.com/en/work/2101997/",
      "status": "now_showing"
     },
     {
@@ -2593,6 +2644,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2095662/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101362",
+     "title": "Beware Boiúna",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101362/",
      "status": "now_showing"
     }
    ]

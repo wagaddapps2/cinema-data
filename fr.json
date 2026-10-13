@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T18:12:44.813Z",
+ "updatedAt": "2026-10-13T00:18:50.659Z",
  "territory": "FR",
  "cinemas": {
   "linternaute-fr": {
@@ -147,15 +147,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11280744-ni-vue-ni-connue/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916627",
-     "title": "Le Corset",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
      "status": "now_showing"
     },
     {
@@ -312,30 +303,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "11301839",
-     "title": "Always Lalisa",
+     "slug": "11303993",
+     "title": "Street Fighter",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11301839-always-lalisa/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303993-street-fighter/",
      "status": "now_showing"
     },
     {
-     "slug": "2161930",
-     "title": "Sans toit ni loi",
+     "slug": "8931971",
+     "title": "La Légende de Baahubali : l'épopée",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2161930-sans-toit-ni-loi/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/8931971-la-legende-de-baahubali-l-epopee/",
      "status": "now_showing"
     },
     {
-     "slug": "7335330",
-     "title": "L'Odyssée",
+     "slug": "11299497",
+     "title": "La Gradiva",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/7335330-l-odyssee-chef-d-oeuvre-epique-experience-brute-les-critiques-sont-unanimes/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
      "status": "now_showing"
     },
     {
@@ -354,15 +345,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11248118-les-roches-rouges/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916645",
-     "title": "Minotaure",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
      "status": "now_showing"
     },
     {
@@ -402,6 +384,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "11146982",
+     "title": "Les survivants du Che",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11146982-les-survivants-du-che/",
+     "status": "now_showing"
+    },
+    {
      "slug": "11248136",
      "title": "Fini de rire ! L'humour politique au garde-à-vous ?",
      "rating": "",
@@ -429,15 +420,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "10637232",
-     "title": "Backrooms",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10637232-backrooms/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2166706",
      "title": "Aprile",
      "rating": "",
@@ -456,84 +438,57 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102473",
-     "title": "Rebels of the Neon God",
+     "slug": "2190170",
+     "title": "La Rivière",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2102473-rebels-of-the-neon-god/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2190170-la-riviere/",
      "status": "now_showing"
     },
     {
-     "slug": "2166596",
-     "title": "Maison de poupée",
+     "slug": "10573778",
+     "title": "Hair, Paper, Water...",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2166596-maison-de-poupee/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10573778-hair-paper-water/",
      "status": "now_showing"
     },
     {
-     "slug": "1867503",
-     "title": "Maman a cent ans",
+     "slug": "2678080",
+     "title": "Girl Picture",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/1867503-maman-a-cent-ans/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2678080-girl-picture/",
      "status": "now_showing"
     },
     {
-     "slug": "2045851",
-     "title": "Elisa, vida mia",
+     "slug": "9745034",
+     "title": "La maison des femmes",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2045851-elisa-vida-mia/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/9745034-la-maison-des-femmes/",
      "status": "now_showing"
     },
     {
-     "slug": "1828749",
-     "title": "Deux Hommes en fuite",
+     "slug": "2007147",
+     "title": "Elena",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/1828749-deux-hommes-en-fuite/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2007147-elena/",
      "status": "now_showing"
     },
     {
-     "slug": "2157670",
-     "title": "Le Messager",
+     "slug": "7335330",
+     "title": "L'Odyssée",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2157670-le-messager/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2171016",
-     "title": "Les Ailes du désir",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2171016-les-ailes-du-desir/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2156790",
-     "title": "Rashômon",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2156790-rashomon/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2157484",
-     "title": "La Planète sauvage",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2157484-la-planete-sauvage/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/7335330-l-odyssee-chef-d-oeuvre-epique-experience-brute-les-critiques-sont-unanimes/",
      "status": "now_showing"
     },
     {
@@ -543,15 +498,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/10338381-l-abandon-critique-interview-casting-tout-sur-le-film-sur-samuel-paty/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "8192539",
-     "title": "La femme infidèle (version restaurée)",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/8192539-la-femme-infidele-version-restauree/",
      "status": "now_showing"
     },
     {
@@ -573,21 +519,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2195184",
-     "title": "Douze hommes en colère",
+     "slug": "11305437",
+     "title": "Karma",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2195184-douze-hommes-en-colere/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11146982",
-     "title": "Les survivants du Che",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11146982-les-survivants-du-che/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma/",
      "status": "now_showing"
     },
     {
@@ -627,12 +564,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "11096263",
-     "title": "Salvation",
+     "slug": "10994080",
+     "title": "Oklahoma Honey",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11096263-salvation/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10994080-oklahoma-honey/",
      "status": "now_showing"
     },
     {
@@ -654,6 +591,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "10724912",
+     "title": "The Last Viking",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10724912-the-last-viking/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2203912",
      "title": "Trainspotting",
      "rating": "",
@@ -663,21 +609,102 @@
      "status": "now_showing"
     },
     {
-     "slug": "2206118",
-     "title": "Boogie nights",
+     "slug": "10839329",
+     "title": "I Want Your Sex",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2206118-boogie-nights/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10839329-i-want-your-sex/",
      "status": "now_showing"
     },
     {
-     "slug": "10637254",
-     "title": "Shana",
+     "slug": "2161930",
+     "title": "Sans toit ni loi",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10637254-shana/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2161930-sans-toit-ni-loi/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916647",
+     "title": "Soudain",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916647-soudain/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11045411",
+     "title": "L'Inconnue",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11045411-l-inconnue-c-etait-le-film-le-plus-etrange-de-l-annee-a-cannes-on-n-a-pas-tout-compris/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10929565",
+     "title": "Un grand raccourci",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10929565-un-grand-raccourci/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11198202",
+     "title": "La Ligne bleue",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11198202-la-ligne-bleue/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2191206",
+     "title": "Le Cuirassé Potemkine",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2191206-le-cuirasse-potemkine/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10435880",
+     "title": "Bouchra",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10435880-bouchra/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11045421",
+     "title": "New Group",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11045421-new-group/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1862727",
+     "title": "Appel d'urgence",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/1862727-appel-d-urgence/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2132746",
+     "title": "La Pointe courte",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2132746-la-pointe-courte/",
      "status": "now_showing"
     },
     {
@@ -699,12 +726,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "11304007",
-     "title": "Les Misérables",
+     "slug": "10942480",
+     "title": "Tombé du ciel",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10942480-tombe-du-ciel/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11146974",
+     "title": "Les héros du Louvre",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11146974-les-heros-du-louvre/",
      "status": "now_showing"
     },
     {
@@ -717,39 +753,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "11303999",
-     "title": "Où vont les âmes",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11303999-ou-vont-les-ames/",
-     "status": "now_showing"
-    },
-    {
      "slug": "11303101",
      "title": "Shaun le Mouton : La bêêête d'Halloween",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11303101-shaun-le-mouton-la-beeete-d-halloween/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10942480",
-     "title": "Tombé du ciel",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10942480-tombe-du-ciel/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10890943",
-     "title": "La Pat' Patrouille : Le film-Mission Dino",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10890943-la-pat-patrouille-le-film-mission-dino/",
      "status": "now_showing"
     },
     {
@@ -780,39 +789,48 @@
      "status": "now_showing"
     },
     {
-     "slug": "11299497",
-     "title": "La Gradiva",
+     "slug": "9933398",
+     "title": "Plus fort que moi",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/9933398-plus-fort-que-moi/",
      "status": "now_showing"
     },
     {
-     "slug": "2000057",
-     "title": "Hunger Games",
+     "slug": "10890943",
+     "title": "La Pat' Patrouille : Le film-Mission Dino",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2000057-hunger-games/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10890943-la-pat-patrouille-le-film-mission-dino/",
      "status": "now_showing"
     },
     {
-     "slug": "2128731",
-     "title": "Azul",
+     "slug": "1825787",
+     "title": "La Reconquête",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2128731-azul/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/1825787-la-reconquete/",
      "status": "now_showing"
     },
     {
-     "slug": "11146974",
-     "title": "Les héros du Louvre",
+     "slug": "1951207",
+     "title": "Snowpiercer : le Transperceneige",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11146974-les-heros-du-louvre/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/1951207-snowpiercer-le-transperceneige/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11045407",
+     "title": "Decorado",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11045407-decorado/",
      "status": "now_showing"
     },
     {
@@ -825,21 +843,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "10662072",
-     "title": "The Dog Stars",
+     "slug": "10637296",
+     "title": "In Waves",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10662072-the-dog-stars-faut-il-voir-le-nouveau-de-ridley-scott-l-avis-des-critiques/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10637296-in-waves/",
      "status": "now_showing"
     },
     {
-     "slug": "11032530",
-     "title": "Histoires de la nuit",
+     "slug": "10687558",
+     "title": "Enfants de Palestine - Deux histoires de Cisjordanie",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11032530-histoires-de-la-nuit/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10687558-enfants-de-palestine-deux-histoires-de-cisjordanie/",
      "status": "now_showing"
     },
     {
@@ -861,21 +879,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "11198202",
-     "title": "La Ligne bleue",
+     "slug": "1929052",
+     "title": "Délivre-nous du mal",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11198202-la-ligne-bleue/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916647",
-     "title": "Soudain",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916647-soudain/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/1929052-delivre-nous-du-mal/",
      "status": "now_showing"
     },
     {
@@ -888,21 +897,39 @@
      "status": "now_showing"
     },
     {
-     "slug": "1911336",
-     "title": "Whiplash",
+     "slug": "9896448",
+     "title": "Les Chaillées de l'enfer",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/1911336-whiplash/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/9896448-les-chaillees-de-l-enfer/",
      "status": "now_showing"
     },
     {
-     "slug": "8919481",
-     "title": "Le Garçon qui faisait danser les collines",
+     "slug": "9228467",
+     "title": "Love Me Tender",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/8919481-le-garcon-qui-faisait-danser-les-collines/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/9228467-love-me-tender/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2000057",
+     "title": "Hunger Games",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2000057-hunger-games/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "8796764",
+     "title": "Nouvelle Vague",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/8796764-nouvelle-vague/",
      "status": "now_showing"
     },
     {
@@ -915,21 +942,39 @@
      "status": "now_showing"
     },
     {
-     "slug": "2173186",
-     "title": "Cinema Paradiso",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2173186-cinema-paradiso/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2203346",
      "title": "Les Autres",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/2203346-les-autres/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2127098",
+     "title": "Le Schpountz",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2127098-le-schpountz/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306141",
+     "title": "Quelques mots d'amour",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306141-quelques-mots-d-amour/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11303119",
+     "title": "L'Affaire Marie-Claire",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303119-l-affaire-marie-claire/",
      "status": "now_showing"
     }
    ]
