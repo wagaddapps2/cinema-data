@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T12:18:24.438Z",
+ "updatedAt": "2026-10-13T16:55:58.652Z",
  "territory": "BE",
  "cinemas": {
   "cinebel-693": {
@@ -6942,16 +6942,191 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027124",
+     "title": "L'Odyssée",
+     "originalTitle": "The Odyssey",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VF",
+     "releaseDate": "2026-07-15",
+     "url": "https://cinebel.dhnet.be/cinema/874/Imagix%20Huy#movie1027124",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027524",
+     "title": "L'île des souvenirs",
+     "originalTitle": "Forgotten Island",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/874/Imagix%20Huy#movie1027524",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028011",
+     "title": "La Maison de nos rêves",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "9+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/874/Imagix%20Huy#movie1028011",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027544",
+     "title": "La Pat' Patrouille - Le Film: Mission Dino",
+     "originalTitle": "PAW Patrol: The Dino Movie",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-08-05",
+     "url": "https://cinebel.dhnet.be/cinema/874/Imagix%20Huy#movie1027544",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027546",
      "title": "Le Gâteau du président / The President's Cake",
      "originalTitle": "Mamlaket al-qasab",
      "year": 2025,
      "rating": "6+",
      "language": "VO",
-     "releaseDate": null,
-     "firstShowing": "2026-10-15",
+     "releaseDate": "2026-05-27",
      "url": "https://cinebel.dhnet.be/cinema/874/Imagix%20Huy#movie1027546",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027626",
+     "title": "Les Ensorceleuses 2",
+     "originalTitle": "Practical Magic 2",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-09-09",
+     "url": "https://cinebel.dhnet.be/cinema/874/Imagix%20Huy#movie1027626",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027844",
+     "title": "Les Misérables",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/874/Imagix%20Huy#movie1027844",
      "status": "coming_soon"
+    },
+    {
+     "slug": "1027863",
+     "title": "Malfaisante",
+     "originalTitle": "Other Mommy",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VF",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/874/Imagix%20Huy#movie1027863",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027828",
+     "title": "Mochy",
+     "originalTitle": "Yugly",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/874/Imagix%20Huy#movie1027828",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027651",
+     "title": "Resident Evil",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VF",
+     "releaseDate": "2026-09-16",
+     "url": "https://cinebel.dhnet.be/cinema/874/Imagix%20Huy#movie1027651",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1026727",
+     "title": "Spider-Man: Brand New Day",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-07-29",
+     "url": "https://cinebel.dhnet.be/cinema/874/Imagix%20Huy#movie1026727",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027242",
+     "title": "Street Fighter",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/874/Imagix%20Huy#movie1027242",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027806",
+     "title": "Tad l'explorateur et la lampe magique",
+     "originalTitle": "Tadeo Jones y la lámpara maravillosa",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/874/Imagix%20Huy#movie1027806",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027760",
+     "title": "The Social Reckoning",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/874/Imagix%20Huy#movie1027760",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027572",
+     "title": "Tombé du ciel",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-08-12",
+     "url": "https://cinebel.dhnet.be/cinema/874/Imagix%20Huy#movie1027572",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027020",
+     "title": "Toy Story 5",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-06-17",
+     "url": "https://cinebel.dhnet.be/cinema/874/Imagix%20Huy#movie1027020",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027645",
+     "title": "Verity",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VF",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/874/Imagix%20Huy#movie1027645",
+     "status": "now_showing"
     }
    ]
   },
@@ -11686,6 +11861,260 @@
     }
    ]
   },
+  "cinebel-896": {
+   "name": "Pathé Acinapolis Namur",
+   "city": "Namur (Jambes)",
+   "brand": "Pathé",
+   "address": "Rue de la Gare fleurie, 16, 5100 Namur (Jambes)",
+   "lat": 50.4538,
+   "lng": 4.8739,
+   "fetchedAt": "2026-10-13",
+   "films": [
+    {
+     "slug": "1027312",
+     "title": "Des Minions et des Monstres",
+     "originalTitle": "Minions & Monsters",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-06-24",
+     "url": "https://cinebel.dhnet.be/cinema/896/Path%C3%A9%20Acinapolis%20Namur#movie1027312",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027241",
+     "title": "Ducobu et le fantôme de Saint-Potache",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/896/Path%C3%A9%20Acinapolis%20Namur#movie1027241",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027739",
+     "title": "Englouti",
+     "originalTitle": "Whalefall",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/896/Path%C3%A9%20Acinapolis%20Namur#movie1027739",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027742",
+     "title": "Heart of the Beast",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-09-23",
+     "url": "https://cinebel.dhnet.be/cinema/896/Path%C3%A9%20Acinapolis%20Namur#movie1027742",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027124",
+     "title": "L'Odyssée",
+     "originalTitle": "The Odyssey",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VF",
+     "releaseDate": "2026-07-15",
+     "url": "https://cinebel.dhnet.be/cinema/896/Path%C3%A9%20Acinapolis%20Namur#movie1027124",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027524",
+     "title": "L'île des souvenirs",
+     "originalTitle": "Forgotten Island",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/896/Path%C3%A9%20Acinapolis%20Namur#movie1027524",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028011",
+     "title": "La Maison de nos rêves",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "9+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/896/Path%C3%A9%20Acinapolis%20Namur#movie1028011",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027544",
+     "title": "La Pat' Patrouille - Le Film: Mission Dino",
+     "originalTitle": "PAW Patrol: The Dino Movie",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-08-05",
+     "url": "https://cinebel.dhnet.be/cinema/896/Path%C3%A9%20Acinapolis%20Namur#movie1027544",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027881",
+     "title": "Les Héros du Louvre",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "9+",
+     "language": "VO",
+     "releaseDate": "2026-09-16",
+     "url": "https://cinebel.dhnet.be/cinema/896/Path%C3%A9%20Acinapolis%20Namur#movie1027881",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027844",
+     "title": "Les Misérables",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/896/Path%C3%A9%20Acinapolis%20Namur#movie1027844",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027863",
+     "title": "Malfaisante",
+     "originalTitle": "Other Mommy",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VF",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/896/Path%C3%A9%20Acinapolis%20Namur#movie1027863",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027828",
+     "title": "Mochy",
+     "originalTitle": "Yugly",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/896/Path%C3%A9%20Acinapolis%20Namur#movie1027828",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1028063",
+     "title": "Papa où t’es ?",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-10-20",
+     "url": "https://cinebel.dhnet.be/cinema/896/Path%C3%A9%20Acinapolis%20Namur#movie1028063",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027818",
+     "title": "Raison et sentiments",
+     "originalTitle": "Sense and Sensibility",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VF",
+     "releaseDate": "2026-09-23",
+     "url": "https://cinebel.dhnet.be/cinema/896/Path%C3%A9%20Acinapolis%20Namur#movie1027818",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027651",
+     "title": "Resident Evil",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VF",
+     "releaseDate": "2026-09-16",
+     "url": "https://cinebel.dhnet.be/cinema/896/Path%C3%A9%20Acinapolis%20Namur#movie1027651",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027885",
+     "title": "Sacrifice",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/896/Path%C3%A9%20Acinapolis%20Namur#movie1027885",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1026727",
+     "title": "Spider-Man: Brand New Day",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-07-29",
+     "url": "https://cinebel.dhnet.be/cinema/896/Path%C3%A9%20Acinapolis%20Namur#movie1026727",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027242",
+     "title": "Street Fighter",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/896/Path%C3%A9%20Acinapolis%20Namur#movie1027242",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027806",
+     "title": "Tad l'explorateur et la lampe magique",
+     "originalTitle": "Tadeo Jones y la lámpara maravillosa",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/896/Path%C3%A9%20Acinapolis%20Namur#movie1027806",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027760",
+     "title": "The Social Reckoning",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/896/Path%C3%A9%20Acinapolis%20Namur#movie1027760",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027572",
+     "title": "Tombé du ciel",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-08-12",
+     "url": "https://cinebel.dhnet.be/cinema/896/Path%C3%A9%20Acinapolis%20Namur#movie1027572",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027645",
+     "title": "Verity",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VF",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/896/Path%C3%A9%20Acinapolis%20Namur#movie1027645",
+     "status": "now_showing"
+    }
+   ]
+  },
   "cinebel-908": {
    "name": "Pathé Charleroi",
    "city": "Charleroi",
@@ -12470,6 +12899,260 @@
     }
    ]
   },
+  "cinebel-883": {
+   "name": "Pathé Verviers",
+   "city": "Verviers",
+   "brand": "Pathé",
+   "address": "Bd des Gérardchamps 7a, 4800 Verviers",
+   "lat": 50.5873,
+   "lng": 5.8495,
+   "fetchedAt": "2026-10-13",
+   "films": [
+    {
+     "slug": "1027908",
+     "title": "Coyote vs. Acme",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/883/Path%C3%A9%20Verviers#movie1027908",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027241",
+     "title": "Ducobu et le fantôme de Saint-Potache",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/883/Path%C3%A9%20Verviers#movie1027241",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027739",
+     "title": "Englouti",
+     "originalTitle": "Whalefall",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/883/Path%C3%A9%20Verviers#movie1027739",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027742",
+     "title": "Heart of the Beast",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-09-23",
+     "url": "https://cinebel.dhnet.be/cinema/883/Path%C3%A9%20Verviers#movie1027742",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027124",
+     "title": "L'Odyssée",
+     "originalTitle": "The Odyssey",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VF",
+     "releaseDate": "2026-07-15",
+     "url": "https://cinebel.dhnet.be/cinema/883/Path%C3%A9%20Verviers#movie1027124",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027524",
+     "title": "L'île des souvenirs",
+     "originalTitle": "Forgotten Island",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/883/Path%C3%A9%20Verviers#movie1027524",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028011",
+     "title": "La Maison de nos rêves",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "9+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/883/Path%C3%A9%20Verviers#movie1028011",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027544",
+     "title": "La Pat' Patrouille - Le Film: Mission Dino",
+     "originalTitle": "PAW Patrol: The Dino Movie",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-08-05",
+     "url": "https://cinebel.dhnet.be/cinema/883/Path%C3%A9%20Verviers#movie1027544",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027881",
+     "title": "Les Héros du Louvre",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "9+",
+     "language": "VO",
+     "releaseDate": "2026-09-16",
+     "url": "https://cinebel.dhnet.be/cinema/883/Path%C3%A9%20Verviers#movie1027881",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027844",
+     "title": "Les Misérables",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/883/Path%C3%A9%20Verviers#movie1027844",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027863",
+     "title": "Malfaisante",
+     "originalTitle": "Other Mommy",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VF",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/883/Path%C3%A9%20Verviers#movie1027863",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027828",
+     "title": "Mochy",
+     "originalTitle": "Yugly",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/883/Path%C3%A9%20Verviers#movie1027828",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1028063",
+     "title": "Papa où t’es ?",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-10-20",
+     "url": "https://cinebel.dhnet.be/cinema/883/Path%C3%A9%20Verviers#movie1028063",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027651",
+     "title": "Resident Evil",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VF",
+     "releaseDate": "2026-09-16",
+     "url": "https://cinebel.dhnet.be/cinema/883/Path%C3%A9%20Verviers#movie1027651",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027885",
+     "title": "Sacrifice",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/883/Path%C3%A9%20Verviers#movie1027885",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1026727",
+     "title": "Spider-Man: Brand New Day",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-07-29",
+     "url": "https://cinebel.dhnet.be/cinema/883/Path%C3%A9%20Verviers#movie1026727",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027242",
+     "title": "Street Fighter",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/883/Path%C3%A9%20Verviers#movie1027242",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027806",
+     "title": "Tad l'explorateur et la lampe magique",
+     "originalTitle": "Tadeo Jones y la lámpara maravillosa",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/883/Path%C3%A9%20Verviers#movie1027806",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027760",
+     "title": "The Social Reckoning",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/883/Path%C3%A9%20Verviers#movie1027760",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027572",
+     "title": "Tombé du ciel",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-08-12",
+     "url": "https://cinebel.dhnet.be/cinema/883/Path%C3%A9%20Verviers#movie1027572",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027645",
+     "title": "Verity",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VF",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/883/Path%C3%A9%20Verviers#movie1027645",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027744",
+     "title": "Vivre encore",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/883/Path%C3%A9%20Verviers#movie1027744",
+     "status": "now_showing"
+    }
+   ]
+  },
   "cinebel-926": {
    "name": "Patria",
    "city": "Virton",
@@ -12689,6 +13372,17 @@
    "fetchedAt": "2026-10-13",
    "films": [
     {
+     "slug": "1027745",
+     "title": "500 Miles",
+     "originalTitle": "",
+     "year": 2025,
+     "rating": "9+",
+     "language": "VO",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027745",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027525",
      "title": "Broken English",
      "originalTitle": "",
@@ -12727,9 +13421,9 @@
      "originalTitle": "E.T. the Extra-Terrestrial",
      "year": 1982,
      "rating": "AL",
-     "language": "VF",
+     "language": "VF/VO",
      "releaseDate": null,
-     "firstShowing": "2026-10-18",
+     "firstShowing": "2026-10-15",
      "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1580",
      "status": "coming_soon"
     },
@@ -12743,6 +13437,39 @@
      "releaseDate": "2026-02-25",
      "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027263",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027662",
+     "title": "Franz",
+     "originalTitle": "",
+     "year": 2025,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027662",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027749",
+     "title": "Garance",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-09-23",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027749",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027856",
+     "title": "Gruffalo, de père en fils",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VF",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027856",
+     "status": "coming_soon"
     },
     {
      "slug": "1027376",
@@ -12778,6 +13505,62 @@
      "status": "coming_soon"
     },
     {
+     "slug": "1027750",
+     "title": "L'Espèce explosive",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027750",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027587",
+     "title": "La Vie d'une femme",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-09-16",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027587",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027594",
+     "title": "Le Corset",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027594",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "15787",
+     "title": "Les Diables",
+     "originalTitle": "The Devils",
+     "year": 1971,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie15787",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027765",
+     "title": "Leviticus",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027765",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027011",
      "title": "Michael",
      "originalTitle": "",
@@ -12786,6 +13569,39 @@
      "language": "VO",
      "releaseDate": "2026-04-22",
      "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027011",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027692",
+     "title": "Mémoire de fille",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027692",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027917",
+     "title": "Nagi Notes",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027917",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1028012",
+     "title": "Naza",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1028012",
      "status": "now_showing"
     },
     {
@@ -12800,6 +13616,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027593",
+     "title": "Notre salut",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027593",
+     "status": "now_showing"
+    },
+    {
      "slug": "1002013",
      "title": "Paprika",
      "originalTitle": "Papurika",
@@ -12810,6 +13637,39 @@
      "firstShowing": "2026-10-30",
      "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1002013",
      "status": "coming_soon"
+    },
+    {
+     "slug": "1027913",
+     "title": "Primetime",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027913",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027818",
+     "title": "Raison et sentiments",
+     "originalTitle": "Sense and Sensibility",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-09-23",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027818",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027688",
+     "title": "Si tu penses bien",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027688",
+     "status": "now_showing"
     },
     {
      "slug": "1018004",
@@ -12877,6 +13737,17 @@
      "language": "VO",
      "releaseDate": "2026-10-07",
      "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027744",
+     "status": "now_showing"
+    },
+    {
+     "slug": "12232",
+     "title": "Wallace & Gromit: Le Mystère du lapin-garou",
+     "originalTitle": "Wallace & Gromit: The Curse of the Were-Rabbit",
+     "year": 2005,
+     "rating": "",
+     "language": "VF",
+     "releaseDate": "2005-10-19",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie12232",
      "status": "now_showing"
     }
    ]
@@ -14135,6 +15006,17 @@
    "fetchedAt": "2026-10-13",
    "films": [
     {
+     "slug": "1027908",
+     "title": "Coyote vs. Acme",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/713/UGC%20De%20Brouck%C3%A8re#movie1027908",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027125",
      "title": "Digger",
      "originalTitle": "",
@@ -14155,6 +15037,17 @@
      "releaseDate": "2026-10-07",
      "url": "https://cinebel.dhnet.be/cinema/713/UGC%20De%20Brouck%C3%A8re#movie1027241",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027739",
+     "title": "Englouti",
+     "originalTitle": "Whalefall",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/713/UGC%20De%20Brouck%C3%A8re#movie1027739",
+     "status": "coming_soon"
     },
     {
      "slug": "1027230",
@@ -14217,7 +15110,7 @@
      "originalTitle": "Forgotten Island",
      "year": 2026,
      "rating": "6+",
-     "language": "VO",
+     "language": "VF/VO",
      "releaseDate": "2026-10-07",
      "url": "https://cinebel.dhnet.be/cinema/713/UGC%20De%20Brouck%C3%A8re#movie1027524",
      "status": "now_showing"
@@ -14243,6 +15136,39 @@
      "releaseDate": "2026-09-09",
      "url": "https://cinebel.dhnet.be/cinema/713/UGC%20De%20Brouck%C3%A8re#movie1027626",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027844",
+     "title": "Les Misérables",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/713/UGC%20De%20Brouck%C3%A8re#movie1027844",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027863",
+     "title": "Malfaisante",
+     "originalTitle": "Other Mommy",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/713/UGC%20De%20Brouck%C3%A8re#movie1027863",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027828",
+     "title": "Mochy",
+     "originalTitle": "Yugly",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/713/UGC%20De%20Brouck%C3%A8re#movie1027828",
+     "status": "coming_soon"
     },
     {
      "slug": "1027338",
@@ -14283,9 +15209,31 @@
      "originalTitle": "",
      "year": 2026,
      "rating": "12+",
-     "language": "VO",
+     "language": "VF/VO",
      "releaseDate": "2026-07-29",
      "url": "https://cinebel.dhnet.be/cinema/713/UGC%20De%20Brouck%C3%A8re#movie1026727",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027242",
+     "title": "Street Fighter",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/713/UGC%20De%20Brouck%C3%A8re#movie1027242",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027806",
+     "title": "Tad l'explorateur et la lampe magique",
+     "originalTitle": "Tadeo Jones y la lámpara maravillosa",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/713/UGC%20De%20Brouck%C3%A8re#movie1027806",
      "status": "now_showing"
     },
     {
