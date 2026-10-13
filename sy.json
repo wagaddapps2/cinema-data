@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-10-13T06:17:39.810Z",
+ "updatedAt": "2026-10-13T12:18:43.226Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
    "name": "Cinemas in Syria",
    "films": [
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
     {
      "slug": "2100853",
      "title": "The Love Hypothesis",
@@ -21,6 +12,15 @@
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2100853/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -42,12 +42,39 @@
      "status": "now_showing"
     },
     {
+     "slug": "2096018",
+     "title": "The Twits",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-13",
+     "url": "https://elcinema.com/en/work/2096018/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2095662",
      "title": "Red Flag",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-10",
      "url": "https://elcinema.com/en/work/2095662/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2044485",
+     "title": "Coco",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2025-06-11",
+     "url": "https://elcinema.com/en/work/2044485/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1019636",
+     "title": "Tangled",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-09-15",
+     "url": "https://elcinema.com/en/work/1019636/",
      "status": "now_showing"
     },
     {

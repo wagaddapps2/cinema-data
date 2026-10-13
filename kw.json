@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T06:16:18.183Z",
+ "updatedAt": "2026-10-13T12:16:49.272Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -198,6 +198,14 @@
      "status": "now_showing"
     },
     {
+     "slug": "godzilla-minus-zero-japanese",
+     "title": "Godzilla Minus Zero",
+     "rating": "PG12",
+     "language": "Japanese",
+     "url": "https://kwt.voxcinemas.com/movies/godzilla-minus-zero-japanese",
+     "status": "now_showing"
+    },
+    {
      "slug": "the-dino-family",
      "title": "The Dino Family",
      "rating": "18TC",
@@ -371,7 +379,7 @@
     {
      "slug": "godzilla-minus-zero-japanese",
      "title": "Godzilla Minus Zero",
-     "rating": "18TC",
+     "rating": "PG12",
      "language": "Japanese",
      "releaseDate": "2026-11-05",
      "url": "https://kwt.voxcinemas.com/movies/godzilla-minus-zero-japanese",
@@ -1115,7 +1123,7 @@
     {
      "slug": "ranabaali-telugu",
      "title": "Ranabaali",
-     "rating": "",
+     "rating": "R15",
      "language": "Telugu",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/ranabaali-telugu",
@@ -1200,6 +1208,24 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/paper-tiger-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "udumbanchola-vision-malayalam",
+     "title": "Udumbanchola Vision",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/udumbanchola-vision-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "orijinal-malayalam",
+     "title": "Orijinal",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/orijinal-malayalam",
      "status": "coming_soon"
     },
     {
@@ -1669,7 +1695,7 @@
     {
      "slug": "ranabaali-telugu",
      "title": "Ranabaali",
-     "rating": "",
+     "rating": "R15",
      "language": "Telugu",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/ranabaali-telugu",
@@ -1754,6 +1780,24 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/paper-tiger-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "udumbanchola-vision-malayalam",
+     "title": "Udumbanchola Vision",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/udumbanchola-vision-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "orijinal-malayalam",
+     "title": "Orijinal",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/orijinal-malayalam",
      "status": "coming_soon"
     },
     {
@@ -2201,24 +2245,6 @@
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2095662/",
      "status": "now_showing"
-    },
-    {
-     "slug": "2101955",
-     "title": "SB19 Wakas at Simula: Trilogy Concert",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101955/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101332",
-     "title": "Wake",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101332/",
-     "status": "now_showing"
     }
    ]
   },
@@ -2235,12 +2261,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100784",
-     "title": "The Florist",
+     "slug": "2100562",
+     "title": "Heart of the Beast",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100784/",
+     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {
@@ -2259,15 +2285,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101963/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     }
    ]
@@ -2326,15 +2343,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098168",
-     "title": "The Social Reckoning",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098168/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2100562",
      "title": "Heart of the Beast",
      "rating": "",
@@ -2371,21 +2379,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101362",
-     "title": "Beware Boiúna",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101362/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2100784",
      "title": "The Florist",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2100784/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098168",
+     "title": "The Social Reckoning",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098168/",
      "status": "now_showing"
     },
     {
@@ -2398,12 +2406,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101955",
-     "title": "SB19 Wakas at Simula: Trilogy Concert",
+     "slug": "2101362",
+     "title": "Beware Boiúna",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101955/",
+     "url": "https://elcinema.com/en/work/2101362/",
      "status": "now_showing"
     }
    ]
@@ -2696,6 +2704,33 @@
   "sky-salmiya": {
    "name": "SKY Cinemas Salmiya",
    "films": [
+    {
+     "slug": "whalefall/9999001520",
+     "title": "WHALEFALL",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/whalefall/9999001520",
+     "status": "now_showing"
+    },
+    {
+     "slug": "street-fighter/9999001519",
+     "title": "STREET FIGHTER",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/street-fighter/9999001519",
+     "status": "now_showing"
+    },
+    {
+     "slug": "saoud-wainah-(qatari)-arabic/9999001518",
+     "title": "SAOUD WAINAH",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/saoud-wainah-(qatari)-arabic/9999001518",
+     "status": "now_showing"
+    },
     {
      "slug": "matloub-aaeleyan-(egyptian)-arabic/9999001517",
      "title": "MATLOUB AAELEYAN",

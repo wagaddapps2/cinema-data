@@ -1,53 +1,17 @@
 {
- "updatedAt": "2026-10-13T06:17:26.566Z",
+ "updatedAt": "2026-10-13T12:18:28.958Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
    "name": "Cinemas in United Arab Emirates",
    "films": [
     {
-     "slug": "2102184",
-     "title": "Always Lalisa",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-12",
-     "url": "https://elcinema.com/en/work/2102184/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101362",
-     "title": "Beware Boiúna",
+     "slug": "2101041",
+     "title": "Psycho",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101362/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102182",
-     "title": "Linkin Park: Unshatter",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2102182/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098168",
-     "title": "The Social Reckoning",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2098168/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100784",
-     "title": "The Florist",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2100784/",
+     "url": "https://elcinema.com/en/work/2101041/",
      "status": "now_showing"
     },
     {
@@ -69,12 +33,48 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101041",
-     "title": "Psycho",
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101041/",
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102182",
+     "title": "Linkin Park: Unshatter",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2102182/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101362",
+     "title": "Beware Boiúna",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2101362/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098168",
+     "title": "The Social Reckoning",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2098168/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100784",
+     "title": "The Florist",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2100784/",
      "status": "now_showing"
     },
     {
@@ -84,15 +84,6 @@
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2101955/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -132,12 +123,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101993",
-     "title": "Prem Keetanu",
+     "slug": "2098232",
+     "title": "Verity",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101993/",
+     "url": "https://elcinema.com/en/work/2098232/",
      "status": "now_showing"
     },
     {
@@ -195,12 +186,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098232",
-     "title": "Verity",
+     "slug": "2101993",
+     "title": "Prem Keetanu",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2098232/",
+     "url": "https://elcinema.com/en/work/2101993/",
      "status": "now_showing"
     },
     {
@@ -231,21 +222,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101957",
-     "title": "Meesaya Murukku 2",
+     "slug": "2099939",
+     "title": "Shish Doo",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101957/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2100562/",
+     "url": "https://elcinema.com/en/work/2099939/",
      "status": "now_showing"
     },
     {
@@ -258,12 +240,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101328",
-     "title": "The Vvaan: Force of the Forrest",
+     "slug": "2100562",
+     "title": "Heart of the Beast",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101328/",
+     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {
@@ -276,12 +258,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099939",
-     "title": "Shish Doo",
+     "slug": "2101328",
+     "title": "The Vvaan: Force of the Forrest",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2099939/",
+     "url": "https://elcinema.com/en/work/2101328/",
      "status": "now_showing"
     },
     {
@@ -291,6 +273,15 @@
      "language": "",
      "releaseDate": "2026-09-24",
      "url": "https://elcinema.com/en/work/2101958/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101957",
+     "title": "Meesaya Murukku 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2101957/",
      "status": "now_showing"
     },
     {
@@ -348,21 +339,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101735",
-     "title": "Mandaadi",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-10",
-     "url": "https://elcinema.com/en/work/2101735/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101733",
      "title": "Prima Facie Guilty",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-10",
      "url": "https://elcinema.com/en/work/2101733/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101735",
+     "title": "Mandaadi",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-10",
+     "url": "https://elcinema.com/en/work/2101735/",
      "status": "now_showing"
     },
     {
