@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T00:18:09.547Z",
+ "updatedAt": "2026-10-13T06:16:18.183Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -267,6 +267,15 @@
      "language": "Hindi",
      "releaseDate": "2026-10-15",
      "url": "https://kwt.voxcinemas.com/movies/jailer-2-hindi",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "soy-turkish",
+     "title": "Soy",
+     "rating": "18TC",
+     "language": "Turkish",
+     "releaseDate": "2026-10-21",
+     "url": "https://kwt.voxcinemas.com/movies/soy-turkish",
      "status": "coming_soon"
     },
     {
@@ -554,12 +563,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "street-fighter",
+     "title": "STREET FIGHTER",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/street-fighter/en",
+     "status": "now_showing"
+    },
+    {
      "slug": "other-mommy",
      "title": "Other Mommy",
      "rating": "R15",
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/other-mommy/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "whalefall",
+     "title": "Whalefall",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/whalefall/en",
      "status": "now_showing"
     },
     {
@@ -587,6 +614,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/matloub-3a2eleyain/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "el-clasico-barcelona-vs-real-madrid",
+     "title": "EL CLASICO BARCELONA VS REAL MADRID",
+     "rating": "PG",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/el-clasico-barcelona-vs-real-madrid/en",
      "status": "now_showing"
     },
     {
@@ -686,24 +722,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/into-the-wonderwoods/en",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "street-fighter",
-     "title": "STREET FIGHTER",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/street-fighter/en",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "whalefall",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/whalefall/en",
      "status": "coming_soon"
     },
     {
@@ -793,12 +811,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "street-fighter",
+     "title": "STREET FIGHTER",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/street-fighter/en",
+     "status": "now_showing"
+    },
+    {
      "slug": "other-mommy",
      "title": "Other Mommy",
      "rating": "R15",
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/other-mommy/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "whalefall",
+     "title": "Whalefall",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/whalefall/en",
      "status": "now_showing"
     },
     {
@@ -844,6 +880,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/beware-boiuna/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "el-clasico-barcelona-vs-real-madrid",
+     "title": "EL CLASICO BARCELONA VS REAL MADRID",
+     "rating": "PG",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/el-clasico-barcelona-vs-real-madrid/en",
      "status": "now_showing"
     },
     {
@@ -943,24 +988,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/into-the-wonderwoods/en",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "street-fighter",
-     "title": "STREET FIGHTER",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/street-fighter/en",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "whalefall",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/whalefall/en",
      "status": "coming_soon"
     },
     {
@@ -2557,6 +2584,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2095519",
      "title": "Other Mommy",
      "rating": "",
@@ -2581,15 +2617,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2095876/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {
@@ -2626,6 +2653,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2098173/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095765",
+     "title": "Spider-Man: Brand New Day",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095765/",
      "status": "now_showing"
     },
     {
