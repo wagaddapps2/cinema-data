@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import { GeocoderError, createNominatimGeocoder, geocodeQueries, inBelgiumLuxembourg } from './geocode.mjs';
+import { GeocoderError, createNominatimGeocoder, geocodeQueries, inBelgiumLuxembourg, inFrance } from './geocode.mjs';
 
 // --- Recherches, de la plus précise à la plus large ---
 const toison = { street: "Avenue de la Toison d'Or 8-17", postalCode: '1050', city: 'Bruxelles', country: 'be' };
@@ -17,6 +17,26 @@ assert.equal(bare('Avenue X 8-17'), 'Avenue X, 5000 Namur');
 assert.equal(bare('Rue Sans Numéro'), undefined); // rien à retirer : pas de recherche en double
 assert.deepEqual(geocodeQueries({ street: '', postalCode: '1000', city: 'Bruxelles' }), [{ q: '1000 Bruxelles', precision: 'postcode' }]);
 assert.deepEqual(geocodeQueries({}), []);
+
+// France : le numéro vient en tête de la rue.
+assert.deepEqual(geocodeQueries({ street: '54 Rue de Chanterac', postalCode: '13001', city: 'Marseille', country: 'fr' }), [
+  { q: '54 Rue de Chanterac, 13001 Marseille', precision: 'address' },
+  { q: 'Rue de Chanterac, 13001 Marseille', precision: 'street' },
+  { q: '13001 Marseille', precision: 'postcode' },
+]);
+const frBare = (street) => geocodeQueries({ street, postalCode: '75001', city: 'Paris', country: 'fr' }).find((q) => q.precision === 'street')?.q;
+assert.equal(frBare('12 bis avenue Foch'), 'avenue Foch, 75001 Paris');
+assert.equal(frBare('8-10, place Vendôme'), 'place Vendôme, 75001 Paris');
+assert.equal(frBare('Forum des Halles, niveau - 3, place de la Rotonde'), undefined); // pas de numéro en tête
+assert.equal(frBare('Rue du 11 Novembre'), undefined);
+// En Belgique, un numéro en tête n'est pas retiré (il fait partie du nom).
+assert.equal(bare('1 Rue X 12'), '1 Rue X, 5000 Namur');
+
+assert.ok(inFrance(48.8566, 2.3522)); // Paris
+assert.ok(inFrance(43.2965, 5.3698)); // Marseille
+assert.ok(inFrance(42.7, 9.45)); // Bastia
+assert.ok(!inFrance(-21.11, 55.53)); // La Réunion : une homonyme d'outre-mer n'est pas une ville de métropole
+assert.ok(!inFrance(40.71, -74.0));
 
 assert.ok(inBelgiumLuxembourg(50.8353, 4.3604)); // Bruxelles
 assert.ok(inBelgiumLuxembourg(49.61, 6.13)); // Luxembourg
@@ -109,3 +129,19 @@ const fastClock = { minGapMs: 0 };
   assert.equal(sleeps.length, 2); // un nouveau géocodeur démarre sans attente
 }
 console.log('ok');
+
+{
+  // France : le pays est passé au service, et un résultat hors de France métropolitaine est écarté.
+  const { calls, fetchImpl } = fake([json([{ lat: '-21.11', lon: '55.53' }]), json([{ lat: '43.2989', lon: '5.3812' }])]);
+  const hit = await createNominatimGeocoder({ fetchImpl, ...fastClock })({ street: '54 Rue de Chanterac', postalCode: '13001', city: 'Marseille', country: 'fr' });
+  assert.deepEqual(hit, { lat: 43.2989, lng: 5.3812, precision: 'street' });
+  assert.equal(calls[0].url.searchParams.get('countrycodes'), 'fr');
+  assert.equal(calls[1].url.searchParams.get('q'), 'Rue de Chanterac, 13001 Marseille');
+}
+{
+  // Un pays inconnu est traité comme la Belgique (comportement d'origine).
+  const { calls, fetchImpl } = fake([json([{ lat: '50.85', lon: '4.35' }])]);
+  await createNominatimGeocoder({ fetchImpl, ...fastClock })({ street: 'Rue X 1', postalCode: '1000', city: 'Bruxelles' });
+  assert.equal(calls[0].url.searchParams.get('countrycodes'), 'be');
+}
+console.log('ok france');

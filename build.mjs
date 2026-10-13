@@ -12,7 +12,7 @@ import { fetchCinescapeViaElcinema } from './cinescape-elcinema.mjs';
 import { COUNTRIES, fetchElcinemaCountry } from './elcinema.mjs';
 import { createNominatimGeocoder } from './geocode.mjs';
 import { fetchGrand } from './grand.mjs';
-import { fetchLinternaute } from './linternaute.mjs';
+import { fetchLinternaute, isNationalEntry } from './linternaute.mjs';
 import { fetchOzone } from './ozone.mjs';
 import { fetchSky } from './sky.mjs';
 import { fetchVox } from './vox.mjs';
@@ -20,6 +20,8 @@ import { fetchVox } from './vox.mjs';
 const env = (k, d) => (process.env[k] || d).replace(/\/+$/, '');
 const PREVIOUS_BASE = process.env.PREVIOUS_BASE;
 const nonEmpty = (feed) => { if (!Object.values(feed).some((c) => c.films.length > 0)) throw new Error('aucun film lu'); return feed; };
+/** Géocodeur des salles (Nominatim) ; GEOCODER_URL=off le désactive (aucune requête de localisation). */
+const geocoder = () => (/^off$/i.test(process.env.GEOCODER_URL ?? '') ? undefined : createNominatimGeocoder());
 
 /** Pays -> sites officiels. Ajouter un pays ici le retire automatiquement du repli elCinema. */
 const OFFICIAL = {
@@ -32,14 +34,16 @@ const OFFICIAL = {
     { name: 'sky', prefix: 'sky-', run: async () => nonEmpty(await fetchSky(env('SKY_BASE_URL', 'https://www.skycinemaskw.com'))) },
   ],
   fr: [
-    { name: 'linternaute', prefix: 'linternaute-', run: async () => nonEmpty(await fetchLinternaute()) },
+    // Une entrée par salle des grandes villes, avec sa ville, son adresse et sa position (cherchée une fois par salle).
+    // `restore` : en cas de panne complète, les salles gardent leurs données 3 jours ; l'ancienne entrée nationale reste.
+    { name: 'linternaute', prefix: 'linternaute-', run: async (previous) => nonEmpty(await fetchLinternaute(undefined, { previous, geocode: geocoder() })), restore: (entry) => restoredCinema(entry) ?? (isNationalEntry(entry) ? entry : null) },
   ],
   be: [
     // Une entrée par salle (66 salles listées par Cinebel) ; une salle illisible garde ses données précédentes.
     // `restore` : en cas de panne complète, les données précédentes ne sont gardées que 3 jours, statuts mis à jour.
     // Coordonnées des salles (tri par distance dans l'app) : cherchées une fois par salle, ensuite reprises du fichier publié.
     // GEOCODER_URL=off les désactive (aucune requête de localisation).
-    { name: 'cinebel', prefix: 'cinebel-', run: async (previous) => nonEmpty(await fetchCinebel(undefined, { previous, geocode: /^off$/i.test(process.env.GEOCODER_URL ?? '') ? undefined : createNominatimGeocoder() })), restore: (entry) => restoredCinema(entry) },
+    { name: 'cinebel', prefix: 'cinebel-', run: async (previous) => nonEmpty(await fetchCinebel(undefined, { previous, geocode: geocoder() })), restore: (entry) => restoredCinema(entry) },
   ],
 };
 
