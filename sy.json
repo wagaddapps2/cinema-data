@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-10-14T06:27:15.545Z",
+ "updatedAt": "2026-10-14T12:28:58.036Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
    "name": "Cinemas in Syria",
    "films": [
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
     {
      "slug": "2100853",
      "title": "The Love Hypothesis",
@@ -21,6 +12,15 @@
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2100853/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -48,6 +48,33 @@
      "language": "",
      "releaseDate": "2026-09-10",
      "url": "https://elcinema.com/en/work/2095662/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2067384",
+     "title": "Flora & Ulysses",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-11-04",
+     "url": "https://elcinema.com/en/work/2067384/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2056426",
+     "title": "Abominable",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-10-06",
+     "url": "https://elcinema.com/en/work/2056426/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2060138",
+     "title": "Soul",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-08-26",
+     "url": "https://elcinema.com/en/work/2060138/",
      "status": "now_showing"
     },
     {

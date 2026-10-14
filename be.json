@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T06:26:54.309Z",
+ "updatedAt": "2026-10-14T12:28:40.160Z",
  "territory": "BE",
  "cinemas": {
   "cinebel-693": {
@@ -2894,6 +2894,172 @@
     }
    ]
   },
+  "cinebel-778": {
+   "name": "Cinema Cartoon's",
+   "city": "Antwerpen",
+   "brand": "",
+   "address": "Kaasstraat 4-6, 2000 Antwerpen",
+   "lat": 51.2215,
+   "lng": 4.398,
+   "fetchedAt": "2026-10-14",
+   "films": [
+    {
+     "slug": "1027586",
+     "title": "Coward",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/778/Cinema%20Cartoon's#movie1027586",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027125",
+     "title": "Digger",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/778/Cinema%20Cartoon's#movie1027125",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027662",
+     "title": "Franz",
+     "originalTitle": "",
+     "year": 2025,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/778/Cinema%20Cartoon's#movie1027662",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027719",
+     "title": "L'Invitation",
+     "originalTitle": "The Invite",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-09-16",
+     "url": "https://cinebel.dhnet.be/cinema/778/Cinema%20Cartoon's#movie1027719",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027318",
+     "title": "La Grande rêvasion",
+     "originalTitle": "",
+     "year": 2025,
+     "rating": "AL",
+     "language": "NV",
+     "releaseDate": "2026-07-01",
+     "url": "https://cinebel.dhnet.be/cinema/778/Cinema%20Cartoon's#movie1027318",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027876",
+     "title": "Le Dernier pour la route / The Last One for the Road",
+     "originalTitle": "Andiamo a bere l'ultima",
+     "year": 2025,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/778/Cinema%20Cartoon's#movie1027876",
+     "status": "now_showing"
+    },
+    {
+     "slug": "15787",
+     "title": "Les Diables",
+     "originalTitle": "The Devils",
+     "year": 1971,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-10-16",
+     "url": "https://cinebel.dhnet.be/cinema/778/Cinema%20Cartoon's#movie15787",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027828",
+     "title": "Mochy",
+     "originalTitle": "Yugly",
+     "year": 2026,
+     "rating": "6+",
+     "language": "NV",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/778/Cinema%20Cartoon's#movie1027828",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027692",
+     "title": "Mémoire de fille",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/778/Cinema%20Cartoon's#movie1027692",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027913",
+     "title": "Primetime",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/778/Cinema%20Cartoon's#movie1027913",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027818",
+     "title": "Raison et sentiments",
+     "originalTitle": "Sense and Sensibility",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-09-23",
+     "url": "https://cinebel.dhnet.be/cinema/778/Cinema%20Cartoon's#movie1027818",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028030",
+     "title": "Tegenwoordig heet iedereen sorry",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "9+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/778/Cinema%20Cartoon's#movie1028030",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027760",
+     "title": "The Social Reckoning",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/778/Cinema%20Cartoon's#movie1027760",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027890",
+     "title": "Wicker",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/778/Cinema%20Cartoon's#movie1027890",
+     "status": "coming_soon"
+    }
+   ]
+  },
   "cinebel-978": {
    "name": "Cinema Koksijde",
    "city": "Koksijde",
@@ -4179,6 +4345,193 @@
      "language": "VF",
      "releaseDate": "2026-09-30",
      "url": "https://cinebel.dhnet.be/cinema/902/Cin%C3%A9%20Couvin#movie1027645",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "cinebel-923": {
+   "name": "Ciné Espace",
+   "city": "Arlon",
+   "brand": "",
+   "address": "Rue de Diekirch 36, 6700 Arlon",
+   "lat": 49.6915,
+   "lng": 5.8171,
+   "fetchedAt": "2026-10-14",
+   "films": [
+    {
+     "slug": "1027908",
+     "title": "Coyote vs. Acme",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/923/Cin%C3%A9%20Espace#movie1027908",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027241",
+     "title": "Ducobu et le fantôme de Saint-Potache",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/923/Cin%C3%A9%20Espace#movie1027241",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027739",
+     "title": "Englouti",
+     "originalTitle": "Whalefall",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/923/Cin%C3%A9%20Espace#movie1027739",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027230",
+     "title": "Fausse note",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/923/Cin%C3%A9%20Espace#movie1027230",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027742",
+     "title": "Heart of the Beast",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF/VO",
+     "releaseDate": "2026-09-23",
+     "url": "https://cinebel.dhnet.be/cinema/923/Cin%C3%A9%20Espace#movie1027742",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027524",
+     "title": "L'île des souvenirs",
+     "originalTitle": "Forgotten Island",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/923/Cin%C3%A9%20Espace#movie1027524",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028011",
+     "title": "La Maison de nos rêves",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "9+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/923/Cin%C3%A9%20Espace#movie1028011",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027844",
+     "title": "Les Misérables",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/923/Cin%C3%A9%20Espace#movie1027844",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027863",
+     "title": "Malfaisante",
+     "originalTitle": "Other Mommy",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VF",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/923/Cin%C3%A9%20Espace#movie1027863",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027828",
+     "title": "Mochy",
+     "originalTitle": "Yugly",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/923/Cin%C3%A9%20Espace#movie1027828",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027651",
+     "title": "Resident Evil",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VF",
+     "releaseDate": "2026-09-16",
+     "url": "https://cinebel.dhnet.be/cinema/923/Cin%C3%A9%20Espace#movie1027651",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027242",
+     "title": "Street Fighter",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/923/Cin%C3%A9%20Espace#movie1027242",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027806",
+     "title": "Tad l'explorateur et la lampe magique",
+     "originalTitle": "Tadeo Jones y la lámpara maravillosa",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/923/Cin%C3%A9%20Espace#movie1027806",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027760",
+     "title": "The Social Reckoning",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/923/Cin%C3%A9%20Espace#movie1027760",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027572",
+     "title": "Tombé du ciel",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-08-12",
+     "url": "https://cinebel.dhnet.be/cinema/923/Cin%C3%A9%20Espace#movie1027572",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027645",
+     "title": "Verity",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VF/VO",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/923/Cin%C3%A9%20Espace#movie1027645",
      "status": "now_showing"
     }
    ]
@@ -6303,6 +6656,17 @@
      "status": "coming_soon"
     },
     {
+     "slug": "1027586",
+     "title": "Coward",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/691/Galeries%20Cin%C3%A9ma#movie1027586",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1028058",
      "title": "Ellas en la ciudad",
      "originalTitle": "",
@@ -8322,6 +8686,281 @@
     }
    ]
   },
+  "cinebel-862": {
+   "name": "Kinepolis Liège",
+   "city": "Liège",
+   "brand": "Kinepolis",
+   "address": "Chaussée de Tongres 200, 4000 Liège",
+   "lat": 50.5557,
+   "lng": 5.3065,
+   "fetchedAt": "2026-10-14",
+   "films": [
+    {
+     "slug": "1027915",
+     "title": "Avengers : Endgame Extended",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-09-23",
+     "url": "https://cinebel.dhnet.be/cinema/862/Kinepolis%20Li%C3%A8ge#movie1027915",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027312",
+     "title": "Des Minions et des Monstres",
+     "originalTitle": "Minions & Monsters",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-06-24",
+     "url": "https://cinebel.dhnet.be/cinema/862/Kinepolis%20Li%C3%A8ge#movie1027312",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027125",
+     "title": "Digger",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/862/Kinepolis%20Li%C3%A8ge#movie1027125",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027241",
+     "title": "Ducobu et le fantôme de Saint-Potache",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/862/Kinepolis%20Li%C3%A8ge#movie1027241",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027739",
+     "title": "Englouti",
+     "originalTitle": "Whalefall",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/862/Kinepolis%20Li%C3%A8ge#movie1027739",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027742",
+     "title": "Heart of the Beast",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-09-23",
+     "url": "https://cinebel.dhnet.be/cinema/862/Kinepolis%20Li%C3%A8ge#movie1027742",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027604",
+     "title": "Insidious: L'Invasion du Lointain",
+     "originalTitle": "Insidious: Out of the Further",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VF",
+     "releaseDate": "2026-08-19",
+     "url": "https://cinebel.dhnet.be/cinema/862/Kinepolis%20Li%C3%A8ge#movie1027604",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027857",
+     "title": "Kraken",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/862/Kinepolis%20Li%C3%A8ge#movie1027857",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027124",
+     "title": "L'Odyssée",
+     "originalTitle": "The Odyssey",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VF",
+     "releaseDate": "2026-07-15",
+     "url": "https://cinebel.dhnet.be/cinema/862/Kinepolis%20Li%C3%A8ge#movie1027124",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027524",
+     "title": "L'île des souvenirs",
+     "originalTitle": "Forgotten Island",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/862/Kinepolis%20Li%C3%A8ge#movie1027524",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028011",
+     "title": "La Maison de nos rêves",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "9+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/862/Kinepolis%20Li%C3%A8ge#movie1028011",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027544",
+     "title": "La Pat' Patrouille - Le Film: Mission Dino",
+     "originalTitle": "PAW Patrol: The Dino Movie",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-08-05",
+     "url": "https://cinebel.dhnet.be/cinema/862/Kinepolis%20Li%C3%A8ge#movie1027544",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027594",
+     "title": "Le Corset",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/862/Kinepolis%20Li%C3%A8ge#movie1027594",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027844",
+     "title": "Les Misérables",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/862/Kinepolis%20Li%C3%A8ge#movie1027844",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027863",
+     "title": "Malfaisante",
+     "originalTitle": "Other Mommy",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VF",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/862/Kinepolis%20Li%C3%A8ge#movie1027863",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027828",
+     "title": "Mochy",
+     "originalTitle": "Yugly",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/862/Kinepolis%20Li%C3%A8ge#movie1027828",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027651",
+     "title": "Resident Evil",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VF",
+     "releaseDate": "2026-09-16",
+     "url": "https://cinebel.dhnet.be/cinema/862/Kinepolis%20Li%C3%A8ge#movie1027651",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1026727",
+     "title": "Spider-Man: Brand New Day",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-07-29",
+     "url": "https://cinebel.dhnet.be/cinema/862/Kinepolis%20Li%C3%A8ge#movie1026727",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027242",
+     "title": "Street Fighter",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/862/Kinepolis%20Li%C3%A8ge#movie1027242",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027806",
+     "title": "Tad l'explorateur et la lampe magique",
+     "originalTitle": "Tadeo Jones y la lámpara maravillosa",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/862/Kinepolis%20Li%C3%A8ge#movie1027806",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027760",
+     "title": "The Social Reckoning",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/862/Kinepolis%20Li%C3%A8ge#movie1027760",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027572",
+     "title": "Tombé du ciel",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-08-12",
+     "url": "https://cinebel.dhnet.be/cinema/862/Kinepolis%20Li%C3%A8ge#movie1027572",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027020",
+     "title": "Toy Story 5",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-06-17",
+     "url": "https://cinebel.dhnet.be/cinema/862/Kinepolis%20Li%C3%A8ge#movie1027020",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027645",
+     "title": "Verity",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VF",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/862/Kinepolis%20Li%C3%A8ge#movie1027645",
+     "status": "now_showing"
+    }
+   ]
+  },
   "cinebel-958": {
    "name": "L'Ecran Ath",
    "city": "Ath",
@@ -10053,6 +10692,183 @@
      "releaseDate": null,
      "url": "https://cinebel.dhnet.be/cinema/1120/Lumi%C3%A8re%20Antwerpen#movie697",
      "status": "now_showing"
+    }
+   ]
+  },
+  "cinebel-1129": {
+   "name": "Lumière Mechelen",
+   "city": "Mechelen",
+   "brand": "Lumière",
+   "address": "Frederik de Merodestraat 28, 2800 Mechelen",
+   "lat": 51.03,
+   "lng": 4.482,
+   "fetchedAt": "2026-10-14",
+   "films": [
+    {
+     "slug": "1027591",
+     "title": "Blue Heron",
+     "originalTitle": "",
+     "year": 2025,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-09-02",
+     "url": "https://cinebel.dhnet.be/cinema/1129/Lumi%C3%A8re%20Mechelen#movie1027591",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027586",
+     "title": "Coward",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/1129/Lumi%C3%A8re%20Mechelen#movie1027586",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027125",
+     "title": "Digger",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/1129/Lumi%C3%A8re%20Mechelen#movie1027125",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027719",
+     "title": "L'Invitation",
+     "originalTitle": "The Invite",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-09-16",
+     "url": "https://cinebel.dhnet.be/cinema/1129/Lumi%C3%A8re%20Mechelen#movie1027719",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027124",
+     "title": "L'Odyssée",
+     "originalTitle": "The Odyssey",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-07-15",
+     "url": "https://cinebel.dhnet.be/cinema/1129/Lumi%C3%A8re%20Mechelen#movie1027124",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027318",
+     "title": "La Grande rêvasion",
+     "originalTitle": "",
+     "year": 2025,
+     "rating": "AL",
+     "language": "NV",
+     "releaseDate": "2026-07-01",
+     "url": "https://cinebel.dhnet.be/cinema/1129/Lumi%C3%A8re%20Mechelen#movie1027318",
+     "status": "now_showing"
+    },
+    {
+     "slug": "15787",
+     "title": "Les Diables",
+     "originalTitle": "The Devils",
+     "year": 1971,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-10-16",
+     "url": "https://cinebel.dhnet.be/cinema/1129/Lumi%C3%A8re%20Mechelen#movie15787",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027828",
+     "title": "Mochy",
+     "originalTitle": "Yugly",
+     "year": 2026,
+     "rating": "6+",
+     "language": "NV",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/1129/Lumi%C3%A8re%20Mechelen#movie1027828",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027692",
+     "title": "Mémoire de fille",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/1129/Lumi%C3%A8re%20Mechelen#movie1027692",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027687",
+     "title": "Pressure",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "14+",
+     "language": "VO",
+     "releaseDate": "2026-09-09",
+     "url": "https://cinebel.dhnet.be/cinema/1129/Lumi%C3%A8re%20Mechelen#movie1027687",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027913",
+     "title": "Primetime",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/1129/Lumi%C3%A8re%20Mechelen#movie1027913",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027818",
+     "title": "Raison et sentiments",
+     "originalTitle": "Sense and Sensibility",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-09-23",
+     "url": "https://cinebel.dhnet.be/cinema/1129/Lumi%C3%A8re%20Mechelen#movie1027818",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028030",
+     "title": "Tegenwoordig heet iedereen sorry",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "9+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/1129/Lumi%C3%A8re%20Mechelen#movie1028030",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027760",
+     "title": "The Social Reckoning",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/1129/Lumi%C3%A8re%20Mechelen#movie1027760",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027890",
+     "title": "Wicker",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/1129/Lumi%C3%A8re%20Mechelen#movie1027890",
+     "status": "coming_soon"
     }
    ]
   },
@@ -13686,6 +14502,227 @@
     }
    ]
   },
+  "cinebel-995": {
+   "name": "Studio Skoop",
+   "city": "Gent",
+   "brand": "",
+   "address": "Sint-Annaplein 63, 9000 Gent",
+   "lat": 51.0488,
+   "lng": 3.7339,
+   "fetchedAt": "2026-10-14",
+   "films": [
+    {
+     "slug": "1022020",
+     "title": "Akira (Version restaurée 4K)",
+     "originalTitle": "",
+     "year": 1988,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-09-09",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1022020",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027586",
+     "title": "Coward",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1027586",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027125",
+     "title": "Digger",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1027125",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027662",
+     "title": "Franz",
+     "originalTitle": "",
+     "year": 2025,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1027662",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027919",
+     "title": "Joyeuse Jungle !",
+     "originalTitle": "Born in the Jungle",
+     "year": 2026,
+     "rating": "",
+     "language": "NV",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1027919",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027719",
+     "title": "L'Invitation",
+     "originalTitle": "The Invite",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-09-16",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1027719",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027124",
+     "title": "L'Odyssée",
+     "originalTitle": "The Odyssey",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-07-15",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1027124",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027318",
+     "title": "La Grande rêvasion",
+     "originalTitle": "",
+     "year": 2025,
+     "rating": "AL",
+     "language": "NV",
+     "releaseDate": "2026-07-01",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1027318",
+     "status": "now_showing"
+    },
+    {
+     "slug": "15787",
+     "title": "Les Diables",
+     "originalTitle": "The Devils",
+     "year": 1971,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie15787",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027828",
+     "title": "Mochy",
+     "originalTitle": "Yugly",
+     "year": 2026,
+     "rating": "6+",
+     "language": "NV",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1027828",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027692",
+     "title": "Mémoire de fille",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1027692",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028012",
+     "title": "Naza",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1028012",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027913",
+     "title": "Primetime",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1027913",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027818",
+     "title": "Raison et sentiments",
+     "originalTitle": "Sense and Sensibility",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-09-23",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1027818",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027651",
+     "title": "Resident Evil",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-09-16",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1027651",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028030",
+     "title": "Tegenwoordig heet iedereen sorry",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "9+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1028030",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027760",
+     "title": "The Social Reckoning",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1027760",
+     "status": "now_showing"
+    },
+    {
+     "slug": "697",
+     "title": "Trainspotting",
+     "originalTitle": "",
+     "year": 1996,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-10-17",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie697",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027890",
+     "title": "Wicker",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1027890",
+     "status": "coming_soon"
+    }
+   ]
+  },
   "cinebel-713": {
    "name": "UGC De Brouckère",
    "city": "Bruxelles",
@@ -13982,6 +15019,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027746",
+     "title": "Fjord",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-12-09",
+     "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1027746",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027749",
      "title": "Garance",
      "originalTitle": "",
@@ -14092,6 +15140,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027914",
+     "title": "Minotaur",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1027914",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027828",
      "title": "Mochy",
      "originalTitle": "Yugly",
@@ -14134,6 +15193,17 @@
      "releaseDate": "2026-09-30",
      "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1027593",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027851",
+     "title": "Paper Tiger",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": "2026-11-25",
+     "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1027851",
+     "status": "coming_soon"
     },
     {
      "slug": "1027687",
@@ -14180,6 +15250,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027595",
+     "title": "Soudain",
+     "originalTitle": "All of a Sudden",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-18",
+     "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1027595",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027806",
      "title": "Tad l'explorateur et la lampe magique",
      "originalTitle": "Tadeo Jones y la lámpara maravillosa",
@@ -14223,6 +15304,17 @@
      "releaseDate": "2026-09-30",
      "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1027645",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027608",
+     "title": "Wild Horse Nine",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1027608",
+     "status": "coming_soon"
     }
    ]
   },

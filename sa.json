@@ -1,28 +1,10 @@
 {
- "updatedAt": "2026-10-14T06:27:04.212Z",
+ "updatedAt": "2026-10-14T12:28:49.075Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
    "name": "Cinemas in Saudi Arabia",
    "films": [
-    {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097221",
-     "title": "Jailer 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2097221/",
-     "status": "now_showing"
-    },
     {
      "slug": "2096857",
      "title": "Street Fighter",
@@ -39,6 +21,24 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097221",
+     "title": "Jailer 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     },
     {
@@ -60,15 +60,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101362",
-     "title": "Beware Boiúna",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101362/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102076",
      "title": "Avaraachan & Sons",
      "rating": "",
@@ -78,12 +69,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098168",
-     "title": "The Social Reckoning",
+     "slug": "2101362",
+     "title": "Beware Boiúna",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2101362/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2098168/",
+     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -114,21 +114,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
+     "slug": "2098168",
+     "title": "The Social Reckoning",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102075",
-     "title": "The Legendaries",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2102075/",
+     "url": "https://elcinema.com/en/work/2098168/",
      "status": "now_showing"
     },
     {
@@ -150,12 +141,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098232",
-     "title": "Verity",
+     "slug": "2102075",
+     "title": "The Legendaries",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-09-30",
-     "url": "https://elcinema.com/en/work/2098232/",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2102075/",
      "status": "now_showing"
     },
     {
@@ -165,6 +156,15 @@
      "language": "",
      "releaseDate": "2026-09-30",
      "url": "https://elcinema.com/en/work/2100812/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-30",
+     "url": "https://elcinema.com/en/work/2098232/",
      "status": "now_showing"
     },
     {
@@ -231,21 +231,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099594",
-     "title": "Practical Magic 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-09",
-     "url": "https://elcinema.com/en/work/2099594/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095662",
      "title": "Red Flag",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-09",
      "url": "https://elcinema.com/en/work/2095662/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099594",
+     "title": "Practical Magic 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-09",
+     "url": "https://elcinema.com/en/work/2099594/",
      "status": "now_showing"
     },
     {
@@ -276,21 +276,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2094876",
-     "title": "Mutiny",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-13",
-     "url": "https://elcinema.com/en/work/2094876/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2100068",
      "title": "Aks Sir",
      "rating": "",
      "language": "",
      "releaseDate": "2026-08-13",
      "url": "https://elcinema.com/en/work/2100068/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2094876",
+     "title": "Mutiny",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-13",
+     "url": "https://elcinema.com/en/work/2094876/",
      "status": "now_showing"
     },
     {
@@ -309,15 +309,6 @@
      "language": "",
      "releaseDate": "2026-08-06",
      "url": "https://elcinema.com/en/work/2093913/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2069657",
-     "title": "El Gawahergy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-06",
-     "url": "https://elcinema.com/en/work/2069657/",
      "status": "now_showing"
     },
     {
@@ -354,6 +345,15 @@
      "language": "",
      "releaseDate": "2026-07-01",
      "url": "https://elcinema.com/en/work/2098745/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098931",
+     "title": "Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-06-17",
+     "url": "https://elcinema.com/en/work/2098931/",
      "status": "now_showing"
     },
     {
