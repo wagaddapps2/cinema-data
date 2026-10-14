@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T00:25:39.270Z",
+ "updatedAt": "2026-10-14T06:27:06.525Z",
  "territory": "QA",
  "cinemas": {
   "elcinema-qa": {
@@ -42,6 +42,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2100784",
+     "title": "The Florist",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2100784/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102195",
      "title": "Sa3oud Wainah",
      "rating": "",
@@ -69,21 +78,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100784",
-     "title": "The Florist",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2100784/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101678",
-     "title": "The Beast",
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2101678/",
+     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -96,12 +96,48 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
+     "slug": "2101678",
+     "title": "The Beast",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2099520/",
+     "url": "https://elcinema.com/en/work/2101678/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101991",
+     "title": "Baththa",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101991/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2084491",
+     "title": "Feeha Eh Yaani",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2084491/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102088",
+     "title": "Acharya",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2102088/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102076",
+     "title": "Avaraachan & Sons",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2102076/",
      "status": "now_showing"
     },
     {
@@ -111,6 +147,15 @@
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2102075/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102060",
+     "title": "Gator Face",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2102060/",
      "status": "now_showing"
     },
     {
@@ -132,30 +177,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102076",
-     "title": "Avaraachan & Sons",
+     "slug": "2101969",
+     "title": "Anbil Avan",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2102076/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102088",
-     "title": "Acharya",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2102088/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101992",
-     "title": "Seven Seas Seven Hills",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101992/",
+     "url": "https://elcinema.com/en/work/2101969/",
      "status": "now_showing"
     },
     {
@@ -168,33 +195,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101991",
-     "title": "Baththa",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101991/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101969",
-     "title": "Anbil Avan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101969/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2084491",
-     "title": "Feeha Eh Yaani",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2084491/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101672",
      "title": "The Crystal Planet",
      "rating": "",
@@ -204,12 +204,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102060",
-     "title": "Gator Face",
+     "slug": "2101963",
+     "title": "The Smurfs Timeless Adventure Volume 2",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2102060/",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2101963/",
      "status": "now_showing"
     },
     {
@@ -219,24 +219,6 @@
      "language": "",
      "releaseDate": "2026-09-24",
      "url": "https://elcinema.com/en/work/2101957/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101960",
-     "title": "Pension Patta",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101960/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101963",
-     "title": "The Smurfs Timeless Adventure Volume 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101963/",
      "status": "now_showing"
     },
     {
@@ -276,21 +258,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101733",
-     "title": "Prima Facie Guilty",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-10",
-     "url": "https://elcinema.com/en/work/2101733/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095662",
      "title": "Red Flag",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-10",
      "url": "https://elcinema.com/en/work/2095662/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101733",
+     "title": "Prima Facie Guilty",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-10",
+     "url": "https://elcinema.com/en/work/2101733/",
      "status": "now_showing"
     },
     {
