@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T18:16:36.734Z",
+ "updatedAt": "2026-10-14T00:23:26.411Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -2245,6 +2245,24 @@
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2095662/",
      "status": "now_showing"
+    },
+    {
+     "slug": "2101955",
+     "title": "SB19 Wakas at Simula: Trilogy Concert",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101955/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101332",
+     "title": "Wake",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101332/",
+     "status": "now_showing"
     }
    ]
   },
@@ -2261,12 +2279,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
+     "slug": "2100784",
+     "title": "The Florist",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100562/",
+     "url": "https://elcinema.com/en/work/2100784/",
      "status": "now_showing"
     },
     {
@@ -2285,6 +2303,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101963/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     }
    ]

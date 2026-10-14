@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T18:18:38.416Z",
+ "updatedAt": "2026-10-14T00:25:45.752Z",
  "territory": "LB",
  "cinemas": {
   "elcinema-lb": {
@@ -210,24 +210,6 @@
      "language": "",
      "releaseDate": "2026-12-18",
      "url": "https://elcinema.com/en/work/2096404/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-16",
-     "url": "https://elcinema.com/en/work/2096857/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-16",
-     "url": "https://elcinema.com/en/work/2098154/",
      "status": "coming_soon"
     },
     {

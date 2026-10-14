@@ -1,17 +1,35 @@
 {
- "updatedAt": "2026-10-13T18:18:43.168Z",
+ "updatedAt": "2026-10-14T00:25:48.435Z",
  "territory": "TN",
  "cinemas": {
   "elcinema-tn": {
    "name": "Cinemas in Tunisia",
    "films": [
     {
-     "slug": "2098173",
-     "title": "Resident Evil",
+     "slug": "2102268",
+     "title": "Weekend",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-09-25",
-     "url": "https://elcinema.com/en/work/2098173/",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2102268/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102269",
+     "title": "فانا محط باش تتحط",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2102269/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102273",
+     "title": "Yugly",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2102273/",
      "status": "now_showing"
     },
     {
@@ -24,15 +42,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101795",
-     "title": "Lass Chayeh",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-11",
-     "url": "https://elcinema.com/en/work/2101795/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2096404",
      "title": "Dune: Part Three",
      "rating": "",
@@ -42,30 +51,12 @@
      "status": "coming_soon"
     },
     {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-16",
-     "url": "https://elcinema.com/en/work/2096857/",
-     "status": "coming_soon"
-    },
-    {
      "slug": "2097360",
      "title": "The Mongoose",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2097360/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-16",
-     "url": "https://elcinema.com/en/work/2098154/",
      "status": "coming_soon"
     },
     {
