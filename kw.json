@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T12:26:57.550Z",
+ "updatedAt": "2026-10-14T18:25:52.022Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -94,14 +94,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "the-social-reckoning",
-     "title": "The Social Reckoning",
-     "rating": "R15",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/the-social-reckoning",
-     "status": "now_showing"
-    },
-    {
      "slug": "whalefall",
      "title": "Whalefall",
      "rating": "R15",
@@ -155,14 +147,6 @@
      "rating": "R15",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/the-beast",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-florist",
-     "title": "The Florist",
-     "rating": "R15",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/the-florist",
      "status": "now_showing"
     },
     {
@@ -795,15 +779,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "the-florist",
-     "title": "THE FLORIST",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/the-florist/en",
-     "status": "now_showing"
-    },
-    {
      "slug": "the-social-reckoning",
      "title": "The Social Reckoning",
      "rating": "R18",
@@ -1031,33 +1006,6 @@
      "language": "Tamil",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/sigma-tamil",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-paradise-telugu",
-     "title": "The Paradise",
-     "rating": "R18",
-     "language": "Telugu",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-paradise-telugu",
-     "status": "now_showing"
-    },
-    {
-     "slug": "pradhama-drishtiya-kuttakkar-malayalam",
-     "title": "Pradhama Drishtiya Kuttakkar",
-     "rating": "R15",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/pradhama-drishtiya-kuttakkar-malayalam",
-     "status": "now_showing"
-    },
-    {
-     "slug": "bethlehem-kudumba-unit-malayalam",
-     "title": "Bethlehem Kudumba Unit",
-     "rating": "PG12",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/bethlehem-kudumba-unit-malayalam",
      "status": "now_showing"
     },
     {
@@ -1543,15 +1491,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "the-beast-english",
-     "title": "The Beast",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-beast-english",
-     "status": "now_showing"
-    },
-    {
      "slug": "beware-boiuna-english",
      "title": "Beware Boiuna",
      "rating": "R15",
@@ -1567,15 +1506,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-florist-english",
-     "status": "now_showing"
-    },
-    {
-     "slug": "sb19-wakas-at-simula-the-trilogy-filipino",
-     "title": "SB19 Wakas at Simula...",
-     "rating": "R15",
-     "language": "Filipino",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/sb19-wakas-at-simula-the-trilogy-filipino",
      "status": "now_showing"
     },
     {
