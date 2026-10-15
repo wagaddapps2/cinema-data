@@ -1,26 +1,35 @@
 {
- "updatedAt": "2026-10-14T18:27:30.754Z",
+ "updatedAt": "2026-10-15T00:24:21.955Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
    "name": "Cinemas in Egypt",
    "films": [
     {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2093506",
      "title": "The Magic Faraway Tree",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-14",
+     "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2093506/",
      "status": "now_showing"
     },
     {
-     "slug": "2101678",
-     "title": "The Beast",
+     "slug": "2098154",
+     "title": "Whalefall",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101678/",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -51,6 +60,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101678",
+     "title": "The Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2101678/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
@@ -60,12 +78,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102060",
-     "title": "Gator Face",
+     "slug": "2101234",
+     "title": "Cahim 2",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2102060/",
+     "url": "https://elcinema.com/en/work/2101234/",
      "status": "now_showing"
     },
     {
@@ -87,15 +105,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101234",
-     "title": "Cahim 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101234/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101963",
      "title": "The Smurfs: Timeless Adventure Volume 2",
      "rating": "",
@@ -114,15 +123,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2100562/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099939",
      "title": "Shish Doo",
      "rating": "",
@@ -132,12 +132,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098173",
-     "title": "Resident Evil",
+     "slug": "2100562",
+     "title": "Heart of the Beast",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2098173/",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {
@@ -150,30 +150,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098173",
+     "title": "Resident Evil",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-17",
+     "url": "https://elcinema.com/en/work/2098173/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2095662",
      "title": "Red Flag",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-09",
      "url": "https://elcinema.com/en/work/2095662/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099766",
-     "title": "Fall 2: Deadpoint",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-03",
-     "url": "https://elcinema.com/en/work/2099766/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2094876",
-     "title": "Mutiny",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-20",
-     "url": "https://elcinema.com/en/work/2094876/",
      "status": "now_showing"
     },
     {
@@ -231,15 +222,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096884",
-     "title": "Shamshon w Dalilah",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-07-08",
-     "url": "https://elcinema.com/en/work/2096884/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2093181",
      "title": "Saqr w Kanarya",
      "rating": "",
@@ -258,15 +240,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2092144",
-     "title": "Seven Dogs",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-05-22",
-     "url": "https://elcinema.com/en/work/2092144/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2032663",
      "title": "Avengers Endgame: Encore re-release",
      "rating": "",
@@ -276,12 +249,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "1010196",
-     "title": "Hadota Masria",
+     "slug": "1010144",
+     "title": "Eskendereya Kaman we Kaman",
      "rating": "",
      "language": "",
-     "releaseDate": "1982-09-27",
-     "url": "https://elcinema.com/en/work/1010196/",
+     "releaseDate": "1990-08-20",
+     "url": "https://elcinema.com/en/work/1010144/",
      "status": "now_showing"
     },
     {

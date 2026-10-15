@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-10-14T18:27:49.846Z",
+ "updatedAt": "2026-10-15T00:24:28.612Z",
  "territory": "IQ",
  "cinemas": {
   "elcinema-iq": {
    "name": "Cinemas in Iraq",
    "films": [
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
     {
      "slug": "2096857",
      "title": "Street Fighter",
@@ -12,15 +21,6 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102184",
-     "title": "Always Lalisa",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-12",
-     "url": "https://elcinema.com/en/work/2102184/",
      "status": "now_showing"
     },
     {
@@ -33,30 +33,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101678",
-     "title": "The Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101678/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100784",
-     "title": "The Florist",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2100784/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101362",
      "title": "Beware Boiúna",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2101362/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101678",
+     "title": "The Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2101678/",
      "status": "now_showing"
     },
     {
@@ -69,12 +60,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099729",
-     "title": "Sacrifice",
+     "slug": "2098232",
+     "title": "Verity",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2099729/",
+     "url": "https://elcinema.com/en/work/2098232/",
      "status": "now_showing"
     },
     {
@@ -87,33 +78,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101332",
-     "title": "Wake",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101332/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102069",
-     "title": "Üç Harfliler: Mühür",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-30",
-     "url": "https://elcinema.com/en/work/2102069/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097950",
      "title": "Digger",
      "rating": "",
@@ -123,12 +87,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099939",
-     "title": "Shish Doo",
+     "slug": "2102069",
+     "title": "Üç Harfliler: Mühür",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2099939/",
+     "releaseDate": "2026-09-30",
+     "url": "https://elcinema.com/en/work/2102069/",
      "status": "now_showing"
     },
     {
@@ -147,33 +111,6 @@
      "language": "",
      "releaseDate": "2026-09-23",
      "url": "https://elcinema.com/en/work/2100562/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101968",
-     "title": "Anfa 8",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-23",
-     "url": "https://elcinema.com/en/work/2101968/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101935",
-     "title": "No Paradise If You Are Killed by a Woman",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-22",
-     "url": "https://elcinema.com/en/work/2101935/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099778",
-     "title": "Tad and the Magic Lamp",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2099778/",
      "status": "now_showing"
     },
     {
@@ -210,42 +147,6 @@
      "language": "",
      "releaseDate": "2026-09-09",
      "url": "https://elcinema.com/en/work/2095662/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099766",
-     "title": "Fall 2: Deadpoint",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-02",
-     "url": "https://elcinema.com/en/work/2099766/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101544",
-     "title": "Grandma's House",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-27",
-     "url": "https://elcinema.com/en/work/2101544/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099118",
-     "title": "Insidious: Out of the Further",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-19",
-     "url": "https://elcinema.com/en/work/2099118/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2069657",
-     "title": "El Gawahergy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-05",
-     "url": "https://elcinema.com/en/work/2069657/",
      "status": "now_showing"
     },
     {

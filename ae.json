@@ -1,10 +1,37 @@
 {
- "updatedAt": "2026-10-14T18:27:34.679Z",
+ "updatedAt": "2026-10-15T00:24:23.240Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
    "name": "Cinemas in United Arab Emirates",
    "films": [
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102195",
+     "title": "Sa3oud Wainah",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2102195/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
     {
      "slug": "2097221",
      "title": "Jailer 2",
@@ -12,60 +39,6 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2097221/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102184",
-     "title": "Always Lalisa",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-12",
-     "url": "https://elcinema.com/en/work/2102184/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101955",
-     "title": "SB19 Wakas at Simula: Trilogy Concert",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101955/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101041",
-     "title": "Psycho",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101041/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102182",
-     "title": "Linkin Park: Unshatter",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2102182/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102183",
-     "title": "Premada Oorali",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2102183/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100784",
-     "title": "The Florist",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2100784/",
      "status": "now_showing"
     },
     {
@@ -78,12 +51,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101362",
-     "title": "Beware Boiúna",
+     "slug": "2102183",
+     "title": "Premada Oorali",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101362/",
+     "url": "https://elcinema.com/en/work/2102183/",
      "status": "now_showing"
     },
     {
@@ -105,21 +78,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101041",
+     "title": "Psycho",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2101041/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101362",
+     "title": "Beware Boiúna",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2101362/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2095519",
      "title": "Other Mommy",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101969",
-     "title": "Anbil Avan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-02",
-     "url": "https://elcinema.com/en/work/2101969/",
      "status": "now_showing"
     },
     {
@@ -132,39 +114,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101994",
-     "title": "Don't Trouble the Trouble",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-02",
-     "url": "https://elcinema.com/en/work/2101994/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101672",
-     "title": "The Crystal Planet",
+     "slug": "2101991",
+     "title": "Baththa",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101672/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102075",
-     "title": "The Legendaries",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2102075/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101998",
-     "title": "Mitrata",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101998/",
+     "url": "https://elcinema.com/en/work/2101991/",
      "status": "now_showing"
     },
     {
@@ -177,12 +132,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101996",
-     "title": "Sigma",
+     "slug": "2101672",
+     "title": "The Crystal Planet",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101996/",
+     "url": "https://elcinema.com/en/work/2101672/",
      "status": "now_showing"
     },
     {
@@ -195,39 +150,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101993",
-     "title": "Prem Keetanu",
+     "slug": "2102075",
+     "title": "The Legendaries",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101993/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101991",
-     "title": "Baththa",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101991/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100812",
-     "title": "Charlie Harper",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2100812/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102088",
-     "title": "Acharya",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2102088/",
+     "url": "https://elcinema.com/en/work/2102075/",
      "status": "now_showing"
     },
     {
@@ -237,15 +165,6 @@
      "language": "",
      "releaseDate": "2026-09-30",
      "url": "https://elcinema.com/en/work/2097950/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099939",
-     "title": "Shish Doo",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2099939/",
      "status": "now_showing"
     },
     {
@@ -267,69 +186,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101960",
-     "title": "Pension Patta",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101960/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101958",
-     "title": "Dhoomakethu",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101958/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101957",
-     "title": "Meesaya Murukku 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101957/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101328",
-     "title": "The Vvaan: Force of the Forrest",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101328/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095876",
-     "title": "Pressure",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2095876/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099778",
-     "title": "Tad and the Magic Lamp",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2099778/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101847",
-     "title": "Vibe",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2101847/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098173",
      "title": "Resident Evil",
      "rating": "",
@@ -348,120 +204,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095662",
-     "title": "Red Flag",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-10",
-     "url": "https://elcinema.com/en/work/2095662/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099594",
-     "title": "Practical Magic 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-10",
-     "url": "https://elcinema.com/en/work/2099594/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100043",
-     "title": "Cats in the Museum: Treasures of Egypt",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-10",
-     "url": "https://elcinema.com/en/work/2100043/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101010",
-     "title": "Runner",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-10",
-     "url": "https://elcinema.com/en/work/2101010/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101733",
-     "title": "Prima Facie Guilty",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-10",
-     "url": "https://elcinema.com/en/work/2101733/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101735",
-     "title": "Mandaadi",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-10",
-     "url": "https://elcinema.com/en/work/2101735/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099766",
-     "title": "Fall 2: Deadpoint",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-03",
-     "url": "https://elcinema.com/en/work/2099766/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098942",
-     "title": "Mirzapur: The Movie",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-01",
-     "url": "https://elcinema.com/en/work/2098942/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2094924",
      "title": "Coyote vs. Acme",
      "rating": "",
      "language": "",
      "releaseDate": "2026-08-27",
      "url": "https://elcinema.com/en/work/2094924/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2094876",
-     "title": "Mutiny",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-20",
-     "url": "https://elcinema.com/en/work/2094876/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101416",
-     "title": "Bethlehem Kudumba Unit",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-20",
-     "url": "https://elcinema.com/en/work/2101416/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099335",
-     "title": "The End of Oak Street",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-13",
-     "url": "https://elcinema.com/en/work/2099335/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096322",
-     "title": "PAW Patrol: The Dino Movie",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-13",
-     "url": "https://elcinema.com/en/work/2096322/",
      "status": "now_showing"
     },
     {
@@ -483,66 +231,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098745",
-     "title": "Minions & Monsters",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-07-01",
-     "url": "https://elcinema.com/en/work/2098745/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097388",
-     "title": "Toy Story 5",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-06-11",
-     "url": "https://elcinema.com/en/work/2097388/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099005",
-     "title": "Backrooms",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-05-27",
-     "url": "https://elcinema.com/en/work/2099005/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096578",
-     "title": "The Super Mario Galaxy Movie",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-04-01",
-     "url": "https://elcinema.com/en/work/2096578/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095884",
-     "title": "Moana",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-03-16",
-     "url": "https://elcinema.com/en/work/2095884/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2032663",
      "title": "Avengers Endgame: Encore re-release",
      "rating": "",
      "language": "",
      "releaseDate": "2019-04-23",
      "url": "https://elcinema.com/en/work/2032663/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2020979",
-     "title": "Interstellar",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2014-12-18",
-     "url": "https://elcinema.com/en/work/2020979/",
      "status": "now_showing"
     },
     {

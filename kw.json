@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T18:25:52.022Z",
+ "updatedAt": "2026-10-15T00:22:44.251Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -86,14 +86,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "beware-boiuna",
-     "title": "Beware Boiuna",
-     "rating": "R15",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/beware-boiuna",
-     "status": "now_showing"
-    },
-    {
      "slug": "whalefall",
      "title": "Whalefall",
      "rating": "R15",
@@ -107,22 +99,6 @@
      "rating": "PG12",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/pressure",
-     "status": "now_showing"
-    },
-    {
-     "slug": "shish-dou-arabic",
-     "title": "Shish Dou",
-     "rating": "R15",
-     "language": "Arabic",
-     "url": "https://kwt.voxcinemas.com/movies/shish-dou-arabic",
-     "status": "now_showing"
-    },
-    {
-     "slug": "red-flag-arabic",
-     "title": "Red Flag",
-     "rating": "R18",
-     "language": "Arabic",
-     "url": "https://kwt.voxcinemas.com/movies/red-flag-arabic",
      "status": "now_showing"
     },
     {
@@ -142,14 +118,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "the-beast",
-     "title": "The Beast",
-     "rating": "R15",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/the-beast",
-     "status": "now_showing"
-    },
-    {
      "slug": "sa3oud-wainah-arabic",
      "title": "Sa3oud Wainah",
      "rating": "PG12",
@@ -164,51 +132,6 @@
      "language": "Japanese",
      "url": "https://kwt.voxcinemas.com/movies/godzilla-minus-zero-japanese",
      "status": "now_showing"
-    },
-    {
-     "slug": "whalefall",
-     "title": "Whalefall",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": "2026-10-15",
-     "url": "https://kwt.voxcinemas.com/movies/whalefall",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "sa3oud-wainah-arabic",
-     "title": "Sa3oud Wainah",
-     "rating": "PG12",
-     "language": "Arabic",
-     "releaseDate": "2026-10-15",
-     "url": "https://kwt.voxcinemas.com/movies/sa3oud-wainah-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "jailer-2-tamil",
-     "title": "Jailer 2",
-     "rating": "R15",
-     "language": "Tamil",
-     "releaseDate": "2026-10-15",
-     "url": "https://kwt.voxcinemas.com/movies/jailer-2-tamil",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-shawshank-redemption-re-release",
-     "title": "The Shawshank Redemption (Re-release)",
-     "rating": "18TC",
-     "language": "English",
-     "releaseDate": "2026-10-15",
-     "url": "https://kwt.voxcinemas.com/movies/the-shawshank-redemption-re-release",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "soy-turkish",
-     "title": "Soy",
-     "rating": "18TC",
-     "language": "Turkish",
-     "releaseDate": "2026-10-21",
-     "url": "https://kwt.voxcinemas.com/movies/soy-turkish",
-     "status": "coming_soon"
     },
     {
      "slug": "the-dino-family",
@@ -477,15 +400,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "resident-evil",
-     "title": "RESIDENT EVIL",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/resident-evil/en",
-     "status": "now_showing"
-    },
-    {
      "slug": "the-beast",
      "title": "THE BEAST",
      "rating": "R15",
@@ -528,15 +442,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/verity/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-florist",
-     "title": "THE FLORIST",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/the-florist/en",
      "status": "now_showing"
     },
     {
@@ -779,30 +684,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "the-social-reckoning",
-     "title": "The Social Reckoning",
-     "rating": "R18",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/the-social-reckoning/en",
-     "status": "now_showing"
-    },
-    {
      "slug": "matloub-3a2eleyain",
      "title": "MATLOUB 3A2ELEYAIN",
      "rating": "R15",
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/matloub-3a2eleyain/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "beware-boiuna",
-     "title": "BEWARE BOIUNA",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/beware-boiuna/en",
      "status": "now_showing"
     },
     {
@@ -989,33 +876,6 @@
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/drishyam-the-conclusion-hindi",
      "status": "now_showing"
-    },
-    {
-     "slug": "prem-keetanu-hindi",
-     "title": "Prem Keetanu",
-     "rating": "R15",
-     "language": "Hindi",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/prem-keetanu-hindi",
-     "status": "now_showing"
-    },
-    {
-     "slug": "sigma-tamil",
-     "title": "Sigma",
-     "rating": "R15",
-     "language": "Tamil",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/sigma-tamil",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-shawshank-redemption-1994-re-release-english",
-     "title": "The Shawshank Redemption 1994 Re-Release",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-shawshank-redemption-1994-re-release-english",
-     "status": "coming_soon"
     },
     {
      "slug": "clayface-english",
@@ -1213,15 +1073,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-hunger-games-sunrise-on-the-reaping-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "sense-and-sensibility-english",
-     "title": "Sense and Sensibility",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/sense-and-sensibility-english",
      "status": "coming_soon"
     },
     {
@@ -1491,24 +1342,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "beware-boiuna-english",
-     "title": "Beware Boiuna",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/beware-boiuna-english",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-florist-english",
-     "title": "The Florist",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-florist-english",
-     "status": "now_showing"
-    },
-    {
      "slug": "heart-of-the-beast-english",
      "title": "Heart of the Beast",
      "rating": "PG12",
@@ -1524,15 +1357,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/verity-english",
-     "status": "now_showing"
-    },
-    {
-     "slug": "shish-dou-arabic",
-     "title": "Shish Dou",
-     "rating": "R15",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/shish-dou-arabic",
      "status": "now_showing"
     },
     {
@@ -1552,15 +1376,6 @@
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/spider-man-brand-new-day-english",
      "status": "now_showing"
-    },
-    {
-     "slug": "the-shawshank-redemption-1994-re-release-english",
-     "title": "The Shawshank Redemption 1994 Re-Release",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-shawshank-redemption-1994-re-release-english",
-     "status": "coming_soon"
     },
     {
      "slug": "clayface-english",
@@ -1758,15 +1573,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-hunger-games-sunrise-on-the-reaping-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "sense-and-sensibility-english",
-     "title": "Sense and Sensibility",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/sense-and-sensibility-english",
      "status": "coming_soon"
     },
     {
@@ -2674,33 +2480,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "beware-boluna/9999001514",
-     "title": "BEWARE BOLUNA",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/beware-boluna/9999001514",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-florist/9999001513",
-     "title": "THE FLORIST",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/the-florist/9999001513",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-beast/9999001512",
-     "title": "THE BEAST",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/the-beast/9999001512",
-     "status": "now_showing"
-    },
-    {
      "slug": "verity/9999001510",
      "title": "VERITY",
      "rating": "",
@@ -2708,33 +2487,6 @@
      "releaseDate": null,
      "url": "https://www.skycinemaskw.com/movie-information/verity/9999001510",
      "status": "now_showing"
-    },
-    {
-     "slug": "digger/9999001509",
-     "title": "DIGGER",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/digger/9999001509",
-     "status": "now_showing"
-    },
-    {
-     "slug": "heart-of-the-beast/9999001504",
-     "title": "HEART OF THE BEAST",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/heart-of-the-beast/9999001504",
-     "status": "now_showing"
-    },
-    {
-     "slug": "whalefall/9999001434",
-     "title": "WHALEFALL",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/whalefall/9999001434",
-     "status": "coming_soon"
     },
     {
      "slug": "clayface/9999001435",

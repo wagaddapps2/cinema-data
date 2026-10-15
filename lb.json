@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-10-14T18:27:46.011Z",
+ "updatedAt": "2026-10-15T00:24:27.482Z",
  "territory": "LB",
  "cinemas": {
   "elcinema-lb": {
    "name": "Cinemas in Lebanon",
    "films": [
     {
-     "slug": "2101362",
-     "title": "Beware Boiúna",
+     "slug": "2096857",
+     "title": "Street Fighter",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101362/",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -24,48 +24,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101678",
-     "title": "The Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101678/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100784",
-     "title": "The Florist",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2100784/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097950",
-     "title": "Digger",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2097950/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101672",
-     "title": "The Crystal Planet",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101672/",
      "status": "now_showing"
     },
     {
@@ -105,60 +69,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095876",
-     "title": "Pressure",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2095876/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099594",
-     "title": "Practical Magic 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-10",
-     "url": "https://elcinema.com/en/work/2099594/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2094924",
-     "title": "Coyote vs. Acme",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-27",
-     "url": "https://elcinema.com/en/work/2094924/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099118",
-     "title": "Insidious: Out of the Further",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-20",
-     "url": "https://elcinema.com/en/work/2099118/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096322",
-     "title": "PAW Patrol: The Dino Movie",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-12",
-     "url": "https://elcinema.com/en/work/2096322/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2069657",
-     "title": "El Gawahergy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-06",
-     "url": "https://elcinema.com/en/work/2069657/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095765",
      "title": "Spider-Man: Brand New Day",
      "rating": "",
@@ -168,30 +78,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098609",
-     "title": "Khally Balak Min Nafsak",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-07-23",
-     "url": "https://elcinema.com/en/work/2098609/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095329",
      "title": "The Odyssey",
      "rating": "",
      "language": "",
      "releaseDate": "2026-07-16",
      "url": "https://elcinema.com/en/work/2095329/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098745",
-     "title": "Minions & Monsters",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-07-01",
-     "url": "https://elcinema.com/en/work/2098745/",
      "status": "now_showing"
     },
     {
