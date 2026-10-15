@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-10-15T06:28:23.477Z",
+ "updatedAt": "2026-10-15T12:28:34.979Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
    "name": "Cinemas in United Arab Emirates",
    "films": [
+    {
+     "slug": "2102294",
+     "title": "Nayyi Navelli",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2102294/",
+     "status": "now_showing"
+    },
     {
      "slug": "2000017",
      "title": "The Twilight Saga: New Moon",
@@ -12,24 +21,6 @@
      "language": "",
      "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2000017/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2002621",
-     "title": "Twilight",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2002621/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -51,12 +42,66 @@
      "status": "now_showing"
     },
     {
+     "slug": "2002621",
+     "title": "Twilight",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2002621/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2004262",
+     "title": "The Shawshank Redemption",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2004262/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2097221",
      "title": "Jailer 2",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2097221/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102184",
+     "title": "Always Lalisa",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-12",
+     "url": "https://elcinema.com/en/work/2102184/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098168",
+     "title": "The Social Reckoning",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2098168/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102183",
+     "title": "Premada Oorali",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2102183/",
      "status": "now_showing"
     },
     {
@@ -96,30 +141,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2100784",
+     "title": "The Florist",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2100784/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098168",
-     "title": "The Social Reckoning",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2098168/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102183",
-     "title": "Premada Oorali",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2102183/",
      "status": "now_showing"
     },
     {
@@ -141,12 +177,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102076",
-     "title": "Avaraachan & Sons",
+     "slug": "2101672",
+     "title": "The Crystal Planet",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-02",
-     "url": "https://elcinema.com/en/work/2102076/",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101672/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2098232/",
      "status": "now_showing"
     },
     {
@@ -168,30 +213,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101991",
      "title": "Baththa",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2101991/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101672",
-     "title": "The Crystal Planet",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101672/",
      "status": "now_showing"
     },
     {
@@ -204,12 +231,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
+     "slug": "2099939",
+     "title": "Shish Doo",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2100562/",
+     "url": "https://elcinema.com/en/work/2099939/",
      "status": "now_showing"
     },
     {
@@ -219,6 +246,24 @@
      "language": "",
      "releaseDate": "2026-09-24",
      "url": "https://elcinema.com/en/work/2101963/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099778",
+     "title": "Tad and the Magic Lamp",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-17",
+     "url": "https://elcinema.com/en/work/2099778/",
      "status": "now_showing"
     },
     {
@@ -246,6 +291,15 @@
      "language": "",
      "releaseDate": "2026-09-10",
      "url": "https://elcinema.com/en/work/2101674/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100776",
+     "title": "It Ends",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-01",
+     "url": "https://elcinema.com/en/work/2100776/",
      "status": "now_showing"
     },
     {
@@ -303,12 +357,57 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099005",
+     "title": "Backrooms",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-05-27",
+     "url": "https://elcinema.com/en/work/2099005/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2096578",
      "title": "The Super Mario Galaxy Movie",
      "rating": "",
      "language": "",
      "releaseDate": "2026-04-01",
      "url": "https://elcinema.com/en/work/2096578/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2086992",
+     "title": "Smile 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-10-17",
+     "url": "https://elcinema.com/en/work/2086992/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2083853",
+     "title": "A Quiet Place: Day One",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-06-27",
+     "url": "https://elcinema.com/en/work/2083853/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2074973",
+     "title": "Smile",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2022-09-29",
+     "url": "https://elcinema.com/en/work/2074973/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2044463",
+     "title": "It",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2020-08-14",
+     "url": "https://elcinema.com/en/work/2044463/",
      "status": "now_showing"
     },
     {

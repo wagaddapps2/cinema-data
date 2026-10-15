@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T06:28:26.970Z",
+ "updatedAt": "2026-10-15T12:28:40.066Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
@@ -24,15 +24,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097221",
-     "title": "Jailer 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2097221/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
@@ -48,6 +39,15 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097221",
+     "title": "Jailer 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     },
     {
@@ -69,6 +69,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102076",
+     "title": "Avaraachan & Sons",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2102076/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101997",
      "title": "Drishyam: The Conclusion",
      "rating": "",
@@ -84,6 +93,24 @@
      "language": "",
      "releaseDate": "2026-09-30",
      "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097950",
+     "title": "Digger",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-30",
+     "url": "https://elcinema.com/en/work/2097950/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101963",
+     "title": "The Smurfs: Timeless Adventure Volume 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2101963/",
      "status": "now_showing"
     },
     {
@@ -105,6 +132,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098173",
+     "title": "Resident Evil",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-16",
+     "url": "https://elcinema.com/en/work/2098173/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100043",
      "title": "Cats in the Museum: Treasures of Egypt",
      "rating": "",
@@ -114,12 +150,66 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101010",
+     "title": "Runner",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-09",
+     "url": "https://elcinema.com/en/work/2101010/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2094924",
+     "title": "Coyote vs. Acme",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-26",
+     "url": "https://elcinema.com/en/work/2094924/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2094876",
+     "title": "Mutiny",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-19",
+     "url": "https://elcinema.com/en/work/2094876/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095765",
+     "title": "Spider-Man: Brand New Day",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-07-29",
+     "url": "https://elcinema.com/en/work/2095765/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095329",
+     "title": "The Odyssey",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-07-15",
+     "url": "https://elcinema.com/en/work/2095329/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098745",
      "title": "Minions & Monsters",
      "rating": "",
      "language": "",
      "releaseDate": "2026-07-01",
      "url": "https://elcinema.com/en/work/2098745/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2032663",
+     "title": "Avengers Endgame: Encore re-release",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2019-04-23",
+     "url": "https://elcinema.com/en/work/2032663/",
      "status": "now_showing"
     },
     {

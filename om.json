@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T06:28:27.517Z",
+ "updatedAt": "2026-10-15T12:28:41.101Z",
  "territory": "OM",
  "cinemas": {
   "elcinema-om": {
@@ -87,6 +87,33 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102076",
+     "title": "Avaraachan & Sons",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-02",
+     "url": "https://elcinema.com/en/work/2102076/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102075",
+     "title": "The Legendaries",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2102075/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097950",
+     "title": "Digger",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2097950/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098232",
      "title": "Verity",
      "rating": "",
@@ -129,6 +156,33 @@
      "language": "",
      "releaseDate": "2026-09-16",
      "url": "https://elcinema.com/en/work/2098173/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2094924",
+     "title": "Coyote vs. Acme",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-27",
+     "url": "https://elcinema.com/en/work/2094924/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2094876",
+     "title": "Mutiny",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-19",
+     "url": "https://elcinema.com/en/work/2094876/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095329",
+     "title": "The Odyssey",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-07-15",
+     "url": "https://elcinema.com/en/work/2095329/",
      "status": "now_showing"
     },
     {
