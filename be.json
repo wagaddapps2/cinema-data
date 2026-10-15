@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T12:28:30.342Z",
+ "updatedAt": "2026-10-15T18:25:27.312Z",
  "territory": "BE",
  "cinemas": {
   "cinebel-693": {
@@ -433,9 +433,10 @@
      "year": 2026,
      "rating": "",
      "language": "VO",
-     "releaseDate": "2026-10-14",
+     "releaseDate": null,
+     "firstShowing": "2026-10-18",
      "url": "https://cinebel.dhnet.be/cinema/712/Bozar#movie1027982",
-     "status": "now_showing"
+     "status": "coming_soon"
     },
     {
      "slug": "2672",
@@ -2649,9 +2650,10 @@
      "year": 2026,
      "rating": "",
      "language": "VO",
-     "releaseDate": "2026-10-14",
+     "releaseDate": null,
+     "firstShowing": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie1027982",
-     "status": "now_showing"
+     "status": "coming_soon"
     },
     {
      "slug": "1027750",
@@ -2826,7 +2828,7 @@
      "title": "Shaun le Mouton: La Bêêête d'Halloween",
      "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
      "year": 2026,
-     "rating": "",
+     "rating": "AL",
      "language": "VO",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie1027315",
@@ -3280,7 +3282,7 @@
      "title": "Shaun le Mouton: La Bêêête d'Halloween",
      "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
      "year": 2026,
-     "rating": "",
+     "rating": "AL",
      "language": "NV",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/971/Cinema%20Rio#movie1027315",
@@ -3844,7 +3846,7 @@
      "title": "Shaun le Mouton: La Bêêête d'Halloween",
      "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
      "year": 2026,
-     "rating": "",
+     "rating": "AL",
      "language": "NV",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/1126/Cinema%20ZED-Vesalius#movie1027315",
@@ -4075,7 +4077,7 @@
      "title": "Shaun le Mouton: La Bêêête d'Halloween",
      "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
      "year": 2026,
-     "rating": "",
+     "rating": "AL",
      "language": "VF",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/754/Cin%C3%A9%20Centre#movie1027315",
@@ -4108,7 +4110,7 @@
      "title": "Clayface",
      "originalTitle": "",
      "year": 2026,
-     "rating": "",
+     "rating": "16+",
      "language": "VF",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/902/Cin%C3%A9%20Couvin#movie1027606",
@@ -4251,7 +4253,7 @@
      "title": "Shaun le Mouton: La Bêêête d'Halloween",
      "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
      "year": 2026,
-     "rating": "",
+     "rating": "AL",
      "language": "VF",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/902/Cin%C3%A9%20Couvin#movie1027315",
@@ -4482,7 +4484,7 @@
      "title": "Clayface",
      "originalTitle": "",
      "year": 2026,
-     "rating": "",
+     "rating": "16+",
      "language": "VF",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/900/Cin%C3%A9%20Gedinne#movie1027606",
@@ -4636,7 +4638,7 @@
      "title": "Shaun le Mouton: La Bêêête d'Halloween",
      "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
      "year": 2026,
-     "rating": "",
+     "rating": "AL",
      "language": "VF",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/900/Cin%C3%A9%20Gedinne#movie1027315",
@@ -4863,17 +4865,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "1027917",
-     "title": "Nagi Notes",
-     "originalTitle": "",
-     "year": 2026,
-     "rating": "AL",
-     "language": "VO",
-     "releaseDate": "2026-10-14",
-     "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027917",
-     "status": "now_showing"
-    },
-    {
      "slug": "1028012",
      "title": "Naza",
      "originalTitle": "",
@@ -4926,6 +4917,17 @@
      "language": "VO",
      "releaseDate": "2026-10-07",
      "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027913",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027917",
+     "title": "Quelques jours à Nagi",
+     "originalTitle": "Nagi Notes",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027917",
      "status": "now_showing"
     },
     {
@@ -5055,7 +5057,7 @@
      "title": "Clayface",
      "originalTitle": "",
      "year": 2026,
-     "rating": "",
+     "rating": "16+",
      "language": "VO",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie1027606",
@@ -5294,17 +5296,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "1027917",
-     "title": "Nagi Notes",
-     "originalTitle": "",
-     "year": 2026,
-     "rating": "AL",
-     "language": "VO",
-     "releaseDate": "2026-10-14",
-     "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie1027917",
-     "status": "now_showing"
-    },
-    {
      "slug": "1028012",
      "title": "Naza",
      "originalTitle": "",
@@ -5349,6 +5340,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027917",
+     "title": "Quelques jours à Nagi",
+     "originalTitle": "Nagi Notes",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie1027917",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027885",
      "title": "Sacrifice",
      "originalTitle": "",
@@ -5364,7 +5366,7 @@
      "title": "Shaun le Mouton: La Bêêête d'Halloween",
      "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
      "year": 2026,
-     "rating": "",
+     "rating": "AL",
      "language": "VF",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie1027315",
@@ -5452,7 +5454,7 @@
      "title": "Clayface",
      "originalTitle": "",
      "year": 2026,
-     "rating": "",
+     "rating": "16+",
      "language": "VF",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/1064/Cin%C3%A9ma%20Cameo%20(Tamines)#movie1027606",
@@ -5639,7 +5641,7 @@
      "title": "Shaun le Mouton: La Bêêête d'Halloween",
      "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
      "year": 2026,
-     "rating": "",
+     "rating": "AL",
      "language": "VF",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/1064/Cin%C3%A9ma%20Cameo%20(Tamines)#movie1027315",
@@ -5859,7 +5861,7 @@
      "title": "Clayface",
      "originalTitle": "",
      "year": 2026,
-     "rating": "",
+     "rating": "16+",
      "language": "VO",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/739/Cin%C3%A9ma%20Le%20Stockel#movie1027606",
@@ -6024,7 +6026,7 @@
      "title": "Shaun le Mouton: La Bêêête d'Halloween",
      "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
      "year": 2026,
-     "rating": "",
+     "rating": "AL",
      "language": "VF",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/739/Cin%C3%A9ma%20Le%20Stockel#movie1027315",
@@ -6233,17 +6235,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "1027917",
-     "title": "Nagi Notes",
-     "originalTitle": "",
-     "year": 2026,
-     "rating": "AL",
-     "language": "VO",
-     "releaseDate": "2026-10-14",
-     "url": "https://cinebel.dhnet.be/cinema/731/Cin%C3%A9ma%20Vend%C3%B4me#movie1027917",
-     "status": "now_showing"
-    },
-    {
      "slug": "1028012",
      "title": "Naza",
      "originalTitle": "",
@@ -6263,6 +6254,17 @@
      "language": "VO",
      "releaseDate": "2026-09-30",
      "url": "https://cinebel.dhnet.be/cinema/731/Cin%C3%A9ma%20Vend%C3%B4me#movie1027593",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027917",
+     "title": "Quelques jours à Nagi",
+     "originalTitle": "Nagi Notes",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/731/Cin%C3%A9ma%20Vend%C3%B4me#movie1027917",
      "status": "now_showing"
     },
     {
@@ -6325,7 +6327,7 @@
      "title": "Clayface",
      "originalTitle": "",
      "year": 2026,
-     "rating": "",
+     "rating": "16+",
      "language": "VF",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/759/Cin%C3%A9ma%20l'Etoile#movie1027606",
@@ -6501,7 +6503,7 @@
      "title": "Shaun le Mouton: La Bêêête d'Halloween",
      "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
      "year": 2026,
-     "rating": "",
+     "rating": "AL",
      "language": "VF",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/759/Cin%C3%A9ma%20l'Etoile#movie1027315",
@@ -9258,17 +9260,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "1027917",
-     "title": "Nagi Notes",
-     "originalTitle": "",
-     "year": 2026,
-     "rating": "AL",
-     "language": "VO",
-     "releaseDate": "2026-10-14",
-     "url": "https://cinebel.dhnet.be/cinema/863/Le%20Churchill#movie1027917",
-     "status": "now_showing"
-    },
-    {
      "slug": "1028012",
      "title": "Naza",
      "originalTitle": "",
@@ -9310,6 +9301,17 @@
      "language": "VO",
      "releaseDate": "2026-09-09",
      "url": "https://cinebel.dhnet.be/cinema/863/Le%20Churchill#movie1027687",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027917",
+     "title": "Quelques jours à Nagi",
+     "originalTitle": "Nagi Notes",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/863/Le%20Churchill#movie1027917",
      "status": "now_showing"
     },
     {
@@ -9383,7 +9385,7 @@
      "title": "Clayface",
      "originalTitle": "",
      "year": 2026,
-     "rating": "",
+     "rating": "16+",
      "language": "VF",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/925/Le%20Foyer#movie1027606",
@@ -9559,7 +9561,7 @@
      "title": "Shaun le Mouton: La Bêêête d'Halloween",
      "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
      "year": 2026,
-     "rating": "",
+     "rating": "AL",
      "language": "VF",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/925/Le%20Foyer#movie1027315",
@@ -10385,7 +10387,7 @@
      "title": "Shaun le Mouton: La Bêêête d'Halloween",
      "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
      "year": 2026,
-     "rating": "",
+     "rating": "AL",
      "language": "VF",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/873/Les%20Vari%C3%A9t%C3%A9s#movie1027315",
@@ -11015,7 +11017,7 @@
      "title": "Shaun le Mouton: La Bêêête d'Halloween",
      "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
      "year": 2026,
-     "rating": "",
+     "rating": "AL",
      "language": "VF",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/927/Nos%20Loisirs#movie1027315",
@@ -13129,17 +13131,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "1027917",
-     "title": "Nagi Notes",
-     "originalTitle": "",
-     "year": 2026,
-     "rating": "AL",
-     "language": "VO",
-     "releaseDate": "2026-10-14",
-     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027917",
-     "status": "now_showing"
-    },
-    {
      "slug": "1028012",
      "title": "Naza",
      "originalTitle": "",
@@ -13193,6 +13184,17 @@
      "language": "VO",
      "releaseDate": "2026-10-07",
      "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027913",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027917",
+     "title": "Quelques jours à Nagi",
+     "originalTitle": "Nagi Notes",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027917",
      "status": "now_showing"
     },
     {
@@ -13796,7 +13798,7 @@
      "title": "Clayface",
      "originalTitle": "",
      "year": 2026,
-     "rating": "",
+     "rating": "16+",
      "language": "VO",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/1063/Sauveni%C3%A8re#movie1027606",
@@ -14027,7 +14029,7 @@
      "title": "Shaun le Mouton: La Bêêête d'Halloween",
      "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
      "year": 2026,
-     "rating": "",
+     "rating": "AL",
      "language": "VF",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/1063/Sauveni%C3%A8re#movie1027315",
@@ -15132,7 +15134,7 @@
      "title": "Clayface",
      "originalTitle": "",
      "year": 2026,
-     "rating": "",
+     "rating": "16+",
      "language": "VF",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/888/Versailles#movie1027606",
@@ -15330,7 +15332,7 @@
      "title": "Shaun le Mouton: La Bêêête d'Halloween",
      "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
      "year": 2026,
-     "rating": "",
+     "rating": "AL",
      "language": "VF",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/888/Versailles#movie1027315",

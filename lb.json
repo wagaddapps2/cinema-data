@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-10-15T12:28:41.691Z",
+ "updatedAt": "2026-10-15T18:25:39.645Z",
  "territory": "LB",
  "cinemas": {
   "elcinema-lb": {
    "name": "Cinemas in Lebanon",
    "films": [
-    {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
     {
      "slug": "2099122",
      "title": "Forgotten Island",
@@ -33,12 +24,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095519",
+     "title": "Other Mommy",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2099520/",
+     "url": "https://elcinema.com/en/work/2095519/",
      "status": "now_showing"
     },
     {
@@ -51,12 +51,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095519",
-     "title": "Other Mommy",
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2095519/",
+     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -78,21 +78,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2100562/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101963",
      "title": "The Smurfs: Timeless Adventure Volume 2",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-24",
      "url": "https://elcinema.com/en/work/2101963/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {
@@ -120,6 +120,15 @@
      "language": "",
      "releaseDate": "2026-08-27",
      "url": "https://elcinema.com/en/work/2094924/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096322",
+     "title": "PAW Patrol: The Dino Movie",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-12",
+     "url": "https://elcinema.com/en/work/2096322/",
      "status": "now_showing"
     },
     {

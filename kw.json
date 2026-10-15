@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T12:26:48.112Z",
+ "updatedAt": "2026-10-15T18:23:51.886Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -126,11 +126,11 @@
      "status": "now_showing"
     },
     {
-     "slug": "godzilla-minus-zero-japanese",
-     "title": "Godzilla Minus Zero",
-     "rating": "PG12",
+     "slug": "godzilla-minus-zero-preview-screening-japanese",
+     "title": "Godzilla Minus Zero - Preview Screening",
+     "rating": "18TC",
      "language": "Japanese",
-     "url": "https://kwt.voxcinemas.com/movies/godzilla-minus-zero-japanese",
+     "url": "https://kwt.voxcinemas.com/movies/godzilla-minus-zero-preview-screening-japanese",
      "status": "now_showing"
     },
     {
@@ -253,7 +253,7 @@
     {
      "slug": "godzilla-minus-zero-japanese",
      "title": "Godzilla Minus Zero",
-     "rating": "PG12",
+     "rating": "18TC",
      "language": "Japanese",
      "releaseDate": "2026-11-05",
      "url": "https://kwt.voxcinemas.com/movies/godzilla-minus-zero-japanese",
@@ -1992,6 +1992,65 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2097950/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "cinescape-3101203": {
+   "name": "Cinescape Al-Bairaq",
+   "films": [
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101963",
+     "title": "The Smurfs: Timeless Adventure Volume 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101963/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095519",
+     "title": "Other Mommy",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097221",
+     "title": "Jailer 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     }
    ]
