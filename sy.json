@@ -1,10 +1,37 @@
 {
- "updatedAt": "2026-10-15T00:24:27.823Z",
+ "updatedAt": "2026-10-15T06:28:30.872Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
    "name": "Cinemas in Syria",
    "films": [
+    {
+     "slug": "2099594",
+     "title": "Practical Magic 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2099594/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2060118",
+     "title": "Miracle in Cell No. 7",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2060118/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
     {
      "slug": "2100853",
      "title": "The Love Hypothesis",
@@ -33,48 +60,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098173",
-     "title": "Resident Evil",
+     "slug": "2099118",
+     "title": "Insidious: Out of the Further",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2098173/",
+     "releaseDate": "2026-08-20",
+     "url": "https://elcinema.com/en/work/2099118/",
      "status": "now_showing"
     },
     {
-     "slug": "2095662",
-     "title": "Red Flag",
+     "slug": "2099198",
+     "title": "Swapped",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-09-10",
-     "url": "https://elcinema.com/en/work/2095662/",
+     "releaseDate": "2026-08-18",
+     "url": "https://elcinema.com/en/work/2099198/",
      "status": "now_showing"
     },
     {
-     "slug": "2067384",
-     "title": "Flora & Ulysses",
+     "slug": "2090850",
+     "title": "Zootopia 2",
      "rating": "",
      "language": "",
-     "releaseDate": "2024-11-04",
-     "url": "https://elcinema.com/en/work/2067384/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2056426",
-     "title": "Abominable",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2024-10-06",
-     "url": "https://elcinema.com/en/work/2056426/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2060138",
-     "title": "Soul",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2024-08-26",
-     "url": "https://elcinema.com/en/work/2060138/",
+     "releaseDate": "2025-11-27",
+     "url": "https://elcinema.com/en/work/2090850/",
      "status": "now_showing"
     },
     {
