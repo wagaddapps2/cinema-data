@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T00:22:36.556Z",
+ "updatedAt": "2026-10-16T06:27:12.370Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
@@ -325,7 +325,7 @@
      "title": "Naseeb",
      "rating": "",
      "language": "",
-     "releaseDate": null,
+     "releaseDate": "2026-10-28",
      "url": "https://elcinema.com/en/work/2096928/",
      "status": "coming_soon"
     },
