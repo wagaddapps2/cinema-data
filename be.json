@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T06:27:10.899Z",
+ "updatedAt": "2026-10-16T12:27:31.867Z",
  "territory": "BE",
  "cinemas": {
   "cinebel-693": {
@@ -4610,6 +4610,28 @@
    "fetchedAt": "2026-10-16",
    "films": [
     {
+     "slug": "1027586",
+     "title": "Coward",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/903/Cin%C3%A9-Chaplin#movie1027586",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027908",
+     "title": "Coyote vs. Acme",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/903/Cin%C3%A9-Chaplin#movie1027908",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027241",
      "title": "Ducobu et le fantôme de Saint-Potache",
      "originalTitle": "",
@@ -4641,6 +4663,17 @@
      "releaseDate": "2026-09-23",
      "url": "https://cinebel.dhnet.be/cinema/903/Cin%C3%A9-Chaplin#movie1027742",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027740",
+     "title": "Karma",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/903/Cin%C3%A9-Chaplin#movie1027740",
+     "status": "coming_soon"
     },
     {
      "slug": "1027750",
@@ -4698,6 +4731,17 @@
    "fetchedAt": "2026-10-16",
    "films": [
     {
+     "slug": "1027586",
+     "title": "Coward",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027586",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027241",
      "title": "Ducobu et le fantôme de Saint-Potache",
      "originalTitle": "",
@@ -4706,6 +4750,17 @@
      "language": "VO",
      "releaseDate": "2026-10-07",
      "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027241",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027749",
+     "title": "Garance",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-09-23",
+     "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027749",
      "status": "now_showing"
     },
     {
@@ -4718,6 +4773,29 @@
      "releaseDate": "2026-10-14",
      "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027856",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027218",
+     "title": "I Am the Future",
+     "originalTitle": "",
+     "year": 2025,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-10-23",
+     "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027218",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027740",
+     "title": "Karma",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027740",
+     "status": "coming_soon"
     },
     {
      "slug": "1027524",
@@ -4758,10 +4836,21 @@
      "originalTitle": "Yugly",
      "year": 2026,
      "rating": "6+",
-     "language": "VO",
+     "language": "VF",
      "releaseDate": "2026-10-14",
      "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027828",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027939",
+     "title": "Monster Mia",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027939",
+     "status": "coming_soon"
     },
     {
      "slug": "1028012",
@@ -4830,6 +4919,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027315",
+     "title": "Shaun le Mouton: La Bêêête d'Halloween",
+     "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VF",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027315",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027688",
      "title": "Si tu penses bien",
      "originalTitle": "",
@@ -4839,6 +4939,28 @@
      "releaseDate": "2026-10-07",
      "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027688",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027744",
+     "title": "Vivre encore",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027744",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027890",
+     "title": "Wicker",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027890",
+     "status": "coming_soon"
     }
    ]
   },
@@ -8702,6 +8824,17 @@
      "status": "coming_soon"
     },
     {
+     "slug": "1027586",
+     "title": "Coward",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/958/L'Ecran%20Ath#movie1027586",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027241",
      "title": "Ducobu et le fantôme de Saint-Potache",
      "originalTitle": "",
@@ -8710,6 +8843,28 @@
      "language": "VO",
      "releaseDate": "2026-10-07",
      "url": "https://cinebel.dhnet.be/cinema/958/L'Ecran%20Ath#movie1027241",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1026580",
+     "title": "En première ligne",
+     "originalTitle": "Heldin",
+     "year": 2025,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2025-09-17",
+     "url": "https://cinebel.dhnet.be/cinema/958/L'Ecran%20Ath#movie1026580",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027230",
+     "title": "Fausse note",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/958/L'Ecran%20Ath#movie1027230",
      "status": "now_showing"
     },
     {
@@ -8733,6 +8888,28 @@
      "language": "VF",
      "releaseDate": "2026-10-07",
      "url": "https://cinebel.dhnet.be/cinema/958/L'Ecran%20Ath#movie1027919",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027740",
+     "title": "Karma",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/958/L'Ecran%20Ath#movie1027740",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027750",
+     "title": "L'Espèce explosive",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/958/L'Ecran%20Ath#movie1027750",
      "status": "now_showing"
     },
     {
@@ -8833,6 +9010,17 @@
      "releaseDate": null,
      "firstShowing": "2026-11-04",
      "url": "https://cinebel.dhnet.be/cinema/958/L'Ecran%20Ath#movie1026986",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027315",
+     "title": "Shaun le Mouton: La Bêêête d'Halloween",
+     "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VF",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/958/L'Ecran%20Ath#movie1027315",
      "status": "coming_soon"
     },
     {
@@ -14743,10 +14931,9 @@
      "title": "Un bon patron",
      "originalTitle": "",
      "year": 2026,
-     "rating": "",
+     "rating": "6+",
      "language": "VO",
-     "releaseDate": null,
-     "firstShowing": "2026-10-20",
+     "releaseDate": "2026-11-04",
      "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1028018",
      "status": "coming_soon"
     },

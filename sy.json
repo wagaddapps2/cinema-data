@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T06:27:22.483Z",
+ "updatedAt": "2026-10-16T12:27:47.165Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
@@ -24,21 +24,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100853",
-     "title": "The Love Hypothesis",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2100853/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100853",
+     "title": "The Love Hypothesis",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2100853/",
      "status": "now_showing"
     },
     {
@@ -66,6 +66,24 @@
      "language": "",
      "releaseDate": "2026-08-20",
      "url": "https://elcinema.com/en/work/2099118/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2078684",
+     "title": "Migration",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-06-04",
+     "url": "https://elcinema.com/en/work/2078684/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2033248",
+     "title": "Inside Out",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-05-21",
+     "url": "https://elcinema.com/en/work/2033248/",
      "status": "now_showing"
     },
     {

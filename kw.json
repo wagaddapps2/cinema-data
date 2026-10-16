@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T06:25:39.311Z",
+ "updatedAt": "2026-10-16T12:25:56.554Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -323,15 +323,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "travellers-hell-arabic",
-     "title": "Traveller's Hell",
-     "rating": "18TC",
-     "language": "Arabic",
-     "releaseDate": "2026-11-19",
-     "url": "https://kwt.voxcinemas.com/movies/travellers-hell-arabic",
-     "status": "coming_soon"
-    },
-    {
      "slug": "focker-in-law",
      "title": "Focker In-Law",
      "rating": "18TC",
@@ -347,6 +338,15 @@
      "language": "English",
      "releaseDate": "2026-11-26",
      "url": "https://kwt.voxcinemas.com/movies/hexed",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "travellers-hell-arabic",
+     "title": "Traveller's Hell",
+     "rating": "18TC",
+     "language": "Arabic",
+     "releaseDate": "2026-11-26",
+     "url": "https://kwt.voxcinemas.com/movies/travellers-hell-arabic",
      "status": "coming_soon"
     },
     {
