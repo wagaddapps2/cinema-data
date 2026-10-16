@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T18:25:42.229Z",
+ "updatedAt": "2026-10-16T00:22:52.665Z",
  "territory": "IQ",
  "cinemas": {
   "elcinema-iq": {
@@ -291,15 +291,6 @@
      "language": "",
      "releaseDate": "2026-11-03",
      "url": "https://elcinema.com/en/work/2098323/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099119/",
      "status": "coming_soon"
     },
     {

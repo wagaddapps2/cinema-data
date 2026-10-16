@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T18:25:28.611Z",
+ "updatedAt": "2026-10-16T00:22:36.556Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
@@ -231,12 +231,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "1010144",
-     "title": "Eskendereya Kaman we Kaman",
+     "slug": "1005772",
+     "title": "Alwadae ya bunabirt",
      "rating": "",
      "language": "",
-     "releaseDate": "1990-08-20",
-     "url": "https://elcinema.com/en/work/1010144/",
+     "releaseDate": "1985-06-17",
+     "url": "https://elcinema.com/en/work/1005772/",
      "status": "now_showing"
     },
     {
@@ -426,15 +426,6 @@
      "language": "",
      "releaseDate": "2026-11-25",
      "url": "https://elcinema.com/en/work/2099110/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099119/",
      "status": "coming_soon"
     },
     {

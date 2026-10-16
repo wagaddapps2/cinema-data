@@ -1,35 +1,26 @@
 {
- "updatedAt": "2026-10-15T18:25:30.531Z",
+ "updatedAt": "2026-10-16T00:22:40.061Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
    "name": "Cinemas in United Arab Emirates",
    "films": [
     {
-     "slug": "2096857",
-     "title": "Street Fighter",
+     "slug": "2102293",
+     "title": "Chha Maya Chhapakkai 2",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2096857/",
+     "releaseDate": "2026-10-16",
+     "url": "https://elcinema.com/en/work/2102293/",
      "status": "now_showing"
     },
     {
-     "slug": "2002621",
-     "title": "Twilight",
+     "slug": "2099166",
+     "title": "Ranabaali",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2002621/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2004262",
-     "title": "The Shawshank Redemption",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2004262/",
+     "releaseDate": "2026-10-16",
+     "url": "https://elcinema.com/en/work/2099166/",
      "status": "now_showing"
     },
     {
@@ -60,6 +51,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "2002621",
+     "title": "Twilight",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2002621/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
@@ -75,42 +84,6 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2097221/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102184",
-     "title": "Always Lalisa",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-12",
-     "url": "https://elcinema.com/en/work/2102184/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101678",
-     "title": "The Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101678/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098168",
-     "title": "The Social Reckoning",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2098168/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -132,15 +105,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101362",
-     "title": "Beware Boiúna",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101362/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101955",
      "title": "SB19 Wakas at Simula: Trilogy Concert",
      "rating": "",
@@ -156,6 +120,42 @@
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2102183/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101678",
+     "title": "The Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2101678/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101362",
+     "title": "Beware Boiúna",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2101362/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098168",
+     "title": "The Social Reckoning",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2098168/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -177,30 +177,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101672",
-     "title": "The Crystal Planet",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101672/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102075",
-     "title": "The Legendaries",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2102075/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098232",
      "title": "Verity",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101672",
+     "title": "The Crystal Planet",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101672/",
      "status": "now_showing"
     },
     {
@@ -222,6 +213,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102075",
+     "title": "The Legendaries",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2102075/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2097950",
      "title": "Digger",
      "rating": "",
@@ -231,12 +231,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101963",
-     "title": "The Smurfs: Timeless Adventure Volume 2",
+     "slug": "2100562",
+     "title": "Heart of the Beast",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101963/",
+     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {
@@ -249,12 +249,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
+     "slug": "2101960",
+     "title": "Pension Patta",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2100562/",
+     "url": "https://elcinema.com/en/work/2101960/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101963",
+     "title": "The Smurfs: Timeless Adventure Volume 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2101963/",
      "status": "now_showing"
     },
     {
@@ -276,15 +285,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101674",
-     "title": "Hanuman Ansh",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-10",
-     "url": "https://elcinema.com/en/work/2101674/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2100043",
      "title": "Cats in the Museum: Treasures of Egypt",
      "rating": "",
@@ -294,12 +294,39 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101674",
+     "title": "Hanuman Ansh",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-10",
+     "url": "https://elcinema.com/en/work/2101674/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100776",
+     "title": "It Ends",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-01",
+     "url": "https://elcinema.com/en/work/2100776/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2094924",
      "title": "Coyote vs. Acme",
      "rating": "",
      "language": "",
      "releaseDate": "2026-08-27",
      "url": "https://elcinema.com/en/work/2094924/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099118",
+     "title": "Insidious: Out of the Further",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-20",
+     "url": "https://elcinema.com/en/work/2099118/",
      "status": "now_showing"
     },
     {
@@ -363,6 +390,33 @@
      "language": "",
      "releaseDate": "2026-04-01",
      "url": "https://elcinema.com/en/work/2096578/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2086992",
+     "title": "Smile 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-10-17",
+     "url": "https://elcinema.com/en/work/2086992/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2083853",
+     "title": "A Quiet Place: Day One",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-06-27",
+     "url": "https://elcinema.com/en/work/2083853/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2044463",
+     "title": "It",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2020-08-14",
+     "url": "https://elcinema.com/en/work/2044463/",
      "status": "now_showing"
     },
     {
@@ -462,15 +516,6 @@
      "language": "",
      "releaseDate": "2026-11-25",
      "url": "https://elcinema.com/en/work/2099110/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099119/",
      "status": "coming_soon"
     },
     {

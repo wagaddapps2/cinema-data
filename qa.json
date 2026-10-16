@@ -1,17 +1,26 @@
 {
- "updatedAt": "2026-10-15T18:25:34.603Z",
+ "updatedAt": "2026-10-16T00:22:43.745Z",
  "territory": "QA",
  "cinemas": {
   "elcinema-qa": {
    "name": "Cinemas in Qatar",
    "films": [
     {
-     "slug": "2099166",
-     "title": "Ranabaali",
+     "slug": "2102293",
+     "title": "Chha Maya Chhapakkai 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-16",
+     "url": "https://elcinema.com/en/work/2102293/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102294",
+     "title": "Nayyi Navelli",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2099166/",
+     "url": "https://elcinema.com/en/work/2102294/",
      "status": "now_showing"
     },
     {
@@ -24,12 +33,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102294",
-     "title": "Nayyi Navelli",
+     "slug": "2099166",
+     "title": "Ranabaali",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2102294/",
+     "url": "https://elcinema.com/en/work/2099166/",
      "status": "now_showing"
     },
     {
@@ -51,15 +60,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101362",
-     "title": "Beware Boiúna",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101362/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102195",
      "title": "Sa3oud Wainah",
      "rating": "",
@@ -75,6 +75,15 @@
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2102183/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101362",
+     "title": "Beware Boiúna",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2101362/",
      "status": "now_showing"
     },
     {
@@ -105,30 +114,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097950",
-     "title": "Digger",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2097950/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101672",
-     "title": "The Crystal Planet",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101672/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101997",
      "title": "Drishyam: The Conclusion",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2101997/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102075",
+     "title": "The Legendaries",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2102075/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097950",
+     "title": "Digger",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2097950/",
      "status": "now_showing"
     },
     {
@@ -141,12 +150,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102075",
-     "title": "The Legendaries",
+     "slug": "2101672",
+     "title": "The Crystal Planet",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2102075/",
+     "url": "https://elcinema.com/en/work/2101672/",
      "status": "now_showing"
     },
     {
@@ -381,15 +390,6 @@
      "language": "",
      "releaseDate": "2026-11-25",
      "url": "https://elcinema.com/en/work/2099110/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099119/",
      "status": "coming_soon"
     },
     {
