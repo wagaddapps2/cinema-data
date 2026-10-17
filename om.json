@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-17T12:20:27.586Z",
+ "updatedAt": "2026-10-17T18:17:30.846Z",
  "territory": "OM",
  "cinemas": {
   "elcinema-om": {
@@ -426,6 +426,69 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102002/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2102336",
+     "title": "Bas Tera Saath Ho",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102336/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2102344",
+     "title": "Pee Mak",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102344/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2102345",
+     "title": "Tu Hai Meri Kiran",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-23",
+     "url": "https://elcinema.com/en/work/2102345/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2102347",
+     "title": "Risa and the Wind Phone",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102347/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2102348",
+     "title": "A Son",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102348/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2102349",
+     "title": "Princezna stokrat jinak",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102349/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2102350",
+     "title": "Orijinal",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-23",
+     "url": "https://elcinema.com/en/work/2102350/",
      "status": "coming_soon"
     }
    ]
