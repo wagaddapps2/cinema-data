@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T18:23:58.808Z",
+ "updatedAt": "2026-10-17T00:24:06.146Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
@@ -240,12 +240,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "1005772",
-     "title": "Alwadae ya bunabirt",
+     "slug": "1004617",
+     "title": "Alyawm alssadis",
      "rating": "",
      "language": "",
-     "releaseDate": "1985-06-17",
-     "url": "https://elcinema.com/en/work/1005772/",
+     "releaseDate": "1986-09-29",
+     "url": "https://elcinema.com/en/work/1004617/",
      "status": "now_showing"
     },
     {

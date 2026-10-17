@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-10-16T18:24:04.659Z",
+ "updatedAt": "2026-10-17T00:24:14.045Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
    "name": "Cinemas in Saudi Arabia",
    "films": [
+    {
+     "slug": "2099166",
+     "title": "Ranabaali",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-17",
+     "url": "https://elcinema.com/en/work/2099166/",
+     "status": "now_showing"
+    },
     {
      "slug": "2102294",
      "title": "Nayyi Navelli",
@@ -24,15 +33,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099122",
-     "title": "Forgotten Island",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2099122/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2096857",
      "title": "Street Fighter",
      "rating": "",
@@ -42,12 +42,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097221",
-     "title": "Jailer 2",
+     "slug": "2099122",
+     "title": "Forgotten Island",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2097221/",
+     "url": "https://elcinema.com/en/work/2099122/",
      "status": "now_showing"
     },
     {
@@ -60,6 +60,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "2097221",
+     "title": "Jailer 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2097221/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102184",
+     "title": "Always Lalisa",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-12",
+     "url": "https://elcinema.com/en/work/2102184/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102076",
      "title": "Avaraachan & Sons",
      "rating": "",
@@ -69,12 +87,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101678",
      "title": "The Beast",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2101678/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100784",
+     "title": "The Florist",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2100784/",
      "status": "now_showing"
     },
     {
@@ -93,24 +129,6 @@
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2098168/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100784",
-     "title": "The Florist",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2100784/",
      "status": "now_showing"
     },
     {
@@ -159,21 +177,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097036",
-     "title": "Avengers: Doomsday",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-23",
-     "url": "https://elcinema.com/en/work/2097036/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2100562",
      "title": "Heart of the Beast",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-23",
      "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097036",
+     "title": "Avengers: Doomsday",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-23",
+     "url": "https://elcinema.com/en/work/2097036/",
      "status": "now_showing"
     },
     {
@@ -222,21 +240,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2094876",
-     "title": "Mutiny",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-13",
-     "url": "https://elcinema.com/en/work/2094876/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2100068",
      "title": "Aks Sir",
      "rating": "",
      "language": "",
      "releaseDate": "2026-08-13",
      "url": "https://elcinema.com/en/work/2100068/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2094876",
+     "title": "Mutiny",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-13",
+     "url": "https://elcinema.com/en/work/2094876/",
      "status": "now_showing"
     },
     {
@@ -282,6 +300,15 @@
      "language": "",
      "releaseDate": "2026-06-17",
      "url": "https://elcinema.com/en/work/2097388/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100043",
+     "title": "Cats in the Museum: Treasures of Egypt",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-05-29",
+     "url": "https://elcinema.com/en/work/2100043/",
      "status": "now_showing"
     },
     {

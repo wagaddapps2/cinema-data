@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T18:24:13.932Z",
+ "updatedAt": "2026-10-17T00:24:25.766Z",
  "territory": "TN",
  "cinemas": {
   "elcinema-tn": {
@@ -24,12 +24,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102273",
+     "title": "Yugly",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2102273/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101794",
      "title": "Dar El3ers",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-18",
      "url": "https://elcinema.com/en/work/2101794/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101795",
+     "title": "Lass Chayeh",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-11",
+     "url": "https://elcinema.com/en/work/2101795/",
      "status": "now_showing"
     },
     {

@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-10-16T18:24:02.436Z",
+ "updatedAt": "2026-10-17T00:24:10.289Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
    "name": "Cinemas in United Arab Emirates",
    "films": [
+    {
+     "slug": "2099166",
+     "title": "Ranabaali",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-16",
+     "url": "https://elcinema.com/en/work/2099166/",
+     "status": "now_showing"
+    },
     {
      "slug": "2102293",
      "title": "Chha Maya Chhapakkai 2",
@@ -15,12 +24,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099166",
-     "title": "Ranabaali",
+     "slug": "2004262",
+     "title": "The Shawshank Redemption",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-16",
-     "url": "https://elcinema.com/en/work/2099166/",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2004262/",
      "status": "now_showing"
     },
     {
@@ -42,30 +51,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2000017",
-     "title": "The Twilight Saga: New Moon",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2000017/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2002621",
      "title": "Twilight",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2002621/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -78,6 +69,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2000017",
+     "title": "The Twilight Saga: New Moon",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2000017/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2097221",
      "title": "Jailer 2",
      "rating": "",
@@ -87,21 +96,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100784",
-     "title": "The Florist",
+     "slug": "2102184",
+     "title": "Always Lalisa",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2100784/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101041",
-     "title": "Psycho",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101041/",
+     "releaseDate": "2026-10-12",
+     "url": "https://elcinema.com/en/work/2102184/",
      "status": "now_showing"
     },
     {
@@ -123,21 +123,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101678",
      "title": "The Beast",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2101678/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101362",
-     "title": "Beware Boiúna",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101362/",
      "status": "now_showing"
     },
     {
@@ -150,12 +150,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
+     "slug": "2101362",
+     "title": "Beware Boiúna",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2099520/",
+     "url": "https://elcinema.com/en/work/2101362/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101041",
+     "title": "Psycho",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2101041/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100784",
+     "title": "The Florist",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2100784/",
      "status": "now_showing"
     },
     {
@@ -186,6 +204,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101991",
+     "title": "Baththa",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101991/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101672",
      "title": "The Crystal Planet",
      "rating": "",
@@ -201,15 +228,6 @@
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2101997/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101991",
-     "title": "Baththa",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101991/",
      "status": "now_showing"
     },
     {
@@ -267,15 +285,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098173",
-     "title": "Resident Evil",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2098173/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099778",
      "title": "Tad and the Magic Lamp",
      "rating": "",
@@ -285,12 +294,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100043",
-     "title": "Cats in the Museum: Treasures of Egypt",
+     "slug": "2098173",
+     "title": "Resident Evil",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-09-10",
-     "url": "https://elcinema.com/en/work/2100043/",
+     "releaseDate": "2026-09-17",
+     "url": "https://elcinema.com/en/work/2098173/",
      "status": "now_showing"
     },
     {
@@ -300,6 +309,15 @@
      "language": "",
      "releaseDate": "2026-09-10",
      "url": "https://elcinema.com/en/work/2101674/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100043",
+     "title": "Cats in the Museum: Treasures of Egypt",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-10",
+     "url": "https://elcinema.com/en/work/2100043/",
      "status": "now_showing"
     },
     {
@@ -411,6 +429,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2074973",
+     "title": "Smile",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2022-09-29",
+     "url": "https://elcinema.com/en/work/2074973/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2044463",
      "title": "It",
      "rating": "",
@@ -426,6 +453,15 @@
      "language": "",
      "releaseDate": "2019-04-23",
      "url": "https://elcinema.com/en/work/2032663/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2044084",
+     "title": "Smurfs: The Lost Village",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2017-03-30",
+     "url": "https://elcinema.com/en/work/2044084/",
      "status": "now_showing"
     },
     {

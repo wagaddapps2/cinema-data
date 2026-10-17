@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T18:24:08.557Z",
+ "updatedAt": "2026-10-17T00:24:21.172Z",
  "territory": "OM",
  "cinemas": {
   "elcinema-om": {
@@ -60,6 +60,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102184",
+     "title": "Always Lalisa",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-12",
+     "url": "https://elcinema.com/en/work/2102184/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101678",
      "title": "The Beast",
      "rating": "",
@@ -114,21 +123,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097950",
-     "title": "Digger",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2097950/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102075",
      "title": "The Legendaries",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2102075/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097950",
+     "title": "Digger",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2097950/",
      "status": "now_showing"
     },
     {
@@ -141,21 +150,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101963",
-     "title": "The Smurfs: Timeless Adventure Volume 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101963/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097036",
      "title": "Avengers: Doomsday",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-24",
      "url": "https://elcinema.com/en/work/2097036/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101963",
+     "title": "The Smurfs: Timeless Adventure Volume 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2101963/",
      "status": "now_showing"
     },
     {
@@ -186,30 +195,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100776",
-     "title": "It Ends",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-02",
-     "url": "https://elcinema.com/en/work/2100776/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2094924",
      "title": "Coyote vs. Acme",
      "rating": "",
      "language": "",
      "releaseDate": "2026-08-27",
      "url": "https://elcinema.com/en/work/2094924/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099118",
-     "title": "Insidious: Out of the Further",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-19",
-     "url": "https://elcinema.com/en/work/2099118/",
      "status": "now_showing"
     },
     {
@@ -231,12 +222,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2074973",
-     "title": "Smile",
+     "slug": "2099005",
+     "title": "Backrooms",
      "rating": "",
      "language": "",
-     "releaseDate": "2022-09-28",
-     "url": "https://elcinema.com/en/work/2074973/",
+     "releaseDate": "2026-05-27",
+     "url": "https://elcinema.com/en/work/2099005/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2086992",
+     "title": "Smile 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-10-16",
+     "url": "https://elcinema.com/en/work/2086992/",
      "status": "now_showing"
     },
     {

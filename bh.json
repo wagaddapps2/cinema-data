@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T18:24:07.602Z",
+ "updatedAt": "2026-10-17T00:24:19.166Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
@@ -87,6 +87,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102184",
+     "title": "Always Lalisa",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-12",
+     "url": "https://elcinema.com/en/work/2102184/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
@@ -105,15 +114,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102076",
-     "title": "Avaraachan & Sons",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2102076/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101997",
      "title": "Drishyam: The Conclusion",
      "rating": "",
@@ -123,12 +123,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097950",
-     "title": "Digger",
+     "slug": "2102076",
+     "title": "Avaraachan & Sons",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-09-30",
-     "url": "https://elcinema.com/en/work/2097950/",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2102076/",
      "status": "now_showing"
     },
     {
@@ -138,6 +138,15 @@
      "language": "",
      "releaseDate": "2026-09-30",
      "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097950",
+     "title": "Digger",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-30",
+     "url": "https://elcinema.com/en/work/2097950/",
      "status": "now_showing"
     },
     {
