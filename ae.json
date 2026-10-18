@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18T06:22:48.530Z",
+ "updatedAt": "2026-10-18T12:20:37.156Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
@@ -24,6 +24,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2002621",
+     "title": "Twilight",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2002621/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2004262",
      "title": "The Shawshank Redemption",
      "rating": "",
@@ -34,7 +43,7 @@
     },
     {
      "slug": "2102195",
-     "title": "Sa3oud Wainah",
+     "title": "Saoud Wainah",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
@@ -42,17 +51,8 @@
      "status": "now_showing"
     },
     {
-     "slug": "2000017",
-     "title": "The Twilight Saga: New Moon",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2000017/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102294",
-     "title": "Nayyi Navelli",
+     "title": "Nayi Naveli",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
@@ -69,15 +69,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2002621",
-     "title": "Twilight",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2002621/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
@@ -87,21 +78,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2000017",
+     "title": "The Twilight Saga: New Moon",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2000017/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2097221",
      "title": "Jailer 2",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2097221/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102184",
-     "title": "Always Lalisa",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-12",
-     "url": "https://elcinema.com/en/work/2102184/",
      "status": "now_showing"
     },
     {
@@ -115,7 +106,7 @@
     },
     {
      "slug": "2102183",
-     "title": "Premada Oorali",
+     "title": "In the Town of Love",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
@@ -186,12 +177,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102075",
-     "title": "The Legendaries",
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2102075/",
+     "url": "https://elcinema.com/en/work/2101997/",
      "status": "now_showing"
     },
     {
@@ -222,12 +213,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101997",
-     "title": "Drishyam: The Conclusion",
+     "slug": "2102075",
+     "title": "The Legendaries",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101997/",
+     "url": "https://elcinema.com/en/work/2102075/",
      "status": "now_showing"
     },
     {

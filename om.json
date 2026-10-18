@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-10-18T06:22:58.266Z",
+ "updatedAt": "2026-10-18T12:20:45.944Z",
  "territory": "OM",
  "cinemas": {
   "elcinema-om": {
    "name": "Cinemas in Oman",
    "films": [
+    {
+     "slug": "2102294",
+     "title": "Nayi Naveli",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-16",
+     "url": "https://elcinema.com/en/work/2102294/",
+     "status": "now_showing"
+    },
     {
      "slug": "2099166",
      "title": "Ranabaali",
@@ -15,21 +24,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102294",
-     "title": "Nayyi Navelli",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-16",
-     "url": "https://elcinema.com/en/work/2102294/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102195",
-     "title": "Sa3oud Wainah",
+     "title": "Saoud Wainah",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2102195/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -48,15 +57,6 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2097221/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -114,21 +114,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097950",
-     "title": "Digger",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2097950/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101672",
      "title": "The Crystal Planet",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2101672/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097950",
+     "title": "Digger",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2097950/",
      "status": "now_showing"
     },
     {
@@ -147,15 +147,6 @@
      "language": "",
      "releaseDate": "2026-09-24",
      "url": "https://elcinema.com/en/work/2101963/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097036",
-     "title": "Avengers: Doomsday",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2097036/",
      "status": "now_showing"
     },
     {
@@ -204,21 +195,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099118",
-     "title": "Insidious: Out of the Further",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-19",
-     "url": "https://elcinema.com/en/work/2099118/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2094876",
      "title": "Mutiny",
      "rating": "",
      "language": "",
      "releaseDate": "2026-08-19",
      "url": "https://elcinema.com/en/work/2094876/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099118",
+     "title": "Insidious: Out of the Further",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-19",
+     "url": "https://elcinema.com/en/work/2099118/",
      "status": "now_showing"
     },
     {

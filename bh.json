@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-10-18T06:22:56.051Z",
+ "updatedAt": "2026-10-18T12:20:43.424Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
    "name": "Cinemas in Bahrain",
    "films": [
+    {
+     "slug": "2101019",
+     "title": "The Runner",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-18",
+     "url": "https://elcinema.com/en/work/2101019/",
+     "status": "now_showing"
+    },
     {
      "slug": "2099119",
      "title": "Sense and Sensibility",
@@ -25,7 +34,7 @@
     },
     {
      "slug": "2102294",
-     "title": "Nayyi Navelli",
+     "title": "Nayi Naveli",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
@@ -52,20 +61,11 @@
     },
     {
      "slug": "2102195",
-     "title": "Sa3oud Wainah",
+     "title": "Saoud Wainah",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2102195/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -75,6 +75,15 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2097221/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -105,15 +114,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102076",
-     "title": "Avaraachan & Sons",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2102076/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101997",
      "title": "Drishyam: The Conclusion",
      "rating": "",
@@ -123,21 +123,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097950",
-     "title": "Digger",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-30",
-     "url": "https://elcinema.com/en/work/2097950/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098232",
      "title": "Verity",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-30",
      "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097950",
+     "title": "Digger",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-30",
+     "url": "https://elcinema.com/en/work/2097950/",
      "status": "now_showing"
     },
     {
@@ -183,15 +183,6 @@
      "language": "",
      "releaseDate": "2026-09-10",
      "url": "https://elcinema.com/en/work/2100043/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101010",
-     "title": "Runner",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-09",
-     "url": "https://elcinema.com/en/work/2101010/",
      "status": "now_showing"
     },
     {

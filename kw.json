@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18T06:21:04.813Z",
+ "updatedAt": "2026-10-18T12:18:50.306Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -952,25 +952,25 @@
     {
      "slug": "clayface-english",
      "title": "Clayface",
-     "rating": "",
+     "rating": "R18",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/clayface-english",
      "status": "coming_soon"
     },
     {
-     "slug": "train-to-busan-korean",
-     "title": "Train to Busan",
-     "rating": "",
+     "slug": "train-to-busan-2016-korean",
+     "title": "Train to Busan 2016",
+     "rating": "R15",
      "language": "Korean",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/train-to-busan-korean",
+     "url": "https://www.ozonecinema.com/movies/train-to-busan-2016-korean",
      "status": "coming_soon"
     },
     {
      "slug": "no-paradise-if-you-are-killed-by-a-woman-english",
      "title": "No Paradise If You Are Killed by a Woman",
-     "rating": "",
+     "rating": "R18",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/no-paradise-if-you-are-killed-by-a-woman-english",
@@ -988,7 +988,7 @@
     {
      "slug": "the-dino-family-english",
      "title": "The Dino Family",
-     "rating": "",
+     "rating": "PG",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-dino-family-english",
@@ -997,7 +997,7 @@
     {
      "slug": "wala-kan-ala-el-bal-arabic",
      "title": "Wala Kan Ala El-Bal",
-     "rating": "",
+     "rating": "R15",
      "language": "Arabic",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/wala-kan-ala-el-bal-arabic",
@@ -1006,7 +1006,7 @@
     {
      "slug": "titans-malayalam",
      "title": "Titans",
-     "rating": "",
+     "rating": "R15",
      "language": "Malayalam",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/titans-malayalam",
@@ -1015,7 +1015,7 @@
     {
      "slug": "udumbanchola-vision-malayalam",
      "title": "Udumbanchola Vision",
-     "rating": "",
+     "rating": "R15",
      "language": "Malayalam",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/udumbanchola-vision-malayalam",
@@ -1040,12 +1040,39 @@
      "status": "coming_soon"
     },
     {
+     "slug": "hope-korean",
+     "title": "Hope",
+     "rating": "",
+     "language": "Korean",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/hope-korean",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "scene-tamil",
+     "title": "Scene",
+     "rating": "",
+     "language": "Tamil",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/scene-tamil",
+     "status": "coming_soon"
+    },
+    {
      "slug": "ghost-soldier-english",
      "title": "Ghost Soldier",
      "rating": "",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/ghost-soldier-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "gunmaaster-g9-hindi",
+     "title": "Gunmaaster G9",
+     "rating": "",
+     "language": "Hindi",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/gunmaaster-g9-hindi",
      "status": "coming_soon"
     },
     {
@@ -1067,12 +1094,30 @@
      "status": "coming_soon"
     },
     {
+     "slug": "best-pancakes-in-the-county-english",
+     "title": "Best Pancakes in the County",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/best-pancakes-in-the-county-english",
+     "status": "coming_soon"
+    },
+    {
      "slug": "orijinal-malayalam",
      "title": "Orijinal",
      "rating": "",
      "language": "Malayalam",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/orijinal-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "remain-english",
+     "title": "Remain",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/remain-english",
      "status": "coming_soon"
     },
     {
@@ -1091,6 +1136,15 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/monster-mia-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "scorpion-english",
+     "title": "Scorpion",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/scorpion-english",
      "status": "coming_soon"
     },
     {
@@ -1352,6 +1406,15 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-rescue-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-beekeeper-2-english",
+     "title": "The Beekeeper 2",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-beekeeper-2-english",
      "status": "coming_soon"
     }
    ]
@@ -1470,25 +1533,25 @@
     {
      "slug": "clayface-english",
      "title": "Clayface",
-     "rating": "",
+     "rating": "R18",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/clayface-english",
      "status": "coming_soon"
     },
     {
-     "slug": "train-to-busan-korean",
-     "title": "Train to Busan",
-     "rating": "",
+     "slug": "train-to-busan-2016-korean",
+     "title": "Train to Busan 2016",
+     "rating": "R15",
      "language": "Korean",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/train-to-busan-korean",
+     "url": "https://www.ozonecinema.com/movies/train-to-busan-2016-korean",
      "status": "coming_soon"
     },
     {
      "slug": "no-paradise-if-you-are-killed-by-a-woman-english",
      "title": "No Paradise If You Are Killed by a Woman",
-     "rating": "",
+     "rating": "R18",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/no-paradise-if-you-are-killed-by-a-woman-english",
@@ -1506,7 +1569,7 @@
     {
      "slug": "the-dino-family-english",
      "title": "The Dino Family",
-     "rating": "",
+     "rating": "PG",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-dino-family-english",
@@ -1515,7 +1578,7 @@
     {
      "slug": "wala-kan-ala-el-bal-arabic",
      "title": "Wala Kan Ala El-Bal",
-     "rating": "",
+     "rating": "R15",
      "language": "Arabic",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/wala-kan-ala-el-bal-arabic",
@@ -1524,7 +1587,7 @@
     {
      "slug": "titans-malayalam",
      "title": "Titans",
-     "rating": "",
+     "rating": "R15",
      "language": "Malayalam",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/titans-malayalam",
@@ -1533,7 +1596,7 @@
     {
      "slug": "udumbanchola-vision-malayalam",
      "title": "Udumbanchola Vision",
-     "rating": "",
+     "rating": "R15",
      "language": "Malayalam",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/udumbanchola-vision-malayalam",
@@ -1558,12 +1621,39 @@
      "status": "coming_soon"
     },
     {
+     "slug": "hope-korean",
+     "title": "Hope",
+     "rating": "",
+     "language": "Korean",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/hope-korean",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "scene-tamil",
+     "title": "Scene",
+     "rating": "",
+     "language": "Tamil",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/scene-tamil",
+     "status": "coming_soon"
+    },
+    {
      "slug": "ghost-soldier-english",
      "title": "Ghost Soldier",
      "rating": "",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/ghost-soldier-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "gunmaaster-g9-hindi",
+     "title": "Gunmaaster G9",
+     "rating": "",
+     "language": "Hindi",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/gunmaaster-g9-hindi",
      "status": "coming_soon"
     },
     {
@@ -1585,12 +1675,30 @@
      "status": "coming_soon"
     },
     {
+     "slug": "best-pancakes-in-the-county-english",
+     "title": "Best Pancakes in the County",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/best-pancakes-in-the-county-english",
+     "status": "coming_soon"
+    },
+    {
      "slug": "orijinal-malayalam",
      "title": "Orijinal",
      "rating": "",
      "language": "Malayalam",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/orijinal-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "remain-english",
+     "title": "Remain",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/remain-english",
      "status": "coming_soon"
     },
     {
@@ -1609,6 +1717,15 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/monster-mia-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "scorpion-english",
+     "title": "Scorpion",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/scorpion-english",
      "status": "coming_soon"
     },
     {
@@ -1870,6 +1987,15 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-rescue-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-beekeeper-2-english",
+     "title": "The Beekeeper 2",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-beekeeper-2-english",
      "status": "coming_soon"
     }
    ]
@@ -2051,15 +2177,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097221",
-     "title": "Jailer 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     }
    ]
@@ -2367,15 +2484,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
@@ -2403,21 +2511,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101678",
      "title": "The Beast",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101678/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101997",
-     "title": "Drishyam: The Conclusion",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101997/",
      "status": "now_showing"
     },
     {
@@ -2454,6 +2562,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2098168/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101997/",
      "status": "now_showing"
     }
    ]

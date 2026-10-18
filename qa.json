@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18T06:22:53.838Z",
+ "updatedAt": "2026-10-18T12:20:42.145Z",
  "territory": "QA",
  "cinemas": {
   "elcinema-qa": {
@@ -16,7 +16,7 @@
     },
     {
      "slug": "2102294",
-     "title": "Nayyi Navelli",
+     "title": "Nayi Naveli",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
@@ -70,7 +70,7 @@
     },
     {
      "slug": "2102195",
-     "title": "Sa3oud Wainah",
+     "title": "Saoud Wainah",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
