@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18T00:23:21.470Z",
+ "updatedAt": "2026-10-18T06:22:48.530Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
@@ -624,15 +624,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102002/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2102336",
-     "title": "Bas Tera Saath Ho",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102336/",
      "status": "coming_soon"
     },
     {
