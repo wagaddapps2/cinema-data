@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-10-17T18:17:17.905Z",
+ "updatedAt": "2026-10-18T00:23:18.490Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
    "name": "Cinemas in Egypt",
    "films": [
     {
-     "slug": "2093506",
-     "title": "The Magic Faraway Tree",
+     "slug": "2100295",
+     "title": "Fatherland",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2093506/",
+     "releaseDate": "2026-10-18",
+     "url": "https://elcinema.com/en/work/2100295/",
      "status": "now_showing"
     },
     {
@@ -24,12 +24,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2093506",
+     "title": "The Magic Faraway Tree",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2093506/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095519",
+     "title": "Other Mommy",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2095519/",
      "status": "now_showing"
     },
     {
@@ -51,21 +69,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095519",
-     "title": "Other Mommy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101234",
+     "title": "Cahim 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101234/",
      "status": "now_showing"
     },
     {
@@ -84,15 +102,6 @@
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2097950/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101234",
-     "title": "Cahim 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101234/",
      "status": "now_showing"
     },
     {
@@ -132,21 +141,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099778",
-     "title": "Tad and the Magic Lamp",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2099778/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098173",
      "title": "Resident Evil",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-17",
      "url": "https://elcinema.com/en/work/2098173/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099778",
+     "title": "Tad and the Magic Lamp",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-17",
+     "url": "https://elcinema.com/en/work/2099778/",
      "status": "now_showing"
     },
     {
@@ -237,15 +246,6 @@
      "language": "",
      "releaseDate": "2019-04-24",
      "url": "https://elcinema.com/en/work/2032663/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "1004617",
-     "title": "Alyawm alssadis",
-     "rating": "",
-     "language": "",
-     "releaseDate": "1986-09-29",
-     "url": "https://elcinema.com/en/work/1004617/",
      "status": "now_showing"
     },
     {

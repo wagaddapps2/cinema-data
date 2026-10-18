@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-10-17T18:17:33.161Z",
+ "updatedAt": "2026-10-18T00:23:31.706Z",
  "territory": "JO",
  "cinemas": {
   "elcinema-jo": {
    "name": "Cinemas in Jordan",
    "films": [
-    {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
     {
      "slug": "2098154",
      "title": "Whalefall",
@@ -24,21 +15,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102184",
-     "title": "Always Lalisa",
+     "slug": "2096857",
+     "title": "Street Fighter",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-12",
-     "url": "https://elcinema.com/en/work/2102184/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2099520/",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -48,6 +30,15 @@
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -69,15 +60,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101963",
-     "title": "The Smurfs: Timeless Adventure Volume 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101963/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2100562",
      "title": "Heart of the Beast",
      "rating": "",
@@ -87,12 +69,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101963",
+     "title": "The Smurfs: Timeless Adventure Volume 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2101963/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098173",
      "title": "Resident Evil",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-17",
      "url": "https://elcinema.com/en/work/2098173/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095662",
+     "title": "Red Flag",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-17",
+     "url": "https://elcinema.com/en/work/2095662/",
      "status": "now_showing"
     },
     {
@@ -138,6 +138,15 @@
      "language": "",
      "releaseDate": "2026-06-25",
      "url": "https://elcinema.com/en/work/2093181/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2032663",
+     "title": "Avengers Endgame: Encore re-release",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2019-04-24",
+     "url": "https://elcinema.com/en/work/2032663/",
      "status": "now_showing"
     },
     {
