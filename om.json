@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18T18:18:32.666Z",
+ "updatedAt": "2026-10-19T00:24:30.592Z",
  "territory": "OM",
  "cinemas": {
   "elcinema-om": {
@@ -69,15 +69,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101362",
      "title": "Beware Boiúna",
      "rating": "",
@@ -96,12 +87,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102076",
-     "title": "Avaraachan & Sons",
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-02",
-     "url": "https://elcinema.com/en/work/2102076/",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -111,6 +102,15 @@
      "language": "",
      "releaseDate": "2026-10-02",
      "url": "https://elcinema.com/en/work/2101997/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102076",
+     "title": "Avaraachan & Sons",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-02",
+     "url": "https://elcinema.com/en/work/2102076/",
      "status": "now_showing"
     },
     {
@@ -177,15 +177,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100776",
-     "title": "It Ends",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-02",
-     "url": "https://elcinema.com/en/work/2100776/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2094924",
      "title": "Coyote vs. Acme",
      "rating": "",
@@ -204,30 +195,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099118",
-     "title": "Insidious: Out of the Further",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-19",
-     "url": "https://elcinema.com/en/work/2099118/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095329",
      "title": "The Odyssey",
      "rating": "",
      "language": "",
      "releaseDate": "2026-07-15",
      "url": "https://elcinema.com/en/work/2095329/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2074973",
-     "title": "Smile",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2022-09-28",
-     "url": "https://elcinema.com/en/work/2074973/",
      "status": "now_showing"
     },
     {

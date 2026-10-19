@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18T18:16:41.212Z",
+ "updatedAt": "2026-10-19T00:22:36.263Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -2104,7 +2104,7 @@
     },
     {
      "slug": "2102195",
-     "title": "Sa3oud Wainah",
+     "title": "Saoud Wainah",
      "rating": "",
      "language": "",
      "releaseDate": null,
@@ -2178,6 +2178,15 @@
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2095519/",
      "status": "now_showing"
+    },
+    {
+     "slug": "2097221",
+     "title": "Jailer 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097221/",
+     "status": "now_showing"
     }
    ]
   },
@@ -2200,15 +2209,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099166/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101997",
-     "title": "Drishyam: The Conclusion",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101997/",
      "status": "now_showing"
     }
    ]
@@ -2271,21 +2271,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102195",
+     "title": "Saoud Wainah",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102195/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099166",
      "title": "Ranabaali",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099166/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102195",
-     "title": "Sa3oud Wainah",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102195/",
      "status": "now_showing"
     },
     {
@@ -2349,7 +2349,7 @@
     },
     {
      "slug": "2102195",
-     "title": "Sa3oud Wainah",
+     "title": "Saoud Wainah",
      "rating": "",
      "language": "",
      "releaseDate": null,
@@ -2484,6 +2484,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
@@ -2511,21 +2520,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101678",
      "title": "The Beast",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101678/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101997/",
      "status": "now_showing"
     },
     {
@@ -2562,15 +2571,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2098168/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101997",
-     "title": "Drishyam: The Conclusion",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101997/",
      "status": "now_showing"
     }
    ]
