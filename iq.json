@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T00:24:33.889Z",
+ "updatedAt": "2026-10-19T06:32:12.883Z",
  "territory": "IQ",
  "cinemas": {
   "elcinema-iq": {
@@ -21,15 +21,6 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101362",
-     "title": "Beware Boiúna",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101362/",
      "status": "now_showing"
     },
     {
@@ -60,6 +51,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101362",
+     "title": "Beware Boiúna",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2101362/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
@@ -87,21 +87,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102069",
-     "title": "Üç Harfliler: Mühür",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-30",
-     "url": "https://elcinema.com/en/work/2102069/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097950",
      "title": "Digger",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-30",
      "url": "https://elcinema.com/en/work/2097950/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102069",
+     "title": "Üç Harfliler: Mühür",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-30",
+     "url": "https://elcinema.com/en/work/2102069/",
      "status": "now_showing"
     },
     {
@@ -201,6 +201,15 @@
      "language": "",
      "releaseDate": "2026-09-02",
      "url": "https://elcinema.com/en/work/2099766/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2069657",
+     "title": "El Gawahergy",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-05",
+     "url": "https://elcinema.com/en/work/2069657/",
      "status": "now_showing"
     },
     {

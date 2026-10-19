@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T00:24:27.276Z",
+ "updatedAt": "2026-10-19T06:32:07.214Z",
  "territory": "QA",
  "cinemas": {
   "elcinema-qa": {
@@ -24,15 +24,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099166",
      "title": "Ranabaali",
      "rating": "",
@@ -42,12 +33,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097221",
-     "title": "Jailer 2",
+     "slug": "2098154",
+     "title": "Whalefall",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2097221/",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -60,21 +51,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102195",
-     "title": "Saoud Wainah",
+     "slug": "2097221",
+     "title": "Jailer 2",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2102195/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102183",
-     "title": "Premada Oorali",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2102183/",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     },
     {
@@ -84,6 +66,24 @@
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2101362/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102195",
+     "title": "Saoud Wainah",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2102195/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101678",
+     "title": "The Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2101678/",
      "status": "now_showing"
     },
     {
@@ -105,30 +105,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101678",
-     "title": "The Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2101678/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101997",
      "title": "Drishyam: The Conclusion",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2101997/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102075",
-     "title": "The Legendaries",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2102075/",
      "status": "now_showing"
     },
     {
@@ -141,12 +123,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101991",
-     "title": "Baththa",
+     "slug": "2102075",
+     "title": "The Legendaries",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101991/",
+     "url": "https://elcinema.com/en/work/2102075/",
      "status": "now_showing"
     },
     {
@@ -168,21 +150,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2084476",
-     "title": "Restart",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-23",
-     "url": "https://elcinema.com/en/work/2084476/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2100562",
      "title": "Heart of the Beast",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-23",
      "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2084476",
+     "title": "Restart",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-23",
+     "url": "https://elcinema.com/en/work/2084476/",
      "status": "now_showing"
     },
     {

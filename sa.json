@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T00:24:25.198Z",
+ "updatedAt": "2026-10-19T06:32:05.967Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
@@ -141,15 +141,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101997",
-     "title": "Drishyam: The Conclusion",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101997/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098232",
      "title": "Verity",
      "rating": "",
@@ -240,21 +231,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100068",
-     "title": "Aks Sir",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-13",
-     "url": "https://elcinema.com/en/work/2100068/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2094876",
      "title": "Mutiny",
      "rating": "",
      "language": "",
      "releaseDate": "2026-08-13",
      "url": "https://elcinema.com/en/work/2094876/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100068",
+     "title": "Aks Sir",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-13",
+     "url": "https://elcinema.com/en/work/2100068/",
      "status": "now_showing"
     },
     {

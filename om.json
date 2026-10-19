@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-10-19T00:24:30.592Z",
+ "updatedAt": "2026-10-19T06:32:10.013Z",
  "territory": "OM",
  "cinemas": {
   "elcinema-om": {
    "name": "Cinemas in Oman",
    "films": [
     {
-     "slug": "2102294",
-     "title": "Nayi Naveli",
+     "slug": "2044463",
+     "title": "It",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-16",
-     "url": "https://elcinema.com/en/work/2102294/",
+     "releaseDate": "2026-10-19",
+     "url": "https://elcinema.com/en/work/2044463/",
      "status": "now_showing"
     },
     {
@@ -21,6 +21,15 @@
      "language": "",
      "releaseDate": "2026-10-16",
      "url": "https://elcinema.com/en/work/2099166/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102294",
+     "title": "Nayi Naveli",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-16",
+     "url": "https://elcinema.com/en/work/2102294/",
      "status": "now_showing"
     },
     {
@@ -78,15 +87,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095519",
-     "title": "Other Mommy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
@@ -96,12 +96,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101997",
-     "title": "Drishyam: The Conclusion",
+     "slug": "2095519",
+     "title": "Other Mommy",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-02",
-     "url": "https://elcinema.com/en/work/2101997/",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2095519/",
      "status": "now_showing"
     },
     {
@@ -111,6 +111,15 @@
      "language": "",
      "releaseDate": "2026-10-02",
      "url": "https://elcinema.com/en/work/2102076/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-02",
+     "url": "https://elcinema.com/en/work/2101997/",
      "status": "now_showing"
     },
     {
@@ -201,6 +210,24 @@
      "language": "",
      "releaseDate": "2026-07-15",
      "url": "https://elcinema.com/en/work/2095329/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099005",
+     "title": "Backrooms",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-05-27",
+     "url": "https://elcinema.com/en/work/2099005/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2083853",
+     "title": "A Quiet Place: Day One",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-06-26",
+     "url": "https://elcinema.com/en/work/2083853/",
      "status": "now_showing"
     },
     {
