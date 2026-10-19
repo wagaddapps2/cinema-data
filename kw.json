@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T12:29:31.642Z",
+ "updatedAt": "2026-10-19T18:24:27.269Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -126,6 +126,46 @@
      "status": "now_showing"
     },
     {
+     "slug": "clayface",
+     "title": "Clayface",
+     "rating": "R18",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/clayface",
+     "status": "now_showing"
+    },
+    {
+     "slug": "no-paradise-if-you-are-killed-by-a-woman",
+     "title": "No Paradise if You Are Killed by a Woman",
+     "rating": "R18",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/no-paradise-if-you-are-killed-by-a-woman",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-dino-family",
+     "title": "The Dino Family",
+     "rating": "PG",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/the-dino-family",
+     "status": "now_showing"
+    },
+    {
+     "slug": "train-to-busan-korean",
+     "title": "Train to Busan",
+     "rating": "R15",
+     "language": "Korean",
+     "url": "https://kwt.voxcinemas.com/movies/train-to-busan-korean",
+     "status": "now_showing"
+    },
+    {
+     "slug": "treasure-trekkers",
+     "title": "Treasure Trekkers",
+     "rating": "PG",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/treasure-trekkers",
+     "status": "now_showing"
+    },
+    {
      "slug": "godzilla-minus-zero-preview-screening-japanese",
      "title": "Godzilla Minus Zero - Preview Screening",
      "rating": "18TC",
@@ -136,7 +176,7 @@
     {
      "slug": "clayface",
      "title": "Clayface",
-     "rating": "18TC",
+     "rating": "R18",
      "language": "English",
      "releaseDate": "2026-10-22",
      "url": "https://kwt.voxcinemas.com/movies/clayface",
@@ -145,7 +185,7 @@
     {
      "slug": "treasure-trekkers",
      "title": "Treasure Trekkers",
-     "rating": "18TC",
+     "rating": "PG",
      "language": "English",
      "releaseDate": "2026-10-22",
      "url": "https://kwt.voxcinemas.com/movies/treasure-trekkers",
@@ -154,7 +194,7 @@
     {
      "slug": "train-to-busan-korean",
      "title": "Train to Busan",
-     "rating": "18TC",
+     "rating": "R15",
      "language": "Korean",
      "releaseDate": "2026-10-22",
      "url": "https://kwt.voxcinemas.com/movies/train-to-busan-korean",
@@ -163,7 +203,7 @@
     {
      "slug": "no-paradise-if-you-are-killed-by-a-woman",
      "title": "No Paradise if You Are Killed by a Woman",
-     "rating": "18TC",
+     "rating": "R18",
      "language": "English",
      "releaseDate": "2026-10-22",
      "url": "https://kwt.voxcinemas.com/movies/no-paradise-if-you-are-killed-by-a-woman",
@@ -941,6 +981,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "titans-malayalam",
+     "title": "Titans",
+     "rating": "PG12",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/titans-malayalam",
+     "status": "now_showing"
+    },
+    {
+     "slug": "udumbanchola-vision-malayalam",
+     "title": "Udumbanchola Vision",
+     "rating": "R15",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/udumbanchola-vision-malayalam",
+     "status": "now_showing"
+    },
+    {
      "slug": "ranabaali-telugu",
      "title": "Ranabaali",
      "rating": "R15",
@@ -965,24 +1023,6 @@
      "language": "Arabic",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/wala-kan-ala-el-bal-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "titans-malayalam",
-     "title": "Titans",
-     "rating": "PG12",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/titans-malayalam",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "udumbanchola-vision-malayalam",
-     "title": "Udumbanchola Vision",
-     "rating": "R15",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/udumbanchola-vision-malayalam",
      "status": "coming_soon"
     },
     {
@@ -1396,12 +1436,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "train-to-busan-2016-korean",
-     "title": "Train to Busan",
-     "rating": "R15",
-     "language": "Korean",
+     "slug": "treasure-trekkers-english",
+     "title": "Treasure Trekkers",
+     "rating": "PG",
+     "language": "English",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/train-to-busan-2016-korean",
+     "url": "https://www.ozonecinema.com/movies/treasure-trekkers-english",
      "status": "now_showing"
     },
     {
@@ -1414,12 +1454,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "treasure-trekkers-english",
-     "title": "Treasure Trekkers",
-     "rating": "PG",
-     "language": "English",
+     "slug": "jailer-2-tamil",
+     "title": "Jailer 2",
+     "rating": "R15",
+     "language": "Tamil",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/treasure-trekkers-english",
+     "url": "https://www.ozonecinema.com/movies/jailer-2-tamil",
      "status": "now_showing"
     },
     {
@@ -1429,6 +1469,15 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-dino-family-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "train-to-busan-2016-korean",
+     "title": "Train to Busan",
+     "rating": "R15",
+     "language": "Korean",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/train-to-busan-2016-korean",
      "status": "now_showing"
     },
     {
@@ -1447,15 +1496,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/whalefall-english",
-     "status": "now_showing"
-    },
-    {
-     "slug": "jailer-2-tamil",
-     "title": "Jailer 2",
-     "rating": "R15",
-     "language": "Tamil",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/jailer-2-tamil",
      "status": "now_showing"
     },
     {
@@ -1546,24 +1586,6 @@
      "language": "Arabic",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/wala-kan-ala-el-bal-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "titans-malayalam",
-     "title": "Titans",
-     "rating": "PG12",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/titans-malayalam",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "udumbanchola-vision-malayalam",
-     "title": "Udumbanchola Vision",
-     "rating": "R15",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/udumbanchola-vision-malayalam",
      "status": "coming_soon"
     },
     {
