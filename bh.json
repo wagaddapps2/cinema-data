@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-10-19T06:32:08.598Z",
+ "updatedAt": "2026-10-19T12:31:18.989Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
    "name": "Cinemas in Bahrain",
    "films": [
-    {
-     "slug": "2101019",
-     "title": "The Runner",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-18",
-     "url": "https://elcinema.com/en/work/2101019/",
-     "status": "now_showing"
-    },
     {
      "slug": "2099119",
      "title": "Sense and Sensibility",
@@ -69,21 +60,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097221",
-     "title": "Jailer 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2097221/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097221",
+     "title": "Jailer 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     },
     {
@@ -123,21 +114,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-30",
-     "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097950",
      "title": "Digger",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-30",
      "url": "https://elcinema.com/en/work/2097950/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-30",
+     "url": "https://elcinema.com/en/work/2098232/",
      "status": "now_showing"
     },
     {
@@ -183,6 +174,15 @@
      "language": "",
      "releaseDate": "2026-09-10",
      "url": "https://elcinema.com/en/work/2100043/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101010",
+     "title": "Runner",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-09",
+     "url": "https://elcinema.com/en/work/2101010/",
      "status": "now_showing"
     },
     {

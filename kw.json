@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T06:30:34.482Z",
+ "updatedAt": "2026-10-19T12:29:31.642Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -134,15 +134,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "the-dino-family",
-     "title": "The Dino Family",
-     "rating": "18TC",
-     "language": "English",
-     "releaseDate": "2026-10-22",
-     "url": "https://kwt.voxcinemas.com/movies/the-dino-family",
-     "status": "coming_soon"
-    },
-    {
      "slug": "clayface",
      "title": "Clayface",
      "rating": "18TC",
@@ -158,6 +149,24 @@
      "language": "English",
      "releaseDate": "2026-10-22",
      "url": "https://kwt.voxcinemas.com/movies/treasure-trekkers",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "train-to-busan-korean",
+     "title": "Train to Busan",
+     "rating": "18TC",
+     "language": "Korean",
+     "releaseDate": "2026-10-22",
+     "url": "https://kwt.voxcinemas.com/movies/train-to-busan-korean",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "no-paradise-if-you-are-killed-by-a-woman",
+     "title": "No Paradise if You Are Killed by a Woman",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-22",
+     "url": "https://kwt.voxcinemas.com/movies/no-paradise-if-you-are-killed-by-a-woman",
      "status": "coming_soon"
     },
     {
@@ -203,6 +212,15 @@
      "language": "English",
      "releaseDate": "2026-10-29",
      "url": "https://kwt.voxcinemas.com/movies/wildwood",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "soy-turkish",
+     "title": "Soy",
+     "rating": "18TC",
+     "language": "Turkish",
+     "releaseDate": "2026-10-29",
+     "url": "https://kwt.voxcinemas.com/movies/soy-turkish",
      "status": "coming_soon"
     },
     {
@@ -941,51 +959,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "clayface-english",
-     "title": "Clayface",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/clayface-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "train-to-busan-2016-korean",
-     "title": "Train to Busan 2016",
-     "rating": "R15",
-     "language": "Korean",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/train-to-busan-2016-korean",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "no-paradise-if-you-are-killed-by-a-woman-english",
-     "title": "No Paradise If You Are Killed by a Woman",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/no-paradise-if-you-are-killed-by-a-woman-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "treasure-trekkers-english",
-     "title": "Treasure Trekkers",
-     "rating": "PG",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/treasure-trekkers-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-dino-family-english",
-     "title": "The Dino Family",
-     "rating": "PG",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-dino-family-english",
-     "status": "coming_soon"
-    },
-    {
      "slug": "wala-kan-ala-el-bal-arabic",
      "title": "Wala Kan Ala El-Bal",
      "rating": "R15",
@@ -997,7 +970,7 @@
     {
      "slug": "titans-malayalam",
      "title": "Titans",
-     "rating": "R15",
+     "rating": "PG12",
      "language": "Malayalam",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/titans-malayalam",
@@ -1414,6 +1387,51 @@
    "name": "Ozone Cinemas Jahra",
    "films": [
     {
+     "slug": "clayface-english",
+     "title": "Clayface",
+     "rating": "R18",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/clayface-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "train-to-busan-2016-korean",
+     "title": "Train to Busan",
+     "rating": "R15",
+     "language": "Korean",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/train-to-busan-2016-korean",
+     "status": "now_showing"
+    },
+    {
+     "slug": "no-paradise-if-you-are-killed-by-a-woman-english",
+     "title": "No Paradise If You Are Killed by a Woman",
+     "rating": "R18",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/no-paradise-if-you-are-killed-by-a-woman-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "treasure-trekkers-english",
+     "title": "Treasure Trekkers",
+     "rating": "PG",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/treasure-trekkers-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-dino-family-english",
+     "title": "The Dino Family",
+     "rating": "PG",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-dino-family-english",
+     "status": "now_showing"
+    },
+    {
      "slug": "street-fighter-english",
      "title": "Street Fighter",
      "rating": "R15",
@@ -1522,51 +1540,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "clayface-english",
-     "title": "Clayface",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/clayface-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "train-to-busan-2016-korean",
-     "title": "Train to Busan 2016",
-     "rating": "R15",
-     "language": "Korean",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/train-to-busan-2016-korean",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "no-paradise-if-you-are-killed-by-a-woman-english",
-     "title": "No Paradise If You Are Killed by a Woman",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/no-paradise-if-you-are-killed-by-a-woman-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "treasure-trekkers-english",
-     "title": "Treasure Trekkers",
-     "rating": "PG",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/treasure-trekkers-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-dino-family-english",
-     "title": "The Dino Family",
-     "rating": "PG",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-dino-family-english",
-     "status": "coming_soon"
-    },
-    {
      "slug": "wala-kan-ala-el-bal-arabic",
      "title": "Wala Kan Ala El-Bal",
      "rating": "R15",
@@ -1578,7 +1551,7 @@
     {
      "slug": "titans-malayalam",
      "title": "Titans",
-     "rating": "R15",
+     "rating": "PG12",
      "language": "Malayalam",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/titans-malayalam",
@@ -2135,21 +2108,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097221",
+     "title": "Jailer 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     },
     {
@@ -2171,12 +2144,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097221",
-     "title": "Jailer 2",
+     "slug": "2096857",
+     "title": "Street Fighter",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097221/",
+     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     }
    ]
@@ -2208,24 +2181,6 @@
    "name": "Cinescape Al Kout",
    "films": [
     {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100562/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097221",
      "title": "Jailer 2",
      "rating": "",
@@ -2235,12 +2190,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096857",
-     "title": "Street Fighter",
+     "slug": "2100562",
+     "title": "Heart of the Beast",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096857/",
+     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {
@@ -2253,6 +2208,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2095519",
      "title": "Other Mommy",
      "rating": "",
@@ -2262,21 +2235,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102195",
-     "title": "Saoud Wainah",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102195/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099166",
      "title": "Ranabaali",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099166/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102195",
+     "title": "Saoud Wainah",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102195/",
      "status": "now_showing"
     },
     {
@@ -2475,15 +2448,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
@@ -2511,12 +2475,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101678",
-     "title": "The Beast",
+     "slug": "2098232",
+     "title": "Verity",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101678/",
+     "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101963",
+     "title": "The Smurfs: Timeless Adventure Volume 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101963/",
      "status": "now_showing"
     },
     {
@@ -2538,12 +2511,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101963",
-     "title": "The Smurfs: Timeless Adventure Volume 2",
+     "slug": "2098168",
+     "title": "The Social Reckoning",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101963/",
+     "url": "https://elcinema.com/en/work/2098168/",
      "status": "now_showing"
     },
     {
@@ -2554,21 +2527,57 @@
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102195/",
      "status": "now_showing"
-    },
-    {
-     "slug": "2098168",
-     "title": "The Social Reckoning",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098168/",
-     "status": "now_showing"
     }
    ]
   },
   "sky-salmiya": {
    "name": "SKY Cinemas Salmiya",
    "films": [
+    {
+     "slug": "clayface/9999001534",
+     "title": "CLAYFACE",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/clayface/9999001534",
+     "status": "now_showing"
+    },
+    {
+     "slug": "no-paradise-if-you-are-killed-by-a-woman-variou/9999001533",
+     "title": "NO PARADISE IF YOU ARE KILLED BY A WOMAN - VARIOU",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/no-paradise-if-you-are-killed-by-a-woman-variou/9999001533",
+     "status": "now_showing"
+    },
+    {
+     "slug": "treasure-trekkers/9999001532",
+     "title": "TREASURE TREKKERS",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/treasure-trekkers/9999001532",
+     "status": "now_showing"
+    },
+    {
+     "slug": "train-to-busan-(2016)-korean/9999001531",
+     "title": "TRAIN TO BUSAN",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/train-to-busan-(2016)-korean/9999001531",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-dino-family/9999001530",
+     "title": "THE DINO FAMILY",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/the-dino-family/9999001530",
+     "status": "now_showing"
+    },
     {
      "slug": "whalefall/9999001520",
      "title": "WHALEFALL",
@@ -2666,6 +2675,87 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.skycinemaskw.com/movie-information/the-angry-birds-movie-3/9999001438",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-beekeeper-2/9999001521",
+     "title": "THE BEEKEEPER 2",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/the-beekeeper-2/9999001521",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "narnia-the-magicians-nephew/9999001522",
+     "title": "NARNIA: THE MAGICIAN",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/narnia-the-magicians-nephew/9999001522",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-thomas-crown-affair/9999001523",
+     "title": "THE THOMAS CROWN AFFAIR",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/the-thomas-crown-affair/9999001523",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "ice-age-boiling-point/9999001524",
+     "title": "ICE AGE: BOILING POINT",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/ice-age-boiling-point/9999001524",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "day-drinker/9999001525",
+     "title": "DAY DRINKER",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/day-drinker/9999001525",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "sonic-the-hedgehog-4/9999001526",
+     "title": "SONIC THE HEDGEHOG 4",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/sonic-the-hedgehog-4/9999001526",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-legend-of-zelda/9999001527",
+     "title": "THE LEGEND OF ZELDA",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/the-legend-of-zelda/9999001527",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "spider-man-beyond-the-spider-verse/9999001528",
+     "title": "SPIDER-MAN: BEYOND THE SPIDER-VERSE",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/spider-man-beyond-the-spider-verse/9999001528",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "godzilla-x-kong-supernova/9999001529",
+     "title": "GODZILLA X KONG: SUPERNOVA",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/godzilla-x-kong-supernova/9999001529",
      "status": "coming_soon"
     }
    ]

@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-10-19T06:32:04.145Z",
+ "updatedAt": "2026-10-19T12:31:13.141Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
    "name": "Cinemas in United Arab Emirates",
    "films": [
-    {
-     "slug": "2099166",
-     "title": "Ranabaali",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-16",
-     "url": "https://elcinema.com/en/work/2099166/",
-     "status": "now_showing"
-    },
     {
      "slug": "2102293",
      "title": "Chha Maya Chhapakkai 2",
@@ -24,30 +15,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096857",
-     "title": "Street Fighter",
+     "slug": "2099166",
+     "title": "Ranabaali",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2000017",
-     "title": "The Twilight Saga: New Moon",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2000017/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2002621",
-     "title": "Twilight",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2002621/",
+     "releaseDate": "2026-10-16",
+     "url": "https://elcinema.com/en/work/2099166/",
      "status": "now_showing"
     },
     {
@@ -60,12 +33,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102195",
-     "title": "Saoud Wainah",
+     "slug": "2000017",
+     "title": "The Twilight Saga: New Moon",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2102195/",
+     "url": "https://elcinema.com/en/work/2000017/",
      "status": "now_showing"
     },
     {
@@ -75,6 +48,33 @@
      "language": "",
      "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102195",
+     "title": "Saoud Wainah",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2102195/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2002621",
+     "title": "Twilight",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2002621/",
      "status": "now_showing"
     },
     {
@@ -96,6 +96,33 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101362",
+     "title": "Beware Boiúna",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2101362/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101041",
+     "title": "Psycho",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2101041/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098168",
      "title": "The Social Reckoning",
      "rating": "",
@@ -114,48 +141,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101955",
-     "title": "SB19 Wakas at Simula: Trilogy Concert",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101955/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101678",
      "title": "The Beast",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2101678/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101362",
-     "title": "Beware Boiúna",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101362/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101041",
-     "title": "Psycho",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101041/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -177,33 +168,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101672",
-     "title": "The Crystal Planet",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101672/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101991",
-     "title": "Baththa",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101991/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102075",
      "title": "The Legendaries",
      "rating": "",
@@ -222,21 +186,39 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101991",
+     "title": "Baththa",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101991/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101672",
+     "title": "The Crystal Planet",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101672/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2097950",
      "title": "Digger",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-30",
      "url": "https://elcinema.com/en/work/2097950/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {
@@ -249,12 +231,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099778",
-     "title": "Tad and the Magic Lamp",
+     "slug": "2100562",
+     "title": "Heart of the Beast",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2099778/",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {
@@ -264,6 +246,15 @@
      "language": "",
      "releaseDate": "2026-09-17",
      "url": "https://elcinema.com/en/work/2098173/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099778",
+     "title": "Tad and the Magic Lamp",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-17",
+     "url": "https://elcinema.com/en/work/2099778/",
      "status": "now_showing"
     },
     {

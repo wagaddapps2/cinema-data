@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-10-19T06:32:05.967Z",
+ "updatedAt": "2026-10-19T12:31:15.682Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
    "name": "Cinemas in Saudi Arabia",
    "films": [
-    {
-     "slug": "2097036",
-     "title": "Avengers: Doomsday",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-18",
-     "url": "https://elcinema.com/en/work/2097036/",
-     "status": "now_showing"
-    },
     {
      "slug": "2099166",
      "title": "Ranabaali",
@@ -105,12 +96,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098168",
-     "title": "The Social Reckoning",
+     "slug": "2101678",
+     "title": "The Beast",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2098168/",
+     "url": "https://elcinema.com/en/work/2101678/",
      "status": "now_showing"
     },
     {
@@ -123,6 +114,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098168",
+     "title": "The Social Reckoning",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2098168/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
@@ -132,12 +132,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101678",
-     "title": "The Beast",
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2101678/",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101997/",
      "status": "now_showing"
     },
     {
