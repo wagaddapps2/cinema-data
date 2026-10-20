@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T12:28:08.015Z",
+ "updatedAt": "2026-10-20T18:27:30.403Z",
  "territory": "BE",
  "cinemas": {
   "cinebel-693": {
@@ -13636,6 +13636,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027586",
+     "title": "Coward",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027586",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1022839",
      "title": "De son vivant",
      "originalTitle": "",
@@ -13652,7 +13663,7 @@
      "originalTitle": "E.T. the Extra-Terrestrial",
      "year": 1982,
      "rating": "AL",
-     "language": "VF",
+     "language": "VF/VO",
      "releaseDate": null,
      "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1580",
      "status": "now_showing"
@@ -13721,6 +13732,17 @@
      "language": "VO",
      "releaseDate": "2026-10-14",
      "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027594",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027876",
+     "title": "Le Dernier pour la route / The Last One for the Road",
+     "originalTitle": "Andiamo a bere l'ultima",
+     "year": 2025,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027876",
      "status": "now_showing"
     },
     {
@@ -13813,6 +13835,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027651",
+     "title": "Resident Evil",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-09-16",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027651",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027315",
      "title": "Shaun le Mouton: La Bêêête d'Halloween",
      "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
@@ -13866,6 +13899,17 @@
      "releaseDate": "2026-10-07",
      "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027744",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027890",
+     "title": "Wicker",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027890",
+     "status": "coming_soon"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T12:28:09.564Z",
+ "updatedAt": "2026-10-20T18:27:31.757Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
@@ -235,7 +235,7 @@
      "title": "Al Qisas",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-06-10",
+     "releaseDate": "2026-06-17",
      "url": "https://elcinema.com/en/work/2097177/",
      "status": "now_showing"
     },

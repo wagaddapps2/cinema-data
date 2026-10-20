@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T12:26:31.915Z",
+ "updatedAt": "2026-10-20T18:25:48.720Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -1080,6 +1080,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "just-marriedcom-konkani",
+     "title": "Just Married.com",
+     "rating": "PG12",
+     "language": "Konkani",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/just-marriedcom-konkani",
+     "status": "now_showing"
+    },
+    {
      "slug": "wala-kan-ala-el-bal-arabic",
      "title": "Wala Kan Ala El-Bal",
      "rating": "R15",
@@ -1248,15 +1257,6 @@
      "language": "Arabic",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/naseeb-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "just-marriedcom-konkani",
-     "title": "Just Married.com",
-     "rating": "PG12",
-     "language": "Konkani",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/just-marriedcom-konkani",
      "status": "coming_soon"
     },
     {
@@ -1811,15 +1811,6 @@
      "language": "Arabic",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/naseeb-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "just-marriedcom-konkani",
-     "title": "Just Married.com",
-     "rating": "PG12",
-     "language": "Konkani",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/just-marriedcom-konkani",
      "status": "coming_soon"
     },
     {
