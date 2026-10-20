@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-10-20T00:28:14.573Z",
+ "updatedAt": "2026-10-20T06:27:45.225Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
    "name": "Cinemas in Syria",
    "films": [
-    {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
     {
      "slug": "2099594",
      "title": "Practical Magic 2",
@@ -24,12 +15,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100853",
-     "title": "The Love Hypothesis",
+     "slug": "2098154",
+     "title": "Whalefall",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2100853/",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -39,6 +30,15 @@
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100853",
+     "title": "The Love Hypothesis",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2100853/",
      "status": "now_showing"
     },
     {
@@ -66,6 +66,33 @@
      "language": "",
      "releaseDate": "2026-08-20",
      "url": "https://elcinema.com/en/work/2099118/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2024661",
+     "title": "Tooth Fairy 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-06-03",
+     "url": "https://elcinema.com/en/work/2024661/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2041549",
+     "title": "Spark: A Space Tail",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-01-12",
+     "url": "https://elcinema.com/en/work/2041549/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2034536",
+     "title": "Zootopia",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-07-22",
+     "url": "https://elcinema.com/en/work/2034536/",
      "status": "now_showing"
     },
     {
