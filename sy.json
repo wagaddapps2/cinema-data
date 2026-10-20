@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-10-19T18:26:20.605Z",
+ "updatedAt": "2026-10-20T00:28:14.573Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
    "name": "Cinemas in Syria",
    "films": [
-    {
-     "slug": "2099594",
-     "title": "Practical Magic 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2099594/",
-     "status": "now_showing"
-    },
     {
      "slug": "2098154",
      "title": "Whalefall",
@@ -24,12 +15,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
+     "slug": "2099594",
+     "title": "Practical Magic 2",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2099520/",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2099594/",
      "status": "now_showing"
     },
     {
@@ -42,21 +33,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098232",
      "title": "Verity",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2048046",
-     "title": "Duck Duck Goose",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-21",
-     "url": "https://elcinema.com/en/work/2048046/",
      "status": "now_showing"
     },
     {
@@ -75,24 +66,6 @@
      "language": "",
      "releaseDate": "2026-08-20",
      "url": "https://elcinema.com/en/work/2099118/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2084791",
-     "title": "The Wild Robot",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2024-11-14",
-     "url": "https://elcinema.com/en/work/2084791/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2076796",
-     "title": "Elemental",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2023-06-28",
-     "url": "https://elcinema.com/en/work/2076796/",
      "status": "now_showing"
     },
     {

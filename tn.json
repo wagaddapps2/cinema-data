@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-10-19T18:26:22.518Z",
+ "updatedAt": "2026-10-20T00:28:16.937Z",
  "territory": "TN",
  "cinemas": {
   "elcinema-tn": {
    "name": "Cinemas in Tunisia",
    "films": [
-    {
-     "slug": "2095519",
-     "title": "Other Mommy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-19",
-     "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
     {
      "slug": "2102268",
      "title": "Weekend",
@@ -30,6 +21,15 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2102269/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101794",
+     "title": "Dar El Eers",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-23",
+     "url": "https://elcinema.com/en/work/2101794/",
      "status": "now_showing"
     },
     {

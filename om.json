@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-10-19T18:26:18.632Z",
+ "updatedAt": "2026-10-20T00:28:11.596Z",
  "territory": "OM",
  "cinemas": {
   "elcinema-om": {
    "name": "Cinemas in Oman",
    "films": [
     {
-     "slug": "2044463",
-     "title": "It",
+     "slug": "2102294",
+     "title": "Nayi Naveli",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-19",
-     "url": "https://elcinema.com/en/work/2044463/",
+     "releaseDate": "2026-10-16",
+     "url": "https://elcinema.com/en/work/2102294/",
      "status": "now_showing"
     },
     {
@@ -21,15 +21,6 @@
      "language": "",
      "releaseDate": "2026-10-16",
      "url": "https://elcinema.com/en/work/2099166/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102294",
-     "title": "Nayi Naveli",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-16",
-     "url": "https://elcinema.com/en/work/2102294/",
      "status": "now_showing"
     },
     {
@@ -78,21 +69,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101362",
-     "title": "Beware Boiúna",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2101362/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101362",
+     "title": "Beware Boiúna",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2101362/",
      "status": "now_showing"
     },
     {
@@ -186,6 +177,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2100776",
+     "title": "It Ends",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-02",
+     "url": "https://elcinema.com/en/work/2100776/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2094924",
      "title": "Coyote vs. Acme",
      "rating": "",
@@ -204,6 +204,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099118",
+     "title": "Insidious: Out of the Further",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-19",
+     "url": "https://elcinema.com/en/work/2099118/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2095329",
      "title": "The Odyssey",
      "rating": "",
@@ -213,21 +222,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099005",
-     "title": "Backrooms",
+     "slug": "2074973",
+     "title": "Smile",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-05-27",
-     "url": "https://elcinema.com/en/work/2099005/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2083853",
-     "title": "A Quiet Place: Day One",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2024-06-26",
-     "url": "https://elcinema.com/en/work/2083853/",
+     "releaseDate": "2022-09-28",
+     "url": "https://elcinema.com/en/work/2074973/",
      "status": "now_showing"
     },
     {
