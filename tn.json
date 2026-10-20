@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T06:27:46.449Z",
+ "updatedAt": "2026-10-20T12:28:30.235Z",
  "territory": "TN",
  "cinemas": {
   "elcinema-tn": {
@@ -64,7 +64,7 @@
      "title": "Clayface",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-23",
+     "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2098155/",
      "status": "coming_soon"
     },
@@ -118,7 +118,7 @@
      "title": "The Dino Family",
      "rating": "",
      "language": "",
-     "releaseDate": null,
+     "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2101651/",
      "status": "coming_soon"
     }

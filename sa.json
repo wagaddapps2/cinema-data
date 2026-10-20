@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T06:27:36.400Z",
+ "updatedAt": "2026-10-20T12:28:17.324Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
@@ -96,21 +96,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095519",
-     "title": "Other Mommy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098168",
      "title": "The Social Reckoning",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2098168/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101678",
+     "title": "The Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2101678/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095519",
+     "title": "Other Mommy",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2095519/",
      "status": "now_showing"
     },
     {
@@ -129,15 +138,6 @@
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101678",
-     "title": "The Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2101678/",
      "status": "now_showing"
     },
     {
@@ -237,24 +237,6 @@
      "language": "",
      "releaseDate": "2026-08-20",
      "url": "https://elcinema.com/en/work/2101329/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100068",
-     "title": "Aks Sir",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-13",
-     "url": "https://elcinema.com/en/work/2100068/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2094876",
-     "title": "Mutiny",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-13",
-     "url": "https://elcinema.com/en/work/2094876/",
      "status": "now_showing"
     },
     {
@@ -406,7 +388,7 @@
      "title": "Clayface",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-23",
+     "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2098155/",
      "status": "coming_soon"
     },
@@ -505,7 +487,7 @@
      "title": "The Dino Family",
      "rating": "",
      "language": "",
-     "releaseDate": null,
+     "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2101651/",
      "status": "coming_soon"
     },
