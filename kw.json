@@ -1,10 +1,18 @@
 {
- "updatedAt": "2026-10-21T06:27:47.085Z",
+ "updatedAt": "2026-10-21T12:27:41.006Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
    "name": "VOX Cinemas Kuwait",
    "films": [
+    {
+     "slug": "clayface",
+     "title": "Clayface",
+     "rating": "R18",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/clayface",
+     "status": "now_showing"
+    },
     {
      "slug": "street-fighter",
      "title": "Street Fighter",
@@ -22,14 +30,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "other-mommy",
-     "title": "Other Mommy",
-     "rating": "R15",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/other-mommy",
-     "status": "now_showing"
-    },
-    {
      "slug": "verity",
      "title": "Verity",
      "rating": "R15",
@@ -38,11 +38,27 @@
      "status": "now_showing"
     },
     {
-     "slug": "heart-of-the-beast",
-     "title": "Heart of the Beast",
-     "rating": "PG12",
+     "slug": "whalefall",
+     "title": "Whalefall",
+     "rating": "R15",
      "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/heart-of-the-beast",
+     "url": "https://kwt.voxcinemas.com/movies/whalefall",
+     "status": "now_showing"
+    },
+    {
+     "slug": "other-mommy",
+     "title": "Other Mommy",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/other-mommy",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-dino-family",
+     "title": "The Dino Family",
+     "rating": "PG",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/the-dino-family",
      "status": "now_showing"
     },
     {
@@ -54,19 +70,35 @@
      "status": "now_showing"
     },
     {
-     "slug": "resident-evil",
-     "title": "Resident Evil",
-     "rating": "R15",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/resident-evil",
-     "status": "now_showing"
-    },
-    {
      "slug": "jailer-2-tamil",
      "title": "Jailer 2",
      "rating": "R15",
      "language": "Tamil",
      "url": "https://kwt.voxcinemas.com/movies/jailer-2-tamil",
+     "status": "now_showing"
+    },
+    {
+     "slug": "train-to-busan-korean",
+     "title": "Train to Busan",
+     "rating": "R15",
+     "language": "Korean",
+     "url": "https://kwt.voxcinemas.com/movies/train-to-busan-korean",
+     "status": "now_showing"
+    },
+    {
+     "slug": "heart-of-the-beast",
+     "title": "Heart of the Beast",
+     "rating": "PG12",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/heart-of-the-beast",
+     "status": "now_showing"
+    },
+    {
+     "slug": "resident-evil",
+     "title": "Resident Evil",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/resident-evil",
      "status": "now_showing"
     },
     {
@@ -86,27 +118,11 @@
      "status": "now_showing"
     },
     {
-     "slug": "whalefall",
-     "title": "Whalefall",
-     "rating": "R15",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/whalefall",
-     "status": "now_showing"
-    },
-    {
      "slug": "pressure",
      "title": "Pressure",
      "rating": "PG12",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/pressure",
-     "status": "now_showing"
-    },
-    {
-     "slug": "coyote-vs-acme",
-     "title": "Coyote VS Acme",
-     "rating": "PG12",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/coyote-vs-acme",
      "status": "now_showing"
     },
     {
@@ -126,35 +142,11 @@
      "status": "now_showing"
     },
     {
-     "slug": "clayface",
-     "title": "Clayface",
-     "rating": "R18",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/clayface",
-     "status": "now_showing"
-    },
-    {
      "slug": "no-paradise-if-you-are-killed-by-a-woman",
      "title": "No Paradise if You Are Killed by a Woman",
      "rating": "R18",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/no-paradise-if-you-are-killed-by-a-woman",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-dino-family",
-     "title": "The Dino Family",
-     "rating": "PG",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/the-dino-family",
-     "status": "now_showing"
-    },
-    {
-     "slug": "train-to-busan-korean",
-     "title": "Train to Busan",
-     "rating": "R15",
-     "language": "Korean",
-     "url": "https://kwt.voxcinemas.com/movies/train-to-busan-korean",
      "status": "now_showing"
     },
     {
@@ -207,6 +199,42 @@
      "language": "English",
      "releaseDate": "2026-10-22",
      "url": "https://kwt.voxcinemas.com/movies/no-paradise-if-you-are-killed-by-a-woman",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "tomorrow-x-together-world-tour-act-tomorrow",
+     "title": "TOMORROW X TOGETHER WORLD TOUR ACT:TOMORROW",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-24",
+     "url": "https://kwt.voxcinemas.com/movies/tomorrow-x-together-world-tour-act-tomorrow",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "enhypen-world-tour-blood-saga",
+     "title": "ENHYPEN WORLD TOUR 'BLOOD SAGA'",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-24",
+     "url": "https://kwt.voxcinemas.com/movies/enhypen-world-tour-blood-saga",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "hybe-cheering-party",
+     "title": "HYBE CHEERING PARTY",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-25",
+     "url": "https://kwt.voxcinemas.com/movies/hybe-cheering-party",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "seventeen-world-tour-new",
+     "title": "SEVENTEEN WORLD TOUR 'NEW_'",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-26",
+     "url": "https://kwt.voxcinemas.com/movies/seventeen-world-tour-new",
      "status": "coming_soon"
     },
     {
@@ -762,6 +790,15 @@
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/chopin-chopin/en",
      "status": "coming_soon"
+    },
+    {
+     "slug": "the-exorcist-martyrs",
+     "title": "THE EXORCIST: MARTYRS",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/the-exorcist-martyrs/en",
+     "status": "coming_soon"
     }
    ]
   },
@@ -1036,6 +1073,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/chopin-chopin/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-exorcist-martyrs",
+     "title": "THE EXORCIST: MARTYRS",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/the-exorcist-martyrs/en",
      "status": "coming_soon"
     }
    ]
@@ -1571,30 +1617,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "ranabaali-telugu",
-     "title": "Ranabaali",
-     "rating": "R15",
-     "language": "Telugu",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/ranabaali-telugu",
-     "status": "now_showing"
-    },
-    {
      "slug": "matloub-aaeleyan-arabic",
      "title": "Matloub Aaeleyan",
      "rating": "R15",
      "language": "Arabic",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/matloub-aaeleyan-arabic",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-social-reckoning-english",
-     "title": "The Social Reckoning",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-social-reckoning-english",
      "status": "now_showing"
     },
     {
@@ -2168,6 +2196,15 @@
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2097950/",
      "status": "now_showing"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
     }
    ]
   },
@@ -2311,21 +2348,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102195",
-     "title": "Saoud Wainah",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102195/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099166",
      "title": "Ranabaali",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099166/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102195",
+     "title": "Saoud Wainah",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102195/",
      "status": "now_showing"
     },
     {
@@ -2353,6 +2390,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101997/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098155/",
      "status": "now_showing"
     }
    ]
@@ -2449,6 +2495,15 @@
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
     }
    ]
   },
@@ -2524,15 +2579,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
@@ -2560,21 +2606,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101678",
      "title": "The Beast",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101678/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101997",
-     "title": "Drishyam: The Conclusion",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101997/",
      "status": "now_showing"
     },
     {
@@ -2605,12 +2651,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101997/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102195",
      "title": "Saoud Wainah",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102195/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098155/",
      "status": "now_showing"
     }
    ]

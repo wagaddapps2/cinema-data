@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-10-21T06:29:30.636Z",
+ "updatedAt": "2026-10-21T12:29:29.301Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
    "name": "Cinemas in Saudi Arabia",
    "films": [
+    {
+     "slug": "2101041",
+     "title": "Psycho",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-21",
+     "url": "https://elcinema.com/en/work/2101041/",
+     "status": "now_showing"
+    },
     {
      "slug": "2102341",
      "title": "Always Yours, Never Mine",
@@ -15,12 +24,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101041",
-     "title": "Psycho",
+     "slug": "2093501",
+     "title": "Klara and the Sun",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-21",
-     "url": "https://elcinema.com/en/work/2101041/",
+     "url": "https://elcinema.com/en/work/2093501/",
      "status": "now_showing"
     },
     {
@@ -78,15 +87,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097221",
-     "title": "Jailer 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2097221/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099122",
      "title": "Forgotten Island",
      "rating": "",
@@ -96,21 +96,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2096857",
      "title": "Street Fighter",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097221",
+     "title": "Jailer 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2097221/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -132,21 +141,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098168",
-     "title": "The Social Reckoning",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2098168/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095519",
      "title": "Other Mommy",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098168",
+     "title": "The Social Reckoning",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2098168/",
      "status": "now_showing"
     },
     {
@@ -186,21 +195,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-30",
-     "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2100812",
      "title": "Charlie Harper",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-30",
      "url": "https://elcinema.com/en/work/2100812/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-30",
+     "url": "https://elcinema.com/en/work/2098232/",
      "status": "now_showing"
     },
     {
@@ -400,15 +409,6 @@
      "releaseDate": "2019-04-24",
      "url": "https://elcinema.com/en/work/2032663/",
      "status": "now_showing"
-    },
-    {
-     "slug": "2093501",
-     "title": "Klara and the Sun",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-23",
-     "url": "https://elcinema.com/en/work/2093501/",
-     "status": "coming_soon"
     },
     {
      "slug": "2096404",

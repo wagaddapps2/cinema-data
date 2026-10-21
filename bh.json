@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T06:29:33.704Z",
+ "updatedAt": "2026-10-21T12:29:35.570Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
@@ -24,12 +24,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102195",
-     "title": "Saoud Wainah",
+     "slug": "2099166",
+     "title": "Ranabaali",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2102195/",
+     "url": "https://elcinema.com/en/work/2099166/",
      "status": "now_showing"
     },
     {
@@ -42,30 +42,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102195",
+     "title": "Saoud Wainah",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2102195/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099122",
      "title": "Forgotten Island",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2099122/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099166",
-     "title": "Ranabaali",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2099166/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097221",
-     "title": "Jailer 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     },
     {
@@ -84,6 +75,15 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097221",
+     "title": "Jailer 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     },
     {
@@ -240,6 +240,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2095746",
+     "title": "Bugonia",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2025-10-30",
+     "url": "https://elcinema.com/en/work/2095746/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2032663",
      "title": "Avengers Endgame: Encore re-release",
      "rating": "",
@@ -247,15 +256,6 @@
      "releaseDate": "2019-04-23",
      "url": "https://elcinema.com/en/work/2032663/",
      "status": "now_showing"
-    },
-    {
-     "slug": "2093501",
-     "title": "Klara and the Sun",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-23",
-     "url": "https://elcinema.com/en/work/2093501/",
-     "status": "coming_soon"
     },
     {
      "slug": "2096404",
