@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T18:27:51.183Z",
+ "updatedAt": "2026-10-21T00:25:28.366Z",
  "territory": "IQ",
  "cinemas": {
   "elcinema-iq": {
@@ -255,15 +255,6 @@
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2097360/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2098155/",
      "status": "coming_soon"
     },
     {

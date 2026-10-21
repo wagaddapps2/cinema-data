@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T18:27:36.166Z",
+ "updatedAt": "2026-10-21T00:25:16.989Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
@@ -33,12 +33,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102195",
-     "title": "Saoud Wainah",
+     "slug": "2000017",
+     "title": "The Twilight Saga: New Moon",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2102195/",
+     "url": "https://elcinema.com/en/work/2000017/",
      "status": "now_showing"
     },
     {
@@ -51,12 +51,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2000017",
-     "title": "The Twilight Saga: New Moon",
+     "slug": "2002621",
+     "title": "Twilight",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2000017/",
+     "url": "https://elcinema.com/en/work/2002621/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102195",
+     "title": "Saoud Wainah",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2102195/",
      "status": "now_showing"
     },
     {
@@ -69,15 +78,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2002621",
-     "title": "Twilight",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2002621/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097221",
      "title": "Jailer 2",
      "rating": "",
@@ -87,21 +87,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101362",
-     "title": "Beware Boiúna",
+     "slug": "2102184",
+     "title": "Always Lalisa",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101362/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102183",
-     "title": "Premada Oorali",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2102183/",
+     "releaseDate": "2026-10-12",
+     "url": "https://elcinema.com/en/work/2102184/",
      "status": "now_showing"
     },
     {
@@ -114,12 +105,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101041",
-     "title": "Psycho",
+     "slug": "2102183",
+     "title": "Premada Oorali",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101041/",
+     "url": "https://elcinema.com/en/work/2102183/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101678",
+     "title": "The Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2101678/",
      "status": "now_showing"
     },
     {
@@ -132,12 +132,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101678",
-     "title": "The Beast",
+     "slug": "2101362",
+     "title": "Beware Boiúna",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101678/",
+     "url": "https://elcinema.com/en/work/2101362/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101041",
+     "title": "Psycho",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2101041/",
      "status": "now_showing"
     },
     {
@@ -159,33 +168,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101991",
-     "title": "Baththa",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101991/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102088",
-     "title": "Acharya",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2102088/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102075",
-     "title": "The Legendaries",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2102075/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101672",
      "title": "The Crystal Planet",
      "rating": "",
@@ -195,12 +177,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098232",
-     "title": "Verity",
+     "slug": "2101991",
+     "title": "Baththa",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2098232/",
+     "url": "https://elcinema.com/en/work/2101991/",
      "status": "now_showing"
     },
     {
@@ -213,21 +195,39 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102075",
+     "title": "The Legendaries",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2102075/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102088",
+     "title": "Acharya",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2102088/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2097950",
      "title": "Digger",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-30",
      "url": "https://elcinema.com/en/work/2097950/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101960",
-     "title": "Pension Patta",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101960/",
      "status": "now_showing"
     },
     {
@@ -240,6 +240,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101960",
+     "title": "Pension Patta",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2101960/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101963",
      "title": "The Smurfs: Timeless Adventure Volume 2",
      "rating": "",
@@ -249,21 +258,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098173",
-     "title": "Resident Evil",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2098173/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099778",
      "title": "Tad and the Magic Lamp",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-17",
      "url": "https://elcinema.com/en/work/2099778/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098173",
+     "title": "Resident Evil",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-17",
+     "url": "https://elcinema.com/en/work/2098173/",
      "status": "now_showing"
     },
     {
@@ -411,15 +420,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2051628",
-     "title": "It: Chapter Two",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2019-09-04",
-     "url": "https://elcinema.com/en/work/2051628/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2032663",
      "title": "Avengers Endgame: Encore re-release",
      "rating": "",
@@ -462,15 +462,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2097394/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2098155/",
      "status": "coming_soon"
     },
     {
@@ -525,15 +516,6 @@
      "language": "",
      "releaseDate": "2026-11-08",
      "url": "https://elcinema.com/en/work/2099759/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-21",
-     "url": "https://elcinema.com/en/work/2099773/",
      "status": "coming_soon"
     },
     {

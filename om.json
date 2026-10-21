@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-10-20T18:27:46.855Z",
+ "updatedAt": "2026-10-21T00:25:24.291Z",
  "territory": "OM",
  "cinemas": {
   "elcinema-om": {
    "name": "Cinemas in Oman",
    "films": [
     {
-     "slug": "2102294",
-     "title": "Nayi Naveli",
+     "slug": "2098155",
+     "title": "Clayface",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-16",
-     "url": "https://elcinema.com/en/work/2102294/",
+     "releaseDate": "2026-10-21",
+     "url": "https://elcinema.com/en/work/2098155/",
      "status": "now_showing"
     },
     {
@@ -24,21 +24,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102294",
+     "title": "Nayi Naveli",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-16",
+     "url": "https://elcinema.com/en/work/2102294/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102195",
      "title": "Saoud Wainah",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2102195/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -60,21 +60,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101678",
      "title": "The Beast",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2101678/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -93,6 +93,15 @@
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -177,15 +186,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100776",
-     "title": "It Ends",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-02",
-     "url": "https://elcinema.com/en/work/2100776/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2094924",
      "title": "Coyote vs. Acme",
      "rating": "",
@@ -204,15 +204,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099118",
-     "title": "Insidious: Out of the Further",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-19",
-     "url": "https://elcinema.com/en/work/2099118/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095329",
      "title": "The Odyssey",
      "rating": "",
@@ -222,12 +213,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "2074973",
-     "title": "Smile",
+     "slug": "2099005",
+     "title": "Backrooms",
      "rating": "",
      "language": "",
-     "releaseDate": "2022-09-28",
-     "url": "https://elcinema.com/en/work/2074973/",
+     "releaseDate": "2026-05-27",
+     "url": "https://elcinema.com/en/work/2099005/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2086992",
+     "title": "Smile 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-10-16",
+     "url": "https://elcinema.com/en/work/2086992/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2083853",
+     "title": "A Quiet Place: Day One",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-06-26",
+     "url": "https://elcinema.com/en/work/2083853/",
      "status": "now_showing"
     },
     {
@@ -273,15 +282,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2097394/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2098155/",
      "status": "coming_soon"
     },
     {
@@ -336,15 +336,6 @@
      "language": "",
      "releaseDate": "2026-11-08",
      "url": "https://elcinema.com/en/work/2099759/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-21",
-     "url": "https://elcinema.com/en/work/2099773/",
      "status": "coming_soon"
     },
     {

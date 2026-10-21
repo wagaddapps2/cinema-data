@@ -1,26 +1,26 @@
 {
- "updatedAt": "2026-10-20T18:27:31.757Z",
+ "updatedAt": "2026-10-21T00:25:13.102Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
    "name": "Cinemas in Egypt",
    "films": [
     {
-     "slug": "2102289",
-     "title": "Hold Onto Me",
+     "slug": "2102291",
+     "title": "Mariinka",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-20",
-     "url": "https://elcinema.com/en/work/2102289/",
+     "releaseDate": "2026-10-21",
+     "url": "https://elcinema.com/en/work/2102291/",
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
+     "slug": "2099773",
+     "title": "Wala Kan Ala El-Bal",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2098154/",
+     "releaseDate": "2026-10-21",
+     "url": "https://elcinema.com/en/work/2099773/",
      "status": "now_showing"
     },
     {
@@ -39,6 +39,15 @@
      "language": "",
      "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -87,15 +96,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097950",
-     "title": "Digger",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2097950/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098232",
      "title": "Verity",
      "rating": "",
@@ -105,12 +105,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2097950",
+     "title": "Digger",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2097950/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100562",
      "title": "Heart of the Beast",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-24",
      "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2033609",
+     "title": "Princess Mononoke",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2033609/",
      "status": "now_showing"
     },
     {
@@ -129,15 +147,6 @@
      "language": "",
      "releaseDate": "2026-09-24",
      "url": "https://elcinema.com/en/work/2099939/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2033609",
-     "title": "Princess Mononoke",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2033609/",
      "status": "now_showing"
     },
     {
@@ -235,7 +244,7 @@
      "title": "Al Qisas",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-06-17",
+     "releaseDate": "2026-06-10",
      "url": "https://elcinema.com/en/work/2097177/",
      "status": "now_showing"
     },
@@ -357,15 +366,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2098155/",
-     "status": "coming_soon"
-    },
-    {
      "slug": "2098160",
      "title": "Ghost Soldier",
      "rating": "",
@@ -444,15 +444,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099407/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-21",
-     "url": "https://elcinema.com/en/work/2099773/",
      "status": "coming_soon"
     },
     {

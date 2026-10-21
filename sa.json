@@ -1,17 +1,26 @@
 {
- "updatedAt": "2026-10-20T18:27:39.206Z",
+ "updatedAt": "2026-10-21T00:25:20.457Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
    "name": "Cinemas in Saudi Arabia",
    "films": [
     {
-     "slug": "2097036",
-     "title": "Avengers: Doomsday",
+     "slug": "2102265",
+     "title": "Soy",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-18",
-     "url": "https://elcinema.com/en/work/2097036/",
+     "releaseDate": "2026-10-21",
+     "url": "https://elcinema.com/en/work/2102265/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-21",
+     "url": "https://elcinema.com/en/work/2098155/",
      "status": "now_showing"
     },
     {
@@ -42,21 +51,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2096857",
      "title": "Street Fighter",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -96,21 +105,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098168",
-     "title": "The Social Reckoning",
+     "slug": "2100784",
+     "title": "The Florist",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2098168/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101678",
-     "title": "The Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2101678/",
+     "url": "https://elcinema.com/en/work/2100784/",
      "status": "now_showing"
     },
     {
@@ -123,12 +123,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100784",
-     "title": "The Florist",
+     "slug": "2098168",
+     "title": "The Social Reckoning",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2100784/",
+     "url": "https://elcinema.com/en/work/2098168/",
      "status": "now_showing"
     },
     {
@@ -141,12 +141,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101678",
+     "title": "The Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2101678/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101997",
      "title": "Drishyam: The Conclusion",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2101997/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100812",
+     "title": "Charlie Harper",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-30",
+     "url": "https://elcinema.com/en/work/2100812/",
      "status": "now_showing"
     },
     {
@@ -237,6 +255,24 @@
      "language": "",
      "releaseDate": "2026-08-20",
      "url": "https://elcinema.com/en/work/2101329/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2094876",
+     "title": "Mutiny",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-13",
+     "url": "https://elcinema.com/en/work/2094876/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100068",
+     "title": "Aks Sir",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-13",
+     "url": "https://elcinema.com/en/work/2100068/",
      "status": "now_showing"
     },
     {
@@ -339,6 +375,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2044050",
+     "title": "Train to Busan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2020-08-13",
+     "url": "https://elcinema.com/en/work/2044050/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2032663",
      "title": "Avengers Endgame: Encore re-release",
      "rating": "",
@@ -381,15 +426,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2097394/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2098155/",
      "status": "coming_soon"
     },
     {
@@ -444,15 +480,6 @@
      "language": "",
      "releaseDate": "2026-11-08",
      "url": "https://elcinema.com/en/work/2099759/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-21",
-     "url": "https://elcinema.com/en/work/2099773/",
      "status": "coming_soon"
     },
     {

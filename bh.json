@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-10-20T18:27:44.868Z",
+ "updatedAt": "2026-10-21T00:25:23.001Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
    "name": "Cinemas in Bahrain",
    "films": [
     {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
+     "slug": "2098155",
+     "title": "Clayface",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-16",
-     "url": "https://elcinema.com/en/work/2099119/",
+     "releaseDate": "2026-10-21",
+     "url": "https://elcinema.com/en/work/2098155/",
      "status": "now_showing"
     },
     {
@@ -21,6 +21,15 @@
      "language": "",
      "releaseDate": "2026-10-16",
      "url": "https://elcinema.com/en/work/2102293/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099119",
+     "title": "Sense and Sensibility",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-16",
+     "url": "https://elcinema.com/en/work/2099119/",
      "status": "now_showing"
     },
     {
@@ -60,21 +69,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097221",
      "title": "Jailer 2",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2097221/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -114,12 +123,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097950",
-     "title": "Digger",
+     "slug": "2102076",
+     "title": "Avaraachan & Sons",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-09-30",
-     "url": "https://elcinema.com/en/work/2097950/",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2102076/",
      "status": "now_showing"
     },
     {
@@ -129,6 +138,15 @@
      "language": "",
      "releaseDate": "2026-09-30",
      "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097950",
+     "title": "Digger",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-30",
+     "url": "https://elcinema.com/en/work/2097950/",
      "status": "now_showing"
     },
     {
@@ -276,15 +294,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2098155/",
-     "status": "coming_soon"
-    },
-    {
      "slug": "2098161",
      "title": "Les Miserables",
      "rating": "",
@@ -336,15 +345,6 @@
      "language": "",
      "releaseDate": "2026-11-08",
      "url": "https://elcinema.com/en/work/2099759/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-21",
-     "url": "https://elcinema.com/en/work/2099773/",
      "status": "coming_soon"
     },
     {
