@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T12:27:41.006Z",
+ "updatedAt": "2026-10-21T18:24:27.012Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -126,19 +126,19 @@
      "status": "now_showing"
     },
     {
+     "slug": "coyote-vs-acme",
+     "title": "Coyote VS Acme",
+     "rating": "PG12",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/coyote-vs-acme",
+     "status": "now_showing"
+    },
+    {
      "slug": "paw-patrol-the-dino-movie",
      "title": "Paw Patrol: The Dino Movie",
      "rating": "PG",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/paw-patrol-the-dino-movie",
-     "status": "now_showing"
-    },
-    {
-     "slug": "sa3oud-wainah-arabic",
-     "title": "Sa3oud Wainah",
-     "rating": "PG12",
-     "language": "Arabic",
-     "url": "https://kwt.voxcinemas.com/movies/sa3oud-wainah-arabic",
      "status": "now_showing"
     },
     {
@@ -548,15 +548,6 @@
   "grand-1": {
    "name": "Grand Hamra",
    "films": [
-    {
-     "slug": "heart-of-the-beast",
-     "title": "HEART OF THE BEAST",
-     "rating": "PG12",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/heart-of-the-beast/en",
-     "status": "now_showing"
-    },
     {
      "slug": "the-beast",
      "title": "THE BEAST",
@@ -1608,15 +1599,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "saoud-wainah-qatari-arabic",
-     "title": "Saoud Wainah (Qatari) -",
-     "rating": "PG12",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/saoud-wainah-qatari-arabic",
-     "status": "now_showing"
-    },
-    {
      "slug": "matloub-aaeleyan-arabic",
      "title": "Matloub Aaeleyan",
      "rating": "R15",
@@ -1632,15 +1614,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/other-mommy-english",
-     "status": "now_showing"
-    },
-    {
-     "slug": "heart-of-the-beast-english",
-     "title": "Heart of the Beast",
-     "rating": "PG12",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/heart-of-the-beast-english",
      "status": "now_showing"
     },
     {
@@ -2743,15 +2716,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.skycinemaskw.com/movie-information/street-fighter/9999001519",
-     "status": "now_showing"
-    },
-    {
-     "slug": "saoud-wainah-(qatari)-arabic/9999001518",
-     "title": "SAOUD WAINAH",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/saoud-wainah-(qatari)-arabic/9999001518",
      "status": "now_showing"
     },
     {
