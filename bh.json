@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T00:25:23.001Z",
+ "updatedAt": "2026-10-21T06:29:33.704Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
@@ -24,12 +24,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
+     "slug": "2102195",
+     "title": "Saoud Wainah",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-16",
-     "url": "https://elcinema.com/en/work/2099119/",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2102195/",
      "status": "now_showing"
     },
     {
@@ -57,15 +57,6 @@
      "language": "",
      "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2099166/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102195",
-     "title": "Saoud Wainah",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2102195/",
      "status": "now_showing"
     },
     {
@@ -114,15 +105,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101997",
-     "title": "Drishyam: The Conclusion",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101997/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102076",
      "title": "Avaraachan & Sons",
      "rating": "",
@@ -132,12 +114,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098232",
-     "title": "Verity",
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-09-30",
-     "url": "https://elcinema.com/en/work/2098232/",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101997/",
      "status": "now_showing"
     },
     {
@@ -147,6 +129,15 @@
      "language": "",
      "releaseDate": "2026-09-30",
      "url": "https://elcinema.com/en/work/2097950/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-30",
+     "url": "https://elcinema.com/en/work/2098232/",
      "status": "now_showing"
     },
     {

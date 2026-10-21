@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T00:25:24.291Z",
+ "updatedAt": "2026-10-21T06:29:35.778Z",
  "territory": "OM",
  "cinemas": {
   "elcinema-om": {
@@ -15,15 +15,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099166",
-     "title": "Ranabaali",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-16",
-     "url": "https://elcinema.com/en/work/2099166/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102294",
      "title": "Nayi Naveli",
      "rating": "",
@@ -33,21 +24,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099166",
+     "title": "Ranabaali",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-16",
+     "url": "https://elcinema.com/en/work/2099166/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102195",
      "title": "Saoud Wainah",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2102195/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -66,6 +57,15 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -201,15 +201,6 @@
      "language": "",
      "releaseDate": "2026-08-19",
      "url": "https://elcinema.com/en/work/2094876/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095329",
-     "title": "The Odyssey",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-07-15",
-     "url": "https://elcinema.com/en/work/2095329/",
      "status": "now_showing"
     },
     {

@@ -1,10 +1,28 @@
 {
- "updatedAt": "2026-10-21T00:25:20.457Z",
+ "updatedAt": "2026-10-21T06:29:30.636Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
    "name": "Cinemas in Saudi Arabia",
    "films": [
+    {
+     "slug": "2102341",
+     "title": "Always Yours, Never Mine",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-21",
+     "url": "https://elcinema.com/en/work/2102341/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101041",
+     "title": "Psycho",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-21",
+     "url": "https://elcinema.com/en/work/2101041/",
+     "status": "now_showing"
+    },
     {
      "slug": "2102265",
      "title": "Soy",
@@ -21,6 +39,15 @@
      "language": "",
      "releaseDate": "2026-10-21",
      "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097036",
+     "title": "Avengers: Doomsday",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-18",
+     "url": "https://elcinema.com/en/work/2097036/",
      "status": "now_showing"
     },
     {
@@ -51,24 +78,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097221",
      "title": "Jailer 2",
      "rating": "",
@@ -84,6 +93,24 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -105,12 +132,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100784",
-     "title": "The Florist",
+     "slug": "2098168",
+     "title": "The Social Reckoning",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2100784/",
+     "url": "https://elcinema.com/en/work/2098168/",
      "status": "now_showing"
     },
     {
@@ -123,21 +150,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098168",
-     "title": "The Social Reckoning",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2098168/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100784",
+     "title": "The Florist",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2100784/",
      "status": "now_showing"
     },
     {
@@ -159,21 +186,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100812",
-     "title": "Charlie Harper",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-30",
-     "url": "https://elcinema.com/en/work/2100812/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098232",
      "title": "Verity",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-30",
      "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100812",
+     "title": "Charlie Harper",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-30",
+     "url": "https://elcinema.com/en/work/2100812/",
      "status": "now_showing"
     },
     {
@@ -255,24 +282,6 @@
      "language": "",
      "releaseDate": "2026-08-20",
      "url": "https://elcinema.com/en/work/2101329/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2094876",
-     "title": "Mutiny",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-13",
-     "url": "https://elcinema.com/en/work/2094876/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100068",
-     "title": "Aks Sir",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-13",
-     "url": "https://elcinema.com/en/work/2100068/",
      "status": "now_showing"
     },
     {

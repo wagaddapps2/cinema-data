@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-10-21T00:25:25.153Z",
+ "updatedAt": "2026-10-21T06:29:36.616Z",
  "territory": "LB",
  "cinemas": {
   "elcinema-lb": {
    "name": "Cinemas in Lebanon",
    "films": [
-    {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
     {
      "slug": "2098154",
      "title": "Whalefall",
@@ -30,6 +21,15 @@
      "language": "",
      "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -120,15 +120,6 @@
      "language": "",
      "releaseDate": "2026-08-27",
      "url": "https://elcinema.com/en/work/2094924/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096322",
-     "title": "PAW Patrol: The Dino Movie",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-12",
-     "url": "https://elcinema.com/en/work/2096322/",
      "status": "now_showing"
     },
     {
