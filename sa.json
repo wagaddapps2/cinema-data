@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-10-22T00:26:07.510Z",
+ "updatedAt": "2026-10-22T06:30:45.548Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
    "name": "Cinemas in Saudi Arabia",
    "films": [
     {
-     "slug": "2102340",
-     "title": "Titans",
+     "slug": "2049932",
+     "title": "Yomeddine",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102340/",
+     "url": "https://elcinema.com/en/work/2049932/",
      "status": "now_showing"
     },
     {
@@ -24,21 +24,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102341",
-     "title": "Always Yours, Never Mine",
+     "slug": "2102340",
+     "title": "Titans",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-21",
-     "url": "https://elcinema.com/en/work/2102341/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2093501",
-     "title": "Klara and the Sun",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-21",
-     "url": "https://elcinema.com/en/work/2093501/",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102340/",
      "status": "now_showing"
     },
     {
@@ -60,6 +51,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "2093501",
+     "title": "Klara and the Sun",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-21",
+     "url": "https://elcinema.com/en/work/2093501/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102341",
+     "title": "Always Yours, Never Mine",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-21",
+     "url": "https://elcinema.com/en/work/2102341/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102265",
      "title": "Soy",
      "rating": "",
@@ -69,12 +78,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
+     "slug": "2099166",
+     "title": "Ranabaali",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-17",
+     "url": "https://elcinema.com/en/work/2099166/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097221",
+     "title": "Jailer 2",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2098154/",
+     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     },
     {
@@ -87,21 +105,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2096857",
      "title": "Street Fighter",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097221",
-     "title": "Jailer 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     },
     {
@@ -123,12 +141,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101997/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098232",
      "title": "Verity",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-30",
      "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100812",
+     "title": "Charlie Harper",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-30",
+     "url": "https://elcinema.com/en/work/2100812/",
      "status": "now_showing"
     },
     {
@@ -168,6 +204,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "2095662",
+     "title": "Red Flag",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-09",
+     "url": "https://elcinema.com/en/work/2095662/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2042469",
+     "title": "La La Land",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-27",
+     "url": "https://elcinema.com/en/work/2042469/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2094924",
      "title": "Coyote vs. Acme",
      "rating": "",
@@ -192,6 +246,15 @@
      "language": "",
      "releaseDate": "2026-08-12",
      "url": "https://elcinema.com/en/work/2096322/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2093913",
+     "title": "Sentimental Value",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-06",
+     "url": "https://elcinema.com/en/work/2093913/",
      "status": "now_showing"
     },
     {
@@ -240,12 +303,48 @@
      "status": "now_showing"
     },
     {
+     "slug": "2030306",
+     "title": "City of God",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-02-22",
+     "url": "https://elcinema.com/en/work/2030306/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2067253",
+     "title": "Triangle of Sadness",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2022-12-08",
+     "url": "https://elcinema.com/en/work/2067253/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2009118",
+     "title": "Léon: The Professional",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2022-10-06",
+     "url": "https://elcinema.com/en/work/2009118/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2044050",
      "title": "Train to Busan",
      "rating": "",
      "language": "",
      "releaseDate": "2020-08-13",
      "url": "https://elcinema.com/en/work/2044050/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2032663",
+     "title": "Avengers Endgame: Encore re-release",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2019-04-24",
+     "url": "https://elcinema.com/en/work/2032663/",
      "status": "now_showing"
     },
     {
@@ -390,15 +489,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102344/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2102345",
-     "title": "Tu Hai Meri Kiran",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-23",
-     "url": "https://elcinema.com/en/work/2102345/",
      "status": "coming_soon"
     },
     {

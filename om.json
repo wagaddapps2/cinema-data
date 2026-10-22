@@ -1,10 +1,55 @@
 {
- "updatedAt": "2026-10-22T00:26:10.495Z",
+ "updatedAt": "2026-10-22T06:30:50.619Z",
  "territory": "OM",
  "cinemas": {
   "elcinema-om": {
    "name": "Cinemas in Oman",
    "films": [
+    {
+     "slug": "2102337",
+     "title": "Pehla Pyaar Doosri Baar",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102337/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102346",
+     "title": "418",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102346/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102345",
+     "title": "Tu Hai Meri Kiran",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102345/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102342",
+     "title": "Udumbanchola Vision",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102342/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102341",
+     "title": "Always Yours, Never Mine",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102341/",
+     "status": "now_showing"
+    },
     {
      "slug": "2102340",
      "title": "Titans",
@@ -96,12 +141,39 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101997",
      "title": "Drishyam: The Conclusion",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-02",
      "url": "https://elcinema.com/en/work/2101997/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097950",
+     "title": "Digger",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2097950/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-30",
+     "url": "https://elcinema.com/en/work/2098232/",
      "status": "now_showing"
     },
     {
@@ -120,6 +192,51 @@
      "language": "",
      "releaseDate": "2026-09-23",
      "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098173",
+     "title": "Resident Evil",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-16",
+     "url": "https://elcinema.com/en/work/2098173/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2094924",
+     "title": "Coyote vs. Acme",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-27",
+     "url": "https://elcinema.com/en/work/2094924/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2094876",
+     "title": "Mutiny",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-19",
+     "url": "https://elcinema.com/en/work/2094876/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095329",
+     "title": "The Odyssey",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-07-15",
+     "url": "https://elcinema.com/en/work/2095329/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2032663",
+     "title": "Avengers Endgame: Encore re-release",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2019-04-23",
+     "url": "https://elcinema.com/en/work/2032663/",
      "status": "now_showing"
     },
     {
@@ -264,15 +381,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102344/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2102345",
-     "title": "Tu Hai Meri Kiran",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-23",
-     "url": "https://elcinema.com/en/work/2102345/",
      "status": "coming_soon"
     },
     {

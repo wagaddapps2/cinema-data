@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22T00:24:28.314Z",
+ "updatedAt": "2026-10-22T06:29:00.320Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -2027,6 +2027,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101940",
      "title": "Treasure Trekkers",
      "rating": "",
@@ -2060,15 +2069,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101963/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098155/",
      "status": "now_showing"
     },
     {
@@ -2114,6 +2114,70 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102195/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2044050",
+     "title": "Train to Busan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2044050/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "cinescape-3101206": {
+   "name": "Cinescape Ajial",
+   "films": [
+    {
+     "slug": "2097221",
+     "title": "Jailer 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097221/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101997/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "cinescape-3101339": {
+   "name": "Cinescape 1954 Film House",
+   "films": [
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
