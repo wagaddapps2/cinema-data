@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22T06:29:00.320Z",
+ "updatedAt": "2026-10-22T12:29:00.947Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -150,6 +150,14 @@
      "status": "now_showing"
     },
     {
+     "slug": "tomorrow-x-together-world-tour-act-tomorrow",
+     "title": "TOMORROW X TOGETHER WORLD TOUR ACT:TOMORROW",
+     "rating": "18TC",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/tomorrow-x-together-world-tour-act-tomorrow",
+     "status": "now_showing"
+    },
+    {
      "slug": "seventeen-world-tour-new",
      "title": "SEVENTEEN WORLD TOUR 'NEW_'",
      "rating": "PG12",
@@ -172,15 +180,6 @@
      "language": "English",
      "releaseDate": "2026-10-24",
      "url": "https://kwt.voxcinemas.com/movies/enhypen-world-tour-blood-saga",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "hybe-cheering-party",
-     "title": "HYBE CHEERING PARTY",
-     "rating": "18TC",
-     "language": "English",
-     "releaseDate": "2026-10-25",
-     "url": "https://kwt.voxcinemas.com/movies/hybe-cheering-party",
      "status": "coming_soon"
     },
     {
@@ -256,6 +255,15 @@
      "status": "coming_soon"
     },
     {
+     "slug": "hope-korean",
+     "title": "Hope",
+     "rating": "18TC",
+     "language": "Korean",
+     "releaseDate": "2026-10-29",
+     "url": "https://kwt.voxcinemas.com/movies/hope-korean",
+     "status": "coming_soon"
+    },
+    {
      "slug": "godzilla-minus-zero-preview-screening-japanese",
      "title": "Godzilla Minus Zero - Preview Screening",
      "rating": "18TC",
@@ -316,6 +324,15 @@
      "language": "Arabic",
      "releaseDate": "2026-11-05",
      "url": "https://kwt.voxcinemas.com/movies/the-cat-in-the-hat-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "idiots",
+     "title": "Idiots",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-11-05",
+     "url": "https://kwt.voxcinemas.com/movies/idiots",
      "status": "coming_soon"
     },
     {
@@ -400,6 +417,15 @@
      "status": "coming_soon"
     },
     {
+     "slug": "paper-tiger",
+     "title": "Paper Tiger",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-11-26",
+     "url": "https://kwt.voxcinemas.com/movies/paper-tiger",
+     "status": "coming_soon"
+    },
+    {
      "slug": "violent-night-2",
      "title": "Violent Night 2",
      "rating": "18TC",
@@ -433,6 +459,15 @@
      "language": "English",
      "releaseDate": "2026-12-17",
      "url": "https://kwt.voxcinemas.com/movies/dune-part-three",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "jumanji-open-world",
+     "title": "Jumanji: Open World",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-12-24",
+     "url": "https://kwt.voxcinemas.com/movies/jumanji-open-world",
      "status": "coming_soon"
     },
     {
@@ -1072,30 +1107,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "wildwood-english",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/wildwood-english",
+     "status": "coming_soon"
+    },
+    {
      "slug": "wala-kan-ala-el-bal-arabic",
      "title": "Wala Kan Ala El-Bal",
      "rating": "R15",
      "language": "Arabic",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/wala-kan-ala-el-bal-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-shawshank-redemption-1994-re-release-english",
-     "title": "The Shawshank Redemption 1994 Re-Release",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-shawshank-redemption-1994-re-release-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "soy-turkish",
-     "title": "Soy",
-     "rating": "",
-     "language": "Turkish",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/soy-turkish",
      "status": "coming_soon"
     },
     {
@@ -1108,12 +1134,102 @@
      "status": "coming_soon"
     },
     {
+     "slug": "sense-and-sensibility-english",
+     "title": "Sense and Sensibility",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/sense-and-sensibility-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-mongoose-english",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-mongoose-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-influencer-project-english",
+     "title": "The Influencer Project",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-influencer-project-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "naseeb-arabic",
+     "title": "Naseeb",
+     "rating": "",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/naseeb-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "aadarsha-kutumbam-house-no-47-ak-47-telugu",
+     "title": "Aadarsha Kutumbam House No: 47 - AK 47",
+     "rating": "",
+     "language": "Telugu",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/aadarsha-kutumbam-house-no-47-ak-47-telugu",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "soy-turkish",
+     "title": "Soy",
+     "rating": "",
+     "language": "Turkish",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/soy-turkish",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-cat-in-the-hat-english",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-cat-in-the-hat-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-cat-in-the-hat-arabic",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-cat-in-the-hat-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "godzilla-minus-zero-japanese",
+     "title": "Godzilla Minus Zero",
+     "rating": "PG12",
+     "language": "Japanese",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/godzilla-minus-zero-japanese",
+     "status": "coming_soon"
+    },
+    {
      "slug": "scene-tamil",
      "title": "Scene",
      "rating": "",
      "language": "Tamil",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/scene-tamil",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-shawshank-redemption-1994-re-release-english",
+     "title": "The Shawshank Redemption 1994 Re-Release",
+     "rating": "R18",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-shawshank-redemption-1994-re-release-english",
      "status": "coming_soon"
     },
     {
@@ -1132,6 +1248,15 @@
      "language": "Hindi",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/gunmaaster-g9-hindi",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "hadoota-arabic",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/hadoota-arabic",
      "status": "coming_soon"
     },
     {
@@ -1225,24 +1350,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "aadarsha-kutumbam-house-no-47-ak-47-telugu",
-     "title": "Aadarsha Kutumbam House No: 47 - AK 47",
-     "rating": "",
-     "language": "Telugu",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/aadarsha-kutumbam-house-no-47-ak-47-telugu",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "naseeb-arabic",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/naseeb-arabic",
-     "status": "coming_soon"
-    },
-    {
      "slug": "ramayana-hindi",
      "title": "Ramayana",
      "rating": "",
@@ -1267,24 +1374,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-hunger-games-sunrise-on-the-reaping-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "wildwood-english",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/wildwood-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-influencer-project-english",
-     "title": "The Influencer Project",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-influencer-project-english",
      "status": "coming_soon"
     },
     {
@@ -1315,39 +1404,12 @@
      "status": "coming_soon"
     },
     {
-     "slug": "godzilla-minus-zero-japanese",
-     "title": "Godzilla Minus Zero",
-     "rating": "PG12",
-     "language": "Japanese",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/godzilla-minus-zero-japanese",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-mongoose-english",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-mongoose-english",
-     "status": "coming_soon"
-    },
-    {
      "slug": "i-object-english",
      "title": "I, Object",
      "rating": "PG",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/i-object-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "sense-and-sensibility-english",
-     "title": "Sense and Sensibility",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/sense-and-sensibility-english",
      "status": "coming_soon"
     },
     {
@@ -1366,24 +1428,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-angry-birds-movie-3-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-cat-in-the-hat-english",
-     "title": "The Cat in the Hat",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-cat-in-the-hat-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-cat-in-the-hat-arabic",
-     "title": "The Cat in the Hat",
-     "rating": "",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-cat-in-the-hat-arabic",
      "status": "coming_soon"
     },
     {
@@ -1465,6 +1509,15 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-beekeeper-2-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "cocomelon-the-movie-english",
+     "title": "CoComelon: The Movie",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/cocomelon-the-movie-english",
      "status": "coming_soon"
     }
    ]
@@ -1590,30 +1643,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "wildwood-english",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/wildwood-english",
+     "status": "coming_soon"
+    },
+    {
      "slug": "wala-kan-ala-el-bal-arabic",
      "title": "Wala Kan Ala El-Bal",
      "rating": "R15",
      "language": "Arabic",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/wala-kan-ala-el-bal-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-shawshank-redemption-1994-re-release-english",
-     "title": "The Shawshank Redemption 1994 Re-Release",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-shawshank-redemption-1994-re-release-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "soy-turkish",
-     "title": "Soy",
-     "rating": "",
-     "language": "Turkish",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/soy-turkish",
      "status": "coming_soon"
     },
     {
@@ -1626,12 +1670,102 @@
      "status": "coming_soon"
     },
     {
+     "slug": "sense-and-sensibility-english",
+     "title": "Sense and Sensibility",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/sense-and-sensibility-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-mongoose-english",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-mongoose-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-influencer-project-english",
+     "title": "The Influencer Project",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-influencer-project-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "naseeb-arabic",
+     "title": "Naseeb",
+     "rating": "",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/naseeb-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "aadarsha-kutumbam-house-no-47-ak-47-telugu",
+     "title": "Aadarsha Kutumbam House No: 47 - AK 47",
+     "rating": "",
+     "language": "Telugu",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/aadarsha-kutumbam-house-no-47-ak-47-telugu",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "soy-turkish",
+     "title": "Soy",
+     "rating": "",
+     "language": "Turkish",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/soy-turkish",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-cat-in-the-hat-english",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-cat-in-the-hat-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-cat-in-the-hat-arabic",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-cat-in-the-hat-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "godzilla-minus-zero-japanese",
+     "title": "Godzilla Minus Zero",
+     "rating": "PG12",
+     "language": "Japanese",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/godzilla-minus-zero-japanese",
+     "status": "coming_soon"
+    },
+    {
      "slug": "scene-tamil",
      "title": "Scene",
      "rating": "",
      "language": "Tamil",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/scene-tamil",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-shawshank-redemption-1994-re-release-english",
+     "title": "The Shawshank Redemption 1994 Re-Release",
+     "rating": "R18",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-shawshank-redemption-1994-re-release-english",
      "status": "coming_soon"
     },
     {
@@ -1650,6 +1784,15 @@
      "language": "Hindi",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/gunmaaster-g9-hindi",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "hadoota-arabic",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/hadoota-arabic",
      "status": "coming_soon"
     },
     {
@@ -1743,24 +1886,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "aadarsha-kutumbam-house-no-47-ak-47-telugu",
-     "title": "Aadarsha Kutumbam House No: 47 - AK 47",
-     "rating": "",
-     "language": "Telugu",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/aadarsha-kutumbam-house-no-47-ak-47-telugu",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "naseeb-arabic",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/naseeb-arabic",
-     "status": "coming_soon"
-    },
-    {
      "slug": "ramayana-hindi",
      "title": "Ramayana",
      "rating": "",
@@ -1785,24 +1910,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-hunger-games-sunrise-on-the-reaping-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "wildwood-english",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/wildwood-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-influencer-project-english",
-     "title": "The Influencer Project",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-influencer-project-english",
      "status": "coming_soon"
     },
     {
@@ -1833,39 +1940,12 @@
      "status": "coming_soon"
     },
     {
-     "slug": "godzilla-minus-zero-japanese",
-     "title": "Godzilla Minus Zero",
-     "rating": "PG12",
-     "language": "Japanese",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/godzilla-minus-zero-japanese",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-mongoose-english",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-mongoose-english",
-     "status": "coming_soon"
-    },
-    {
      "slug": "i-object-english",
      "title": "I, Object",
      "rating": "PG",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/i-object-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "sense-and-sensibility-english",
-     "title": "Sense and Sensibility",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/sense-and-sensibility-english",
      "status": "coming_soon"
     },
     {
@@ -1884,24 +1964,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-angry-birds-movie-3-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-cat-in-the-hat-english",
-     "title": "The Cat in the Hat",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-cat-in-the-hat-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-cat-in-the-hat-arabic",
-     "title": "The Cat in the Hat",
-     "rating": "",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-cat-in-the-hat-arabic",
      "status": "coming_soon"
     },
     {
@@ -1983,6 +2045,15 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-beekeeper-2-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "cocomelon-the-movie-english",
+     "title": "CoComelon: The Movie",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/cocomelon-the-movie-english",
      "status": "coming_soon"
     }
    ]
@@ -2127,6 +2198,65 @@
     }
    ]
   },
+  "cinescape-3101203": {
+   "name": "Cinescape Al-Bairaq",
+   "films": [
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101940",
+     "title": "Treasure Trekkers",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101940/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101963",
+     "title": "The Smurfs: Timeless Adventure Volume 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101963/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101651",
+     "title": "The Dino Family",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101651/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    }
+   ]
+  },
   "cinescape-3101206": {
    "name": "Cinescape Ajial",
    "films": [
@@ -2146,6 +2276,259 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101997/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "cinescape-3101208": {
+   "name": "Cinescape Al Kout",
+   "films": [
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097221",
+     "title": "Jailer 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097221/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095519",
+     "title": "Other Mommy",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101935",
+     "title": "No Paradise If You Are Killed by a Woman",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101935/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101940",
+     "title": "Treasure Trekkers",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101940/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098173",
+     "title": "Resident Evil",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098173/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101651",
+     "title": "The Dino Family",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101651/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101997/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102195",
+     "title": "Saoud Wainah",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102195/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2044050",
+     "title": "Train to Busan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2044050/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "cinescape-3101210": {
+   "name": "Cinescape Avenues",
+   "films": [
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095519",
+     "title": "Other Mommy",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101935",
+     "title": "No Paradise If You Are Killed by a Woman",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101935/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2044050",
+     "title": "Train to Busan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2044050/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101940",
+     "title": "Treasure Trekkers",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101940/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097221",
+     "title": "Jailer 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097221/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101651",
+     "title": "The Dino Family",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101651/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098173",
+     "title": "Resident Evil",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098173/",
      "status": "now_showing"
     }
    ]
@@ -2187,6 +2570,128 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2044050/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "cinescape-3101460": {
+   "name": "Cinescape Assima",
+   "films": [
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095519",
+     "title": "Other Mommy",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101940",
+     "title": "Treasure Trekkers",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101940/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101651",
+     "title": "The Dino Family",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101651/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101963",
+     "title": "The Smurfs: Timeless Adventure Volume 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101963/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2044050",
+     "title": "Train to Busan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2044050/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101997/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098173",
+     "title": "Resident Evil",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098173/",
      "status": "now_showing"
     }
    ]
