@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T18:24:27.012Z",
+ "updatedAt": "2026-10-22T00:24:28.314Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -118,22 +118,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "pressure",
-     "title": "Pressure",
-     "rating": "PG12",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/pressure",
-     "status": "now_showing"
-    },
-    {
-     "slug": "coyote-vs-acme",
-     "title": "Coyote VS Acme",
-     "rating": "PG12",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/coyote-vs-acme",
-     "status": "now_showing"
-    },
-    {
      "slug": "paw-patrol-the-dino-movie",
      "title": "Paw Patrol: The Dino Movie",
      "rating": "PG",
@@ -158,6 +142,22 @@
      "status": "now_showing"
     },
     {
+     "slug": "enhypen-world-tour-blood-saga",
+     "title": "ENHYPEN WORLD TOUR 'BLOOD SAGA'",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/enhypen-world-tour-blood-saga",
+     "status": "now_showing"
+    },
+    {
+     "slug": "seventeen-world-tour-new",
+     "title": "SEVENTEEN WORLD TOUR 'NEW_'",
+     "rating": "PG12",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/seventeen-world-tour-new",
+     "status": "now_showing"
+    },
+    {
      "slug": "godzilla-minus-zero-preview-screening-japanese",
      "title": "Godzilla Minus Zero - Preview Screening",
      "rating": "18TC",
@@ -166,54 +166,9 @@
      "status": "now_showing"
     },
     {
-     "slug": "clayface",
-     "title": "Clayface",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": "2026-10-22",
-     "url": "https://kwt.voxcinemas.com/movies/clayface",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "treasure-trekkers",
-     "title": "Treasure Trekkers",
-     "rating": "PG",
-     "language": "English",
-     "releaseDate": "2026-10-22",
-     "url": "https://kwt.voxcinemas.com/movies/treasure-trekkers",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "train-to-busan-korean",
-     "title": "Train to Busan",
-     "rating": "R15",
-     "language": "Korean",
-     "releaseDate": "2026-10-22",
-     "url": "https://kwt.voxcinemas.com/movies/train-to-busan-korean",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "no-paradise-if-you-are-killed-by-a-woman",
-     "title": "No Paradise if You Are Killed by a Woman",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": "2026-10-22",
-     "url": "https://kwt.voxcinemas.com/movies/no-paradise-if-you-are-killed-by-a-woman",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "tomorrow-x-together-world-tour-act-tomorrow",
-     "title": "TOMORROW X TOGETHER WORLD TOUR ACT:TOMORROW",
-     "rating": "18TC",
-     "language": "English",
-     "releaseDate": "2026-10-24",
-     "url": "https://kwt.voxcinemas.com/movies/tomorrow-x-together-world-tour-act-tomorrow",
-     "status": "coming_soon"
-    },
-    {
      "slug": "enhypen-world-tour-blood-saga",
      "title": "ENHYPEN WORLD TOUR 'BLOOD SAGA'",
-     "rating": "18TC",
+     "rating": "R15",
      "language": "English",
      "releaseDate": "2026-10-24",
      "url": "https://kwt.voxcinemas.com/movies/enhypen-world-tour-blood-saga",
@@ -231,7 +186,7 @@
     {
      "slug": "seventeen-world-tour-new",
      "title": "SEVENTEEN WORLD TOUR 'NEW_'",
-     "rating": "18TC",
+     "rating": "PG12",
      "language": "English",
      "releaseDate": "2026-10-26",
      "url": "https://kwt.voxcinemas.com/movies/seventeen-world-tour-new",
@@ -812,15 +767,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/resident-evil/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "practical-magic-2",
-     "title": "PRACTICAL MAGIC 2",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/practical-magic-2/en",
      "status": "now_showing"
     },
     {
@@ -2045,21 +1991,21 @@
    "name": "Cinescape 360",
    "films": [
     {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101678",
-     "title": "The Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101678/",
      "status": "now_showing"
     },
     {
@@ -2081,21 +2027,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095519",
-     "title": "Other Mommy",
+     "slug": "2101940",
+     "title": "Treasure Trekkers",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096857/",
+     "url": "https://elcinema.com/en/work/2101940/",
      "status": "now_showing"
     },
     {
@@ -2108,21 +2045,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
+     "slug": "2095519",
+     "title": "Other Mommy",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100562/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2094924",
-     "title": "Coyote vs. Acme",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2094924/",
+     "url": "https://elcinema.com/en/work/2095519/",
      "status": "now_showing"
     },
     {
@@ -2132,6 +2060,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101963/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098155/",
      "status": "now_showing"
     },
     {
@@ -2144,129 +2081,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102195",
-     "title": "Saoud Wainah",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102195/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098168",
-     "title": "The Social Reckoning",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098168/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097950",
-     "title": "Digger",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097950/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "cinescape-3101203": {
-   "name": "Cinescape Al-Bairaq",
-   "films": [
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101963",
-     "title": "The Smurfs: Timeless Adventure Volume 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101963/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095519",
-     "title": "Other Mommy",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "cinescape-3101206": {
-   "name": "Cinescape Ajial",
-   "films": [
-    {
-     "slug": "2097221",
-     "title": "Jailer 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097221/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099166",
-     "title": "Ranabaali",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099166/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101997",
-     "title": "Drishyam: The Conclusion",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101997/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "cinescape-3101208": {
-   "name": "Cinescape Al Kout",
-   "films": [
-    {
      "slug": "2100562",
      "title": "Heart of the Beast",
      "rating": "",
@@ -2276,57 +2090,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
+     "slug": "2101651",
+     "title": "The Dino Family",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098154/",
+     "url": "https://elcinema.com/en/work/2101651/",
      "status": "now_showing"
     },
     {
-     "slug": "2097221",
-     "title": "Jailer 2",
+     "slug": "2101935",
+     "title": "No Paradise If You Are Killed by a Woman",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097221/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095519",
-     "title": "Other Mommy",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099166",
-     "title": "Ranabaali",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099166/",
+     "url": "https://elcinema.com/en/work/2101935/",
      "status": "now_showing"
     },
     {
@@ -2339,315 +2117,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098173",
-     "title": "Resident Evil",
+     "slug": "2044050",
+     "title": "Train to Busan",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098173/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101963",
-     "title": "The Smurfs: Timeless Adventure Volume 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101963/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101997",
-     "title": "Drishyam: The Conclusion",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101997/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "cinescape-3101210": {
-   "name": "Cinescape Avenues",
-   "films": [
-    {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102195",
-     "title": "Saoud Wainah",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102195/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100562/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098173",
-     "title": "Resident Evil",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098173/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095519",
-     "title": "Other Mommy",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101963",
-     "title": "The Smurfs: Timeless Adventure Volume 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101963/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097221",
-     "title": "Jailer 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097221/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "cinescape-3101339": {
-   "name": "Cinescape 1954 Film House",
-   "films": [
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095519",
-     "title": "Other Mommy",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "cinescape-3101460": {
-   "name": "Cinescape Assima",
-   "films": [
-    {
-     "slug": "2095519",
-     "title": "Other Mommy",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100562/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098173",
-     "title": "Resident Evil",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098173/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101678",
-     "title": "The Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101678/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097950",
-     "title": "Digger",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097950/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101963",
-     "title": "The Smurfs: Timeless Adventure Volume 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101963/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098168",
-     "title": "The Social Reckoning",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098168/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101997",
-     "title": "Drishyam: The Conclusion",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101997/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102195",
-     "title": "Saoud Wainah",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102195/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098155/",
+     "url": "https://elcinema.com/en/work/2044050/",
      "status": "now_showing"
     }
    ]
@@ -2726,42 +2201,6 @@
      "releaseDate": null,
      "url": "https://www.skycinemaskw.com/movie-information/matloub-aaeleyan-(egyptian)-arabic/9999001517",
      "status": "now_showing"
-    },
-    {
-     "slug": "other-mommy/9999001516",
-     "title": "OTHER MOMMY",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/other-mommy/9999001516",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-social-reckoning/9999001515",
-     "title": "THE SOCIAL RECKONING",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/the-social-reckoning/9999001515",
-     "status": "now_showing"
-    },
-    {
-     "slug": "verity/9999001510",
-     "title": "VERITY",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/verity/9999001510",
-     "status": "now_showing"
-    },
-    {
-     "slug": "clayface/9999001435",
-     "title": "CLAYFACE",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/clayface/9999001435",
-     "status": "coming_soon"
     },
     {
      "slug": "avengers-doomsday/9999001436",

@@ -1,17 +1,62 @@
 {
- "updatedAt": "2026-10-21T18:26:14.214Z",
+ "updatedAt": "2026-10-22T00:26:04.247Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
    "name": "Cinemas in Egypt",
    "films": [
     {
-     "slug": "2102291",
-     "title": "Mariinka",
+     "slug": "2101651",
+     "title": "The Dino Family",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-21",
-     "url": "https://elcinema.com/en/work/2102291/",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101651/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102265",
+     "title": "Soy",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102265/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101935",
+     "title": "No Paradise If You Are Killed by a Woman",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101935/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102292",
+     "title": "Pipes",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102292/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100780",
+     "title": "Infiltrate",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2100780/",
      "status": "now_showing"
     },
     {
@@ -24,15 +69,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2093506",
-     "title": "The Magic Faraway Tree",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2093506/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2096857",
      "title": "Street Fighter",
      "rating": "",
@@ -42,12 +78,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2093506",
+     "title": "The Magic Faraway Tree",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2093506/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095519",
+     "title": "Other Mommy",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2095519/",
      "status": "now_showing"
     },
     {
@@ -69,30 +123,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095519",
-     "title": "Other Mommy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101234",
-     "title": "Cahim 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101234/",
      "status": "now_showing"
     },
     {
@@ -114,12 +150,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
+     "slug": "2101234",
+     "title": "Cahim 2",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2100562/",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101234/",
      "status": "now_showing"
     },
     {
@@ -132,15 +168,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101963",
-     "title": "The Smurfs: Timeless Adventure Volume 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101963/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099939",
      "title": "Shish Doo",
      "rating": "",
@@ -150,21 +177,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098173",
      "title": "Resident Evil",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-17",
      "url": "https://elcinema.com/en/work/2098173/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099778",
-     "title": "Tad and the Magic Lamp",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2099778/",
      "status": "now_showing"
     },
     {
@@ -240,15 +267,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097177",
-     "title": "Al Qisas",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-06-10",
-     "url": "https://elcinema.com/en/work/2097177/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2032663",
      "title": "Avengers Endgame: Encore re-release",
      "rating": "",
@@ -262,7 +280,7 @@
      "title": "Wildwood",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-22",
+     "releaseDate": null,
      "url": "https://elcinema.com/en/work/2088495/",
      "status": "coming_soon"
     },
@@ -543,15 +561,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101650/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2101651",
-     "title": "The Dino Family",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101651/",
      "status": "coming_soon"
     }
    ]

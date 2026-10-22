@@ -1,26 +1,26 @@
 {
- "updatedAt": "2026-10-21T18:26:29.037Z",
+ "updatedAt": "2026-10-22T00:26:10.752Z",
  "territory": "LB",
  "cinemas": {
   "elcinema-lb": {
    "name": "Cinemas in Lebanon",
    "films": [
     {
-     "slug": "2098154",
-     "title": "Whalefall",
+     "slug": "2098155",
+     "title": "Clayface",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2098154/",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2098155/",
      "status": "now_showing"
     },
     {
-     "slug": "2099122",
-     "title": "Forgotten Island",
+     "slug": "2101940",
+     "title": "Treasure Trekkers",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2099122/",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101940/",
      "status": "now_showing"
     },
     {
@@ -33,21 +33,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
+     "slug": "2098154",
+     "title": "Whalefall",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101678",
-     "title": "The Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101678/",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -60,21 +51,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101678",
+     "title": "The Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2101678/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098232",
      "title": "Verity",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097950",
-     "title": "Digger",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2097950/",
      "status": "now_showing"
     },
     {
@@ -87,51 +78,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101963",
-     "title": "The Smurfs: Timeless Adventure Volume 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101963/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098173",
-     "title": "Resident Evil",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2098173/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099594",
-     "title": "Practical Magic 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-10",
-     "url": "https://elcinema.com/en/work/2099594/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2094924",
-     "title": "Coyote vs. Acme",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-27",
-     "url": "https://elcinema.com/en/work/2094924/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2069657",
-     "title": "El Gawahergy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-06",
-     "url": "https://elcinema.com/en/work/2069657/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095765",
      "title": "Spider-Man: Brand New Day",
      "rating": "",
@@ -141,39 +87,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095329",
-     "title": "The Odyssey",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-07-16",
-     "url": "https://elcinema.com/en/work/2095329/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098745",
-     "title": "Minions & Monsters",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-07-01",
-     "url": "https://elcinema.com/en/work/2098745/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098722",
      "title": "Charbel",
      "rating": "",
      "language": "",
      "releaseDate": "2026-03-19",
      "url": "https://elcinema.com/en/work/2098722/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2032663",
-     "title": "Avengers Endgame: Encore re-release",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2019-04-25",
-     "url": "https://elcinema.com/en/work/2032663/",
      "status": "now_showing"
     },
     {

@@ -1,98 +1,35 @@
 {
- "updatedAt": "2026-10-21T18:26:30.998Z",
+ "updatedAt": "2026-10-22T00:26:11.326Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
    "name": "Cinemas in Syria",
    "films": [
     {
-     "slug": "2099594",
-     "title": "Practical Magic 2",
+     "slug": "2078684",
+     "title": "Migration",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2099594/",
+     "releaseDate": "2026-06-04",
+     "url": "https://elcinema.com/en/work/2078684/",
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
+     "slug": "2084791",
+     "title": "The Wild Robot",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2098154/",
+     "releaseDate": "2024-11-14",
+     "url": "https://elcinema.com/en/work/2084791/",
      "status": "now_showing"
     },
     {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
+     "slug": "2034536",
+     "title": "Zootopia",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100853",
-     "title": "The Love Hypothesis",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2100853/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098173",
-     "title": "Resident Evil",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2098173/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099118",
-     "title": "Insidious: Out of the Further",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-20",
-     "url": "https://elcinema.com/en/work/2099118/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2029150",
-     "title": "Legends of Oz: Dorothy's Return",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-05-28",
-     "url": "https://elcinema.com/en/work/2029150/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2086212",
-     "title": "In Your Dreams",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-01-01",
-     "url": "https://elcinema.com/en/work/2086212/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2044485",
-     "title": "Coco",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2025-06-11",
-     "url": "https://elcinema.com/en/work/2044485/",
+     "releaseDate": "2024-07-22",
+     "url": "https://elcinema.com/en/work/2034536/",
      "status": "now_showing"
     },
     {

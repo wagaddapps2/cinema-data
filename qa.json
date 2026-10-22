@@ -1,10 +1,46 @@
 {
- "updatedAt": "2026-10-21T18:26:24.092Z",
+ "updatedAt": "2026-10-22T00:26:08.516Z",
  "territory": "QA",
  "cinemas": {
   "elcinema-qa": {
    "name": "Cinemas in Qatar",
    "films": [
+    {
+     "slug": "2101651",
+     "title": "The Dino Family",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101651/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2091458",
+     "title": "Ahmed w Ahmed",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2091458/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102341",
+     "title": "Always Yours, Never Mine",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102341/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101940",
+     "title": "Treasure Trekkers",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101940/",
+     "status": "now_showing"
+    },
     {
      "slug": "2098155",
      "title": "Clayface",
@@ -15,39 +51,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102293",
-     "title": "Chha Maya Chhapakkai 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-16",
-     "url": "https://elcinema.com/en/work/2102293/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102294",
-     "title": "Nayi Naveli",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2102294/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099166",
-     "title": "Ranabaali",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2099166/",
      "status": "now_showing"
     },
     {
@@ -69,30 +78,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101362",
-     "title": "Beware Boiúna",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101362/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102195",
      "title": "Saoud Wainah",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2102195/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101678",
-     "title": "The Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2101678/",
      "status": "now_showing"
     },
     {
@@ -114,60 +105,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101997",
-     "title": "Drishyam: The Conclusion",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101997/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097950",
-     "title": "Digger",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2097950/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101672",
-     "title": "The Crystal Planet",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101672/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102075",
-     "title": "The Legendaries",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2102075/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101963",
-     "title": "The Smurfs: Timeless Adventure Volume 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101963/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2084476",
-     "title": "Restart",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-23",
-     "url": "https://elcinema.com/en/work/2084476/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2100562",
      "title": "Heart of the Beast",
      "rating": "",
@@ -177,111 +114,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099778",
-     "title": "Tad and the Magic Lamp",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2099778/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098173",
-     "title": "Resident Evil",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-16",
-     "url": "https://elcinema.com/en/work/2098173/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2094924",
-     "title": "Coyote vs. Acme",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-26",
-     "url": "https://elcinema.com/en/work/2094924/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099118",
-     "title": "Insidious: Out of the Further",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-20",
-     "url": "https://elcinema.com/en/work/2099118/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096322",
-     "title": "PAW Patrol: The Dino Movie",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-13",
-     "url": "https://elcinema.com/en/work/2096322/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100043",
-     "title": "Cats in the Museum: Treasures of Egypt",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-06",
-     "url": "https://elcinema.com/en/work/2100043/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095765",
      "title": "Spider-Man: Brand New Day",
      "rating": "",
      "language": "",
      "releaseDate": "2026-07-29",
      "url": "https://elcinema.com/en/work/2095765/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095329",
-     "title": "The Odyssey",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-07-16",
-     "url": "https://elcinema.com/en/work/2095329/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095884",
-     "title": "Moana",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-07-08",
-     "url": "https://elcinema.com/en/work/2095884/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098745",
-     "title": "Minions & Monsters",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-07-01",
-     "url": "https://elcinema.com/en/work/2098745/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096297",
-     "title": "Smart Rabbit Momo: The Big Chase",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2025-10-23",
-     "url": "https://elcinema.com/en/work/2096297/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2081888",
-     "title": "Rabbit Academy: Mission Eggpossible",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2023-09-14",
-     "url": "https://elcinema.com/en/work/2081888/",
      "status": "now_showing"
     },
     {
@@ -399,24 +237,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101649/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2101651",
-     "title": "The Dino Family",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101651/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2101940",
-     "title": "Treasure Trekkers",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101940/",
      "status": "coming_soon"
     },
     {
