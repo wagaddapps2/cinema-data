@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22T12:29:00.947Z",
+ "updatedAt": "2026-10-22T18:23:22.106Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -1109,7 +1109,7 @@
     {
      "slug": "wildwood-english",
      "title": "Wildwood",
-     "rating": "",
+     "rating": "PG12",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/wildwood-english",
@@ -1127,7 +1127,7 @@
     {
      "slug": "hope-korean",
      "title": "Hope",
-     "rating": "",
+     "rating": "R15",
      "language": "Korean",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/hope-korean",
@@ -1154,7 +1154,7 @@
     {
      "slug": "the-influencer-project-english",
      "title": "The Influencer Project",
-     "rating": "",
+     "rating": "R15",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-influencer-project-english",
@@ -1163,7 +1163,7 @@
     {
      "slug": "naseeb-arabic",
      "title": "Naseeb",
-     "rating": "",
+     "rating": "PG12",
      "language": "Arabic",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/naseeb-arabic",
@@ -1645,7 +1645,7 @@
     {
      "slug": "wildwood-english",
      "title": "Wildwood",
-     "rating": "",
+     "rating": "PG12",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/wildwood-english",
@@ -1663,7 +1663,7 @@
     {
      "slug": "hope-korean",
      "title": "Hope",
-     "rating": "",
+     "rating": "R15",
      "language": "Korean",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/hope-korean",
@@ -1690,7 +1690,7 @@
     {
      "slug": "the-influencer-project-english",
      "title": "The Influencer Project",
-     "rating": "",
+     "rating": "R15",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-influencer-project-english",
@@ -1699,7 +1699,7 @@
     {
      "slug": "naseeb-arabic",
      "title": "Naseeb",
-     "rating": "",
+     "rating": "PG12",
      "language": "Arabic",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/naseeb-arabic",
