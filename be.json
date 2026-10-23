@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T12:24:24.606Z",
+ "updatedAt": "2026-10-23T18:25:04.153Z",
  "territory": "BE",
  "cinemas": {
   "cinebel-693": {
@@ -4716,10 +4716,22 @@
      "originalTitle": "",
      "year": 2026,
      "rating": "6+",
-     "language": "VF",
+     "language": "VF/VO",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie1027908",
      "status": "now_showing"
+    },
+    {
+     "slug": "4585",
+     "title": "Cure",
+     "originalTitle": "Kyua",
+     "year": 1997,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-10-31",
+     "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie4585",
+     "status": "coming_soon"
     },
     {
      "slug": "1028092",
@@ -4790,6 +4802,17 @@
      "status": "coming_soon"
     },
     {
+     "slug": "1027918",
+     "title": "Hope",
+     "originalTitle": "Hopeu",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-28",
+     "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie1027918",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027919",
      "title": "Joyeuse Jungle !",
      "originalTitle": "Born in the Jungle",
@@ -4812,6 +4835,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027902",
+     "title": "L'Affaire Marie-Claire",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie1027902",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027750",
      "title": "L'Espèce explosive",
      "originalTitle": "",
@@ -4832,6 +4866,17 @@
      "releaseDate": "2026-10-07",
      "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie1027524",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027753",
+     "title": "La Gradiva",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-28",
+     "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie1027753",
+     "status": "coming_soon"
     },
     {
      "slug": "1027587",
@@ -4867,6 +4912,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027859",
+     "title": "Le Mystère Lucy Lost",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-10-28",
+     "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie1027859",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027844",
      "title": "Les Misérables",
      "originalTitle": "",
@@ -4898,6 +4954,17 @@
      "releaseDate": "2026-10-14",
      "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie1027828",
      "status": "now_showing"
+    },
+    {
+     "slug": "1028023",
+     "title": "Moulin",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-28",
+     "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie1028023",
+     "status": "coming_soon"
     },
     {
      "slug": "1027692",
@@ -4966,6 +5033,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027752",
+     "title": "Quelques mots d'amour",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie1027752",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027885",
      "title": "Sacrifice",
      "originalTitle": "",
@@ -4975,6 +5053,17 @@
      "releaseDate": "2026-10-14",
      "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie1027885",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027596",
+     "title": "Sanguine",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-28",
+     "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie1027596",
+     "status": "coming_soon"
     },
     {
      "slug": "1027315",
@@ -5010,6 +5099,18 @@
      "status": "now_showing"
     },
     {
+     "slug": "4245",
+     "title": "Tetsuo",
+     "originalTitle": "",
+     "year": 1989,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-10-31",
+     "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie4245",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1026948",
      "title": "The Magic City: Birmingham selon Sun Ra",
      "originalTitle": "The Magic City - Birmingham according to Sun Ra",
@@ -5033,6 +5134,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027829",
+     "title": "Une femme aujourd'hui",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": "2026-10-28",
+     "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie1027829",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027744",
      "title": "Vivre encore",
      "originalTitle": "",
@@ -5053,6 +5165,17 @@
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie1027890",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027608",
+     "title": "Wild Horse Nine",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/1104/Cin%C3%A9ma%20CAMEO#movie1027608",
+     "status": "coming_soon"
     }
    ]
   },
@@ -13643,6 +13766,18 @@
      "status": "now_showing"
     },
     {
+     "slug": "4585",
+     "title": "Cure",
+     "originalTitle": "Kyua",
+     "year": 1997,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-10-31",
+     "url": "https://cinebel.dhnet.be/cinema/1063/Sauveni%C3%A8re#movie4585",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027125",
      "title": "Digger",
      "originalTitle": "",
@@ -13663,6 +13798,17 @@
      "releaseDate": "2026-12-02",
      "url": "https://cinebel.dhnet.be/cinema/1063/Sauveni%C3%A8re#movie1027846",
      "status": "coming_soon"
+    },
+    {
+     "slug": "1027230",
+     "title": "Fausse note",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/1063/Sauveni%C3%A8re#movie1027230",
+     "status": "now_showing"
     },
     {
      "slug": "1027749",
@@ -13698,6 +13844,17 @@
      "status": "coming_soon"
     },
     {
+     "slug": "1027919",
+     "title": "Joyeuse Jungle !",
+     "originalTitle": "Born in the Jungle",
+     "year": 2026,
+     "rating": "",
+     "language": "VF",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/1063/Sauveni%C3%A8re#movie1027919",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027740",
      "title": "Karma",
      "originalTitle": "",
@@ -13729,6 +13886,18 @@
      "releaseDate": "2026-10-07",
      "url": "https://cinebel.dhnet.be/cinema/1063/Sauveni%C3%A8re#movie1027524",
      "status": "now_showing"
+    },
+    {
+     "slug": "3271",
+     "title": "La Chose",
+     "originalTitle": "The Thing",
+     "year": 1982,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-10-31",
+     "url": "https://cinebel.dhnet.be/cinema/1063/Sauveni%C3%A8re#movie3271",
+     "status": "coming_soon"
     },
     {
      "slug": "1027753",
@@ -13775,6 +13944,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1025393",
+     "title": "Love Lies Bleeding",
+     "originalTitle": "",
+     "year": 2023,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2024-06-26",
+     "url": "https://cinebel.dhnet.be/cinema/1063/Sauveni%C3%A8re#movie1025393",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027828",
      "title": "Mochy",
      "originalTitle": "Yugly",
@@ -13808,6 +13988,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027758",
+     "title": "Ni vue, ni connue",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/1063/Sauveni%C3%A8re#movie1027758",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027593",
      "title": "Notre salut",
      "originalTitle": "",
@@ -13819,6 +14010,18 @@
      "status": "now_showing"
     },
     {
+     "slug": "1009764",
+     "title": "Possession",
+     "originalTitle": "",
+     "year": 1981,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-10-31",
+     "url": "https://cinebel.dhnet.be/cinema/1063/Sauveni%C3%A8re#movie1009764",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027913",
      "title": "Primetime",
      "originalTitle": "",
@@ -13828,6 +14031,17 @@
      "releaseDate": "2026-10-07",
      "url": "https://cinebel.dhnet.be/cinema/1063/Sauveni%C3%A8re#movie1027913",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027752",
+     "title": "Quelques mots d'amour",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/1063/Sauveni%C3%A8re#movie1027752",
+     "status": "coming_soon"
     },
     {
      "slug": "1027885",
@@ -13905,6 +14119,17 @@
      "releaseDate": "2026-10-07",
      "url": "https://cinebel.dhnet.be/cinema/1063/Sauveni%C3%A8re#movie1027744",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027608",
+     "title": "Wild Horse Nine",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/1063/Sauveni%C3%A8re#movie1027608",
+     "status": "coming_soon"
     }
    ]
   },
