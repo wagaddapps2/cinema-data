@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-10-22T18:25:17.513Z",
+ "updatedAt": "2026-10-23T00:28:04.750Z",
  "territory": "OM",
  "cinemas": {
   "elcinema-om": {
    "name": "Cinemas in Oman",
    "films": [
     {
-     "slug": "2102337",
-     "title": "Pehla Pyaar Doosri Baar",
+     "slug": "2102339",
+     "title": "Kabaddi 5 - After the Final Match",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102337/",
+     "releaseDate": "2026-10-23",
+     "url": "https://elcinema.com/en/work/2102339/",
      "status": "now_showing"
     },
     {
@@ -39,6 +39,15 @@
      "language": "",
      "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2102342/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102337",
+     "title": "Pehla Pyaar Doosri Baar",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102337/",
      "status": "now_showing"
     },
     {
@@ -132,21 +141,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095519",
-     "title": "Other Mommy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095519",
+     "title": "Other Mommy",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2095519/",
      "status": "now_showing"
     },
     {
@@ -415,7 +424,7 @@
      "title": "Orijinal",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-23",
+     "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102350/",
      "status": "coming_soon"
     }

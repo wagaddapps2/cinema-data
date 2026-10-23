@@ -1,17 +1,53 @@
 {
- "updatedAt": "2026-10-22T18:25:16.038Z",
+ "updatedAt": "2026-10-23T00:28:03.441Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
    "name": "Cinemas in Bahrain",
    "films": [
     {
-     "slug": "2063764",
-     "title": "The Texas Chain Saw Massacre",
+     "slug": "2102337",
+     "title": "Pehla Pyaar Doosri Baar",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-23",
+     "url": "https://elcinema.com/en/work/2102337/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2053525",
+     "title": "Truth or Die",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-23",
+     "url": "https://elcinema.com/en/work/2053525/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2053164",
+     "title": "Black Water",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-23",
+     "url": "https://elcinema.com/en/work/2053164/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102339",
+     "title": "Kabaddi 5 - After the Final Match",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-23",
+     "url": "https://elcinema.com/en/work/2102339/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102346",
+     "title": "418",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2063764/",
+     "url": "https://elcinema.com/en/work/2102346/",
      "status": "now_showing"
     },
     {
@@ -78,15 +114,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102346",
-     "title": "418",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102346/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
@@ -96,21 +123,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102294",
-     "title": "Nayi Naveli",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2102294/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099122",
      "title": "Forgotten Island",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102294",
+     "title": "Nayi Naveli",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2102294/",
      "status": "now_showing"
     },
     {
@@ -397,7 +424,7 @@
      "title": "Orijinal",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-23",
+     "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102350/",
      "status": "coming_soon"
     }

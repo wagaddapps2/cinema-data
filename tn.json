@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22T18:25:21.814Z",
+ "updatedAt": "2026-10-23T00:28:09.021Z",
  "territory": "TN",
  "cinemas": {
   "elcinema-tn": {
@@ -30,6 +30,15 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2102269/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101795",
+     "title": "Lass Chayeh",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-11",
+     "url": "https://elcinema.com/en/work/2101795/",
      "status": "now_showing"
     },
     {

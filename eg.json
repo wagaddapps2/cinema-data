@@ -1,10 +1,46 @@
 {
- "updatedAt": "2026-10-22T18:25:06.928Z",
+ "updatedAt": "2026-10-23T00:27:50.574Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
    "name": "Cinemas in Egypt",
    "films": [
+    {
+     "slug": "2102123",
+     "title": "Rose",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-23",
+     "url": "https://elcinema.com/en/work/2102123/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100780",
+     "title": "Infiltrate",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2100780/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101935",
+     "title": "No Paradise If You Are Killed by a Woman",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101935/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101651",
+     "title": "The Dino Family",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101651/",
+     "status": "now_showing"
+    },
     {
      "slug": "2102265",
      "title": "Soy",
@@ -21,42 +57,6 @@
      "language": "",
      "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102292",
-     "title": "Pipes",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102292/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101651",
-     "title": "The Dino Family",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101651/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101935",
-     "title": "No Paradise If You Are Killed by a Woman",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101935/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100780",
-     "title": "Infiltrate",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2100780/",
      "status": "now_showing"
     },
     {
@@ -141,15 +141,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101234",
-     "title": "Cahim 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101234/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097950",
      "title": "Digger",
      "rating": "",
@@ -159,12 +150,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099939",
-     "title": "Shish Doo",
+     "slug": "2101234",
+     "title": "Cahim 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101234/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101963",
+     "title": "The Smurfs: Timeless Adventure Volume 2",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2099939/",
+     "url": "https://elcinema.com/en/work/2101963/",
      "status": "now_showing"
     },
     {
@@ -177,21 +177,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2033609",
-     "title": "Princess Mononoke",
+     "slug": "2099939",
+     "title": "Shish Doo",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2033609/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101963",
-     "title": "The Smurfs: Timeless Adventure Volume 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101963/",
+     "url": "https://elcinema.com/en/work/2099939/",
      "status": "now_showing"
     },
     {
@@ -276,12 +267,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2097177",
+     "title": "Al Qisas",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-06-10",
+     "url": "https://elcinema.com/en/work/2097177/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2032663",
      "title": "Avengers Endgame: Encore re-release",
      "rating": "",
      "language": "",
      "releaseDate": "2019-04-24",
      "url": "https://elcinema.com/en/work/2032663/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1010121",
+     "title": "Iskanderija... lih?",
+     "rating": "",
+     "language": "",
+     "releaseDate": "1979-08-23",
+     "url": "https://elcinema.com/en/work/1010121/",
      "status": "now_showing"
     },
     {
@@ -505,7 +514,7 @@
      "title": "The Cycle",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-23",
+     "releaseDate": null,
      "url": "https://elcinema.com/en/work/2100794/",
      "status": "coming_soon"
     },
