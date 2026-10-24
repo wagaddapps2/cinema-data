@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-24T12:21:56.391Z",
+ "updatedAt": "2026-10-24T18:18:15.989Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -180,6 +180,15 @@
      "language": "English",
      "releaseDate": "2026-10-29",
      "url": "https://kwt.voxcinemas.com/movies/the-mongoose",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "it-feeds",
+     "title": "It Feeds",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-29",
+     "url": "https://kwt.voxcinemas.com/movies/it-feeds",
      "status": "coming_soon"
     },
     {
