@@ -1,35 +1,35 @@
 {
- "updatedAt": "2026-10-23T18:25:17.234Z",
+ "updatedAt": "2026-10-24T00:29:50.697Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
    "name": "Cinemas in Bahrain",
    "films": [
     {
-     "slug": "2102337",
-     "title": "Pehla Pyaar Doosri Baar",
+     "slug": "2021513",
+     "title": "Hatchet",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-23",
-     "url": "https://elcinema.com/en/work/2102337/",
+     "releaseDate": "2026-10-24",
+     "url": "https://elcinema.com/en/work/2021513/",
      "status": "now_showing"
     },
     {
-     "slug": "2053525",
-     "title": "Truth or Die",
+     "slug": "2102431",
+     "title": "Enhypen World Tour 'Blood Saga'",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-23",
-     "url": "https://elcinema.com/en/work/2053525/",
+     "releaseDate": "2026-10-24",
+     "url": "https://elcinema.com/en/work/2102431/",
      "status": "now_showing"
     },
     {
-     "slug": "2053164",
-     "title": "Black Water",
+     "slug": "2102433",
+     "title": "Tomorrow X Together World Tour 'Act: Tomorrow'",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-23",
-     "url": "https://elcinema.com/en/work/2053164/",
+     "releaseDate": "2026-10-24",
+     "url": "https://elcinema.com/en/work/2102433/",
      "status": "now_showing"
     },
     {
@@ -42,21 +42,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102346",
-     "title": "418",
+     "slug": "2102337",
+     "title": "Pehla Pyaar Doosri Baar",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102346/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101651",
-     "title": "The Dino Family",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101651/",
+     "releaseDate": "2026-10-23",
+     "url": "https://elcinema.com/en/work/2102337/",
      "status": "now_showing"
     },
     {
@@ -66,15 +57,6 @@
      "language": "",
      "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2101935/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101940",
-     "title": "Treasure Trekkers",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101940/",
      "status": "now_showing"
     },
     {
@@ -96,12 +78,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102342",
-     "title": "Udumbanchola Vision",
+     "slug": "2101651",
+     "title": "The Dino Family",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102342/",
+     "url": "https://elcinema.com/en/work/2101651/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101940",
+     "title": "Treasure Trekkers",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101940/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102346",
+     "title": "418",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102346/",
      "status": "now_showing"
     },
     {
@@ -114,21 +114,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102342",
+     "title": "Udumbanchola Vision",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102342/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-21",
      "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099122",
-     "title": "Forgotten Island",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2099122/",
      "status": "now_showing"
     },
     {
@@ -141,12 +141,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096857",
-     "title": "Street Fighter",
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097221",
+     "title": "Jailer 2",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2096857/",
+     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     },
     {
@@ -159,12 +168,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097221",
-     "title": "Jailer 2",
+     "slug": "2096857",
+     "title": "Street Fighter",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2097221/",
+     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
