@@ -1,10 +1,28 @@
 {
- "updatedAt": "2026-10-24T18:20:13.389Z",
+ "updatedAt": "2026-10-25T00:21:35.839Z",
  "territory": "OM",
  "cinemas": {
   "elcinema-om": {
    "name": "Cinemas in Oman",
    "films": [
+    {
+     "slug": "2101953",
+     "title": "BTS World Tour 'Arirang' in Buenos Aires: Live Viewing",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-25",
+     "url": "https://elcinema.com/en/work/2101953/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102435",
+     "title": "Hybe Cheering Party",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-25",
+     "url": "https://elcinema.com/en/work/2102435/",
+     "status": "now_showing"
+    },
     {
      "slug": "2102433",
      "title": "Tomorrow X Together World Tour 'Act: Tomorrow'",
@@ -12,15 +30,6 @@
      "language": "",
      "releaseDate": "2026-10-24",
      "url": "https://elcinema.com/en/work/2102433/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102431",
-     "title": "Enhypen World Tour 'Blood Saga'",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-24",
-     "url": "https://elcinema.com/en/work/2102431/",
      "status": "now_showing"
     },
     {

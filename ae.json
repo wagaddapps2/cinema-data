@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-10-24T18:19:57.764Z",
+ "updatedAt": "2026-10-25T00:21:25.226Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
    "name": "Cinemas in United Arab Emirates",
    "films": [
     {
-     "slug": "2003769",
-     "title": "Monsters, Inc",
+     "slug": "2102435",
+     "title": "Hybe Cheering Party",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-24",
-     "url": "https://elcinema.com/en/work/2003769/",
+     "releaseDate": "2026-10-25",
+     "url": "https://elcinema.com/en/work/2102435/",
      "status": "now_showing"
     },
     {
@@ -24,30 +24,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097744",
-     "title": "A Matter of Life and Death",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-24",
-     "url": "https://elcinema.com/en/work/2097744/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102433",
-     "title": "Tomorrow X Together World Tour 'Act: Tomorrow'",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-24",
-     "url": "https://elcinema.com/en/work/2102433/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101953",
      "title": "BTS World Tour 'Arirang' in Buenos Aires: Live Viewing",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-24",
      "url": "https://elcinema.com/en/work/2101953/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097744",
+     "title": "A Matter of Life and Death",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-24",
+     "url": "https://elcinema.com/en/work/2097744/",
      "status": "now_showing"
     },
     {
@@ -60,12 +51,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102337",
-     "title": "Pehla Pyaar Doosri Baar",
+     "slug": "2102346",
+     "title": "418",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-23",
-     "url": "https://elcinema.com/en/work/2102337/",
+     "url": "https://elcinema.com/en/work/2102346/",
      "status": "now_showing"
     },
     {
@@ -78,66 +69,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102346",
-     "title": "418",
+     "slug": "2102337",
+     "title": "Pehla Pyaar Doosri Baar",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-23",
-     "url": "https://elcinema.com/en/work/2102346/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101940",
-     "title": "Treasure Trekkers",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101940/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101935",
-     "title": "No Paradise If You Are Killed by a Woman",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101935/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102345",
-     "title": "Tu Hai Meri Kiran",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102345/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102341",
-     "title": "Always Yours, Never Mine",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102341/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2093501",
-     "title": "Klara and the Sun",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2093501/",
+     "url": "https://elcinema.com/en/work/2102337/",
      "status": "now_showing"
     },
     {
@@ -150,12 +87,66 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102345",
+     "title": "Tu Hai Meri Kiran",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102345/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101935",
+     "title": "No Paradise If You Are Killed by a Woman",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101935/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2093501",
+     "title": "Klara and the Sun",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2093501/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101651",
      "title": "The Dino Family",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2101651/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102341",
+     "title": "Always Yours, Never Mine",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102341/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101940",
+     "title": "Treasure Trekkers",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101940/",
      "status": "now_showing"
     },
     {
@@ -186,6 +177,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2002621",
      "title": "Twilight",
      "rating": "",
@@ -204,15 +204,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097221",
      "title": "Jailer 2",
      "rating": "",
@@ -222,12 +213,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101362",
-     "title": "Beware Boiúna",
+     "slug": "2101041",
+     "title": "Psycho",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101362/",
+     "url": "https://elcinema.com/en/work/2101041/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102183",
+     "title": "Premada Oorali",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2102183/",
      "status": "now_showing"
     },
     {
@@ -249,21 +249,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101041",
-     "title": "Psycho",
+     "slug": "2101362",
+     "title": "Beware Boiúna",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101041/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102183",
-     "title": "Premada Oorali",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2102183/",
+     "url": "https://elcinema.com/en/work/2101362/",
      "status": "now_showing"
     },
     {
@@ -321,21 +312,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101963",
-     "title": "The Smurfs: Timeless Adventure Volume 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101963/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2100562",
      "title": "Heart of the Beast",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-24",
      "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101963",
+     "title": "The Smurfs: Timeless Adventure Volume 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2101963/",
      "status": "now_showing"
     },
     {
@@ -357,21 +348,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101674",
-     "title": "Hanuman Ansh",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-10",
-     "url": "https://elcinema.com/en/work/2101674/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2100043",
      "title": "Cats in the Museum: Treasures of Egypt",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-10",
      "url": "https://elcinema.com/en/work/2100043/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101674",
+     "title": "Hanuman Ansh",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-10",
+     "url": "https://elcinema.com/en/work/2101674/",
      "status": "now_showing"
     },
     {
@@ -447,6 +438,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2001295",
+     "title": "Edward Scissorhands",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-12-19",
+     "url": "https://elcinema.com/en/work/2001295/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2086992",
      "title": "Smile 2",
      "rating": "",
@@ -465,12 +465,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2009495",
+     "title": "Beetlejuice",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-04-07",
+     "url": "https://elcinema.com/en/work/2009495/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2005417",
      "title": "The Exorcist",
      "rating": "",
      "language": "",
      "releaseDate": "2023-02-09",
      "url": "https://elcinema.com/en/work/2005417/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2011402",
+     "title": "Hotel Transylvania",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2022-10-31",
+     "url": "https://elcinema.com/en/work/2011402/",
      "status": "now_showing"
     },
     {
@@ -492,12 +510,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2051628",
+     "title": "It: Chapter Two",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2019-09-04",
+     "url": "https://elcinema.com/en/work/2051628/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2032663",
      "title": "Avengers Endgame: Encore re-release",
      "rating": "",
      "language": "",
      "releaseDate": "2019-04-23",
      "url": "https://elcinema.com/en/work/2032663/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2004749",
+     "title": "Monster House",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2006-08-31",
+     "url": "https://elcinema.com/en/work/2004749/",
      "status": "now_showing"
     },
     {
