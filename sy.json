@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T00:21:39.047Z",
+ "updatedAt": "2026-10-25T06:26:43.843Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
@@ -60,12 +60,39 @@
      "status": "now_showing"
     },
     {
+     "slug": "2084421",
+     "title": "The Casagrandes Movie",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-19",
+     "url": "https://elcinema.com/en/work/2084421/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2093181",
      "title": "Saqr w Kanarya",
      "rating": "",
      "language": "",
      "releaseDate": "2026-06-25",
      "url": "https://elcinema.com/en/work/2093181/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2064940",
+     "title": "Over the Moon",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-08-22",
+     "url": "https://elcinema.com/en/work/2064940/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2007615",
+     "title": "Open Season",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2006-10-23",
+     "url": "https://elcinema.com/en/work/2007615/",
      "status": "now_showing"
     },
     {
