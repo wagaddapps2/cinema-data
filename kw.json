@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T06:24:13.636Z",
+ "updatedAt": "2026-10-25T12:21:42.924Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -1152,12 +1152,30 @@
      "status": "coming_soon"
     },
     {
+     "slug": "how-to-save-the-immortal-2-english",
+     "title": "How to Save the Immortal 2",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/how-to-save-the-immortal-2-english",
+     "status": "coming_soon"
+    },
+    {
      "slug": "the-influencer-project-english",
      "title": "The Influencer Project",
      "rating": "R15",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-influencer-project-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-texas-chain-saw-massacre-1974-english",
+     "title": "The Texas Chain Saw Massacre (1974)",
+     "rating": "R18",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-texas-chain-saw-massacre-1974-english",
      "status": "coming_soon"
     },
     {
@@ -1181,7 +1199,7 @@
     {
      "slug": "soy-turkish",
      "title": "Soy",
-     "rating": "",
+     "rating": "R15",
      "language": "Turkish",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/soy-turkish",
@@ -1688,12 +1706,30 @@
      "status": "coming_soon"
     },
     {
+     "slug": "how-to-save-the-immortal-2-english",
+     "title": "How to Save the Immortal 2",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/how-to-save-the-immortal-2-english",
+     "status": "coming_soon"
+    },
+    {
      "slug": "the-influencer-project-english",
      "title": "The Influencer Project",
      "rating": "R15",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-influencer-project-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-texas-chain-saw-massacre-1974-english",
+     "title": "The Texas Chain Saw Massacre (1974)",
+     "rating": "R18",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-texas-chain-saw-massacre-1974-english",
      "status": "coming_soon"
     },
     {
@@ -1717,7 +1753,7 @@
     {
      "slug": "soy-turkish",
      "title": "Soy",
-     "rating": "",
+     "rating": "R15",
      "language": "Turkish",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/soy-turkish",
@@ -2466,15 +2502,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101935",
-     "title": "No Paradise If You Are Killed by a Woman",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101935/",
      "status": "now_showing"
     },
     {
