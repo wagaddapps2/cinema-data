@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T06:33:02.448Z",
+ "updatedAt": "2026-10-26T14:33:57.646Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
@@ -12,6 +12,24 @@
      "language": "",
      "releaseDate": "2026-10-26",
      "url": "https://elcinema.com/en/work/2102437/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102429",
+     "title": "87 Rupees Ink Pen",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-26",
+     "url": "https://elcinema.com/en/work/2102429/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102347",
+     "title": "Risa and the Wind Phone",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-26",
+     "url": "https://elcinema.com/en/work/2102347/",
      "status": "now_showing"
     },
     {
@@ -42,21 +60,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101953",
-     "title": "BTS World Tour 'Arirang' in Buenos Aires: Live Viewing",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-24",
-     "url": "https://elcinema.com/en/work/2101953/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102342",
-     "title": "Udumbanchola Vision",
+     "slug": "2102337",
+     "title": "Pehla Pyaar Doosri Baar",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-23",
-     "url": "https://elcinema.com/en/work/2102342/",
+     "url": "https://elcinema.com/en/work/2102337/",
      "status": "now_showing"
     },
     {
@@ -69,12 +78,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102337",
-     "title": "Pehla Pyaar Doosri Baar",
+     "slug": "2102342",
+     "title": "Udumbanchola Vision",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-23",
-     "url": "https://elcinema.com/en/work/2102337/",
+     "url": "https://elcinema.com/en/work/2102342/",
      "status": "now_showing"
     },
     {
@@ -87,21 +96,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101935",
-     "title": "No Paradise If You Are Killed by a Woman",
+     "slug": "2098155",
+     "title": "Clayface",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101935/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102340",
-     "title": "Titans",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102340/",
+     "url": "https://elcinema.com/en/work/2098155/",
      "status": "now_showing"
     },
     {
@@ -123,21 +123,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098155",
-     "title": "Clayface",
+     "slug": "2101935",
+     "title": "No Paradise If You Are Killed by a Woman",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102341",
-     "title": "Always Yours, Never Mine",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102341/",
+     "url": "https://elcinema.com/en/work/2101935/",
      "status": "now_showing"
     },
     {
@@ -195,21 +186,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2096857",
      "title": "Street Fighter",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -231,12 +222,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101041",
-     "title": "Psycho",
+     "slug": "2101362",
+     "title": "Beware Boiúna",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101041/",
+     "url": "https://elcinema.com/en/work/2101362/",
      "status": "now_showing"
     },
     {
@@ -258,12 +249,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101362",
-     "title": "Beware Boiúna",
+     "slug": "2101041",
+     "title": "Psycho",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101362/",
+     "url": "https://elcinema.com/en/work/2101041/",
      "status": "now_showing"
     },
     {
@@ -285,21 +276,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101672",
-     "title": "The Crystal Planet",
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101672/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101991",
-     "title": "Baththa",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101991/",
+     "url": "https://elcinema.com/en/work/2101997/",
      "status": "now_showing"
     },
     {
@@ -312,12 +294,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101997",
-     "title": "Drishyam: The Conclusion",
+     "slug": "2101991",
+     "title": "Baththa",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101997/",
+     "url": "https://elcinema.com/en/work/2101991/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101672",
+     "title": "The Crystal Planet",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101672/",
      "status": "now_showing"
     },
     {
@@ -348,21 +339,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098173",
-     "title": "Resident Evil",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2098173/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099778",
      "title": "Tad and the Magic Lamp",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-17",
      "url": "https://elcinema.com/en/work/2099778/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098173",
+     "title": "Resident Evil",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-17",
+     "url": "https://elcinema.com/en/work/2098173/",
      "status": "now_showing"
     },
     {
@@ -660,15 +651,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102344/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2102347",
-     "title": "Risa and the Wind Phone",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102347/",
      "status": "coming_soon"
     },
     {

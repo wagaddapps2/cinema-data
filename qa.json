@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T06:33:09.089Z",
+ "updatedAt": "2026-10-26T14:34:04.241Z",
  "territory": "QA",
  "cinemas": {
   "elcinema-qa": {
@@ -471,15 +471,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102344/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2102347",
-     "title": "Risa and the Wind Phone",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102347/",
      "status": "coming_soon"
     },
     {

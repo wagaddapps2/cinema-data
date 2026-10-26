@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T06:33:11.242Z",
+ "updatedAt": "2026-10-26T14:34:06.489Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
@@ -33,15 +33,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101953",
-     "title": "BTS World Tour 'Arirang' in Buenos Aires: Live Viewing",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-25",
-     "url": "https://elcinema.com/en/work/2101953/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2021513",
      "title": "Hatchet",
      "rating": "",
@@ -57,24 +48,6 @@
      "language": "",
      "releaseDate": "2026-10-24",
      "url": "https://elcinema.com/en/work/2102433/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2053164",
-     "title": "Black Water",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-23",
-     "url": "https://elcinema.com/en/work/2053164/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102339",
-     "title": "Kabaddi 5 - After the Final Match",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-23",
-     "url": "https://elcinema.com/en/work/2102339/",
      "status": "now_showing"
     },
     {
@@ -96,12 +69,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102345",
-     "title": "Tu Hai Meri Kiran",
+     "slug": "2053164",
+     "title": "Black Water",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102345/",
+     "releaseDate": "2026-10-23",
+     "url": "https://elcinema.com/en/work/2053164/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102339",
+     "title": "Kabaddi 5 - After the Final Match",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-23",
+     "url": "https://elcinema.com/en/work/2102339/",
      "status": "now_showing"
     },
     {
@@ -138,6 +120,24 @@
      "language": "",
      "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2102340/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102341",
+     "title": "Always Yours, Never Mine",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102341/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102342",
+     "title": "Udumbanchola Vision",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102342/",
      "status": "now_showing"
     },
     {
@@ -435,15 +435,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102344/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2102347",
-     "title": "Risa and the Wind Phone",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102347/",
      "status": "coming_soon"
     },
     {

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T06:33:13.112Z",
+ "updatedAt": "2026-10-26T14:34:09.903Z",
  "territory": "LB",
  "cinemas": {
   "elcinema-lb": {
@@ -42,6 +42,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2096857",
      "title": "Street Fighter",
      "rating": "",
@@ -60,12 +69,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099122",
-     "title": "Forgotten Island",
+     "slug": "2101678",
+     "title": "The Beast",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2099122/",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2101678/",
      "status": "now_showing"
     },
     {
@@ -84,15 +93,6 @@
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101678",
-     "title": "The Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101678/",
      "status": "now_showing"
     },
     {
@@ -138,6 +138,15 @@
      "language": "",
      "releaseDate": "2026-08-12",
      "url": "https://elcinema.com/en/work/2096322/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2069657",
+     "title": "El Gawahergy",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-06",
+     "url": "https://elcinema.com/en/work/2069657/",
      "status": "now_showing"
     },
     {
