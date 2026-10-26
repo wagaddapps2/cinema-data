@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T14:32:22.498Z",
+ "updatedAt": "2026-10-26T18:31:53.549Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -158,6 +158,78 @@
      "status": "now_showing"
     },
     {
+     "slug": "seventeen-world-tour-new",
+     "title": "SEVENTEEN WORLD TOUR 'NEW_'",
+     "rating": "PG12",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/seventeen-world-tour-new",
+     "status": "now_showing"
+    },
+    {
+     "slug": "hope-korean",
+     "title": "Hope",
+     "rating": "18TC",
+     "language": "Korean",
+     "url": "https://kwt.voxcinemas.com/movies/hope-korean",
+     "status": "now_showing"
+    },
+    {
+     "slug": "naseeb-arabic",
+     "title": "Naseeb",
+     "rating": "PG12",
+     "language": "Arabic",
+     "url": "https://kwt.voxcinemas.com/movies/naseeb-arabic",
+     "status": "now_showing"
+    },
+    {
+     "slug": "sense-and-sensibility",
+     "title": "Sense and Sensibility",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/sense-and-sensibility",
+     "status": "now_showing"
+    },
+    {
+     "slug": "soy-turkish",
+     "title": "Soy",
+     "rating": "R15",
+     "language": "Turkish",
+     "url": "https://kwt.voxcinemas.com/movies/soy-turkish",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-influencer-project",
+     "title": "The Influencer Project",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/the-influencer-project",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-mongoose",
+     "title": "The Mongoose",
+     "rating": "18TC",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/the-mongoose",
+     "status": "now_showing"
+    },
+    {
+     "slug": "wala-kan-ala-el-bal-arabic",
+     "title": "Wala Kan Ala El-Bal",
+     "rating": "R15",
+     "language": "Arabic",
+     "url": "https://kwt.voxcinemas.com/movies/wala-kan-ala-el-bal-arabic",
+     "status": "now_showing"
+    },
+    {
+     "slug": "wildwood",
+     "title": "Wildwood",
+     "rating": "PG12",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/wildwood",
+     "status": "now_showing"
+    },
+    {
      "slug": "godzilla-minus-zero-preview-screening-japanese",
      "title": "Godzilla Minus Zero - Preview Screening",
      "rating": "PG12",
@@ -177,7 +249,7 @@
     {
      "slug": "sense-and-sensibility",
      "title": "Sense and Sensibility",
-     "rating": "18TC",
+     "rating": "R15",
      "language": "English",
      "releaseDate": "2026-10-29",
      "url": "https://kwt.voxcinemas.com/movies/sense-and-sensibility",
@@ -186,7 +258,7 @@
     {
      "slug": "wala-kan-ala-el-bal-arabic",
      "title": "Wala Kan Ala El-Bal",
-     "rating": "18TC",
+     "rating": "R15",
      "language": "Arabic",
      "releaseDate": "2026-10-29",
      "url": "https://kwt.voxcinemas.com/movies/wala-kan-ala-el-bal-arabic",
@@ -195,7 +267,7 @@
     {
      "slug": "the-influencer-project",
      "title": "The Influencer Project",
-     "rating": "18TC",
+     "rating": "R15",
      "language": "English",
      "releaseDate": "2026-10-29",
      "url": "https://kwt.voxcinemas.com/movies/the-influencer-project",
@@ -204,7 +276,7 @@
     {
      "slug": "wildwood",
      "title": "Wildwood",
-     "rating": "18TC",
+     "rating": "PG12",
      "language": "English",
      "releaseDate": "2026-10-29",
      "url": "https://kwt.voxcinemas.com/movies/wildwood",
@@ -213,7 +285,7 @@
     {
      "slug": "soy-turkish",
      "title": "Soy",
-     "rating": "18TC",
+     "rating": "R15",
      "language": "Turkish",
      "releaseDate": "2026-10-29",
      "url": "https://kwt.voxcinemas.com/movies/soy-turkish",
@@ -222,7 +294,7 @@
     {
      "slug": "naseeb-arabic",
      "title": "Naseeb",
-     "rating": "18TC",
+     "rating": "PG12",
      "language": "Arabic",
      "releaseDate": "2026-10-29",
      "url": "https://kwt.voxcinemas.com/movies/naseeb-arabic",
@@ -235,6 +307,15 @@
      "language": "Korean",
      "releaseDate": "2026-10-29",
      "url": "https://kwt.voxcinemas.com/movies/hope-korean",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "how-to-save-the-immortal-2-elixir-of-life",
+     "title": "How to Save the Immortal 2: Elixir of Life",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-29",
+     "url": "https://kwt.voxcinemas.com/movies/how-to-save-the-immortal-2-elixir-of-life",
      "status": "coming_soon"
     },
     {
