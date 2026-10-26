@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T00:29:54.906Z",
+ "updatedAt": "2026-10-26T06:33:14.635Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
@@ -66,6 +66,33 @@
      "language": "",
      "releaseDate": "2026-06-25",
      "url": "https://elcinema.com/en/work/2093181/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2003135",
+     "title": "Enchanted",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-04-23",
+     "url": "https://elcinema.com/en/work/2003135/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2090850",
+     "title": "Zootopia 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2025-11-27",
+     "url": "https://elcinema.com/en/work/2090850/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2005375",
+     "title": "Brave",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-08-15",
+     "url": "https://elcinema.com/en/work/2005375/",
      "status": "now_showing"
     },
     {

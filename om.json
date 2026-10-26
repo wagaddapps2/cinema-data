@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T00:29:51.912Z",
+ "updatedAt": "2026-10-26T06:33:12.431Z",
  "territory": "OM",
  "cinemas": {
   "elcinema-om": {
@@ -21,15 +21,6 @@
      "language": "",
      "releaseDate": "2026-10-25",
      "url": "https://elcinema.com/en/work/2101953/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102435",
-     "title": "Hybe Cheering Party",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-25",
-     "url": "https://elcinema.com/en/work/2102435/",
      "status": "now_showing"
     },
     {
@@ -150,12 +141,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096857",
-     "title": "Street Fighter",
+     "slug": "2098154",
+     "title": "Whalefall",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2096857/",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -168,12 +159,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
+     "slug": "2096857",
+     "title": "Street Fighter",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2098154/",
+     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {

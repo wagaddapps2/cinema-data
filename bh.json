@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-10-26T00:29:49.311Z",
+ "updatedAt": "2026-10-26T06:33:11.242Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
    "name": "Cinemas in Bahrain",
    "films": [
+    {
+     "slug": "2080552",
+     "title": "Texas Chainsaw Massacre",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-26",
+     "url": "https://elcinema.com/en/work/2080552/",
+     "status": "now_showing"
+    },
     {
      "slug": "2043754",
      "title": "Hatchet II",
@@ -24,15 +33,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2080552",
-     "title": "Texas Chainsaw Massacre",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-26",
-     "url": "https://elcinema.com/en/work/2080552/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101953",
      "title": "BTS World Tour 'Arirang' in Buenos Aires: Live Viewing",
      "rating": "",
@@ -42,30 +42,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102435",
-     "title": "Hybe Cheering Party",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-25",
-     "url": "https://elcinema.com/en/work/2102435/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2021513",
      "title": "Hatchet",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-24",
      "url": "https://elcinema.com/en/work/2021513/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102431",
-     "title": "Enhypen World Tour 'Blood Saga'",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-24",
-     "url": "https://elcinema.com/en/work/2102431/",
      "status": "now_showing"
     },
     {
@@ -114,21 +96,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102340",
-     "title": "Titans",
+     "slug": "2102345",
+     "title": "Tu Hai Meri Kiran",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102340/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102346",
-     "title": "418",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102346/",
+     "url": "https://elcinema.com/en/work/2102345/",
      "status": "now_showing"
     },
     {
@@ -159,6 +132,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102340",
+     "title": "Titans",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102340/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102345",
      "title": "Tu Hai Meri Kiran",
      "rating": "",
@@ -168,21 +150,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102342",
-     "title": "Udumbanchola Vision",
+     "slug": "2102346",
+     "title": "418",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102342/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102341",
-     "title": "Always Yours, Never Mine",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102341/",
+     "url": "https://elcinema.com/en/work/2102346/",
      "status": "now_showing"
     },
     {
@@ -222,21 +195,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
