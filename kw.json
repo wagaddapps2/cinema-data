@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T18:19:18.765Z",
+ "updatedAt": "2026-10-26T00:27:50.880Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -172,15 +172,6 @@
      "language": "Japanese",
      "url": "https://kwt.voxcinemas.com/movies/godzilla-minus-zero-preview-screening-japanese",
      "status": "now_showing"
-    },
-    {
-     "slug": "the-mongoose",
-     "title": "The Mongoose",
-     "rating": "18TC",
-     "language": "English",
-     "releaseDate": "2026-10-29",
-     "url": "https://kwt.voxcinemas.com/movies/the-mongoose",
-     "status": "coming_soon"
     },
     {
      "slug": "it-feeds",
@@ -602,24 +593,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "el-clasico-barcelona-vs-real-madrid",
-     "title": "EL CLASICO BARCELONA VS REAL MADRID",
-     "rating": "PG",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/el-clasico-barcelona-vs-real-madrid/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "el-clasico-barcelona-vs-real-madrid",
-     "title": "El Cl&#xE1;sico (Barcelona vs Real Madrid)",
-     "rating": "PG",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/el-clasico-barcelona-vs-real-madrid/en",
-     "status": "now_showing"
-    },
-    {
      "slug": "treasure-trekkers",
      "title": "TREASURE TREKKERS",
      "rating": "PG",
@@ -865,24 +838,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/matloub-3a2eleyain/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "el-clasico-barcelona-vs-real-madrid",
-     "title": "EL CLASICO BARCELONA VS REAL MADRID",
-     "rating": "PG",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/el-clasico-barcelona-vs-real-madrid/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "el-clasico-barcelona-vs-real-madrid",
-     "title": "El Cl&#xE1;sico (Barcelona vs Real Madrid)",
-     "rating": "PG",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/el-clasico-barcelona-vs-real-madrid/en",
      "status": "now_showing"
     },
     {
@@ -2338,6 +2293,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2097221",
+     "title": "Jailer 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097221/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100562",
      "title": "Heart of the Beast",
      "rating": "",
@@ -2389,15 +2353,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101940/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097221",
-     "title": "Jailer 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     },
     {
@@ -2556,6 +2511,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2098173/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101935",
+     "title": "No Paradise If You Are Killed by a Woman",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101935/",
      "status": "now_showing"
     }
    ]
