@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T00:25:55.480Z",
+ "updatedAt": "2026-10-27T06:30:34.512Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -1100,15 +1100,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "udumbanchola-vision-malayalam",
-     "title": "Udumbanchola Vision",
-     "rating": "R15",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/udumbanchola-vision-malayalam",
-     "status": "now_showing"
-    },
-    {
      "slug": "ranabaali-telugu",
      "title": "Ranabaali",
      "rating": "R15",
@@ -2055,15 +2046,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
@@ -2088,6 +2070,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098155/",
      "status": "now_showing"
     },
     {

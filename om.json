@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-10-27T00:27:38.464Z",
+ "updatedAt": "2026-10-27T06:32:29.446Z",
  "territory": "OM",
  "cinemas": {
   "elcinema-om": {
    "name": "Cinemas in Oman",
    "films": [
-    {
-     "slug": "2102437",
-     "title": "Seventeen World Tour (New_)",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-26",
-     "url": "https://elcinema.com/en/work/2102437/",
-     "status": "now_showing"
-    },
     {
      "slug": "2101953",
      "title": "BTS World Tour 'Arirang' in Buenos Aires: Live Viewing",
@@ -21,15 +12,6 @@
      "language": "",
      "releaseDate": "2026-10-25",
      "url": "https://elcinema.com/en/work/2101953/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102435",
-     "title": "Hybe Cheering Party",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-25",
-     "url": "https://elcinema.com/en/work/2102435/",
      "status": "now_showing"
     },
     {
@@ -60,12 +42,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101940",
-     "title": "Treasure Trekkers",
+     "slug": "2101935",
+     "title": "No Paradise If You Are Killed by a Woman",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101940/",
+     "url": "https://elcinema.com/en/work/2101935/",
      "status": "now_showing"
     },
     {
@@ -78,12 +60,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101935",
-     "title": "No Paradise If You Are Killed by a Woman",
+     "slug": "2101940",
+     "title": "Treasure Trekkers",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101935/",
+     "url": "https://elcinema.com/en/work/2101940/",
      "status": "now_showing"
     },
     {
@@ -159,12 +141,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096857",
-     "title": "Street Fighter",
+     "slug": "2098154",
+     "title": "Whalefall",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2096857/",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -177,12 +159,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
+     "slug": "2096857",
+     "title": "Street Fighter",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2098154/",
+     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -435,15 +417,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102344/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2102348",
-     "title": "A Son",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102348/",
      "status": "coming_soon"
     },
     {

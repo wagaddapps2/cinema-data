@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T00:27:33.094Z",
+ "updatedAt": "2026-10-27T06:32:23.555Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
@@ -570,15 +570,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102344/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2102348",
-     "title": "A Son",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102348/",
      "status": "coming_soon"
     },
     {
