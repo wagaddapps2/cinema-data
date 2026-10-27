@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T12:32:19.662Z",
+ "updatedAt": "2026-10-27T18:34:10.057Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -150,19 +150,27 @@
      "status": "now_showing"
     },
     {
-     "slug": "tomorrow-x-together-world-tour-act-tomorrow",
-     "title": "TOMORROW X TOGETHER WORLD TOUR ACT:TOMORROW",
-     "rating": "PG12",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/tomorrow-x-together-world-tour-act-tomorrow",
-     "status": "now_showing"
-    },
-    {
      "slug": "seventeen-world-tour-new",
      "title": "SEVENTEEN WORLD TOUR 'NEW_'",
      "rating": "PG12",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/seventeen-world-tour-new",
+     "status": "now_showing"
+    },
+    {
+     "slug": "hope-korean",
+     "title": "Hope",
+     "rating": "R15",
+     "language": "Korean",
+     "url": "https://kwt.voxcinemas.com/movies/hope-korean",
+     "status": "now_showing"
+    },
+    {
+     "slug": "how-to-save-the-immortal-2-elixir-of-life",
+     "title": "How to Save the Immortal 2: Elixir of Life",
+     "rating": "18TC",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/how-to-save-the-immortal-2-elixir-of-life",
      "status": "now_showing"
     },
     {
@@ -200,9 +208,17 @@
     {
      "slug": "the-mongoose",
      "title": "The Mongoose",
-     "rating": "18TC",
+     "rating": "R15",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/the-mongoose",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-texas-chainsaw-massacre-re-release",
+     "title": "The Texas Chainsaw Massacre (Re-release)",
+     "rating": "R18",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/the-texas-chainsaw-massacre-re-release",
      "status": "now_showing"
     },
     {
@@ -286,7 +302,7 @@
     {
      "slug": "hope-korean",
      "title": "Hope",
-     "rating": "18TC",
+     "rating": "R15",
      "language": "Korean",
      "releaseDate": "2026-10-29",
      "url": "https://kwt.voxcinemas.com/movies/hope-korean",
@@ -304,7 +320,7 @@
     {
      "slug": "the-texas-chainsaw-massacre-re-release",
      "title": "The Texas Chainsaw Massacre (Re-release)",
-     "rating": "18TC",
+     "rating": "R18",
      "language": "English",
      "releaseDate": "2026-10-29",
      "url": "https://kwt.voxcinemas.com/movies/the-texas-chainsaw-massacre-re-release",
@@ -437,15 +453,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "crypto-arabic",
-     "title": "Crypto",
-     "rating": "18TC",
-     "language": "Arabic",
-     "releaseDate": "2026-11-19",
-     "url": "https://kwt.voxcinemas.com/movies/crypto-arabic",
-     "status": "coming_soon"
-    },
-    {
      "slug": "focker-in-law",
      "title": "Focker In-Law",
      "rating": "18TC",
@@ -461,6 +468,15 @@
      "language": "English",
      "releaseDate": "2026-11-26",
      "url": "https://kwt.voxcinemas.com/movies/hexed",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "crypto-arabic",
+     "title": "Crypto",
+     "rating": "18TC",
+     "language": "Arabic",
+     "releaseDate": "2026-11-26",
+     "url": "https://kwt.voxcinemas.com/movies/crypto-arabic",
      "status": "coming_soon"
     },
     {
@@ -682,6 +698,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/the-dino-family/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-mongoose",
+     "title": "THE MONGOOSE",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/the-mongoose/en",
      "status": "now_showing"
     },
     {
@@ -1199,15 +1224,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "the-mongoose-english",
-     "title": "The Mongoose",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-mongoose-english",
-     "status": "coming_soon"
-    },
-    {
      "slug": "how-to-save-the-immortal-2-english",
      "title": "How to Save the Immortal 2",
      "rating": "",
@@ -1399,7 +1415,7 @@
     {
      "slug": "bury-the-devil-english",
      "title": "Bury the Devil",
-     "rating": "",
+     "rating": "R15",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/bury-the-devil-english",
@@ -1557,6 +1573,114 @@
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/cocomelon-the-movie-english",
      "status": "coming_soon"
+    },
+    {
+     "slug": "athimanoharam-malayalam",
+     "title": "Athimanoharam",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/athimanoharam-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "mayan-chapter-1-malayalam",
+     "title": "Mayan - Chapter 1",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/mayan-chapter-1-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "aakasamlo-oka-tara-telugu",
+     "title": "Aakasamlo Oka Tara",
+     "rating": "",
+     "language": "Telugu",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/aakasamlo-oka-tara-telugu",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "crypto-arabic",
+     "title": "Crypto",
+     "rating": "",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/crypto-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "gladiators-in-pursuit-of-challenges-tamil",
+     "title": "Gladiators - In Pursuit of Challenges",
+     "rating": "",
+     "language": "Tamil",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/gladiators-in-pursuit-of-challenges-tamil",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-last-temptation-of-becky-english",
+     "title": "The Last Temptation of Becky",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-last-temptation-of-becky-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "victorian-psycho-english",
+     "title": "Victorian Psycho",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/victorian-psycho-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "disco-malayalam",
+     "title": "Disco",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/disco-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "idiots-english",
+     "title": "Idiots",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/idiots-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "belkis-turkish",
+     "title": "Belkis",
+     "rating": "",
+     "language": "Turkish",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/belkis-turkish",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-draw-english",
+     "title": "The Draw",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-draw-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-cycle-english",
+     "title": "The Cycle",
+     "rating": "R18",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-cycle-english",
+     "status": "coming_soon"
     }
    ]
   },
@@ -1606,6 +1730,15 @@
      "language": "Korean",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/hope-korean",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-mongoose-english",
+     "title": "The Mongoose",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-mongoose-english",
      "status": "now_showing"
     },
     {
@@ -1753,15 +1886,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "the-mongoose-english",
-     "title": "The Mongoose",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-mongoose-english",
-     "status": "coming_soon"
-    },
-    {
      "slug": "how-to-save-the-immortal-2-english",
      "title": "How to Save the Immortal 2",
      "rating": "",
@@ -1953,7 +2077,7 @@
     {
      "slug": "bury-the-devil-english",
      "title": "Bury the Devil",
-     "rating": "",
+     "rating": "R15",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/bury-the-devil-english",
@@ -2110,6 +2234,114 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/cocomelon-the-movie-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "athimanoharam-malayalam",
+     "title": "Athimanoharam",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/athimanoharam-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "mayan-chapter-1-malayalam",
+     "title": "Mayan - Chapter 1",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/mayan-chapter-1-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "aakasamlo-oka-tara-telugu",
+     "title": "Aakasamlo Oka Tara",
+     "rating": "",
+     "language": "Telugu",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/aakasamlo-oka-tara-telugu",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "crypto-arabic",
+     "title": "Crypto",
+     "rating": "",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/crypto-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "gladiators-in-pursuit-of-challenges-tamil",
+     "title": "Gladiators - In Pursuit of Challenges",
+     "rating": "",
+     "language": "Tamil",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/gladiators-in-pursuit-of-challenges-tamil",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-last-temptation-of-becky-english",
+     "title": "The Last Temptation of Becky",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-last-temptation-of-becky-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "victorian-psycho-english",
+     "title": "Victorian Psycho",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/victorian-psycho-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "disco-malayalam",
+     "title": "Disco",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/disco-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "idiots-english",
+     "title": "Idiots",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/idiots-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "belkis-turkish",
+     "title": "Belkis",
+     "rating": "",
+     "language": "Turkish",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/belkis-turkish",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-draw-english",
+     "title": "The Draw",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-draw-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-cycle-english",
+     "title": "The Cycle",
+     "rating": "R18",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-cycle-english",
      "status": "coming_soon"
     }
    ]

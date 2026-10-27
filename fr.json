@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T12:33:05.688Z",
+ "updatedAt": "2026-10-27T18:35:01.555Z",
  "territory": "FR",
  "cinemas": {
   "linternaute-90": {
@@ -555,6 +555,242 @@
     }
    ]
   },
+  "linternaute-3991": {
+   "name": "Pathé La Villette",
+   "city": "Paris",
+   "brand": "Pathé",
+   "address": "30 avenue Corentin cariou, Cité des Sciences et de l'Industrie - Vill'Up, 75019 Paris",
+   "lat": 48.8871,
+   "lng": 2.3848,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "11248124",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248124-heart-of-the-beast-l-avis-de-la-presse-sur-le-dernier-film-avec-brad-pitt/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11299499",
+     "title": "Ducobu et le fantôme de Saint-Potache",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299499-ducobu-et-le-fantome-de-saint-potache/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11134194",
+     "title": "La Maison de nos rêves",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11134194-la-maison-de-nos-reves/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11304007",
+     "title": "Les Misérables",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11303101",
+     "title": "Shaun le Mouton : La bêêête d'Halloween",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303101-shaun-le-mouton-la-beeete-d-halloween/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11304001",
+     "title": "Mochy",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304001-mochy/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11236542",
+     "title": "L'île des souvenirs",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11236542-l-ile-des-souvenirs/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11285026",
+     "title": "Verity",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285026-verity/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305437",
+     "title": "Karma",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2146782",
+     "title": "Cars, quatre roues",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2146782-cars-quatre-roues/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11198192",
+     "title": "Resident Evil",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11198192-resident-evil/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10942480",
+     "title": "Tombé du ciel",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10942480-tombe-du-ciel/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11303993",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303993-street-fighter/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305449",
+     "title": "Mylène Farmer - Egrégore - L'avant-première",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305449-mylene-farmer-egregore-l-avant-premiere/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11248128",
+     "title": "Primetime",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248128-primetime/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11301819",
+     "title": "The Social Reckoning",
+     "rating": "",
+     "language": "VF/VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11301819-the-social-reckoning-est-ce-aussi-bien-que-the-social-network-l-avis-des-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305435",
+     "title": "Clayface",
+     "rating": "",
+     "language": "VF/VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305435-clayface-le-film-sur-le-mechant-de-batman-contient-des-scenes-tres-derangeantes-on-n-a-pas-pu-tout-regarder/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11304003",
+     "title": "Malfaisante",
+     "rating": "",
+     "language": "VF/VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304003-malfaisante/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11303997",
+     "title": "Englouti",
+     "rating": "",
+     "language": "VF/VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303997-englouti/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "7335330",
+     "title": "L'Odyssée",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/7335330-l-odyssee-chef-d-oeuvre-epique-experience-brute-les-critiques-sont-unanimes/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11285032",
+     "title": "Kraken",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285032-kraken/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "8833584",
+     "title": "Sam le pompier-nouvelle caserne, grandes aventures !",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/8833584-sam-le-pompier-nouvelle-caserne-grandes-aventures/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11307651",
+     "title": "Jailer 2",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11307651-jailer-2/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11309625",
+     "title": "Enhypen World Tour \"Blood Saga\"",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309625-enhypen-world-tour-blood-saga/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11309627",
+     "title": "Tomorrow X Together World Tour \"Act: Tomorrow\"",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309627-tomorrow-x-together-world-tour-act-tomorrow/",
+     "status": "now_showing"
+    }
+   ]
+  },
   "linternaute-1091": {
    "name": "mk2 Bibliothèque",
    "city": "Paris",
@@ -928,597 +1164,6 @@
     }
    ]
   },
-  "linternaute-3991": {
-   "name": "Pathé La Villette",
-   "city": "Paris",
-   "brand": "Pathé",
-   "address": "30 avenue Corentin cariou, Cité des Sciences et de l'Industrie - Vill'Up, 75019 Paris",
-   "lat": 48.8871,
-   "lng": 2.3848,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "11248124",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248124-heart-of-the-beast-l-avis-de-la-presse-sur-le-dernier-film-avec-brad-pitt/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11299499",
-     "title": "Ducobu et le fantôme de Saint-Potache",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299499-ducobu-et-le-fantome-de-saint-potache/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11134194",
-     "title": "La Maison de nos rêves",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11134194-la-maison-de-nos-reves/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304007",
-     "title": "Les Misérables",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11303101",
-     "title": "Shaun le Mouton : La bêêête d'Halloween",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11303101-shaun-le-mouton-la-beeete-d-halloween/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304001",
-     "title": "Mochy",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304001-mochy/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11236542",
-     "title": "L'île des souvenirs",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11236542-l-ile-des-souvenirs/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285026",
-     "title": "Verity",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285026-verity/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305437",
-     "title": "Karma",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2146782",
-     "title": "Cars, quatre roues",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2146782-cars-quatre-roues/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11198192",
-     "title": "Resident Evil",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11198192-resident-evil/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10942480",
-     "title": "Tombé du ciel",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10942480-tombe-du-ciel/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11303993",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11303993-street-fighter/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305449",
-     "title": "Mylène Farmer - Egrégore - L'avant-première",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305449-mylene-farmer-egregore-l-avant-premiere/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11248128",
-     "title": "Primetime",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248128-primetime/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11301819",
-     "title": "The Social Reckoning",
-     "rating": "",
-     "language": "VF/VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11301819-the-social-reckoning-est-ce-aussi-bien-que-the-social-network-l-avis-des-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305435",
-     "title": "Clayface",
-     "rating": "",
-     "language": "VF/VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305435-clayface-le-film-sur-le-mechant-de-batman-contient-des-scenes-tres-derangeantes-on-n-a-pas-pu-tout-regarder/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304003",
-     "title": "Malfaisante",
-     "rating": "",
-     "language": "VF/VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304003-malfaisante/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11303997",
-     "title": "Englouti",
-     "rating": "",
-     "language": "VF/VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11303997-englouti/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "7335330",
-     "title": "L'Odyssée",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/7335330-l-odyssee-chef-d-oeuvre-epique-experience-brute-les-critiques-sont-unanimes/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285032",
-     "title": "Kraken",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285032-kraken/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "8833584",
-     "title": "Sam le pompier-nouvelle caserne, grandes aventures !",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/8833584-sam-le-pompier-nouvelle-caserne-grandes-aventures/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11307651",
-     "title": "Jailer 2",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11307651-jailer-2/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309625",
-     "title": "Enhypen World Tour \"Blood Saga\"",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309625-enhypen-world-tour-blood-saga/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309627",
-     "title": "Tomorrow X Together World Tour \"Act: Tomorrow\"",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309627-tomorrow-x-together-world-tour-act-tomorrow/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-89": {
-   "name": "Pathé Parnasse",
-   "city": "Paris",
-   "brand": "Pathé",
-   "address": "3 rue d'Odessa, 75014 Paris",
-   "lat": 48.8424,
-   "lng": 2.3245,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "11248132",
-     "title": "Garance",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11248124",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248124-heart-of-the-beast-l-avis-de-la-presse-sur-le-dernier-film-avec-brad-pitt/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285020",
-     "title": "Digger",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285020-digger/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304007",
-     "title": "Les Misérables",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304001",
-     "title": "Mochy",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304001-mochy/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11236542",
-     "title": "L'île des souvenirs",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11236542-l-ile-des-souvenirs/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285026",
-     "title": "Verity",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285026-verity/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305437",
-     "title": "Karma",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11198192",
-     "title": "Resident Evil",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11198192-resident-evil/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11303993",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11303993-street-fighter/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11248128",
-     "title": "Primetime",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248128-primetime/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11301819",
-     "title": "The Social Reckoning",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11301819-the-social-reckoning-est-ce-aussi-bien-que-the-social-network-l-avis-des-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305435",
-     "title": "Clayface",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305435-clayface-le-film-sur-le-mechant-de-batman-contient-des-scenes-tres-derangeantes-on-n-a-pas-pu-tout-regarder/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304003",
-     "title": "Malfaisante",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304003-malfaisante/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10637222",
-     "title": "La Bataille de Gaulle : J'écris ton nom",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10637222-la-bataille-de-gaulle-j-ecris-ton-nom-pourquoi-le-film-sort-il-un-vendredi/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11303997",
-     "title": "Englouti",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11303997-englouti/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10435888",
-     "title": "La Bataille De Gaulle : L'âge de fer",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10435888-la-bataille-de-gaulle-l-age-de-fer-faut-il-voir-le-blockbuster-historique-a-la-francaise-notre-avis-tranche/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "7335330",
-     "title": "L'Odyssée",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/7335330-l-odyssee-chef-d-oeuvre-epique-experience-brute-les-critiques-sont-unanimes/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285032",
-     "title": "Kraken",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285032-kraken/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-95": {
-   "name": "UGC Ciné Cité Maillot",
-   "city": "Paris",
-   "brand": "UGC",
-   "address": "Place de la Porte Maillot - Palais des Congrès - Niveau -1, 75017 Paris",
-   "lat": 48.8873,
-   "lng": 2.3068,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "11299499",
-     "title": "Ducobu et le fantôme de Saint-Potache",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299499-ducobu-et-le-fantome-de-saint-potache/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916649",
-     "title": "Notre salut",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285020",
-     "title": "Digger",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285020-digger/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304007",
-     "title": "Les Misérables",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916627",
-     "title": "Le Corset",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11280744",
-     "title": "Ni vue, ni connue",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11280744-ni-vue-ni-connue/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11303101",
-     "title": "Shaun le Mouton : La bêêête d'Halloween",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11303101-shaun-le-mouton-la-beeete-d-halloween/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304001",
-     "title": "Mochy",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304001-mochy/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11236542",
-     "title": "L'île des souvenirs",
-     "rating": "",
-     "language": "VF/VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11236542-l-ile-des-souvenirs/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285026",
-     "title": "Verity",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285026-verity/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305437",
-     "title": "Karma",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11301819",
-     "title": "The Social Reckoning",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11301819-the-social-reckoning-est-ce-aussi-bien-que-the-social-network-l-avis-des-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10637222",
-     "title": "La Bataille de Gaulle : J'écris ton nom",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10637222-la-bataille-de-gaulle-j-ecris-ton-nom-pourquoi-le-film-sort-il-un-vendredi/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916645",
-     "title": "Minotaure",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10435888",
-     "title": "La Bataille De Gaulle : L'âge de fer",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10435888-la-bataille-de-gaulle-l-age-de-fer-faut-il-voir-le-blockbuster-historique-a-la-francaise-notre-avis-tranche/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309611",
-     "title": "Une femme aujourd'hui",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309611-une-femme-aujourd-hui/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11299497",
-     "title": "La Gradiva",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305457",
-     "title": "L'Histoire de Manon (The Royal Ballet)",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305457-l-histoire-de-manon-the-royal-ballet/",
-     "status": "now_showing"
-    }
-   ]
-  },
   "linternaute-70": {
    "name": "Pathé Aquaboulevard",
    "city": "Paris",
@@ -1728,6 +1373,179 @@
     }
    ]
   },
+  "linternaute-95": {
+   "name": "UGC Ciné Cité Maillot",
+   "city": "Paris",
+   "brand": "UGC",
+   "address": "Place de la Porte Maillot - Palais des Congrès - Niveau -1, 75017 Paris",
+   "lat": 48.8873,
+   "lng": 2.3068,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "11299499",
+     "title": "Ducobu et le fantôme de Saint-Potache",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299499-ducobu-et-le-fantome-de-saint-potache/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916649",
+     "title": "Notre salut",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11285020",
+     "title": "Digger",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285020-digger/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11304007",
+     "title": "Les Misérables",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916627",
+     "title": "Le Corset",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11280744",
+     "title": "Ni vue, ni connue",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11280744-ni-vue-ni-connue/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11303101",
+     "title": "Shaun le Mouton : La bêêête d'Halloween",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303101-shaun-le-mouton-la-beeete-d-halloween/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11304001",
+     "title": "Mochy",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304001-mochy/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11236542",
+     "title": "L'île des souvenirs",
+     "rating": "",
+     "language": "VF/VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11236542-l-ile-des-souvenirs/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11285026",
+     "title": "Verity",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285026-verity/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305437",
+     "title": "Karma",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11301819",
+     "title": "The Social Reckoning",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11301819-the-social-reckoning-est-ce-aussi-bien-que-the-social-network-l-avis-des-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10637222",
+     "title": "La Bataille de Gaulle : J'écris ton nom",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10637222-la-bataille-de-gaulle-j-ecris-ton-nom-pourquoi-le-film-sort-il-un-vendredi/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916645",
+     "title": "Minotaure",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10435888",
+     "title": "La Bataille De Gaulle : L'âge de fer",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10435888-la-bataille-de-gaulle-l-age-de-fer-faut-il-voir-le-blockbuster-historique-a-la-francaise-notre-avis-tranche/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11309611",
+     "title": "Une femme aujourd'hui",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309611-une-femme-aujourd-hui/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11299497",
+     "title": "La Gradiva",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305457",
+     "title": "L'Histoire de Manon (The Royal Ballet)",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305457-l-histoire-de-manon-the-royal-ballet/",
+     "status": "now_showing"
+    }
+   ]
+  },
   "linternaute-84": {
    "name": "UGC Gobelins",
    "city": "Paris",
@@ -1879,6 +1697,352 @@
      "language": "VO",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11305457-l-histoire-de-manon-the-royal-ballet/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-89": {
+   "name": "Pathé Parnasse",
+   "city": "Paris",
+   "brand": "Pathé",
+   "address": "3 rue d'Odessa, 75014 Paris",
+   "lat": 48.8424,
+   "lng": 2.3245,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "11248132",
+     "title": "Garance",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11248124",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248124-heart-of-the-beast-l-avis-de-la-presse-sur-le-dernier-film-avec-brad-pitt/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11285020",
+     "title": "Digger",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285020-digger/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11304007",
+     "title": "Les Misérables",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11304001",
+     "title": "Mochy",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304001-mochy/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11236542",
+     "title": "L'île des souvenirs",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11236542-l-ile-des-souvenirs/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11285026",
+     "title": "Verity",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285026-verity/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305437",
+     "title": "Karma",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11198192",
+     "title": "Resident Evil",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11198192-resident-evil/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11303993",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303993-street-fighter/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11248128",
+     "title": "Primetime",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248128-primetime/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11301819",
+     "title": "The Social Reckoning",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11301819-the-social-reckoning-est-ce-aussi-bien-que-the-social-network-l-avis-des-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305435",
+     "title": "Clayface",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305435-clayface-le-film-sur-le-mechant-de-batman-contient-des-scenes-tres-derangeantes-on-n-a-pas-pu-tout-regarder/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11304003",
+     "title": "Malfaisante",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304003-malfaisante/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10637222",
+     "title": "La Bataille de Gaulle : J'écris ton nom",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10637222-la-bataille-de-gaulle-j-ecris-ton-nom-pourquoi-le-film-sort-il-un-vendredi/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11303997",
+     "title": "Englouti",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303997-englouti/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10435888",
+     "title": "La Bataille De Gaulle : L'âge de fer",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10435888-la-bataille-de-gaulle-l-age-de-fer-faut-il-voir-le-blockbuster-historique-a-la-francaise-notre-avis-tranche/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "7335330",
+     "title": "L'Odyssée",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/7335330-l-odyssee-chef-d-oeuvre-epique-experience-brute-les-critiques-sont-unanimes/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11285032",
+     "title": "Kraken",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285032-kraken/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-2796": {
+   "name": "Pathé Beaugrenelle",
+   "city": "Paris",
+   "brand": "Pathé",
+   "address": "7 rue Linois, 75015 Paris",
+   "lat": 48.8489,
+   "lng": 2.2826,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "11248132",
+     "title": "Garance",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11248124",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248124-heart-of-the-beast-l-avis-de-la-presse-sur-le-dernier-film-avec-brad-pitt/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11299499",
+     "title": "Ducobu et le fantôme de Saint-Potache",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299499-ducobu-et-le-fantome-de-saint-potache/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11304007",
+     "title": "Les Misérables",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11304001",
+     "title": "Mochy",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304001-mochy/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11236542",
+     "title": "L'île des souvenirs",
+     "rating": "",
+     "language": "VF/VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11236542-l-ile-des-souvenirs/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11285026",
+     "title": "Verity",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285026-verity/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305437",
+     "title": "Karma",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11303993",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303993-street-fighter/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305449",
+     "title": "Mylène Farmer - Egrégore - L'avant-première",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305449-mylene-farmer-egregore-l-avant-premiere/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11248128",
+     "title": "Primetime",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248128-primetime/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11309613",
+     "title": "Le Roi du game",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309613-le-roi-du-game/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11301819",
+     "title": "The Social Reckoning",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11301819-the-social-reckoning-est-ce-aussi-bien-que-the-social-network-l-avis-des-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305435",
+     "title": "Clayface",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305435-clayface-le-film-sur-le-mechant-de-batman-contient-des-scenes-tres-derangeantes-on-n-a-pas-pu-tout-regarder/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11304003",
+     "title": "Malfaisante",
+     "rating": "",
+     "language": "VF/VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304003-malfaisante/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10637222",
+     "title": "La Bataille de Gaulle : J'écris ton nom",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10637222-la-bataille-de-gaulle-j-ecris-ton-nom-pourquoi-le-film-sort-il-un-vendredi/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "8833584",
+     "title": "Sam le pompier-nouvelle caserne, grandes aventures !",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/8833584-sam-le-pompier-nouvelle-caserne-grandes-aventures/",
      "status": "now_showing"
     }
    ]
@@ -2043,170 +2207,6 @@
      "language": "VF",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "8833584",
-     "title": "Sam le pompier-nouvelle caserne, grandes aventures !",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/8833584-sam-le-pompier-nouvelle-caserne-grandes-aventures/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-2796": {
-   "name": "Pathé Beaugrenelle",
-   "city": "Paris",
-   "brand": "Pathé",
-   "address": "7 rue Linois, 75015 Paris",
-   "lat": 48.8489,
-   "lng": 2.2826,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "11248132",
-     "title": "Garance",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11248124",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248124-heart-of-the-beast-l-avis-de-la-presse-sur-le-dernier-film-avec-brad-pitt/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11299499",
-     "title": "Ducobu et le fantôme de Saint-Potache",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299499-ducobu-et-le-fantome-de-saint-potache/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304007",
-     "title": "Les Misérables",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304001",
-     "title": "Mochy",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304001-mochy/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11236542",
-     "title": "L'île des souvenirs",
-     "rating": "",
-     "language": "VF/VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11236542-l-ile-des-souvenirs/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285026",
-     "title": "Verity",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285026-verity/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305437",
-     "title": "Karma",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11303993",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11303993-street-fighter/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305449",
-     "title": "Mylène Farmer - Egrégore - L'avant-première",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305449-mylene-farmer-egregore-l-avant-premiere/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11248128",
-     "title": "Primetime",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248128-primetime/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309613",
-     "title": "Le Roi du game",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309613-le-roi-du-game/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11301819",
-     "title": "The Social Reckoning",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11301819-the-social-reckoning-est-ce-aussi-bien-que-the-social-network-l-avis-des-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305435",
-     "title": "Clayface",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305435-clayface-le-film-sur-le-mechant-de-batman-contient-des-scenes-tres-derangeantes-on-n-a-pas-pu-tout-regarder/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304003",
-     "title": "Malfaisante",
-     "rating": "",
-     "language": "VF/VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304003-malfaisante/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10637222",
-     "title": "La Bataille de Gaulle : J'écris ton nom",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10637222-la-bataille-de-gaulle-j-ecris-ton-nom-pourquoi-le-film-sort-il-un-vendredi/",
      "status": "now_showing"
     },
     {
@@ -2878,89 +2878,6 @@
     }
    ]
   },
-  "linternaute-81": {
-   "name": "mk2 Nation",
-   "city": "Paris",
-   "brand": "MK2",
-   "address": "133 boulevard Diderot, 75012 Paris",
-   "lat": 48.8482,
-   "lng": 2.3931,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "10916649",
-     "title": "Notre salut",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304007",
-     "title": "Les Misérables",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11280744",
-     "title": "Ni vue, ni connue",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11280744-ni-vue-ni-connue/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11303101",
-     "title": "Shaun le Mouton : La bêêête d'Halloween",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11303101-shaun-le-mouton-la-beeete-d-halloween/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309613",
-     "title": "Le Roi du game",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309613-le-roi-du-game/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916645",
-     "title": "Minotaure",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304009",
-     "title": "Petite Casbah",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304009-petite-casbah/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309611",
-     "title": "Une femme aujourd'hui",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309611-une-femme-aujourd-hui/",
-     "status": "now_showing"
-    }
-   ]
-  },
   "linternaute-75": {
    "name": "Pathé Palace",
    "city": "Paris",
@@ -3053,13 +2970,13 @@
     }
    ]
   },
-  "linternaute-2": {
-   "name": "mk2 Quai-de-Seine",
+  "linternaute-81": {
+   "name": "mk2 Nation",
    "city": "Paris",
    "brand": "MK2",
-   "address": "14 quai de la Seine, 75019 Paris",
-   "lat": 48.885,
-   "lng": 2.3715,
+   "address": "133 boulevard Diderot, 75012 Paris",
+   "lat": 48.8482,
+   "lng": 2.3931,
    "fetchedAt": "2026-10-27",
    "films": [
     {
@@ -3072,30 +2989,48 @@
      "status": "now_showing"
     },
     {
-     "slug": "10916627",
-     "title": "Le Corset",
+     "slug": "11304007",
+     "title": "Les Misérables",
      "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
      "status": "now_showing"
     },
     {
-     "slug": "11248128",
-     "title": "Primetime",
+     "slug": "11280744",
+     "title": "Ni vue, ni connue",
      "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248128-primetime/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11280744-ni-vue-ni-connue/",
      "status": "now_showing"
     },
     {
-     "slug": "11301819",
-     "title": "The Social Reckoning",
+     "slug": "11303101",
+     "title": "Shaun le Mouton : La bêêête d'Halloween",
      "rating": "",
-     "language": "VO",
+     "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11301819-the-social-reckoning-est-ce-aussi-bien-que-the-social-network-l-avis-des-critiques/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303101-shaun-le-mouton-la-beeete-d-halloween/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11309613",
+     "title": "Le Roi du game",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309613-le-roi-du-game/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916645",
+     "title": "Minotaure",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
      "status": "now_showing"
     },
     {
@@ -3108,48 +3043,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "11198190",
-     "title": "L'invitation",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11198190-l-invitation/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11299497",
-     "title": "La Gradiva",
+     "slug": "11309611",
+     "title": "Une femme aujourd'hui",
      "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "9609138",
-     "title": "Les Toutes Petites Créatures 2",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/9609138-les-toutes-petites-creatures-2/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "5800011",
-     "title": "Anzu, chat-fantôme",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/5800011-anzu-chat-fantome/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2185749",
-     "title": "Retour vers le futur",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2185749-retour-vers-le-futur-quel-acteur-aurait-pu-jouer-marty-mcfly-avant-michael-j-fox/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309611-une-femme-aujourd-hui/",
      "status": "now_showing"
     }
    ]
@@ -3392,24 +3291,15 @@
     }
    ]
   },
-  "linternaute-99": {
-   "name": "mk2 Gambetta",
+  "linternaute-2": {
+   "name": "mk2 Quai-de-Seine",
    "city": "Paris",
    "brand": "MK2",
-   "address": "6 rue Belgrand, 75020 Paris",
-   "lat": 48.8646,
-   "lng": 2.4064,
+   "address": "14 quai de la Seine, 75019 Paris",
+   "lat": 48.885,
+   "lng": 2.3715,
    "fetchedAt": "2026-10-27",
    "films": [
-    {
-     "slug": "11248132",
-     "title": "Garance",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
-     "status": "now_showing"
-    },
     {
      "slug": "10916649",
      "title": "Notre salut",
@@ -3429,223 +3319,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "11305437",
-     "title": "Karma",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916645",
-     "title": "Minotaure",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304009",
-     "title": "Petite Casbah",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304009-petite-casbah/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11299497",
-     "title": "La Gradiva",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11280738",
-     "title": "Congo Boy",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11280738-congo-boy/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2339436",
-     "title": "L'Équipe de secours : en route pour l'aventure !",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2339436-l-equipe-de-secours-en-route-pour-l-aventure/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-19": {
-   "name": "Pathé Les Fauvettes",
-   "city": "Paris",
-   "brand": "Pathé",
-   "address": "58 avenue des Gobelins, 75013 Paris",
-   "lat": 48.8336,
-   "lng": 2.3538,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "11248132",
-     "title": "Garance",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285020",
-     "title": "Digger",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285020-digger/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304007",
-     "title": "Les Misérables",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285026",
-     "title": "Verity",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285026-verity/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305437",
-     "title": "Karma",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11198192",
-     "title": "Resident Evil",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11198192-resident-evil/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2273420",
-     "title": "Hunger Games 3 Partie 2 : la Révolte",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2273420-hunger-games-3-partie-2-la-revolte/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309613",
-     "title": "Le Roi du game",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309613-le-roi-du-game/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304003",
-     "title": "Malfaisante",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304003-malfaisante/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "8833584",
-     "title": "Sam le pompier-nouvelle caserne, grandes aventures !",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/8833584-sam-le-pompier-nouvelle-caserne-grandes-aventures/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-36": {
-   "name": "Pathé BNP Paribas",
-   "city": "Paris",
-   "brand": "Pathé",
-   "address": "32 rue Louis-le-Grand, 75002 Paris",
-   "lat": 48.8706,
-   "lng": 2.3343,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "11285020",
-     "title": "Digger",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285020-digger/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916627",
-     "title": "Le Corset",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11280744",
-     "title": "Ni vue, ni connue",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11280744-ni-vue-ni-connue/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11198192",
-     "title": "Resident Evil",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11198192-resident-evil/",
-     "status": "now_showing"
-    },
-    {
      "slug": "11248128",
      "title": "Primetime",
      "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248128-primetime/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309613",
-     "title": "Le Roi du game",
-     "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309613-le-roi-du-game/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248128-primetime/",
      "status": "now_showing"
     },
     {
@@ -3658,12 +3337,57 @@
      "status": "now_showing"
     },
     {
-     "slug": "11305441",
-     "title": "Wicker",
+     "slug": "11304009",
+     "title": "Petite Casbah",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304009-petite-casbah/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11198190",
+     "title": "L'invitation",
      "rating": "",
      "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305441-wicker/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11198190-l-invitation/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11299497",
+     "title": "La Gradiva",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "9609138",
+     "title": "Les Toutes Petites Créatures 2",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/9609138-les-toutes-petites-creatures-2/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "5800011",
+     "title": "Anzu, chat-fantôme",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/5800011-anzu-chat-fantome/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2185749",
+     "title": "Retour vers le futur",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2185749-retour-vers-le-futur-quel-acteur-aurait-pu-jouer-marty-mcfly-avant-michael-j-fox/",
      "status": "now_showing"
     }
    ]
@@ -3774,6 +3498,181 @@
      "language": "VO",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11305457-l-histoire-de-manon-the-royal-ballet/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-19": {
+   "name": "Pathé Les Fauvettes",
+   "city": "Paris",
+   "brand": "Pathé",
+   "address": "58 avenue des Gobelins, 75013 Paris",
+   "lat": 48.8336,
+   "lng": 2.3538,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "11248132",
+     "title": "Garance",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11285020",
+     "title": "Digger",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285020-digger/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11304007",
+     "title": "Les Misérables",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11285026",
+     "title": "Verity",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285026-verity/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305437",
+     "title": "Karma",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11198192",
+     "title": "Resident Evil",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11198192-resident-evil/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2273420",
+     "title": "Hunger Games 3 Partie 2 : la Révolte",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2273420-hunger-games-3-partie-2-la-revolte/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11309613",
+     "title": "Le Roi du game",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309613-le-roi-du-game/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11304003",
+     "title": "Malfaisante",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304003-malfaisante/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "8833584",
+     "title": "Sam le pompier-nouvelle caserne, grandes aventures !",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/8833584-sam-le-pompier-nouvelle-caserne-grandes-aventures/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-62": {
+   "name": "UGC Odéon",
+   "city": "Paris",
+   "brand": "UGC",
+   "address": "124 boulevard Saint-Germain, 75006 Paris",
+   "lat": 48.8523,
+   "lng": 2.3398,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "11304007",
+     "title": "Les Misérables",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11280744",
+     "title": "Ni vue, ni connue",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11280744-ni-vue-ni-connue/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11301819",
+     "title": "The Social Reckoning",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11301819-the-social-reckoning-est-ce-aussi-bien-que-the-social-network-l-avis-des-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10637222",
+     "title": "La Bataille de Gaulle : J'écris ton nom",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10637222-la-bataille-de-gaulle-j-ecris-ton-nom-pourquoi-le-film-sort-il-un-vendredi/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916645",
+     "title": "Minotaure",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10435888",
+     "title": "La Bataille De Gaulle : L'âge de fer",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10435888-la-bataille-de-gaulle-l-age-de-fer-faut-il-voir-le-blockbuster-historique-a-la-francaise-notre-avis-tranche/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11299497",
+     "title": "La Gradiva",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
      "status": "now_showing"
     }
    ]
@@ -3913,6 +3812,284 @@
      "language": "VF",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11309611-une-femme-aujourd-hui/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-99": {
+   "name": "mk2 Gambetta",
+   "city": "Paris",
+   "brand": "MK2",
+   "address": "6 rue Belgrand, 75020 Paris",
+   "lat": 48.8646,
+   "lng": 2.4064,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "11248132",
+     "title": "Garance",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916649",
+     "title": "Notre salut",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916627",
+     "title": "Le Corset",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305437",
+     "title": "Karma",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916645",
+     "title": "Minotaure",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11304009",
+     "title": "Petite Casbah",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304009-petite-casbah/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11299497",
+     "title": "La Gradiva",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11280738",
+     "title": "Congo Boy",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11280738-congo-boy/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2339436",
+     "title": "L'Équipe de secours : en route pour l'aventure !",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2339436-l-equipe-de-secours-en-route-pour-l-aventure/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-56": {
+   "name": "mk2 Odéon - (côté St Germain)",
+   "city": "Paris",
+   "brand": "MK2",
+   "address": "113 boulevard Saint-Germain, 75006 Paris",
+   "lat": 48.8524,
+   "lng": 2.3383,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "10916649",
+     "title": "Notre salut",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11304007",
+     "title": "Les Misérables",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305437",
+     "title": "Karma",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916645",
+     "title": "Minotaure",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11299497",
+     "title": "La Gradiva",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-80": {
+   "name": "mk2 Bastille - côté Beaumarchais",
+   "city": "Paris",
+   "brand": "MK2",
+   "address": "4 boulevard Beaumarchais, 75011 Paris",
+   "lat": 48.8546,
+   "lng": 2.3691,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "11248132",
+     "title": "Garance",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11285020",
+     "title": "Digger",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285020-digger/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916645",
+     "title": "Minotaure",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11303107",
+     "title": "Marie Madeleine",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303107-marie-madeleine/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-36": {
+   "name": "Pathé BNP Paribas",
+   "city": "Paris",
+   "brand": "Pathé",
+   "address": "32 rue Louis-le-Grand, 75002 Paris",
+   "lat": 48.8706,
+   "lng": 2.3343,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "11285020",
+     "title": "Digger",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285020-digger/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916627",
+     "title": "Le Corset",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11280744",
+     "title": "Ni vue, ni connue",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11280744-ni-vue-ni-connue/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11198192",
+     "title": "Resident Evil",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11198192-resident-evil/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11248128",
+     "title": "Primetime",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248128-primetime/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11309613",
+     "title": "Le Roi du game",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309613-le-roi-du-game/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11301819",
+     "title": "The Social Reckoning",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11301819-the-social-reckoning-est-ce-aussi-bien-que-the-social-network-l-avis-des-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305441",
+     "title": "Wicker",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305441-wicker/",
      "status": "now_showing"
     }
    ]
@@ -4090,80 +4267,6 @@
     }
    ]
   },
-  "linternaute-62": {
-   "name": "UGC Odéon",
-   "city": "Paris",
-   "brand": "UGC",
-   "address": "124 boulevard Saint-Germain, 75006 Paris",
-   "lat": 48.8523,
-   "lng": 2.3398,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "11304007",
-     "title": "Les Misérables",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11280744",
-     "title": "Ni vue, ni connue",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11280744-ni-vue-ni-connue/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11301819",
-     "title": "The Social Reckoning",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11301819-the-social-reckoning-est-ce-aussi-bien-que-the-social-network-l-avis-des-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10637222",
-     "title": "La Bataille de Gaulle : J'écris ton nom",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10637222-la-bataille-de-gaulle-j-ecris-ton-nom-pourquoi-le-film-sort-il-un-vendredi/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916645",
-     "title": "Minotaure",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10435888",
-     "title": "La Bataille De Gaulle : L'âge de fer",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10435888-la-bataille-de-gaulle-l-age-de-fer-faut-il-voir-le-blockbuster-historique-a-la-francaise-notre-avis-tranche/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11299497",
-     "title": "La Gradiva",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
-     "status": "now_showing"
-    }
-   ]
-  },
   "linternaute-38": {
    "name": "Le Grand Rex",
    "city": "Paris",
@@ -4265,154 +4368,6 @@
     }
    ]
   },
-  "linternaute-60": {
-   "name": "UGC Danton",
-   "city": "Paris",
-   "brand": "UGC",
-   "address": "99 boulevard Saint-Germain, 75006 Paris",
-   "lat": 48.8522,
-   "lng": 2.3389,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "10916649",
-     "title": "Notre salut",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916627",
-     "title": "Le Corset",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305437",
-     "title": "Karma",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11248126",
-     "title": "Raisons et sentiments",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248126-raisons-et-sentiments/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305457",
-     "title": "L'Histoire de Manon (The Royal Ballet)",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305457-l-histoire-de-manon-the-royal-ballet/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-4932": {
-   "name": "Pathé Montparnos",
-   "city": "Paris",
-   "brand": "Pathé",
-   "address": "16 Rue d'Odessa, 75017 Paris",
-   "lat": 48.8421,
-   "lng": 2.3245,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "11299499",
-     "title": "Ducobu et le fantôme de Saint-Potache",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299499-ducobu-et-le-fantome-de-saint-potache/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11134194",
-     "title": "La Maison de nos rêves",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11134194-la-maison-de-nos-reves/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11303101",
-     "title": "Shaun le Mouton : La bêêête d'Halloween",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11303101-shaun-le-mouton-la-beeete-d-halloween/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309613",
-     "title": "Le Roi du game",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309613-le-roi-du-game/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11299507",
-     "title": "Fausse note",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299507-fausse-note/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916645",
-     "title": "Minotaure",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10787511",
-     "title": "De la Comédie-Française",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10787511-de-la-comedie-francaise-voici-ce-qu-on-a-pense-du-film-de-bertrand-usclat-et-martin-darondeau/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "8833584",
-     "title": "Sam le pompier-nouvelle caserne, grandes aventures !",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/8833584-sam-le-pompier-nouvelle-caserne-grandes-aventures/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2104739",
-     "title": "Obsession",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2104739-obsession/",
-     "status": "now_showing"
-    }
-   ]
-  },
   "linternaute-52": {
    "name": "mk2 Odéon - (côté St-Michel)",
    "city": "Paris",
@@ -4465,6 +4420,62 @@
      "language": "VF",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11309611-une-femme-aujourd-hui/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-60": {
+   "name": "UGC Danton",
+   "city": "Paris",
+   "brand": "UGC",
+   "address": "99 boulevard Saint-Germain, 75006 Paris",
+   "lat": 48.8522,
+   "lng": 2.3389,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "10916649",
+     "title": "Notre salut",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916627",
+     "title": "Le Corset",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305437",
+     "title": "Karma",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11248126",
+     "title": "Raisons et sentiments",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248126-raisons-et-sentiments/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305457",
+     "title": "L'Histoire de Manon (The Royal Ballet)",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305457-l-histoire-de-manon-the-royal-ballet/",
      "status": "now_showing"
     }
    ]
@@ -4642,165 +4653,6 @@
     }
    ]
   },
-  "linternaute-56": {
-   "name": "mk2 Odéon - (côté St Germain)",
-   "city": "Paris",
-   "brand": "MK2",
-   "address": "113 boulevard Saint-Germain, 75006 Paris",
-   "lat": 48.8524,
-   "lng": 2.3383,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "10916649",
-     "title": "Notre salut",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304007",
-     "title": "Les Misérables",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305437",
-     "title": "Karma",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916645",
-     "title": "Minotaure",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11299497",
-     "title": "La Gradiva",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-80": {
-   "name": "mk2 Bastille - côté Beaumarchais",
-   "city": "Paris",
-   "brand": "MK2",
-   "address": "4 boulevard Beaumarchais, 75011 Paris",
-   "lat": 48.8546,
-   "lng": 2.3691,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "11248132",
-     "title": "Garance",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285020",
-     "title": "Digger",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285020-digger/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916645",
-     "title": "Minotaure",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11303107",
-     "title": "Marie Madeleine",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11303107-marie-madeleine/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-76": {
-   "name": "UGC Opéra",
-   "city": "Paris",
-   "brand": "UGC",
-   "address": "32 boulevard des Italiens, 75009 Paris",
-   "lat": 48.8713,
-   "lng": 2.3352,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "11248132",
-     "title": "Garance",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11299499",
-     "title": "Ducobu et le fantôme de Saint-Potache",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299499-ducobu-et-le-fantome-de-saint-potache/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304007",
-     "title": "Les Misérables",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285026",
-     "title": "Verity",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285026-verity/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11248126",
-     "title": "Raisons et sentiments",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248126-raisons-et-sentiments/",
-     "status": "now_showing"
-    }
-   ]
-  },
   "linternaute-46": {
    "name": "Reflet Médicis",
    "city": "Paris",
@@ -4907,347 +4759,6 @@
      "language": "VO",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/2027755-a-touch-of-zen/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-54": {
-   "name": "Les Trois Luxembourg",
-   "city": "Paris",
-   "brand": "",
-   "address": "67 rue Monsieur-le-Prince, 75006 Paris",
-   "lat": 48.8484,
-   "lng": 2.3408,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "10916637",
-     "title": "Les Eléphants dans la brume",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916637-les-elephants-dans-la-brume/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916643",
-     "title": "Fjord",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916643-fjord/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10787511",
-     "title": "De la Comédie-Française",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10787511-de-la-comedie-francaise-voici-ce-qu-on-a-pense-du-film-de-bertrand-usclat-et-martin-darondeau/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916647",
-     "title": "Soudain",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916647-soudain/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11303107",
-     "title": "Marie Madeleine",
-     "rating": "",
-     "language": "VF/VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11303107-marie-madeleine/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "6165791",
-     "title": "Mon petit Halloween",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/6165791-mon-petit-halloween/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11248142",
-     "title": "Haute solitude, Jean Zay prisonnier politique",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248142-haute-solitude-jean-zay-prisonnier-politique/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2025861",
-     "title": "Octobre à Paris",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2025861-octobre-a-paris/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306677",
-     "title": "Leaving Amerika",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306677-leaving-amerika/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-73": {
-   "name": "Majestic Passy",
-   "city": "Paris",
-   "brand": "",
-   "address": "18 rue de Passy, 75016 Paris",
-   "lat": 48.8582,
-   "lng": 2.2823,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "11304007",
-     "title": "Les Misérables",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11280744",
-     "title": "Ni vue, ni connue",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11280744-ni-vue-ni-connue/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305437",
-     "title": "Karma",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2146782",
-     "title": "Cars, quatre roues",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2146782-cars-quatre-roues/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10637222",
-     "title": "La Bataille de Gaulle : J'écris ton nom",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10637222-la-bataille-de-gaulle-j-ecris-ton-nom-pourquoi-le-film-sort-il-un-vendredi/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304009",
-     "title": "Petite Casbah",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304009-petite-casbah/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "1945534",
-     "title": "Poupi",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/1945534-poupi/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2132252",
-     "title": "Bellissima",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2132252-bellissima/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-4": {
-   "name": "L'Entrepôt",
-   "city": "Paris",
-   "brand": "",
-   "address": "7-9, rue Francis-de-Pressensé, 75014 Paris",
-   "lat": 48.8338,
-   "lng": 2.3166,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "10523614",
-     "title": "La Vie d'une femme",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10523614-la-vie-d-une-femme/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11198190",
-     "title": "L'invitation",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11198190-l-invitation/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285022",
-     "title": "Le Chant des oliviers",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285022-le-chant-des-oliviers/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11299493",
-     "title": "Ton animal maternel",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299493-ton-animal-maternel/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916643",
-     "title": "Fjord",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916643-fjord/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11146982",
-     "title": "Les survivants du Che",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11146982-les-survivants-du-che/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285036",
-     "title": "Le Monde à l'endroit",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285036-le-monde-a-l-endroit/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285024",
-     "title": "Un hiver russe",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285024-un-hiver-russe/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "9609138",
-     "title": "Les Toutes Petites Créatures 2",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/9609138-les-toutes-petites-creatures-2/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2185749",
-     "title": "Retour vers le futur",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2185749-retour-vers-le-futur-quel-acteur-aurait-pu-jouer-marty-mcfly-avant-michael-j-fox/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2187790",
-     "title": "Laisse aller, C'est Une Valse",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2187790-laisse-aller-c-est-une-valse/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-32": {
-   "name": "L'Arlequin",
-   "city": "Paris",
-   "brand": "",
-   "address": "76 rue de Rennes, 75006 Paris",
-   "lat": 48.8512,
-   "lng": 2.3304,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "10916649",
-     "title": "Notre salut",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916637",
-     "title": "Les Eléphants dans la brume",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916637-les-elephants-dans-la-brume/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916645",
-     "title": "Minotaure",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305441",
-     "title": "Wicker",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305441-wicker/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304011",
-     "title": "Le Jour de son retour",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304011-le-jour-de-son-retour/",
      "status": "now_showing"
     }
    ]
@@ -5546,80 +5057,6 @@
     }
    ]
   },
-  "linternaute-2560": {
-   "name": "Le Louxor",
-   "city": "Paris",
-   "brand": "",
-   "address": "170 boulevard de Magenta, 75010 Paris",
-   "lat": 48.8835,
-   "lng": 2.3498,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "10916649",
-     "title": "Notre salut",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916627",
-     "title": "Le Corset",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916645",
-     "title": "Minotaure",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11146982",
-     "title": "Les survivants du Che",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11146982-les-survivants-du-che/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2185748",
-     "title": "L'Éclipse",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2185748-l-eclipse/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2621613",
-     "title": "Little Miss Sunshine",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2621613-little-miss-sunshine/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2339436",
-     "title": "L'Équipe de secours : en route pour l'aventure !",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2339436-l-equipe-de-secours-en-route-pour-l-aventure/",
-     "status": "now_showing"
-    }
-   ]
-  },
   "linternaute-57": {
    "name": "mk2 Parnasse",
    "city": "Paris",
@@ -5717,6 +5154,569 @@
      "language": "VF",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/10561364-jim-queen/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-32": {
+   "name": "L'Arlequin",
+   "city": "Paris",
+   "brand": "",
+   "address": "76 rue de Rennes, 75006 Paris",
+   "lat": 48.8512,
+   "lng": 2.3304,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "10916649",
+     "title": "Notre salut",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916637",
+     "title": "Les Eléphants dans la brume",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916637-les-elephants-dans-la-brume/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916645",
+     "title": "Minotaure",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305441",
+     "title": "Wicker",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305441-wicker/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11304011",
+     "title": "Le Jour de son retour",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304011-le-jour-de-son-retour/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-4932": {
+   "name": "Pathé Montparnos",
+   "city": "Paris",
+   "brand": "Pathé",
+   "address": "16 Rue d'Odessa, 75017 Paris",
+   "lat": 48.8421,
+   "lng": 2.3245,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "11299499",
+     "title": "Ducobu et le fantôme de Saint-Potache",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299499-ducobu-et-le-fantome-de-saint-potache/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11134194",
+     "title": "La Maison de nos rêves",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11134194-la-maison-de-nos-reves/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11303101",
+     "title": "Shaun le Mouton : La bêêête d'Halloween",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303101-shaun-le-mouton-la-beeete-d-halloween/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11309613",
+     "title": "Le Roi du game",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309613-le-roi-du-game/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11299507",
+     "title": "Fausse note",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299507-fausse-note/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916645",
+     "title": "Minotaure",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10787511",
+     "title": "De la Comédie-Française",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10787511-de-la-comedie-francaise-voici-ce-qu-on-a-pense-du-film-de-bertrand-usclat-et-martin-darondeau/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "8833584",
+     "title": "Sam le pompier-nouvelle caserne, grandes aventures !",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/8833584-sam-le-pompier-nouvelle-caserne-grandes-aventures/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2104739",
+     "title": "Obsession",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2104739-obsession/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-76": {
+   "name": "UGC Opéra",
+   "city": "Paris",
+   "brand": "UGC",
+   "address": "32 boulevard des Italiens, 75009 Paris",
+   "lat": 48.8713,
+   "lng": 2.3352,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "11248132",
+     "title": "Garance",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11299499",
+     "title": "Ducobu et le fantôme de Saint-Potache",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299499-ducobu-et-le-fantome-de-saint-potache/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11304007",
+     "title": "Les Misérables",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11285026",
+     "title": "Verity",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285026-verity/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11248126",
+     "title": "Raisons et sentiments",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248126-raisons-et-sentiments/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-54": {
+   "name": "Les Trois Luxembourg",
+   "city": "Paris",
+   "brand": "",
+   "address": "67 rue Monsieur-le-Prince, 75006 Paris",
+   "lat": 48.8484,
+   "lng": 2.3408,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "10916637",
+     "title": "Les Eléphants dans la brume",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916637-les-elephants-dans-la-brume/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916643",
+     "title": "Fjord",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916643-fjord/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10787511",
+     "title": "De la Comédie-Française",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10787511-de-la-comedie-francaise-voici-ce-qu-on-a-pense-du-film-de-bertrand-usclat-et-martin-darondeau/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916647",
+     "title": "Soudain",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916647-soudain/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11303107",
+     "title": "Marie Madeleine",
+     "rating": "",
+     "language": "VF/VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303107-marie-madeleine/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "6165791",
+     "title": "Mon petit Halloween",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/6165791-mon-petit-halloween/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11248142",
+     "title": "Haute solitude, Jean Zay prisonnier politique",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248142-haute-solitude-jean-zay-prisonnier-politique/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2025861",
+     "title": "Octobre à Paris",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2025861-octobre-a-paris/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306677",
+     "title": "Leaving Amerika",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306677-leaving-amerika/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-2560": {
+   "name": "Le Louxor",
+   "city": "Paris",
+   "brand": "",
+   "address": "170 boulevard de Magenta, 75010 Paris",
+   "lat": 48.8835,
+   "lng": 2.3498,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "10916649",
+     "title": "Notre salut",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916627",
+     "title": "Le Corset",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916645",
+     "title": "Minotaure",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11146982",
+     "title": "Les survivants du Che",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11146982-les-survivants-du-che/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2185748",
+     "title": "L'Éclipse",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2185748-l-eclipse/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2621613",
+     "title": "Little Miss Sunshine",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2621613-little-miss-sunshine/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2339436",
+     "title": "L'Équipe de secours : en route pour l'aventure !",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2339436-l-equipe-de-secours-en-route-pour-l-aventure/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-4": {
+   "name": "L'Entrepôt",
+   "city": "Paris",
+   "brand": "",
+   "address": "7-9, rue Francis-de-Pressensé, 75014 Paris",
+   "lat": 48.8338,
+   "lng": 2.3166,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "10523614",
+     "title": "La Vie d'une femme",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10523614-la-vie-d-une-femme/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11198190",
+     "title": "L'invitation",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11198190-l-invitation/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11285022",
+     "title": "Le Chant des oliviers",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285022-le-chant-des-oliviers/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11299493",
+     "title": "Ton animal maternel",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299493-ton-animal-maternel/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916643",
+     "title": "Fjord",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916643-fjord/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11146982",
+     "title": "Les survivants du Che",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11146982-les-survivants-du-che/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11285036",
+     "title": "Le Monde à l'endroit",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285036-le-monde-a-l-endroit/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11285024",
+     "title": "Un hiver russe",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285024-un-hiver-russe/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "9609138",
+     "title": "Les Toutes Petites Créatures 2",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/9609138-les-toutes-petites-creatures-2/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2185749",
+     "title": "Retour vers le futur",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2185749-retour-vers-le-futur-quel-acteur-aurait-pu-jouer-marty-mcfly-avant-michael-j-fox/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2187790",
+     "title": "Laisse aller, C'est Une Valse",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2187790-laisse-aller-c-est-une-valse/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-73": {
+   "name": "Majestic Passy",
+   "city": "Paris",
+   "brand": "",
+   "address": "18 rue de Passy, 75016 Paris",
+   "lat": 48.8582,
+   "lng": 2.2823,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "11304007",
+     "title": "Les Misérables",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11280744",
+     "title": "Ni vue, ni connue",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11280744-ni-vue-ni-connue/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305437",
+     "title": "Karma",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2146782",
+     "title": "Cars, quatre roues",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2146782-cars-quatre-roues/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10637222",
+     "title": "La Bataille de Gaulle : J'écris ton nom",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10637222-la-bataille-de-gaulle-j-ecris-ton-nom-pourquoi-le-film-sort-il-un-vendredi/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11304009",
+     "title": "Petite Casbah",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304009-petite-casbah/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1945534",
+     "title": "Poupi",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/1945534-poupi/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2132252",
+     "title": "Bellissima",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2132252-bellissima/",
      "status": "now_showing"
     }
    ]
@@ -5833,6 +5833,136 @@
     }
    ]
   },
+  "linternaute-3": {
+   "name": "Le Cinéma des cinéastes",
+   "city": "Paris",
+   "brand": "",
+   "address": "7 avenue de Clichy, 75017 Paris",
+   "lat": 48.8843,
+   "lng": 2.3269,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "10916649",
+     "title": "Notre salut",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916645",
+     "title": "Minotaure",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11309611",
+     "title": "Une femme aujourd'hui",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309611-une-femme-aujourd-hui/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1933228",
+     "title": "Vice Versa",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/1933228-vice-versa/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "9785530",
+     "title": "Il maestro",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/9785530-il-maestro/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-10": {
+   "name": "Luminor Hôtel de Ville",
+   "city": "Paris",
+   "brand": "",
+   "address": "20 rue du Temple, 75004 Paris",
+   "lat": 48.8587,
+   "lng": 2.3536,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "11285028",
+     "title": "Mémoire de fille",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285028-memoire-de-fille/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916637",
+     "title": "Les Eléphants dans la brume",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916637-les-elephants-dans-la-brume/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11248136",
+     "title": "Fini de rire ! L'humour politique au garde-à-vous ?",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248136-fini-de-rire-l-humour-politique-au-garde-a-vous/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10826199",
+     "title": "Qui vit encore",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10826199-qui-vit-encore/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1830665",
+     "title": "Mr Chat et les Shammies",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/1830665-mr-chat-et-les-shammies/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "6769568",
+     "title": "Lilo et Stitch",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/6769568-lilo-et-stitch-a-partir-de-quel-age-voir-le-film-en-live-action-sorti-en-2025/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2025861",
+     "title": "Octobre à Paris",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2025861-octobre-a-paris/",
+     "status": "now_showing"
+    }
+   ]
+  },
   "linternaute-42": {
    "name": "Le Champo - Espace Jacques-Tati",
    "city": "Paris",
@@ -5925,246 +6055,6 @@
     }
    ]
   },
-  "linternaute-3": {
-   "name": "Le Cinéma des cinéastes",
-   "city": "Paris",
-   "brand": "",
-   "address": "7 avenue de Clichy, 75017 Paris",
-   "lat": 48.8843,
-   "lng": 2.3269,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "10916649",
-     "title": "Notre salut",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916645",
-     "title": "Minotaure",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309611",
-     "title": "Une femme aujourd'hui",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309611-une-femme-aujourd-hui/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "1933228",
-     "title": "Vice Versa",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/1933228-vice-versa/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "9785530",
-     "title": "Il maestro",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/9785530-il-maestro/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-71": {
-   "name": "Espace Saint-Michel",
-   "city": "Paris",
-   "brand": "",
-   "address": "7 place Saint-Michel, 75005 Paris",
-   "lat": 48.8531,
-   "lng": 2.3442,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "11248136",
-     "title": "Fini de rire ! L'humour politique au garde-à-vous ?",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248136-fini-de-rire-l-humour-politique-au-garde-a-vous/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10826199",
-     "title": "Qui vit encore",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10826199-qui-vit-encore/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "8322421",
-     "title": "Les Recommencements",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/8322421-les-recommencements/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11303121",
-     "title": "Je veux bien",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11303121-je-veux-bien/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11301817",
-     "title": "Le Jardin de madame Hu",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11301817-le-jardin-de-madame-hu/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309185",
-     "title": "Le printemps vint en riant",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309185-le-printemps-vint-en-riant/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2131601",
-     "title": "Boulevard du crépuscule",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2131601-boulevard-du-crepuscule/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-78": {
-   "name": "Archipel",
-   "city": "Paris",
-   "brand": "",
-   "address": "17 boulevard de Strasbourg, 75010 Paris",
-   "lat": 48.8705,
-   "lng": 2.3547,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "11299493",
-     "title": "Ton animal maternel",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299493-ton-animal-maternel/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11198202",
-     "title": "La Ligne bleue",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11198202-la-ligne-bleue/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285024",
-     "title": "Un hiver russe",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285024-un-hiver-russe/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10573778",
-     "title": "Hair, Paper, Water...",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10573778-hair-paper-water/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2205562",
-     "title": "Secrets et mensonges",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2205562-secrets-et-mensonges/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10994086",
-     "title": "Des jours et des nuits dans la forêt (version restaurée)",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10994086-des-jours-et-des-nuits-dans-la-foret-version-restauree/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2191206",
-     "title": "Le Cuirassé Potemkine",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2191206-le-cuirasse-potemkine/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "1825477",
-     "title": "Alice Comedies 2",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/1825477-alice-comedies-2/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2203554",
-     "title": "Chantons sous la pluie",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2203554-chantons-sous-la-pluie-pourquoi-le-tournage-a-ete-eprouvant-pour-les-acteurs/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10029991",
-     "title": "Do You Love Me",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10029991-do-you-love-me/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2181440",
-     "title": "Matilda",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2181440-matilda/",
-     "status": "now_showing"
-    }
-   ]
-  },
   "linternaute-83": {
    "name": "Escurial",
    "city": "Paris",
@@ -6217,127 +6107,6 @@
      "language": "VF",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/2154426-la-fleche-bleue/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-7": {
-   "name": "Le Balzac",
-   "city": "Paris",
-   "brand": "",
-   "address": "1 rue Balzac, 75008 Paris",
-   "lat": 48.8729,
-   "lng": 2.2997,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "10916649",
-     "title": "Notre salut",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11280744",
-     "title": "Ni vue, ni connue",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11280744-ni-vue-ni-connue/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916645",
-     "title": "Minotaure",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11299497",
-     "title": "La Gradiva",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-10": {
-   "name": "Luminor Hôtel de Ville",
-   "city": "Paris",
-   "brand": "",
-   "address": "20 rue du Temple, 75004 Paris",
-   "lat": 48.8587,
-   "lng": 2.3536,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "11285028",
-     "title": "Mémoire de fille",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285028-memoire-de-fille/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916637",
-     "title": "Les Eléphants dans la brume",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916637-les-elephants-dans-la-brume/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11248136",
-     "title": "Fini de rire ! L'humour politique au garde-à-vous ?",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248136-fini-de-rire-l-humour-politique-au-garde-a-vous/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10826199",
-     "title": "Qui vit encore",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10826199-qui-vit-encore/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "1830665",
-     "title": "Mr Chat et les Shammies",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/1830665-mr-chat-et-les-shammies/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "6769568",
-     "title": "Lilo et Stitch",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/6769568-lilo-et-stitch-a-partir-de-quel-age-voir-le-film-en-live-action-sorti-en-2025/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2025861",
-     "title": "Octobre à Paris",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2025861-octobre-a-paris/",
      "status": "now_showing"
     }
    ]
@@ -6439,6 +6208,145 @@
      "language": "VO",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/2191584-je-t-aime-je-t-aime/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-71": {
+   "name": "Espace Saint-Michel",
+   "city": "Paris",
+   "brand": "",
+   "address": "7 place Saint-Michel, 75005 Paris",
+   "lat": 48.8531,
+   "lng": 2.3442,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "11248136",
+     "title": "Fini de rire ! L'humour politique au garde-à-vous ?",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248136-fini-de-rire-l-humour-politique-au-garde-a-vous/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10826199",
+     "title": "Qui vit encore",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10826199-qui-vit-encore/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "8322421",
+     "title": "Les Recommencements",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/8322421-les-recommencements/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11303121",
+     "title": "Je veux bien",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303121-je-veux-bien/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11301817",
+     "title": "Le Jardin de madame Hu",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11301817-le-jardin-de-madame-hu/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11309185",
+     "title": "Le printemps vint en riant",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309185-le-printemps-vint-en-riant/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2131601",
+     "title": "Boulevard du crépuscule",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2131601-boulevard-du-crepuscule/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-79": {
+   "name": "Majestic Bastille",
+   "city": "Paris",
+   "brand": "",
+   "address": "4 boulevard Richard-Lenoir, 75011 Paris",
+   "lat": 48.854,
+   "lng": 2.37,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "10916649",
+     "title": "Notre salut",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11309611",
+     "title": "Une femme aujourd'hui",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309611-une-femme-aujourd-hui/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "9261019",
+     "title": "Le Chant des forêts",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/9261019-le-chant-des-forets/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1921150",
+     "title": "It Follows",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/1921150-it-follows/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1993751",
+     "title": "Rebelle",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/1993751-rebelle/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2202446",
+     "title": "Astérix et Obélix : mission Cléopâtre",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2202446-asterix-et-obelix-mission-cleopatre-cette-scene-est-totalement-improvisee-elle-est-pourtant-devenue-culte/",
      "status": "now_showing"
     }
    ]
@@ -6573,136 +6481,6 @@
     }
    ]
   },
-  "linternaute-79": {
-   "name": "Majestic Bastille",
-   "city": "Paris",
-   "brand": "",
-   "address": "4 boulevard Richard-Lenoir, 75011 Paris",
-   "lat": 48.854,
-   "lng": 2.37,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "10916649",
-     "title": "Notre salut",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309611",
-     "title": "Une femme aujourd'hui",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309611-une-femme-aujourd-hui/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "9261019",
-     "title": "Le Chant des forêts",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/9261019-le-chant-des-forets/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "1921150",
-     "title": "It Follows",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/1921150-it-follows/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "1993751",
-     "title": "Rebelle",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/1993751-rebelle/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2202446",
-     "title": "Astérix et Obélix : mission Cléopâtre",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2202446-asterix-et-obelix-mission-cleopatre-cette-scene-est-totalement-improvisee-elle-est-pourtant-devenue-culte/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-12": {
-   "name": "Christine Cinéma Club",
-   "city": "Paris",
-   "brand": "",
-   "address": "4 rue Christine, 75006 Paris",
-   "lat": 48.8545,
-   "lng": 2.3402,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "2185748",
-     "title": "L'Éclipse",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2185748-l-eclipse/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2203912",
-     "title": "Trainspotting",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2203912-trainspotting/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2206630",
-     "title": "Apocalypse Now",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2206630-apocalypse-now/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2169278",
-     "title": "Chungking Express",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2169278-chungking-express/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2175828",
-     "title": "La Rivière rouge (Director's Cut)",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2175828-la-riviere-rouge-director-s-cut/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2170308",
-     "title": "L'Impasse",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2170308-l-impasse/",
-     "status": "now_showing"
-    }
-   ]
-  },
   "linternaute-27": {
    "name": "Epée de Bois",
    "city": "Paris",
@@ -6777,6 +6555,181 @@
     }
    ]
   },
+  "linternaute-12": {
+   "name": "Christine Cinéma Club",
+   "city": "Paris",
+   "brand": "",
+   "address": "4 rue Christine, 75006 Paris",
+   "lat": 48.8545,
+   "lng": 2.3402,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "2185748",
+     "title": "L'Éclipse",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2185748-l-eclipse/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2203912",
+     "title": "Trainspotting",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2203912-trainspotting/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2206630",
+     "title": "Apocalypse Now",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2206630-apocalypse-now/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2169278",
+     "title": "Chungking Express",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2169278-chungking-express/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2175828",
+     "title": "La Rivière rouge (Director's Cut)",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2175828-la-riviere-rouge-director-s-cut/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2170308",
+     "title": "L'Impasse",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2170308-l-impasse/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-78": {
+   "name": "Archipel",
+   "city": "Paris",
+   "brand": "",
+   "address": "17 boulevard de Strasbourg, 75010 Paris",
+   "lat": 48.8705,
+   "lng": 2.3547,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "11299493",
+     "title": "Ton animal maternel",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299493-ton-animal-maternel/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11198202",
+     "title": "La Ligne bleue",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11198202-la-ligne-bleue/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11285024",
+     "title": "Un hiver russe",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285024-un-hiver-russe/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10573778",
+     "title": "Hair, Paper, Water...",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10573778-hair-paper-water/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2205562",
+     "title": "Secrets et mensonges",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2205562-secrets-et-mensonges/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10994086",
+     "title": "Des jours et des nuits dans la forêt (version restaurée)",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10994086-des-jours-et-des-nuits-dans-la-foret-version-restauree/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2191206",
+     "title": "Le Cuirassé Potemkine",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2191206-le-cuirasse-potemkine/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1825477",
+     "title": "Alice Comedies 2",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/1825477-alice-comedies-2/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2203554",
+     "title": "Chantons sous la pluie",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2203554-chantons-sous-la-pluie-pourquoi-le-tournage-a-ete-eprouvant-pour-les-acteurs/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10029991",
+     "title": "Do You Love Me",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10029991-do-you-love-me/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2181440",
+     "title": "Matilda",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2181440-matilda/",
+     "status": "now_showing"
+    }
+   ]
+  },
   "linternaute-86": {
    "name": "Chaplin Denfert",
    "city": "Paris",
@@ -6833,49 +6786,125 @@
     }
    ]
   },
-  "linternaute-55": {
-   "name": "Le Saint Germain des Près",
+  "linternaute-7": {
+   "name": "Le Balzac",
    "city": "Paris",
    "brand": "",
-   "address": "22 rue Guillaume Apollinaire, 75006 Paris",
-   "lat": 48.8546,
-   "lng": 2.3333,
+   "address": "1 rue Balzac, 75008 Paris",
+   "lat": 48.8729,
+   "lng": 2.2997,
    "fetchedAt": "2026-10-27",
    "films": [
     {
-     "slug": "11285028",
-     "title": "Mémoire de fille",
+     "slug": "10916649",
+     "title": "Notre salut",
      "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285028-memoire-de-fille/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
      "status": "now_showing"
     },
     {
-     "slug": "10523614",
-     "title": "La Vie d'une femme",
+     "slug": "11280744",
+     "title": "Ni vue, ni connue",
      "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10523614-la-vie-d-une-femme/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11280744-ni-vue-ni-connue/",
      "status": "now_showing"
     },
     {
-     "slug": "11236544",
-     "title": "L'espèce explosive",
+     "slug": "10916645",
+     "title": "Minotaure",
      "rating": "",
-     "language": "VF",
+     "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11236544-l-espece-explosive/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
      "status": "now_showing"
     },
     {
-     "slug": "11285034",
-     "title": "Melpomène",
+     "slug": "11299497",
+     "title": "La Gradiva",
      "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285034-melpomene/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-51": {
+   "name": "Max Linder Panorama",
+   "city": "Paris",
+   "brand": "",
+   "address": "24 boulevard Poissonnière, 75009 Paris",
+   "lat": 48.8714,
+   "lng": 2.3449,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "2056721",
+     "title": "L'Armée du crime",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2056721-l-armee-du-crime/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2141380",
+     "title": "Un condamné à mort s'est échappé",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2141380-un-condamne-a-mort-s-est-echappe/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-49": {
+   "name": "Le Studio des Ursulines",
+   "city": "Paris",
+   "brand": "",
+   "address": "10 rue des Ursulines, 75005 Paris",
+   "lat": 48.8427,
+   "lng": 2.342,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "11304009",
+     "title": "Petite Casbah",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304009-petite-casbah/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2105762",
+     "title": "Soyez sympas, rembobinez",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2105762-soyez-sympas-rembobinez/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2286483",
+     "title": "L'Extraordinaire Voyage de Marona",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2286483-l-extraordinaire-voyage-de-marona/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2339436",
+     "title": "L'Équipe de secours : en route pour l'aventure !",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2339436-l-equipe-de-secours-en-route-pour-l-aventure/",
      "status": "now_showing"
     }
    ]
@@ -6927,49 +6956,49 @@
     }
    ]
   },
-  "linternaute-13": {
-   "name": "Studio Galande Beruchet",
+  "linternaute-55": {
+   "name": "Le Saint Germain des Près",
    "city": "Paris",
    "brand": "",
-   "address": "42 rue Galande, 75005 Paris",
-   "lat": 48.8516,
-   "lng": 2.3471,
+   "address": "22 rue Guillaume Apollinaire, 75006 Paris",
+   "lat": 48.8546,
+   "lng": 2.3333,
    "fetchedAt": "2026-10-27",
    "films": [
     {
-     "slug": "2204758",
-     "title": "Mulholland Drive",
+     "slug": "11285028",
+     "title": "Mémoire de fille",
      "rating": "",
-     "language": "VO",
+     "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2204758-mulholland-drive-vous-n-avez-rien-compris-on-essaie-de-vous-expliquer-le-film-culte-de-david-lynch/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285028-memoire-de-fille/",
      "status": "now_showing"
     },
     {
-     "slug": "2169556",
-     "title": "Virgin Suicides",
+     "slug": "10523614",
+     "title": "La Vie d'une femme",
      "rating": "",
-     "language": "VO",
+     "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2169556-virgin-suicides/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10523614-la-vie-d-une-femme/",
      "status": "now_showing"
     },
     {
-     "slug": "2210648",
-     "title": "Dune",
+     "slug": "11236544",
+     "title": "L'espèce explosive",
      "rating": "",
-     "language": "VO",
+     "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2210648-dune/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11236544-l-espece-explosive/",
      "status": "now_showing"
     },
     {
-     "slug": "2203824",
-     "title": "Lost in translation",
+     "slug": "11285034",
+     "title": "Melpomène",
      "rating": "",
-     "language": "VO",
+     "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2203824-lost-in-translation-que-dit-bob-a-charlotte-a-la-fin-du-film/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285034-melpomene/",
      "status": "now_showing"
     }
    ]
@@ -7088,107 +7117,49 @@
     }
    ]
   },
-  "linternaute-49": {
-   "name": "Le Studio des Ursulines",
+  "linternaute-13": {
+   "name": "Studio Galande Beruchet",
    "city": "Paris",
    "brand": "",
-   "address": "10 rue des Ursulines, 75005 Paris",
-   "lat": 48.8427,
-   "lng": 2.342,
+   "address": "42 rue Galande, 75005 Paris",
+   "lat": 48.8516,
+   "lng": 2.3471,
    "fetchedAt": "2026-10-27",
    "films": [
     {
-     "slug": "11304009",
-     "title": "Petite Casbah",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304009-petite-casbah/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2105762",
-     "title": "Soyez sympas, rembobinez",
+     "slug": "2204758",
+     "title": "Mulholland Drive",
      "rating": "",
      "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2105762-soyez-sympas-rembobinez/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2204758-mulholland-drive-vous-n-avez-rien-compris-on-essaie-de-vous-expliquer-le-film-culte-de-david-lynch/",
      "status": "now_showing"
     },
     {
-     "slug": "2286483",
-     "title": "L'Extraordinaire Voyage de Marona",
+     "slug": "2169556",
+     "title": "Virgin Suicides",
      "rating": "",
-     "language": "VF",
+     "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2286483-l-extraordinaire-voyage-de-marona/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2169556-virgin-suicides/",
      "status": "now_showing"
     },
     {
-     "slug": "2339436",
-     "title": "L'Équipe de secours : en route pour l'aventure !",
+     "slug": "2210648",
+     "title": "Dune",
      "rating": "",
-     "language": "VF",
+     "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2339436-l-equipe-de-secours-en-route-pour-l-aventure/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-1166": {
-   "name": "Publicis Cinémas",
-   "city": "Paris",
-   "brand": "",
-   "address": "129 avenue des Champs-Elysées, 75008 Paris",
-   "lat": 48.8727,
-   "lng": 2.2974,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "11304007",
-     "title": "Les Misérables",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2210648-dune/",
      "status": "now_showing"
     },
     {
-     "slug": "11299507",
-     "title": "Fausse note",
+     "slug": "2203824",
+     "title": "Lost in translation",
      "rating": "",
-     "language": "VF",
+     "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299507-fausse-note/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-51": {
-   "name": "Max Linder Panorama",
-   "city": "Paris",
-   "brand": "",
-   "address": "24 boulevard Poissonnière, 75009 Paris",
-   "lat": 48.8714,
-   "lng": 2.3449,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "2056721",
-     "title": "L'Armée du crime",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2056721-l-armee-du-crime/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2141380",
-     "title": "Un condamné à mort s'est échappé",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2141380-un-condamne-a-mort-s-est-echappe/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2203824-lost-in-translation-que-dit-bob-a-charlotte-a-la-fin-du-film/",
      "status": "now_showing"
     }
    ]
@@ -7218,6 +7189,35 @@
      "language": "VO",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/1837195-under-the-silver-lake/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-1166": {
+   "name": "Publicis Cinémas",
+   "city": "Paris",
+   "brand": "",
+   "address": "129 avenue des Champs-Elysées, 75008 Paris",
+   "lat": 48.8727,
+   "lng": 2.2974,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "11304007",
+     "title": "Les Misérables",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11299507",
+     "title": "Fausse note",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299507-fausse-note/",
      "status": "now_showing"
     }
    ]
@@ -8044,6 +8044,143 @@
     }
    ]
   },
+  "linternaute-501": {
+   "name": "Variétés",
+   "city": "Marseille",
+   "brand": "",
+   "address": "37 rue Vincent-Scotto, 13001 Marseille",
+   "lat": 43.2974,
+   "lng": 5.3797,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "11248132",
+     "title": "Garance",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916649",
+     "title": "Notre salut",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916627",
+     "title": "Le Corset",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11280744",
+     "title": "Ni vue, ni connue",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11280744-ni-vue-ni-connue/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11303101",
+     "title": "Shaun le Mouton : La bêêête d'Halloween",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303101-shaun-le-mouton-la-beeete-d-halloween/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916645",
+     "title": "Minotaure",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11236544",
+     "title": "L'espèce explosive",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11236544-l-espece-explosive/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11309611",
+     "title": "Une femme aujourd'hui",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309611-une-femme-aujourd-hui/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11299497",
+     "title": "La Gradiva",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11303107",
+     "title": "Marie Madeleine",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303107-marie-madeleine/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11299509",
+     "title": "Low Expectations",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299509-low-expectations/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11304011",
+     "title": "Le Jour de son retour",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304011-le-jour-de-son-retour/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305451",
+     "title": "Safe (version restaurée)",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305451-safe-version-restauree/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1821743",
+     "title": "La Part des ténèbres",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/1821743-la-part-des-tenebres/",
+     "status": "now_showing"
+    }
+   ]
+  },
   "linternaute-115": {
    "name": "Bonneveine",
    "city": "Marseille",
@@ -8190,143 +8327,6 @@
     }
    ]
   },
-  "linternaute-501": {
-   "name": "Variétés",
-   "city": "Marseille",
-   "brand": "",
-   "address": "37 rue Vincent-Scotto, 13001 Marseille",
-   "lat": 43.2974,
-   "lng": 5.3797,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "11248132",
-     "title": "Garance",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916649",
-     "title": "Notre salut",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916627",
-     "title": "Le Corset",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11280744",
-     "title": "Ni vue, ni connue",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11280744-ni-vue-ni-connue/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11303101",
-     "title": "Shaun le Mouton : La bêêête d'Halloween",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11303101-shaun-le-mouton-la-beeete-d-halloween/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916645",
-     "title": "Minotaure",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11236544",
-     "title": "L'espèce explosive",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11236544-l-espece-explosive/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309611",
-     "title": "Une femme aujourd'hui",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309611-une-femme-aujourd-hui/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11299497",
-     "title": "La Gradiva",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11303107",
-     "title": "Marie Madeleine",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11303107-marie-madeleine/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11299509",
-     "title": "Low Expectations",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299509-low-expectations/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304011",
-     "title": "Le Jour de son retour",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304011-le-jour-de-son-retour/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305451",
-     "title": "Safe (version restaurée)",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305451-safe-version-restauree/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "1821743",
-     "title": "La Part des ténèbres",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/1821743-la-part-des-tenebres/",
-     "status": "now_showing"
-    }
-   ]
-  },
   "linternaute-131": {
    "name": "Chambord",
    "city": "Marseille",
@@ -8406,62 +8406,6 @@
      "language": "VF",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11304009-petite-casbah/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-120": {
-   "name": "Alhambra",
-   "city": "Marseille",
-   "brand": "",
-   "address": "2 rue du Cinéma, 13016 Marseille",
-   "lat": 43.3606,
-   "lng": 5.3303,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "11248132",
-     "title": "Garance",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11301841",
-     "title": "Joyeuse jungle !",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11301841-joyeuse-jungle/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916655",
-     "title": "Le Monde à l'envers",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916655-le-monde-a-l-envers/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309611",
-     "title": "Une femme aujourd'hui",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309611-une-femme-aujourd-hui/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285022",
-     "title": "Le Chant des oliviers",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285022-le-chant-des-oliviers/",
      "status": "now_showing"
     }
    ]
@@ -8556,6 +8500,62 @@
      "language": "VO",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/8322421-les-recommencements/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-120": {
+   "name": "Alhambra",
+   "city": "Marseille",
+   "brand": "",
+   "address": "2 rue du Cinéma, 13016 Marseille",
+   "lat": 43.3606,
+   "lng": 5.3303,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "11248132",
+     "title": "Garance",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11301841",
+     "title": "Joyeuse jungle !",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11301841-joyeuse-jungle/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916655",
+     "title": "Le Monde à l'envers",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916655-le-monde-a-l-envers/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11309611",
+     "title": "Une femme aujourd'hui",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309611-une-femme-aujourd-hui/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11285022",
+     "title": "Le Chant des oliviers",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285022-le-chant-des-oliviers/",
      "status": "now_showing"
     }
    ]
@@ -9834,62 +9834,6 @@
     }
    ]
   },
-  "linternaute-113": {
-   "name": "Lumière Terreaux",
-   "city": "Lyon",
-   "brand": "",
-   "address": "40 rue du Président-Edouard-Herriot, 69001 Lyon",
-   "lat": 45.7701,
-   "lng": 4.8287,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "11248132",
-     "title": "Garance",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916649",
-     "title": "Notre salut",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916627",
-     "title": "Le Corset",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916645",
-     "title": "Minotaure",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309611",
-     "title": "Une femme aujourd'hui",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309611-une-femme-aujourd-hui/",
-     "status": "now_showing"
-    }
-   ]
-  },
   "linternaute-103": {
    "name": "UGC Astoria",
    "city": "Lyon",
@@ -9960,6 +9904,62 @@
      "language": "VO",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11305457-l-histoire-de-manon-the-royal-ballet/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-113": {
+   "name": "Lumière Terreaux",
+   "city": "Lyon",
+   "brand": "",
+   "address": "40 rue du Président-Edouard-Herriot, 69001 Lyon",
+   "lat": 45.7701,
+   "lng": 4.8287,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "11248132",
+     "title": "Garance",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916649",
+     "title": "Notre salut",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916627",
+     "title": "Le Corset",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916645",
+     "title": "Minotaure",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11309611",
+     "title": "Une femme aujourd'hui",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309611-une-femme-aujourd-hui/",
      "status": "now_showing"
     }
    ]
@@ -10240,26 +10240,6 @@
     }
    ]
   },
-  "linternaute-136": {
-   "name": "Institut-Lumière",
-   "city": "Lyon",
-   "brand": "",
-   "address": "25 rue du Premier-Film, 69008 Lyon",
-   "lat": 45.745,
-   "lng": 4.8705,
-   "fetchedAt": "2026-10-27",
-   "films": [
-    {
-     "slug": "1841161",
-     "title": "Petit vampire",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/1841161-petit-vampire-le-nouveau-dessin-anime-de-joann-sfar-convainc-la-critique/",
-     "status": "now_showing"
-    }
-   ]
-  },
   "linternaute-264": {
    "name": "Cinéma Saint-Denis",
    "city": "Lyon",
@@ -10276,6 +10256,26 @@
      "language": "VF",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11248142-haute-solitude-jean-zay-prisonnier-politique/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-136": {
+   "name": "Institut-Lumière",
+   "city": "Lyon",
+   "brand": "",
+   "address": "25 rue du Premier-Film, 69008 Lyon",
+   "lat": 45.745,
+   "lng": 4.8705,
+   "fetchedAt": "2026-10-27",
+   "films": [
+    {
+     "slug": "1841161",
+     "title": "Petit vampire",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/1841161-petit-vampire-le-nouveau-dessin-anime-de-joann-sfar-convainc-la-critique/",
      "status": "now_showing"
     }
    ]
