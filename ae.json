@@ -1,37 +1,10 @@
 {
- "updatedAt": "2026-10-26T18:33:40.207Z",
+ "updatedAt": "2026-10-27T00:27:30.047Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
    "name": "Cinemas in United Arab Emirates",
    "films": [
-    {
-     "slug": "2102437",
-     "title": "Seventeen World Tour (New_)",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-26",
-     "url": "https://elcinema.com/en/work/2102437/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102429",
-     "title": "87 Rupees Ink Pen",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-26",
-     "url": "https://elcinema.com/en/work/2102429/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102347",
-     "title": "Risa and the Wind Phone",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-26",
-     "url": "https://elcinema.com/en/work/2102347/",
-     "status": "now_showing"
-    },
     {
      "slug": "2102480",
      "title": "Picture",
@@ -39,6 +12,15 @@
      "language": "",
      "releaseDate": "2026-10-25",
      "url": "https://elcinema.com/en/work/2102480/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102435",
+     "title": "Hybe Cheering Party",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-25",
+     "url": "https://elcinema.com/en/work/2102435/",
      "status": "now_showing"
     },
     {
@@ -51,6 +33,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101953",
+     "title": "BTS World Tour 'Arirang' in Buenos Aires: Live Viewing",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-24",
+     "url": "https://elcinema.com/en/work/2101953/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102433",
      "title": "Tomorrow X Together World Tour 'Act: Tomorrow'",
      "rating": "",
@@ -60,21 +51,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102337",
-     "title": "Pehla Pyaar Doosri Baar",
+     "slug": "2102431",
+     "title": "Enhypen World Tour 'Blood Saga'",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-23",
-     "url": "https://elcinema.com/en/work/2102337/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102346",
-     "title": "418",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-23",
-     "url": "https://elcinema.com/en/work/2102346/",
+     "releaseDate": "2026-10-24",
+     "url": "https://elcinema.com/en/work/2102431/",
      "status": "now_showing"
     },
     {
@@ -87,6 +69,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102337",
+     "title": "Pehla Pyaar Doosri Baar",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-23",
+     "url": "https://elcinema.com/en/work/2102337/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102339",
      "title": "Kabaddi 5 - After the Final Match",
      "rating": "",
@@ -96,12 +87,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098155",
-     "title": "Clayface",
+     "slug": "2102346",
+     "title": "418",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-23",
+     "url": "https://elcinema.com/en/work/2102346/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101940",
+     "title": "Treasure Trekkers",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2098155/",
+     "url": "https://elcinema.com/en/work/2101940/",
      "status": "now_showing"
     },
     {
@@ -123,30 +123,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101935",
-     "title": "No Paradise If You Are Killed by a Woman",
+     "slug": "2102345",
+     "title": "Tu Hai Meri Kiran",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101935/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101940",
-     "title": "Treasure Trekkers",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101940/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102340",
-     "title": "Titans",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102340/",
+     "url": "https://elcinema.com/en/work/2102345/",
      "status": "now_showing"
     },
     {
@@ -159,12 +141,39 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102345",
-     "title": "Tu Hai Meri Kiran",
+     "slug": "2101935",
+     "title": "No Paradise If You Are Killed by a Woman",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102345/",
+     "url": "https://elcinema.com/en/work/2101935/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102340",
+     "title": "Titans",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102340/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102293",
+     "title": "Chha Maya Chhapakkai 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-16",
+     "url": "https://elcinema.com/en/work/2102293/",
      "status": "now_showing"
     },
     {
@@ -177,15 +186,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102294",
-     "title": "Nayi Naveli",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2102294/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2096857",
      "title": "Street Fighter",
      "rating": "",
@@ -195,12 +195,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
+     "slug": "2102294",
+     "title": "Nayi Naveli",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2098154/",
+     "url": "https://elcinema.com/en/work/2102294/",
      "status": "now_showing"
     },
     {
@@ -213,6 +213,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2097221",
      "title": "Jailer 2",
      "rating": "",
@@ -222,12 +231,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101041",
+     "title": "Psycho",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2101041/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101362",
      "title": "Beware Boiúna",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2101362/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102183",
+     "title": "Premada Oorali",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2102183/",
      "status": "now_showing"
     },
     {
@@ -249,39 +276,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101041",
-     "title": "Psycho",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2101041/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102183",
-     "title": "Premada Oorali",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2102183/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095519",
      "title": "Other Mommy",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101997",
-     "title": "Drishyam: The Conclusion",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101997/",
      "status": "now_showing"
     },
     {
@@ -300,6 +300,15 @@
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2101991/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101997/",
      "status": "now_showing"
     },
     {
@@ -339,15 +348,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099778",
-     "title": "Tad and the Magic Lamp",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2099778/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098173",
      "title": "Resident Evil",
      "rating": "",
@@ -357,12 +357,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099778",
+     "title": "Tad and the Magic Lamp",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-17",
+     "url": "https://elcinema.com/en/work/2099778/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100043",
      "title": "Cats in the Museum: Treasures of Egypt",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-10",
      "url": "https://elcinema.com/en/work/2100043/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101674",
+     "title": "Hanuman Ansh",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-10",
+     "url": "https://elcinema.com/en/work/2101674/",
      "status": "now_showing"
     },
     {
@@ -471,6 +489,15 @@
      "language": "",
      "releaseDate": "2024-04-07",
      "url": "https://elcinema.com/en/work/2009495/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2005417",
+     "title": "The Exorcist",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2023-02-09",
+     "url": "https://elcinema.com/en/work/2005417/",
      "status": "now_showing"
     },
     {

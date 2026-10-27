@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T18:31:53.549Z",
+ "updatedAt": "2026-10-27T00:25:55.480Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -163,14 +163,6 @@
      "rating": "PG12",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/seventeen-world-tour-new",
-     "status": "now_showing"
-    },
-    {
-     "slug": "hope-korean",
-     "title": "Hope",
-     "rating": "18TC",
-     "language": "Korean",
-     "url": "https://kwt.voxcinemas.com/movies/hope-korean",
      "status": "now_showing"
     },
     {
@@ -2579,15 +2571,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100562/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
@@ -2612,6 +2595,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {
@@ -2651,15 +2643,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101997",
-     "title": "Drishyam: The Conclusion",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101997/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101963",
      "title": "The Smurfs: Timeless Adventure Volume 2",
      "rating": "",
@@ -2675,6 +2658,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2044050/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101997/",
      "status": "now_showing"
     },
     {

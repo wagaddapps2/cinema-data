@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T18:33:41.457Z",
+ "updatedAt": "2026-10-27T00:27:33.094Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
@@ -24,12 +24,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102433",
-     "title": "Tomorrow X Together World Tour 'Act: Tomorrow'",
+     "slug": "2101953",
+     "title": "BTS World Tour 'Arirang' in Buenos Aires: Live Viewing",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-23",
-     "url": "https://elcinema.com/en/work/2102433/",
+     "releaseDate": "2026-10-25",
+     "url": "https://elcinema.com/en/work/2101953/",
      "status": "now_showing"
     },
     {
@@ -39,6 +39,24 @@
      "language": "",
      "releaseDate": "2026-10-23",
      "url": "https://elcinema.com/en/work/2102342/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102433",
+     "title": "Tomorrow X Together World Tour 'Act: Tomorrow'",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-23",
+     "url": "https://elcinema.com/en/work/2102433/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102431",
+     "title": "Enhypen World Tour 'Blood Saga'",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102431/",
      "status": "now_showing"
     },
     {
@@ -57,15 +75,6 @@
      "language": "",
      "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2102340/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102431",
-     "title": "Enhypen World Tour 'Blood Saga'",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102431/",
      "status": "now_showing"
     },
     {
@@ -114,6 +123,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2097036",
+     "title": "Avengers: Doomsday",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-18",
+     "url": "https://elcinema.com/en/work/2097036/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099166",
      "title": "Ranabaali",
      "rating": "",
@@ -132,15 +150,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099122",
-     "title": "Forgotten Island",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2099122/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2096857",
      "title": "Street Fighter",
      "rating": "",
@@ -156,6 +165,15 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2097221/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2099122/",
      "status": "now_showing"
     },
     {
@@ -186,21 +204,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-30",
-     "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2100812",
      "title": "Charlie Harper",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-30",
      "url": "https://elcinema.com/en/work/2100812/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-30",
+     "url": "https://elcinema.com/en/work/2098232/",
      "status": "now_showing"
     },
     {
@@ -258,21 +276,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095133",
-     "title": "El Set Lamma (Veto)",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-26",
-     "url": "https://elcinema.com/en/work/2095133/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2094924",
      "title": "Coyote vs. Acme",
      "rating": "",
      "language": "",
      "releaseDate": "2026-08-26",
      "url": "https://elcinema.com/en/work/2094924/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095133",
+     "title": "El Set Lamma (Veto)",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-26",
+     "url": "https://elcinema.com/en/work/2095133/",
      "status": "now_showing"
     },
     {

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T18:33:35.209Z",
+ "updatedAt": "2026-10-27T00:27:25.374Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
@@ -60,12 +60,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
+     "slug": "2096857",
+     "title": "Street Fighter",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2098154/",
+     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -78,12 +78,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096857",
-     "title": "Street Fighter",
+     "slug": "2098154",
+     "title": "Whalefall",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2096857/",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -105,6 +105,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101234",
+     "title": "Cahim 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101234/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098232",
      "title": "Verity",
      "rating": "",
@@ -123,12 +132,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101234",
-     "title": "Cahim 2",
+     "slug": "2100562",
+     "title": "Heart of the Beast",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101234/",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {
@@ -141,21 +150,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2100562/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099939",
      "title": "Shish Doo",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-24",
      "url": "https://elcinema.com/en/work/2099939/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2033609",
+     "title": "Princess Mononoke",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2033609/",
      "status": "now_showing"
     },
     {
@@ -231,15 +240,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097177",
-     "title": "Al Qisas",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-06-10",
-     "url": "https://elcinema.com/en/work/2097177/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2032663",
      "title": "Avengers Endgame: Encore re-release",
      "rating": "",
@@ -249,12 +249,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "1010144",
-     "title": "Eskendereya Kaman we Kaman",
+     "slug": "1009357",
+     "title": "El Asfour",
      "rating": "",
      "language": "",
-     "releaseDate": "1990-08-20",
-     "url": "https://elcinema.com/en/work/1010144/",
+     "releaseDate": "2014-09-12",
+     "url": "https://elcinema.com/en/work/1009357/",
      "status": "now_showing"
     },
     {

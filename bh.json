@@ -1,28 +1,10 @@
 {
- "updatedAt": "2026-10-26T18:33:46.540Z",
+ "updatedAt": "2026-10-27T00:27:36.863Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
    "name": "Cinemas in Bahrain",
    "films": [
-    {
-     "slug": "2080552",
-     "title": "Texas Chainsaw Massacre",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-26",
-     "url": "https://elcinema.com/en/work/2080552/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2043754",
-     "title": "Hatchet II",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-26",
-     "url": "https://elcinema.com/en/work/2043754/",
-     "status": "now_showing"
-    },
     {
      "slug": "2102437",
      "title": "Seventeen World Tour (New_)",
@@ -33,12 +15,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2021513",
-     "title": "Hatchet",
+     "slug": "2101953",
+     "title": "BTS World Tour 'Arirang' in Buenos Aires: Live Viewing",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-24",
-     "url": "https://elcinema.com/en/work/2021513/",
+     "releaseDate": "2026-10-25",
+     "url": "https://elcinema.com/en/work/2101953/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102435",
+     "title": "Hybe Cheering Party",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-25",
+     "url": "https://elcinema.com/en/work/2102435/",
      "status": "now_showing"
     },
     {
@@ -51,12 +42,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102337",
-     "title": "Pehla Pyaar Doosri Baar",
+     "slug": "2102431",
+     "title": "Enhypen World Tour 'Blood Saga'",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-23",
-     "url": "https://elcinema.com/en/work/2102337/",
+     "releaseDate": "2026-10-24",
+     "url": "https://elcinema.com/en/work/2102431/",
      "status": "now_showing"
     },
     {
@@ -69,12 +60,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2053164",
-     "title": "Black Water",
+     "slug": "2102337",
+     "title": "Pehla Pyaar Doosri Baar",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-23",
-     "url": "https://elcinema.com/en/work/2053164/",
+     "url": "https://elcinema.com/en/work/2102337/",
      "status": "now_showing"
     },
     {
@@ -84,6 +75,69 @@
      "language": "",
      "releaseDate": "2026-10-23",
      "url": "https://elcinema.com/en/work/2102339/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101940",
+     "title": "Treasure Trekkers",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101940/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2063764",
+     "title": "The Texas Chain Saw Massacre",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2063764/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102345",
+     "title": "Tu Hai Meri Kiran",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102345/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102342",
+     "title": "Udumbanchola Vision",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102342/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102346",
+     "title": "418",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102346/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102341",
+     "title": "Always Yours, Never Mine",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102341/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102340",
+     "title": "Titans",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102340/",
      "status": "now_showing"
     },
     {
@@ -105,75 +159,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101940",
-     "title": "Treasure Trekkers",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101940/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102340",
-     "title": "Titans",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102340/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102341",
-     "title": "Always Yours, Never Mine",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102341/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102342",
-     "title": "Udumbanchola Vision",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102342/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102345",
-     "title": "Tu Hai Meri Kiran",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102345/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102346",
-     "title": "418",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102346/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-21",
      "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099122",
-     "title": "Forgotten Island",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2099122/",
      "status": "now_showing"
     },
     {
@@ -186,12 +177,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097221",
-     "title": "Jailer 2",
+     "slug": "2099122",
+     "title": "Forgotten Island",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2097221/",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2099122/",
      "status": "now_showing"
     },
     {
@@ -210,6 +201,15 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097221",
+     "title": "Jailer 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     },
     {
