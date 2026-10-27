@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-10-27T06:32:20.675Z",
+ "updatedAt": "2026-10-27T12:33:54.065Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
    "name": "Cinemas in United Arab Emirates",
    "films": [
+    {
+     "slug": "2102348",
+     "title": "A Son",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-27",
+     "url": "https://elcinema.com/en/work/2102348/",
+     "status": "now_showing"
+    },
     {
      "slug": "2004405",
      "title": "Corpse Bride",
@@ -24,12 +33,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102435",
-     "title": "Hybe Cheering Party",
+     "slug": "2102431",
+     "title": "Enhypen World Tour 'Blood Saga'",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-25",
-     "url": "https://elcinema.com/en/work/2102435/",
+     "releaseDate": "2026-10-24",
+     "url": "https://elcinema.com/en/work/2102431/",
      "status": "now_showing"
     },
     {
@@ -39,15 +48,6 @@
      "language": "",
      "releaseDate": "2026-10-24",
      "url": "https://elcinema.com/en/work/2102433/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102431",
-     "title": "Enhypen World Tour 'Blood Saga'",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-24",
-     "url": "https://elcinema.com/en/work/2102431/",
      "status": "now_showing"
     },
     {
@@ -276,15 +276,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101991",
-     "title": "Baththa",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101991/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098232",
      "title": "Verity",
      "rating": "",
@@ -303,12 +294,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101997",
-     "title": "Drishyam: The Conclusion",
+     "slug": "2101991",
+     "title": "Baththa",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101997/",
+     "url": "https://elcinema.com/en/work/2101991/",
      "status": "now_showing"
     },
     {
@@ -321,15 +312,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101963",
-     "title": "The Smurfs: Timeless Adventure Volume 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101963/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2100562",
      "title": "Heart of the Beast",
      "rating": "",
@@ -339,12 +321,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098173",
-     "title": "Resident Evil",
+     "slug": "2101963",
+     "title": "The Smurfs: Timeless Adventure Volume 2",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2098173/",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2101963/",
      "status": "now_showing"
     },
     {
@@ -354,6 +336,15 @@
      "language": "",
      "releaseDate": "2026-09-17",
      "url": "https://elcinema.com/en/work/2099778/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098173",
+     "title": "Resident Evil",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-17",
+     "url": "https://elcinema.com/en/work/2098173/",
      "status": "now_showing"
     },
     {

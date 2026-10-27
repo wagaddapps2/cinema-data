@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T06:30:34.512Z",
+ "updatedAt": "2026-10-27T12:32:19.662Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -230,15 +230,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "it-feeds",
-     "title": "It Feeds",
-     "rating": "18TC",
-     "language": "English",
-     "releaseDate": "2026-10-29",
-     "url": "https://kwt.voxcinemas.com/movies/it-feeds",
-     "status": "coming_soon"
-    },
-    {
      "slug": "sense-and-sensibility",
      "title": "Sense and Sensibility",
      "rating": "R15",
@@ -308,6 +299,15 @@
      "language": "English",
      "releaseDate": "2026-10-29",
      "url": "https://kwt.voxcinemas.com/movies/how-to-save-the-immortal-2-elixir-of-life",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-texas-chainsaw-massacre-re-release",
+     "title": "The Texas Chainsaw Massacre (Re-release)",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-10-29",
+     "url": "https://kwt.voxcinemas.com/movies/the-texas-chainsaw-massacre-re-release",
      "status": "coming_soon"
     },
     {
@@ -604,6 +604,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "wala-kan-ala-el-bal",
+     "title": "WALA KAN ALA EL-BAL",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/wala-kan-ala-el-bal/en",
+     "status": "now_showing"
+    },
+    {
      "slug": "street-fighter",
      "title": "STREET FIGHTER",
      "rating": "R15",
@@ -673,6 +682,42 @@
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/the-dino-family/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "naseeb",
+     "title": "NASEEB",
+     "rating": "PG12",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/naseeb/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "sense-and-sensibility",
+     "title": "SENSE AND SENSIBILITY",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/sense-and-sensibility/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-influencer-project",
+     "title": "THE INFLUENCER PROJECT",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/the-influencer-project/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "wildwood",
+     "title": "WILDWOOD",
+     "rating": "PG12",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/wildwood/en",
      "status": "now_showing"
     },
     {
@@ -754,15 +799,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/jumanji-open-world/en",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "wala-kan-ala-el-bal",
-     "title": "WALA KAN ALA EL-BAL",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/wala-kan-ala-el-bal/en",
      "status": "coming_soon"
     },
     {
@@ -852,6 +888,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "wala-kan-ala-el-bal",
+     "title": "WALA KAN ALA EL-BAL",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/wala-kan-ala-el-bal/en",
+     "status": "now_showing"
+    },
+    {
      "slug": "street-fighter",
      "title": "STREET FIGHTER",
      "rating": "R15",
@@ -933,6 +978,51 @@
      "status": "now_showing"
     },
     {
+     "slug": "the-mongoose",
+     "title": "THE MONGOOSE",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/the-mongoose/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "naseeb",
+     "title": "NASEEB",
+     "rating": "PG12",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/naseeb/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "sense-and-sensibility",
+     "title": "SENSE AND SENSIBILITY",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/sense-and-sensibility/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-influencer-project",
+     "title": "THE INFLUENCER PROJECT",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/the-influencer-project/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "wildwood",
+     "title": "WILDWOOD",
+     "rating": "PG12",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/wildwood/en",
+     "status": "now_showing"
+    },
+    {
      "slug": "idiots",
      "title": "Idiots",
      "rating": "",
@@ -1011,15 +1101,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/jumanji-open-world/en",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "wala-kan-ala-el-bal",
-     "title": "WALA KAN ALA EL-BAL",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/wala-kan-ala-el-bal/en",
      "status": "coming_soon"
     },
     {
@@ -1120,7 +1201,7 @@
     {
      "slug": "the-mongoose-english",
      "title": "The Mongoose",
-     "rating": "",
+     "rating": "R15",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-mongoose-english",
@@ -1674,7 +1755,7 @@
     {
      "slug": "the-mongoose-english",
      "title": "The Mongoose",
-     "rating": "",
+     "rating": "R15",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-mongoose-english",
@@ -2046,6 +2127,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
@@ -2070,15 +2160,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098155/",
      "status": "now_showing"
     },
     {
@@ -2277,6 +2358,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101997/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2097221",
      "title": "Jailer 2",
      "rating": "",
@@ -2355,15 +2445,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101651/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101997",
-     "title": "Drishyam: The Conclusion",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101997/",
      "status": "now_showing"
     },
     {
@@ -2480,21 +2561,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097221",
-     "title": "Jailer 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097221/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101651",
      "title": "The Dino Family",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101651/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097221",
+     "title": "Jailer 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     },
     {
@@ -2553,30 +2634,12 @@
    "name": "Cinescape Assima",
    "films": [
     {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -2613,6 +2676,24 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101940/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -2674,6 +2755,69 @@
   "sky-salmiya": {
    "name": "SKY Cinemas Salmiya",
    "films": [
+    {
+     "slug": "sense-and-sensibility-/9999001541",
+     "title": "SENSE AND SENSIBILITY",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/sense-and-sensibility-/9999001541",
+     "status": "now_showing"
+    },
+    {
+     "slug": "wildwood-/9999001540",
+     "title": "WILDWOOD",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/wildwood-/9999001540",
+     "status": "now_showing"
+    },
+    {
+     "slug": "wala-kan-ala-el-bal-(egyptian)-arabic/9999001539",
+     "title": "WALA KAN ALA EL-BAL",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/wala-kan-ala-el-bal-(egyptian)-arabic/9999001539",
+     "status": "now_showing"
+    },
+    {
+     "slug": "naseeb-(egyptian)-arabic/9999001538",
+     "title": "NASEEB",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/naseeb-(egyptian)-arabic/9999001538",
+     "status": "now_showing"
+    },
+    {
+     "slug": "hope-korean/9999001537",
+     "title": "HOPE",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/hope-korean/9999001537",
+     "status": "now_showing"
+    },
+    {
+     "slug": "soy-turkish/9999001536",
+     "title": "SOY",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/soy-turkish/9999001536",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-mongoose/9999001535",
+     "title": "THE MONGOOSE",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/the-mongoose/9999001535",
+     "status": "now_showing"
+    },
     {
      "slug": "clayface/9999001534",
      "title": "CLAYFACE",

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T06:32:23.555Z",
+ "updatedAt": "2026-10-27T12:33:57.012Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
@@ -24,24 +24,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101953",
-     "title": "BTS World Tour 'Arirang' in Buenos Aires: Live Viewing",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-25",
-     "url": "https://elcinema.com/en/work/2101953/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102342",
-     "title": "Udumbanchola Vision",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-23",
-     "url": "https://elcinema.com/en/work/2102342/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102433",
      "title": "Tomorrow X Together World Tour 'Act: Tomorrow'",
      "rating": "",
@@ -51,12 +33,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102431",
-     "title": "Enhypen World Tour 'Blood Saga'",
+     "slug": "2102342",
+     "title": "Udumbanchola Vision",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102431/",
+     "releaseDate": "2026-10-23",
+     "url": "https://elcinema.com/en/work/2102342/",
      "status": "now_showing"
     },
     {
@@ -75,6 +57,15 @@
      "language": "",
      "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2102340/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102431",
+     "title": "Enhypen World Tour 'Blood Saga'",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102431/",
      "status": "now_showing"
     },
     {
@@ -141,24 +132,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097221",
      "title": "Jailer 2",
      "rating": "",
@@ -177,12 +150,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
+     "slug": "2098154",
+     "title": "Whalefall",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2099520/",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -192,6 +174,15 @@
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -276,21 +267,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2094924",
-     "title": "Coyote vs. Acme",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-26",
-     "url": "https://elcinema.com/en/work/2094924/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095133",
      "title": "El Set Lamma (Veto)",
      "rating": "",
      "language": "",
      "releaseDate": "2026-08-26",
      "url": "https://elcinema.com/en/work/2095133/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2094924",
+     "title": "Coyote vs. Acme",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-26",
+     "url": "https://elcinema.com/en/work/2094924/",
      "status": "now_showing"
     },
     {
