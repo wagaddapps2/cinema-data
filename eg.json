@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T12:37:46.548Z",
+ "updatedAt": "2026-10-28T18:35:42.145Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
@@ -244,7 +244,7 @@
      "title": "Al Qisas",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-06-17",
+     "releaseDate": "2026-06-10",
      "url": "https://elcinema.com/en/work/2097177/",
      "status": "now_showing"
     },
@@ -280,7 +280,7 @@
      "title": "It Feeds",
      "rating": "",
      "language": "",
-     "releaseDate": null,
+     "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2093435/",
      "status": "coming_soon"
     },
@@ -316,7 +316,7 @@
      "title": "Maserati: The Brothers",
      "rating": "",
      "language": "",
-     "releaseDate": null,
+     "releaseDate": "2026-12-04",
      "url": "https://elcinema.com/en/work/2095523/",
      "status": "coming_soon"
     },

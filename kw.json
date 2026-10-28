@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T12:36:12.954Z",
+ "updatedAt": "2026-10-28T18:33:56.746Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -110,14 +110,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "jailer-2-tamil",
-     "title": "Jailer 2",
-     "rating": "R15",
-     "language": "Tamil",
-     "url": "https://kwt.voxcinemas.com/movies/jailer-2-tamil",
-     "status": "now_showing"
-    },
-    {
      "slug": "train-to-busan-korean",
      "title": "Train to Busan",
      "rating": "R15",
@@ -171,14 +163,6 @@
      "rating": "PG",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/treasure-trekkers",
-     "status": "now_showing"
-    },
-    {
-     "slug": "enhypen-world-tour-blood-saga",
-     "title": "ENHYPEN WORLD TOUR 'BLOOD SAGA'",
-     "rating": "R15",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/enhypen-world-tour-blood-saga",
      "status": "now_showing"
     },
     {
@@ -666,33 +650,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "matloub-3a2eleyain",
-     "title": "MATLOUB 3A2ELEYAIN",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/matloub-3a2eleyain/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "treasure-trekkers",
-     "title": "TREASURE TREKKERS",
-     "rating": "PG",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/treasure-trekkers/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-dino-family",
-     "title": "THE DINO FAMILY",
-     "rating": "PG",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/the-dino-family/en",
-     "status": "now_showing"
-    },
-    {
      "slug": "the-mongoose",
      "title": "THE MONGOOSE",
      "rating": "R15",
@@ -887,15 +844,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "resident-evil",
-     "title": "RESIDENT EVIL",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/resident-evil/en",
-     "status": "now_showing"
-    },
-    {
      "slug": "the-beast",
      "title": "THE BEAST",
      "rating": "R15",
@@ -965,24 +913,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/matloub-3a2eleyain/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "treasure-trekkers",
-     "title": "TREASURE TREKKERS",
-     "rating": "PG",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/treasure-trekkers/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-dino-family",
-     "title": "THE DINO FAMILY",
-     "rating": "PG",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/the-dino-family/en",
      "status": "now_showing"
     },
     {
@@ -1204,15 +1134,6 @@
      "language": "Malayalam",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/titans-malayalam",
-     "status": "now_showing"
-    },
-    {
-     "slug": "ranabaali-telugu",
-     "title": "Ranabaali",
-     "rating": "R15",
-     "language": "Telugu",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/ranabaali-telugu",
      "status": "now_showing"
     },
     {
@@ -1815,24 +1736,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "the-dino-family-english",
-     "title": "The Dino Family",
-     "rating": "PG",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-dino-family-english",
-     "status": "now_showing"
-    },
-    {
-     "slug": "train-to-busan-2016-korean",
-     "title": "Train to Busan",
-     "rating": "R15",
-     "language": "Korean",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/train-to-busan-2016-korean",
-     "status": "now_showing"
-    },
-    {
      "slug": "street-fighter-english",
      "title": "Street Fighter",
      "rating": "R15",
@@ -1860,39 +1763,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "other-mommy-english",
-     "title": "Other Mommy",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/other-mommy-english",
-     "status": "now_showing"
-    },
-    {
      "slug": "verity-english",
      "title": "Verity",
      "rating": "R15",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/verity-english",
-     "status": "now_showing"
-    },
-    {
-     "slug": "buttery-effect-azzam-saudi-arabic",
-     "title": "Buttery Effect: Azzam-Saudi",
-     "rating": "PG",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/buttery-effect-azzam-saudi-arabic",
-     "status": "now_showing"
-    },
-    {
-     "slug": "spider-man-brand-new-day-english",
-     "title": "Spider-Man: Brand New Day",
-     "rating": "PG12",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/spider-man-brand-new-day-english",
      "status": "now_showing"
     },
     {
