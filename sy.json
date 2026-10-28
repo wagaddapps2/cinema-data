@@ -1,10 +1,28 @@
 {
- "updatedAt": "2026-10-28T06:36:47.583Z",
+ "updatedAt": "2026-10-28T12:38:00.569Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
    "name": "Cinemas in Syria",
    "films": [
+    {
+     "slug": "2074764",
+     "title": "Champions",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2074764/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102513",
+     "title": "Mataharis",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2102513/",
+     "status": "now_showing"
+    },
     {
      "slug": "2101428",
      "title": "Crawlers",
@@ -57,6 +75,15 @@
      "language": "",
      "releaseDate": "2026-09-03",
      "url": "https://elcinema.com/en/work/2094924/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099118",
+     "title": "Insidious: Out of the Further",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-20",
+     "url": "https://elcinema.com/en/work/2099118/",
      "status": "now_showing"
     },
     {

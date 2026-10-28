@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T06:36:32.021Z",
+ "updatedAt": "2026-10-28T12:37:46.548Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
@@ -507,15 +507,6 @@
      "language": "",
      "releaseDate": "2026-11-25",
      "url": "https://elcinema.com/en/work/2101516/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2101649",
-     "title": "The Influencer Project",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101649/",
      "status": "coming_soon"
     },
     {

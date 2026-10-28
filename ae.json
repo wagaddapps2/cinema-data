@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-10-28T06:36:36.684Z",
+ "updatedAt": "2026-10-28T12:37:50.074Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
    "name": "Cinemas in United Arab Emirates",
    "films": [
+    {
+     "slug": "2102349",
+     "title": "Princess Stella",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2102349/",
+     "status": "now_showing"
+    },
     {
      "slug": "2004405",
      "title": "Corpse Bride",
@@ -48,15 +57,6 @@
      "language": "",
      "releaseDate": "2026-10-24",
      "url": "https://elcinema.com/en/work/2102431/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102433",
-     "title": "Tomorrow X Together World Tour 'Act: Tomorrow'",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-24",
-     "url": "https://elcinema.com/en/work/2102433/",
      "status": "now_showing"
     },
     {

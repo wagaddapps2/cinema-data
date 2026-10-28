@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T06:34:50.712Z",
+ "updatedAt": "2026-10-28T12:36:12.954Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -14,11 +14,35 @@
      "status": "now_showing"
     },
     {
+     "slug": "wala-kan-ala-el-bal-arabic",
+     "title": "Wala Kan Ala El-Bal",
+     "rating": "R15",
+     "language": "Arabic",
+     "url": "https://kwt.voxcinemas.com/movies/wala-kan-ala-el-bal-arabic",
+     "status": "now_showing"
+    },
+    {
      "slug": "street-fighter",
      "title": "Street Fighter",
      "rating": "R15",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/street-fighter",
+     "status": "now_showing"
+    },
+    {
+     "slug": "whalefall",
+     "title": "Whalefall",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/whalefall",
+     "status": "now_showing"
+    },
+    {
+     "slug": "hope-korean",
+     "title": "Hope",
+     "rating": "R15",
+     "language": "Korean",
+     "url": "https://kwt.voxcinemas.com/movies/hope-korean",
      "status": "now_showing"
     },
     {
@@ -38,11 +62,27 @@
      "status": "now_showing"
     },
     {
-     "slug": "whalefall",
-     "title": "Whalefall",
+     "slug": "wildwood",
+     "title": "Wildwood",
+     "rating": "PG12",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/wildwood",
+     "status": "now_showing"
+    },
+    {
+     "slug": "sense-and-sensibility",
+     "title": "Sense and Sensibility",
      "rating": "R15",
      "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/whalefall",
+     "url": "https://kwt.voxcinemas.com/movies/sense-and-sensibility",
+     "status": "now_showing"
+    },
+    {
+     "slug": "naseeb-arabic",
+     "title": "Naseeb",
+     "rating": "PG12",
+     "language": "Arabic",
+     "url": "https://kwt.voxcinemas.com/movies/naseeb-arabic",
      "status": "now_showing"
     },
     {
@@ -118,14 +158,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "paw-patrol-the-dino-movie",
-     "title": "Paw Patrol: The Dino Movie",
-     "rating": "PG",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/paw-patrol-the-dino-movie",
-     "status": "now_showing"
-    },
-    {
      "slug": "no-paradise-if-you-are-killed-by-a-woman",
      "title": "No Paradise if You Are Killed by a Woman",
      "rating": "R18",
@@ -158,35 +190,11 @@
      "status": "now_showing"
     },
     {
-     "slug": "hope-korean",
-     "title": "Hope",
-     "rating": "R15",
-     "language": "Korean",
-     "url": "https://kwt.voxcinemas.com/movies/hope-korean",
-     "status": "now_showing"
-    },
-    {
      "slug": "how-to-save-the-immortal-2-elixir-of-life",
      "title": "How to Save the Immortal 2: Elixir of Life",
-     "rating": "18TC",
+     "rating": "PG",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/how-to-save-the-immortal-2-elixir-of-life",
-     "status": "now_showing"
-    },
-    {
-     "slug": "naseeb-arabic",
-     "title": "Naseeb",
-     "rating": "PG12",
-     "language": "Arabic",
-     "url": "https://kwt.voxcinemas.com/movies/naseeb-arabic",
-     "status": "now_showing"
-    },
-    {
-     "slug": "sense-and-sensibility",
-     "title": "Sense and Sensibility",
-     "rating": "R15",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/sense-and-sensibility",
      "status": "now_showing"
     },
     {
@@ -219,22 +227,6 @@
      "rating": "R18",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/the-texas-chainsaw-massacre-re-release",
-     "status": "now_showing"
-    },
-    {
-     "slug": "wala-kan-ala-el-bal-arabic",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "R15",
-     "language": "Arabic",
-     "url": "https://kwt.voxcinemas.com/movies/wala-kan-ala-el-bal-arabic",
-     "status": "now_showing"
-    },
-    {
-     "slug": "wildwood",
-     "title": "Wildwood",
-     "rating": "PG12",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/wildwood",
      "status": "now_showing"
     },
     {
@@ -311,7 +303,7 @@
     {
      "slug": "how-to-save-the-immortal-2-elixir-of-life",
      "title": "How to Save the Immortal 2: Elixir of Life",
-     "rating": "18TC",
+     "rating": "PG",
      "language": "English",
      "releaseDate": "2026-10-29",
      "url": "https://kwt.voxcinemas.com/movies/how-to-save-the-immortal-2-elixir-of-life",
@@ -1188,6 +1180,15 @@
    "name": "Ozone Cinemas Khaitan",
    "films": [
     {
+     "slug": "aadarsha-kutumbam-house-no-47-ak-47-telugu",
+     "title": "Aadarsha Kutumbam House No: 47 - AK 47",
+     "rating": "R15",
+     "language": "Telugu",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/aadarsha-kutumbam-house-no-47-ak-47-telugu",
+     "status": "now_showing"
+    },
+    {
      "slug": "jailer-2-tamil",
      "title": "Jailer 2",
      "rating": "R15",
@@ -1224,21 +1225,129 @@
      "status": "now_showing"
     },
     {
-     "slug": "how-to-save-the-immortal-2-english",
-     "title": "How to Save the Immortal 2",
+     "slug": "idiots-english",
+     "title": "Idiots",
      "rating": "",
      "language": "English",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/how-to-save-the-immortal-2-english",
+     "url": "https://www.ozonecinema.com/movies/idiots-english",
      "status": "coming_soon"
     },
     {
-     "slug": "aadarsha-kutumbam-house-no-47-ak-47-telugu",
-     "title": "Aadarsha Kutumbam House No: 47 - AK 47",
+     "slug": "belkis-turkish",
+     "title": "Belkis",
+     "rating": "",
+     "language": "Turkish",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/belkis-turkish",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-draw-english",
+     "title": "The Draw",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-draw-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-cycle-english",
+     "title": "The Cycle",
+     "rating": "R18",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-cycle-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-last-temptation-of-becky-english",
+     "title": "The Last Temptation of Becky",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-last-temptation-of-becky-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "victorian-psycho-english",
+     "title": "Victorian Psycho",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/victorian-psycho-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "gladiators-in-pursuit-of-challenges-tamil",
+     "title": "Gladiators - In Pursuit of Challenges",
+     "rating": "",
+     "language": "Tamil",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/gladiators-in-pursuit-of-challenges-tamil",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "aakasamlo-oka-tara-telugu",
+     "title": "Aakasamlo Oka Tara",
      "rating": "",
      "language": "Telugu",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/aadarsha-kutumbam-house-no-47-ak-47-telugu",
+     "url": "https://www.ozonecinema.com/movies/aakasamlo-oka-tara-telugu",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "crypto-arabic",
+     "title": "Crypto",
+     "rating": "",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/crypto-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "disco-malayalam",
+     "title": "Disco",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/disco-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "mayan-chapter-1-malayalam",
+     "title": "Mayan - Chapter 1",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/mayan-chapter-1-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "athimanoharam-malayalam",
+     "title": "Athimanoharam",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/athimanoharam-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "om-chapter-1-udhiram-the-blood-wood-tamil",
+     "title": "OM Chapter 1: Udhiram - The Blood Wood",
+     "rating": "",
+     "language": "Tamil",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/om-chapter-1-udhiram-the-blood-wood-tamil",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "bachelor-party-deux-malayalam",
+     "title": "Bachelor Party D&#x27;eux",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/bachelor-party-deux-malayalam",
      "status": "coming_soon"
     },
     {
@@ -1573,114 +1682,6 @@
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/cocomelon-the-movie-english",
      "status": "coming_soon"
-    },
-    {
-     "slug": "athimanoharam-malayalam",
-     "title": "Athimanoharam",
-     "rating": "",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/athimanoharam-malayalam",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "mayan-chapter-1-malayalam",
-     "title": "Mayan - Chapter 1",
-     "rating": "",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/mayan-chapter-1-malayalam",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "aakasamlo-oka-tara-telugu",
-     "title": "Aakasamlo Oka Tara",
-     "rating": "",
-     "language": "Telugu",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/aakasamlo-oka-tara-telugu",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "crypto-arabic",
-     "title": "Crypto",
-     "rating": "",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/crypto-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "gladiators-in-pursuit-of-challenges-tamil",
-     "title": "Gladiators - In Pursuit of Challenges",
-     "rating": "",
-     "language": "Tamil",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/gladiators-in-pursuit-of-challenges-tamil",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-last-temptation-of-becky-english",
-     "title": "The Last Temptation of Becky",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-last-temptation-of-becky-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "victorian-psycho-english",
-     "title": "Victorian Psycho",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/victorian-psycho-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "disco-malayalam",
-     "title": "Disco",
-     "rating": "",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/disco-malayalam",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "idiots-english",
-     "title": "Idiots",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/idiots-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "belkis-turkish",
-     "title": "Belkis",
-     "rating": "",
-     "language": "Turkish",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/belkis-turkish",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-draw-english",
-     "title": "The Draw",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-draw-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-cycle-english",
-     "title": "The Cycle",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-cycle-english",
-     "status": "coming_soon"
     }
    ]
   },
@@ -1703,6 +1704,15 @@
      "language": "Arabic",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/wala-kan-ala-el-bal-arabic",
+     "status": "now_showing"
+    },
+    {
+     "slug": "aadarsha-kutumbam-house-no-47-ak-47-telugu",
+     "title": "Aadarsha Kutumbam House No: 47 - AK 47",
+     "rating": "R15",
+     "language": "Telugu",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/aadarsha-kutumbam-house-no-47-ak-47-telugu",
      "status": "now_showing"
     },
     {
@@ -1739,6 +1749,15 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-mongoose-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "how-to-save-the-immortal-2-english",
+     "title": "How to Save the Immortal 2",
+     "rating": "PG",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/how-to-save-the-immortal-2-english",
      "status": "now_showing"
     },
     {
@@ -1793,15 +1812,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/no-paradise-if-you-are-killed-by-a-woman-english",
-     "status": "now_showing"
-    },
-    {
-     "slug": "jailer-2-tamil",
-     "title": "Jailer 2",
-     "rating": "R15",
-     "language": "Tamil",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/jailer-2-tamil",
      "status": "now_showing"
     },
     {
@@ -1886,21 +1896,129 @@
      "status": "now_showing"
     },
     {
-     "slug": "how-to-save-the-immortal-2-english",
-     "title": "How to Save the Immortal 2",
+     "slug": "idiots-english",
+     "title": "Idiots",
      "rating": "",
      "language": "English",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/how-to-save-the-immortal-2-english",
+     "url": "https://www.ozonecinema.com/movies/idiots-english",
      "status": "coming_soon"
     },
     {
-     "slug": "aadarsha-kutumbam-house-no-47-ak-47-telugu",
-     "title": "Aadarsha Kutumbam House No: 47 - AK 47",
+     "slug": "belkis-turkish",
+     "title": "Belkis",
+     "rating": "",
+     "language": "Turkish",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/belkis-turkish",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-draw-english",
+     "title": "The Draw",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-draw-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-cycle-english",
+     "title": "The Cycle",
+     "rating": "R18",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-cycle-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-last-temptation-of-becky-english",
+     "title": "The Last Temptation of Becky",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-last-temptation-of-becky-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "victorian-psycho-english",
+     "title": "Victorian Psycho",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/victorian-psycho-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "gladiators-in-pursuit-of-challenges-tamil",
+     "title": "Gladiators - In Pursuit of Challenges",
+     "rating": "",
+     "language": "Tamil",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/gladiators-in-pursuit-of-challenges-tamil",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "aakasamlo-oka-tara-telugu",
+     "title": "Aakasamlo Oka Tara",
      "rating": "",
      "language": "Telugu",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/aadarsha-kutumbam-house-no-47-ak-47-telugu",
+     "url": "https://www.ozonecinema.com/movies/aakasamlo-oka-tara-telugu",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "crypto-arabic",
+     "title": "Crypto",
+     "rating": "",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/crypto-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "disco-malayalam",
+     "title": "Disco",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/disco-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "mayan-chapter-1-malayalam",
+     "title": "Mayan - Chapter 1",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/mayan-chapter-1-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "athimanoharam-malayalam",
+     "title": "Athimanoharam",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/athimanoharam-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "om-chapter-1-udhiram-the-blood-wood-tamil",
+     "title": "OM Chapter 1: Udhiram - The Blood Wood",
+     "rating": "",
+     "language": "Tamil",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/om-chapter-1-udhiram-the-blood-wood-tamil",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "bachelor-party-deux-malayalam",
+     "title": "Bachelor Party D&#x27;eux",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/bachelor-party-deux-malayalam",
      "status": "coming_soon"
     },
     {
@@ -2234,114 +2352,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/cocomelon-the-movie-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "athimanoharam-malayalam",
-     "title": "Athimanoharam",
-     "rating": "",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/athimanoharam-malayalam",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "mayan-chapter-1-malayalam",
-     "title": "Mayan - Chapter 1",
-     "rating": "",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/mayan-chapter-1-malayalam",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "aakasamlo-oka-tara-telugu",
-     "title": "Aakasamlo Oka Tara",
-     "rating": "",
-     "language": "Telugu",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/aakasamlo-oka-tara-telugu",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "crypto-arabic",
-     "title": "Crypto",
-     "rating": "",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/crypto-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "gladiators-in-pursuit-of-challenges-tamil",
-     "title": "Gladiators - In Pursuit of Challenges",
-     "rating": "",
-     "language": "Tamil",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/gladiators-in-pursuit-of-challenges-tamil",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-last-temptation-of-becky-english",
-     "title": "The Last Temptation of Becky",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-last-temptation-of-becky-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "victorian-psycho-english",
-     "title": "Victorian Psycho",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/victorian-psycho-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "disco-malayalam",
-     "title": "Disco",
-     "rating": "",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/disco-malayalam",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "idiots-english",
-     "title": "Idiots",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/idiots-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "belkis-turkish",
-     "title": "Belkis",
-     "rating": "",
-     "language": "Turkish",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/belkis-turkish",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-draw-english",
-     "title": "The Draw",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-draw-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-cycle-english",
-     "title": "The Cycle",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-cycle-english",
      "status": "coming_soon"
     }
    ]
