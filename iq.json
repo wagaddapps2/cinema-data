@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T18:36:12.704Z",
+ "updatedAt": "2026-10-28T00:36:08.108Z",
  "territory": "IQ",
  "cinemas": {
   "elcinema-iq": {
@@ -219,15 +219,6 @@
      "language": "",
      "releaseDate": "2026-12-18",
      "url": "https://elcinema.com/en/work/2096404/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2097360/",
      "status": "coming_soon"
     },
     {
