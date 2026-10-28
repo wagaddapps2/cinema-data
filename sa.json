@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-10-28T00:35:56.430Z",
+ "updatedAt": "2026-10-28T06:36:37.512Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
    "name": "Cinemas in Saudi Arabia",
    "films": [
     {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
+     "slug": "2097360",
+     "title": "The Mongoose",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2099119/",
+     "url": "https://elcinema.com/en/work/2097360/",
      "status": "now_showing"
     },
     {
@@ -21,15 +21,6 @@
      "language": "",
      "releaseDate": "2026-10-28",
      "url": "https://elcinema.com/en/work/2099773/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2097360/",
      "status": "now_showing"
     },
     {
@@ -51,12 +42,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099119",
+     "title": "Sense and Sensibility",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2099119/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2096928",
      "title": "Naseeb",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
      "url": "https://elcinema.com/en/work/2096928/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1848865",
+     "title": "Naseeb",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/1848865/",
      "status": "now_showing"
     },
     {
@@ -69,15 +78,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101953",
-     "title": "BTS World Tour 'Arirang' in Buenos Aires: Live Viewing",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-25",
-     "url": "https://elcinema.com/en/work/2101953/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102435",
      "title": "Hybe Cheering Party",
      "rating": "",
@@ -87,12 +87,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102342",
-     "title": "Udumbanchola Vision",
+     "slug": "2101953",
+     "title": "BTS World Tour 'Arirang' in Buenos Aires: Live Viewing",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-23",
-     "url": "https://elcinema.com/en/work/2102342/",
+     "releaseDate": "2026-10-25",
+     "url": "https://elcinema.com/en/work/2101953/",
      "status": "now_showing"
     },
     {
@@ -105,21 +105,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102340",
-     "title": "Titans",
+     "slug": "2102342",
+     "title": "Udumbanchola Vision",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102340/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102431",
-     "title": "Enhypen World Tour 'Blood Saga'",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102431/",
+     "releaseDate": "2026-10-23",
+     "url": "https://elcinema.com/en/work/2102342/",
      "status": "now_showing"
     },
     {
@@ -141,12 +132,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2093501",
-     "title": "Klara and the Sun",
+     "slug": "2102340",
+     "title": "Titans",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-21",
-     "url": "https://elcinema.com/en/work/2093501/",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102340/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102431",
+     "title": "Enhypen World Tour 'Blood Saga'",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102431/",
      "status": "now_showing"
     },
     {
@@ -156,6 +156,24 @@
      "language": "",
      "releaseDate": "2026-10-21",
      "url": "https://elcinema.com/en/work/2102265/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2093501",
+     "title": "Klara and the Sun",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-21",
+     "url": "https://elcinema.com/en/work/2093501/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-21",
+     "url": "https://elcinema.com/en/work/2098155/",
      "status": "now_showing"
     },
     {
@@ -177,24 +195,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-21",
-     "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097036",
-     "title": "Avengers: Doomsday",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-18",
-     "url": "https://elcinema.com/en/work/2097036/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099166",
      "title": "Ranabaali",
      "rating": "",
@@ -204,12 +204,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099122",
-     "title": "Forgotten Island",
+     "slug": "2097221",
+     "title": "Jailer 2",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2099122/",
+     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     },
     {
@@ -222,12 +222,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097221",
-     "title": "Jailer 2",
+     "slug": "2099122",
+     "title": "Forgotten Island",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2097221/",
+     "url": "https://elcinema.com/en/work/2099122/",
      "status": "now_showing"
     },
     {
@@ -264,15 +264,6 @@
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2101997/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100812",
-     "title": "Charlie Harper",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-30",
-     "url": "https://elcinema.com/en/work/2100812/",
      "status": "now_showing"
     },
     {
@@ -339,21 +330,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2094924",
-     "title": "Coyote vs. Acme",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-26",
-     "url": "https://elcinema.com/en/work/2094924/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095133",
      "title": "El Set Lamma (Veto)",
      "rating": "",
      "language": "",
      "releaseDate": "2026-08-26",
      "url": "https://elcinema.com/en/work/2095133/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2094924",
+     "title": "Coyote vs. Acme",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-26",
+     "url": "https://elcinema.com/en/work/2094924/",
      "status": "now_showing"
     },
     {
@@ -582,15 +573,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "2101649",
-     "title": "The Influencer Project",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101649/",
-     "status": "coming_soon"
-    },
-    {
      "slug": "2102000",
      "title": "Udta Teer",
      "rating": "",
@@ -624,15 +606,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102344/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2102349",
-     "title": "Princess Stella",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102349/",
      "status": "coming_soon"
     },
     {

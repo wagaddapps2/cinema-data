@@ -1,10 +1,55 @@
 {
- "updatedAt": "2026-10-28T00:36:00.926Z",
+ "updatedAt": "2026-10-28T06:36:41.802Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
    "name": "Cinemas in Bahrain",
    "films": [
+    {
+     "slug": "2090950",
+     "title": "Hope",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2090950/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099773",
+     "title": "Wala Kan Ala El-Bal",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2099773/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097360",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2097360/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2088495",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2088495/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096928",
+     "title": "Naseeb",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2096928/",
+     "status": "now_showing"
+    },
     {
      "slug": "2102435",
      "title": "Hybe Cheering Party",
@@ -15,21 +60,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102433",
-     "title": "Tomorrow X Together World Tour 'Act: Tomorrow'",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-24",
-     "url": "https://elcinema.com/en/work/2102433/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102431",
      "title": "Enhypen World Tour 'Blood Saga'",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-24",
      "url": "https://elcinema.com/en/work/2102431/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2053164",
+     "title": "Black Water",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-23",
+     "url": "https://elcinema.com/en/work/2053164/",
      "status": "now_showing"
     },
     {
@@ -51,12 +96,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101651",
-     "title": "The Dino Family",
+     "slug": "2101940",
+     "title": "Treasure Trekkers",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101651/",
+     "url": "https://elcinema.com/en/work/2101940/",
      "status": "now_showing"
     },
     {
@@ -69,6 +114,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101651",
+     "title": "The Dino Family",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101651/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101935",
      "title": "No Paradise If You Are Killed by a Woman",
      "rating": "",
@@ -78,21 +132,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101940",
-     "title": "Treasure Trekkers",
+     "slug": "2102346",
+     "title": "418",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101940/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102340",
-     "title": "Titans",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102340/",
+     "url": "https://elcinema.com/en/work/2102346/",
      "status": "now_showing"
     },
     {
@@ -141,15 +186,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102294",
-     "title": "Nayi Naveli",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2102294/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099122",
      "title": "Forgotten Island",
      "rating": "",
@@ -159,12 +195,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097221",
-     "title": "Jailer 2",
+     "slug": "2102294",
+     "title": "Nayi Naveli",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2097221/",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2102294/",
      "status": "now_showing"
     },
     {
@@ -174,6 +210,15 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097221",
+     "title": "Jailer 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     },
     {
@@ -357,15 +402,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "2101649",
-     "title": "The Influencer Project",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101649/",
-     "status": "coming_soon"
-    },
-    {
      "slug": "2102000",
      "title": "Udta Teer",
      "rating": "",
@@ -399,15 +435,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102344/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2102349",
-     "title": "Princess Stella",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102349/",
      "status": "coming_soon"
     },
     {

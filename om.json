@@ -1,17 +1,53 @@
 {
- "updatedAt": "2026-10-28T00:36:03.153Z",
+ "updatedAt": "2026-10-28T06:36:45.254Z",
  "territory": "OM",
  "cinemas": {
   "elcinema-om": {
    "name": "Cinemas in Oman",
    "films": [
     {
-     "slug": "2101953",
-     "title": "BTS World Tour 'Arirang' in Buenos Aires: Live Viewing",
+     "slug": "2096928",
+     "title": "Naseeb",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-25",
-     "url": "https://elcinema.com/en/work/2101953/",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2096928/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2088495",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2088495/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101649",
+     "title": "The Influencer Project",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2101649/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099773",
+     "title": "Wala Kan Ala El-Bal",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2099773/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097360",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2097360/",
      "status": "now_showing"
     },
     {
@@ -24,12 +60,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102433",
-     "title": "Tomorrow X Together World Tour 'Act: Tomorrow'",
+     "slug": "2101953",
+     "title": "BTS World Tour 'Arirang' in Buenos Aires: Live Viewing",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-24",
-     "url": "https://elcinema.com/en/work/2102433/",
+     "releaseDate": "2026-10-25",
+     "url": "https://elcinema.com/en/work/2101953/",
      "status": "now_showing"
     },
     {
@@ -39,6 +75,15 @@
      "language": "",
      "releaseDate": "2026-10-24",
      "url": "https://elcinema.com/en/work/2102431/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102433",
+     "title": "Tomorrow X Together World Tour 'Act: Tomorrow'",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-24",
+     "url": "https://elcinema.com/en/work/2102433/",
      "status": "now_showing"
     },
     {
@@ -60,6 +105,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102337",
+     "title": "Pehla Pyaar Doosri Baar",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102337/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101651",
      "title": "The Dino Family",
      "rating": "",
@@ -78,39 +132,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102337",
-     "title": "Pehla Pyaar Doosri Baar",
+     "slug": "2102346",
+     "title": "418",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102337/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102340",
-     "title": "Titans",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102340/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102341",
-     "title": "Always Yours, Never Mine",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102341/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102342",
-     "title": "Udumbanchola Vision",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102342/",
+     "url": "https://elcinema.com/en/work/2102346/",
      "status": "now_showing"
     },
     {
@@ -123,12 +150,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102346",
-     "title": "418",
+     "slug": "2102342",
+     "title": "Udumbanchola Vision",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102346/",
+     "url": "https://elcinema.com/en/work/2102342/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102341",
+     "title": "Always Yours, Never Mine",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102341/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102340",
+     "title": "Titans",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102340/",
      "status": "now_showing"
     },
     {
@@ -177,21 +222,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095519",
      "title": "Other Mommy",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -375,15 +420,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "2101649",
-     "title": "The Influencer Project",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101649/",
-     "status": "coming_soon"
-    },
-    {
      "slug": "2102000",
      "title": "Udta Teer",
      "rating": "",
@@ -417,15 +453,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102344/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2102349",
-     "title": "Princess Stella",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102349/",
      "status": "coming_soon"
     },
     {
