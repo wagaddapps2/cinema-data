@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T12:36:55.529Z",
+ "updatedAt": "2026-10-29T18:36:38.986Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -989,7 +989,7 @@
     {
      "slug": "the-cat-in-the-hat-english",
      "title": "The Cat in the Hat",
-     "rating": "",
+     "rating": "PG",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-cat-in-the-hat-english",
@@ -1433,15 +1433,6 @@
    "name": "Ozone Cinemas Jahra",
    "films": [
     {
-     "slug": "godzilla-minus-zero-japanese",
-     "title": "Godzilla Minus Zero",
-     "rating": "PG12",
-     "language": "Japanese",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/godzilla-minus-zero-japanese",
-     "status": "now_showing"
-    },
-    {
      "slug": "wildwood-english",
      "title": "Wildwood",
      "rating": "PG12",
@@ -1466,6 +1457,15 @@
      "language": "Telugu",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/aadarsha-kutumbam-house-no-47-ak-47-telugu",
+     "status": "now_showing"
+    },
+    {
+     "slug": "godzilla-minus-zero-japanese",
+     "title": "Godzilla Minus Zero",
+     "rating": "PG12",
+     "language": "Japanese",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/godzilla-minus-zero-japanese",
      "status": "now_showing"
     },
     {
@@ -1570,7 +1570,7 @@
     {
      "slug": "the-cat-in-the-hat-english",
      "title": "The Cat in the Hat",
-     "rating": "",
+     "rating": "PG",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-cat-in-the-hat-english",

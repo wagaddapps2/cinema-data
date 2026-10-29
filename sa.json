@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T12:38:47.116Z",
+ "updatedAt": "2026-10-29T18:38:29.434Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
@@ -150,15 +150,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2049932",
-     "title": "Yomeddine",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2049932/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101940",
      "title": "Treasure Trekkers",
      "rating": "",
@@ -168,12 +159,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102265",
-     "title": "Soy",
+     "slug": "2049932",
+     "title": "Yomeddine",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-21",
-     "url": "https://elcinema.com/en/work/2102265/",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2049932/",
      "status": "now_showing"
     },
     {
@@ -195,6 +186,33 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102265",
+     "title": "Soy",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-21",
+     "url": "https://elcinema.com/en/work/2102265/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097221",
+     "title": "Jailer 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2097221/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2096857",
      "title": "Street Fighter",
      "rating": "",
@@ -213,21 +231,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097221",
-     "title": "Jailer 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2097221/",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -237,15 +246,6 @@
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {

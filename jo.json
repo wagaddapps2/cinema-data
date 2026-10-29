@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-10-29T12:38:57.285Z",
+ "updatedAt": "2026-10-29T18:38:36.945Z",
  "territory": "JO",
  "cinemas": {
   "elcinema-jo": {
    "name": "Cinemas in Jordan",
    "films": [
     {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
+     "slug": "2097360",
+     "title": "The Mongoose",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2099119/",
+     "url": "https://elcinema.com/en/work/2097360/",
      "status": "now_showing"
     },
     {
@@ -24,21 +24,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099119",
+     "title": "Sense and Sensibility",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2099119/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2096928",
      "title": "Naseeb",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2096928/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2097360/",
      "status": "now_showing"
     },
     {
@@ -57,6 +57,15 @@
      "language": "",
      "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -111,6 +120,24 @@
      "language": "",
      "releaseDate": "2026-09-17",
      "url": "https://elcinema.com/en/work/2098173/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095329",
+     "title": "The Odyssey",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-07-16",
+     "url": "https://elcinema.com/en/work/2095329/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2093181",
+     "title": "Saqr w Kanarya",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-06-25",
+     "url": "https://elcinema.com/en/work/2093181/",
      "status": "now_showing"
     },
     {
