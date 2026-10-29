@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-10-29T00:35:28.643Z",
+ "updatedAt": "2026-10-29T06:39:54.525Z",
  "territory": "IQ",
  "cinemas": {
   "elcinema-iq": {
    "name": "Cinemas in Iraq",
    "films": [
     {
-     "slug": "2102527",
-     "title": "Belkis",
+     "slug": "2088495",
+     "title": "Wildwood",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102527/",
+     "url": "https://elcinema.com/en/work/2088495/",
      "status": "now_showing"
     },
     {
@@ -60,12 +60,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2088495",
-     "title": "Wildwood",
+     "slug": "2102527",
+     "title": "Belkis",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2088495/",
+     "url": "https://elcinema.com/en/work/2102527/",
      "status": "now_showing"
     },
     {
@@ -96,12 +96,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101940",
+     "title": "Treasure Trekkers",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101940/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102265",
      "title": "Soy",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2102265/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102195",
+     "title": "Saoud Wainah",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102195/",
      "status": "now_showing"
     },
     {
@@ -141,12 +159,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100562",
      "title": "Heart of the Beast",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-23",
      "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101968",
+     "title": "Anfa 8",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-23",
+     "url": "https://elcinema.com/en/work/2101968/",
      "status": "now_showing"
     },
     {
@@ -165,6 +201,24 @@
      "language": "",
      "releaseDate": "2026-09-16",
      "url": "https://elcinema.com/en/work/2098173/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101544",
+     "title": "Grandma's House",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-27",
+     "url": "https://elcinema.com/en/work/2101544/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095765",
+     "title": "Spider-Man: Brand New Day",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-07-29",
+     "url": "https://elcinema.com/en/work/2095765/",
      "status": "now_showing"
     },
     {

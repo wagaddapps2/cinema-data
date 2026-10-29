@@ -1,35 +1,17 @@
 {
- "updatedAt": "2026-10-29T00:35:19.563Z",
+ "updatedAt": "2026-10-29T06:39:47.972Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
    "name": "Cinemas in Saudi Arabia",
    "films": [
     {
-     "slug": "2101649",
-     "title": "The Influencer Project",
+     "slug": "2102517",
+     "title": "How to Save the Immortal 2: Elixir of Life",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2101649/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101651",
-     "title": "The Dino Family",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2101651/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2093435",
-     "title": "It Feeds",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2093435/",
+     "url": "https://elcinema.com/en/work/2102517/",
      "status": "now_showing"
     },
     {
@@ -42,12 +24,39 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102517",
-     "title": "How to Save the Immortal 2: Elixir of Life",
+     "slug": "2102339",
+     "title": "Kabaddi 5 - After the Final Match",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102517/",
+     "url": "https://elcinema.com/en/work/2102339/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2093435",
+     "title": "It Feeds",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2093435/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101651",
+     "title": "The Dino Family",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2101651/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101649",
+     "title": "The Influencer Project",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2101649/",
      "status": "now_showing"
     },
     {
@@ -57,6 +66,15 @@
      "language": "",
      "releaseDate": "2026-10-28",
      "url": "https://elcinema.com/en/work/2099119/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096928",
+     "title": "Naseeb",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2096928/",
      "status": "now_showing"
     },
     {
@@ -78,12 +96,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096928",
-     "title": "Naseeb",
+     "slug": "2099773",
+     "title": "Wala Kan Ala El-Bal",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2096928/",
+     "url": "https://elcinema.com/en/work/2099773/",
      "status": "now_showing"
     },
     {
@@ -96,12 +114,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
+     "slug": "2102437",
+     "title": "Seventeen World Tour (New_)",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2099773/",
+     "releaseDate": "2026-10-26",
+     "url": "https://elcinema.com/en/work/2102437/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2059139",
+     "title": "143 Sahara Street",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-23",
+     "url": "https://elcinema.com/en/work/2059139/",
      "status": "now_showing"
     },
     {
@@ -114,6 +141,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102340",
+     "title": "Titans",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102340/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2049932",
+     "title": "Yomeddine",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2049932/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102265",
      "title": "Soy",
      "rating": "",
@@ -123,12 +168,39 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102341",
+     "title": "Always Yours, Never Mine",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-21",
+     "url": "https://elcinema.com/en/work/2102341/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-21",
      "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -147,24 +219,6 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099122",
-     "title": "Forgotten Island",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2099122/",
      "status": "now_showing"
     },
     {
@@ -240,12 +294,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2095133",
+     "title": "El Set Lamma (Veto)",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-26",
+     "url": "https://elcinema.com/en/work/2095133/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100028",
      "title": "Colony",
      "rating": "",
      "language": "",
      "releaseDate": "2026-08-26",
      "url": "https://elcinema.com/en/work/2100028/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101329",
+     "title": "Lumivia - The Five Magical Wishes",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-20",
+     "url": "https://elcinema.com/en/work/2101329/",
      "status": "now_showing"
     },
     {
@@ -372,6 +444,15 @@
      "language": "",
      "releaseDate": "2023-10-26",
      "url": "https://elcinema.com/en/work/2082806/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2061686",
+     "title": "Peninsula",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2020-08-13",
+     "url": "https://elcinema.com/en/work/2061686/",
      "status": "now_showing"
     },
     {

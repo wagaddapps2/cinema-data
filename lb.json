@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T00:35:26.233Z",
+ "updatedAt": "2026-10-29T06:39:51.833Z",
  "territory": "LB",
  "cinemas": {
   "elcinema-lb": {
@@ -96,6 +96,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
@@ -129,15 +138,6 @@
      "language": "",
      "releaseDate": "2026-09-24",
      "url": "https://elcinema.com/en/work/2100562/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098173",
-     "title": "Resident Evil",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2098173/",
      "status": "now_showing"
     },
     {
