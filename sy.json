@@ -1,26 +1,44 @@
 {
- "updatedAt": "2026-10-29T06:39:52.516Z",
+ "updatedAt": "2026-10-29T12:38:58.078Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
    "name": "Cinemas in Syria",
    "films": [
     {
-     "slug": "2074764",
-     "title": "Champions",
+     "slug": "2102532",
+     "title": "The Rocket from Calabuch",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2074764/",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102532/",
      "status": "now_showing"
     },
     {
-     "slug": "2102513",
-     "title": "Mataharis",
+     "slug": "2099773",
+     "title": "Wala Kan Ala El-Bal",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2102513/",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2099773/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100794",
+     "title": "The Cycle",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2100794/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102233",
+     "title": "Love Language",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102233/",
      "status": "now_showing"
     },
     {
@@ -57,42 +75,6 @@
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098173",
-     "title": "Resident Evil",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2098173/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2094924",
-     "title": "Coyote vs. Acme",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-03",
-     "url": "https://elcinema.com/en/work/2094924/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099118",
-     "title": "Insidious: Out of the Further",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-20",
-     "url": "https://elcinema.com/en/work/2099118/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2093181",
-     "title": "Saqr w Kanarya",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-06-25",
-     "url": "https://elcinema.com/en/work/2093181/",
      "status": "now_showing"
     },
     {

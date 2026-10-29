@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T06:39:54.778Z",
+ "updatedAt": "2026-10-29T12:39:00.331Z",
  "territory": "TN",
  "cinemas": {
   "elcinema-tn": {
@@ -21,6 +21,15 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2102268/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102269",
+     "title": "Fana Mahat Bash Tethat",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2102269/",
      "status": "now_showing"
     },
     {

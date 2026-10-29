@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-10-29T06:39:51.453Z",
+ "updatedAt": "2026-10-29T12:38:55.945Z",
  "territory": "OM",
  "cinemas": {
   "elcinema-om": {
    "name": "Cinemas in Oman",
    "films": [
+    {
+     "slug": "2102001",
+     "title": "Delhi Gate",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102001/",
+     "status": "now_showing"
+    },
     {
      "slug": "2102517",
      "title": "How to Save the Immortal 2: Elixir of Life",
@@ -12,15 +21,6 @@
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2102517/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2093435",
-     "title": "It Feeds",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2093435/",
      "status": "now_showing"
     },
     {
@@ -33,21 +33,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102185",
-     "title": "Adarsha Kutumbam House No: 47",
+     "slug": "2102350",
+     "title": "Orijinal",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102185/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102265",
-     "title": "Soy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102265/",
+     "url": "https://elcinema.com/en/work/2102350/",
      "status": "now_showing"
     },
     {
@@ -60,12 +51,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102350",
-     "title": "Orijinal",
+     "slug": "2102265",
+     "title": "Soy",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102350/",
+     "url": "https://elcinema.com/en/work/2102265/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2093435",
+     "title": "It Feeds",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2093435/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099773",
+     "title": "Wala Kan Ala El-Bal",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2099773/",
      "status": "now_showing"
     },
     {
@@ -87,12 +96,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
+     "slug": "2088495",
+     "title": "Wildwood",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2099773/",
+     "url": "https://elcinema.com/en/work/2088495/",
      "status": "now_showing"
     },
     {
@@ -102,15 +111,6 @@
      "language": "",
      "releaseDate": "2026-10-28",
      "url": "https://elcinema.com/en/work/2101649/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2088495",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2088495/",
      "status": "now_showing"
     },
     {
@@ -132,6 +132,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102340",
+     "title": "Titans",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102340/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101651",
      "title": "The Dino Family",
      "rating": "",
@@ -150,21 +159,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101935",
+     "title": "No Paradise If You Are Killed by a Woman",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101935/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102345",
+     "title": "Tu Hai Meri Kiran",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102345/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-21",
      "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097221",
-     "title": "Jailer 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     },
     {
@@ -183,6 +201,15 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097221",
+     "title": "Jailer 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     },
     {
@@ -363,15 +390,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102000/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2102001",
-     "title": "Delhi Gate",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102001/",
      "status": "coming_soon"
     },
     {

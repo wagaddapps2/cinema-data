@@ -1,28 +1,10 @@
 {
- "updatedAt": "2026-10-29T06:39:47.972Z",
+ "updatedAt": "2026-10-29T12:38:47.116Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
    "name": "Cinemas in Saudi Arabia",
    "films": [
-    {
-     "slug": "2102517",
-     "title": "How to Save the Immortal 2: Elixir of Life",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102517/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102350",
-     "title": "Orijinal",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102350/",
-     "status": "now_showing"
-    },
     {
      "slug": "2102339",
      "title": "Kabaddi 5 - After the Final Match",
@@ -33,21 +15,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2093435",
-     "title": "It Feeds",
+     "slug": "2102517",
+     "title": "How to Save the Immortal 2: Elixir of Life",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2093435/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101651",
-     "title": "The Dino Family",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2101651/",
+     "url": "https://elcinema.com/en/work/2102517/",
      "status": "now_showing"
     },
     {
@@ -60,21 +33,48 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
+     "slug": "2102350",
+     "title": "Orijinal",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2099119/",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102350/",
      "status": "now_showing"
     },
     {
-     "slug": "2096928",
-     "title": "Naseeb",
+     "slug": "2101651",
+     "title": "The Dino Family",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2101651/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2093435",
+     "title": "It Feeds",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2093435/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2029710",
+     "title": "Sense and Sensibility",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2029710/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097360",
+     "title": "The Mongoose",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2096928/",
+     "url": "https://elcinema.com/en/work/2097360/",
      "status": "now_showing"
     },
     {
@@ -105,12 +105,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097360",
-     "title": "The Mongoose",
+     "slug": "2099119",
+     "title": "Sense and Sensibility",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2097360/",
+     "url": "https://elcinema.com/en/work/2099119/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096928",
+     "title": "Naseeb",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2096928/",
      "status": "now_showing"
     },
     {
@@ -132,15 +141,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101940",
-     "title": "Treasure Trekkers",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101940/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102340",
      "title": "Titans",
      "rating": "",
@@ -156,6 +156,15 @@
      "language": "",
      "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2049932/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101940",
+     "title": "Treasure Trekkers",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101940/",
      "status": "now_showing"
     },
     {
@@ -186,15 +195,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099122",
-     "title": "Forgotten Island",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2099122/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2096857",
      "title": "Street Fighter",
      "rating": "",
@@ -204,12 +204,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097221",
-     "title": "Jailer 2",
+     "slug": "2099122",
+     "title": "Forgotten Island",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2097221/",
+     "url": "https://elcinema.com/en/work/2099122/",
      "status": "now_showing"
     },
     {
@@ -222,12 +222,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
+     "slug": "2097221",
+     "title": "Jailer 2",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2099520/",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     },
     {
@@ -237,6 +237,15 @@
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -264,6 +273,24 @@
      "language": "",
      "releaseDate": "2026-09-30",
      "url": "https://elcinema.com/en/work/2100812/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097950",
+     "title": "Digger",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-29",
+     "url": "https://elcinema.com/en/work/2097950/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101963",
+     "title": "The Smurfs: Timeless Adventure Volume 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2101963/",
      "status": "now_showing"
     },
     {
@@ -312,6 +339,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2094924",
+     "title": "Coyote vs. Acme",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-26",
+     "url": "https://elcinema.com/en/work/2094924/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101329",
      "title": "Lumivia - The Five Magical Wishes",
      "rating": "",
@@ -327,6 +363,15 @@
      "language": "",
      "releaseDate": "2026-08-18",
      "url": "https://elcinema.com/en/work/2099118/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2094876",
+     "title": "Mutiny",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-13",
+     "url": "https://elcinema.com/en/work/2094876/",
      "status": "now_showing"
     },
     {
@@ -372,6 +417,15 @@
      "language": "",
      "releaseDate": "2026-07-08",
      "url": "https://elcinema.com/en/work/2099406/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098745",
+     "title": "Minions & Monsters",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-07-01",
+     "url": "https://elcinema.com/en/work/2098745/",
      "status": "now_showing"
     },
     {
@@ -447,21 +501,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2061686",
-     "title": "Peninsula",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2020-08-13",
-     "url": "https://elcinema.com/en/work/2061686/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2044050",
      "title": "Train to Busan",
      "rating": "",
      "language": "",
      "releaseDate": "2020-08-13",
      "url": "https://elcinema.com/en/work/2044050/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2061686",
+     "title": "Peninsula",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2020-08-13",
+     "url": "https://elcinema.com/en/work/2061686/",
      "status": "now_showing"
     },
     {
@@ -561,15 +615,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102000/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2102001",
-     "title": "Delhi Gate",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102001/",
      "status": "coming_soon"
     },
     {

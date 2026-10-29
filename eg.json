@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T06:39:33.929Z",
+ "updatedAt": "2026-10-29T12:38:34.325Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
@@ -15,30 +15,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2088495",
      "title": "Wildwood",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2093435",
-     "title": "It Feeds",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2093435/",
      "status": "now_showing"
     },
     {
@@ -57,6 +39,24 @@
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2101649/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2093435",
+     "title": "It Feeds",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2093435/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097360",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2097360/",
      "status": "now_showing"
     },
     {
@@ -96,24 +96,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100780",
-     "title": "Infiltrate",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2100780/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101935",
-     "title": "No Paradise If You Are Killed by a Woman",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101935/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099773",
      "title": "Wala Kan Ala El-Bal",
      "rating": "",
@@ -123,21 +105,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2093506",
      "title": "The Magic Faraway Tree",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2093506/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -471,15 +453,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2100782/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2100794",
-     "title": "The Cycle",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100794/",
      "status": "coming_soon"
     },
     {
