@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T18:35:40.121Z",
+ "updatedAt": "2026-10-29T00:35:11.588Z",
  "territory": "BE",
  "cinemas": {
   "cinebel-693": {
@@ -9,7 +9,7 @@
    "address": "Galerie du Centre - Rue des Fripiers 15, 1000 Bruxelles",
    "lat": 50.8469,
    "lng": 4.3667,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027908",
@@ -107,8 +107,9 @@
      "rating": "16+",
      "language": "VO",
      "releaseDate": null,
+     "firstShowing": "2026-10-30",
      "url": "https://cinebel.dhnet.be/cinema/693/Aventure%20Cin%C3%A9%20Confort#movie15787",
-     "status": "now_showing"
+     "status": "coming_soon"
     },
     {
      "slug": "1016433",
@@ -276,7 +277,7 @@
    "address": "Rue du Nord, 6830 Bouillon",
    "lat": 49.7952,
    "lng": 5.0676,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027908",
@@ -420,7 +421,7 @@
    "address": "Rue Ravenstein 23, 1000 Bruxelles",
    "lat": 50.8443,
    "lng": 4.3595,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1026698",
@@ -441,9 +442,8 @@
      "rating": "",
      "language": "VO",
      "releaseDate": null,
-     "firstShowing": "2026-10-29",
      "url": "https://cinebel.dhnet.be/cinema/712/Bozar#movie1027988",
-     "status": "coming_soon"
+     "status": "now_showing"
     },
     {
      "slug": "1028087",
@@ -501,8 +501,9 @@
      "rating": "",
      "language": "VO",
      "releaseDate": null,
+     "firstShowing": "2026-10-31",
      "url": "https://cinebel.dhnet.be/cinema/712/Bozar#movie1027987",
-     "status": "now_showing"
+     "status": "coming_soon"
     },
     {
      "slug": "1028089",
@@ -524,9 +525,8 @@
      "rating": "",
      "language": "VO",
      "releaseDate": null,
-     "firstShowing": "2026-10-29",
      "url": "https://cinebel.dhnet.be/cinema/712/Bozar#movie1027798",
-     "status": "coming_soon"
+     "status": "now_showing"
     },
     {
      "slug": "1028088",
@@ -572,7 +572,7 @@
    "address": "Rue Baron Horta 9, 1000 Bruxelles",
    "lat": 50.8442,
    "lng": 4.3602,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1002453",
@@ -640,8 +640,9 @@
      "rating": "AL",
      "language": "VO",
      "releaseDate": null,
+     "firstShowing": "2026-11-04",
      "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie8455",
-     "status": "now_showing"
+     "status": "coming_soon"
     },
     {
      "slug": "1017048",
@@ -906,17 +907,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "1006587",
-     "title": "Hugo Cabret",
-     "originalTitle": "Hugo",
-     "year": 2011,
-     "rating": "9+",
-     "language": "VF",
-     "releaseDate": "2011-12-21",
-     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1006587",
-     "status": "now_showing"
-    },
-    {
      "slug": "1027993",
      "title": "Hélène Trésore Transnationale",
      "originalTitle": "",
@@ -1007,17 +997,6 @@
      "language": "VO",
      "releaseDate": "2009-10-21",
      "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1004209",
-     "status": "now_showing"
-    },
-    {
-     "slug": "1027989",
-     "title": "José van Dam, 25 ans après",
-     "originalTitle": "",
-     "year": 2007,
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1027989",
      "status": "now_showing"
     },
     {
@@ -1122,9 +1101,8 @@
      "rating": "AL",
      "language": "VO",
      "releaseDate": null,
-     "firstShowing": "2026-10-29",
      "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie11747",
-     "status": "coming_soon"
+     "status": "now_showing"
     },
     {
      "slug": "6812",
@@ -1137,17 +1115,6 @@
      "firstShowing": "2026-10-31",
      "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie6812",
      "status": "coming_soon"
-    },
-    {
-     "slug": "11130",
-     "title": "La Femme des sables",
-     "originalTitle": "Suna no onna",
-     "year": 1964,
-     "rating": "12+",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie11130",
-     "status": "now_showing"
     },
     {
      "slug": "6700",
@@ -1205,9 +1172,8 @@
      "rating": "AL",
      "language": "VO",
      "releaseDate": null,
-     "firstShowing": "2026-10-29",
      "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie8478",
-     "status": "coming_soon"
+     "status": "now_showing"
     },
     {
      "slug": "549",
@@ -1289,9 +1255,8 @@
      "rating": "AL",
      "language": "VO",
      "releaseDate": null,
-     "firstShowing": "2026-10-29",
      "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie566",
-     "status": "coming_soon"
+     "status": "now_showing"
     },
     {
      "slug": "3839",
@@ -1448,17 +1413,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "13641",
-     "title": "Les Sorcières",
-     "originalTitle": "The Witches",
-     "year": 1990,
-     "rating": "9+",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie13641",
-     "status": "now_showing"
-    },
-    {
      "slug": "9877",
      "title": "Les Tueurs fous",
      "originalTitle": "",
@@ -1490,8 +1444,9 @@
      "rating": "AL",
      "language": "VO",
      "releaseDate": null,
+     "firstShowing": "2026-10-30",
      "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie15783",
-     "status": "now_showing"
+     "status": "coming_soon"
     },
     {
      "slug": "1027992",
@@ -1560,9 +1515,8 @@
      "rating": "AL",
      "language": "VO",
      "releaseDate": null,
-     "firstShowing": "2026-10-29",
      "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1008883",
-     "status": "coming_soon"
+     "status": "now_showing"
     },
     {
      "slug": "1004208",
@@ -1859,7 +1813,7 @@
    "address": "Rue Notre Dame de Grâces 2, 6900 Marche-en-Famenne",
    "lat": 50.2299,
    "lng": 5.3424,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027606",
@@ -2035,7 +1989,7 @@
    "address": "Place Sainte-Croix, 1050 Bruxelles",
    "lat": 50.8266,
    "lng": 4.3727,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "4721",
@@ -2150,17 +2104,6 @@
      "firstShowing": "2026-11-19",
      "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie1028100",
      "status": "coming_soon"
-    },
-    {
-     "slug": "1027982",
-     "title": "L'Autre Côté du soleil",
-     "originalTitle": "",
-     "year": 2026,
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie1027982",
-     "status": "now_showing"
     },
     {
      "slug": "1027750",
@@ -2340,9 +2283,8 @@
      "rating": "",
      "language": "VO",
      "releaseDate": null,
-     "firstShowing": "2026-10-29",
      "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie1027643",
-     "status": "coming_soon"
+     "status": "now_showing"
     },
     {
      "slug": "8087",
@@ -2410,7 +2352,7 @@
    "address": "Kaasstraat 4-6, 2000 Antwerpen",
    "lat": 51.2215,
    "lng": 4.398,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027586",
@@ -2633,7 +2575,7 @@
    "address": "Ter Duinenlaan 51, 8670 Koksijde",
    "lat": 51.1113,
    "lng": 2.6293,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027606",
@@ -2687,8 +2629,9 @@
      "rating": "AL",
      "language": "VO",
      "releaseDate": null,
+     "firstShowing": "2026-10-31",
      "url": "https://cinebel.dhnet.be/cinema/978/Cinema%20Koksijde#movie1028054",
-     "status": "now_showing"
+     "status": "coming_soon"
     },
     {
      "slug": "1027968",
@@ -2698,8 +2641,9 @@
      "rating": "AL",
      "language": "VO",
      "releaseDate": null,
+     "firstShowing": "2026-10-31",
      "url": "https://cinebel.dhnet.be/cinema/978/Cinema%20Koksijde#movie1027968",
-     "status": "now_showing"
+     "status": "coming_soon"
     },
     {
      "slug": "1027312",
@@ -2864,7 +2808,7 @@
    "address": "Monicastraat, 11, 8420 De Haan",
    "lat": 51.2717,
    "lng": 3.0356,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027586",
@@ -2908,8 +2852,9 @@
      "rating": "AL",
      "language": "VO",
      "releaseDate": null,
+     "firstShowing": "2026-10-31",
      "url": "https://cinebel.dhnet.be/cinema/971/Cinema%20Rio#movie1027968",
-     "status": "now_showing"
+     "status": "coming_soon"
     },
     {
      "slug": "1027742",
@@ -3008,7 +2953,7 @@
    "address": "Naamsestraat 96, 3000 Leuven",
    "lat": 50.8739,
    "lng": 4.6991,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027586",
@@ -3085,7 +3030,7 @@
    "address": "Andreas Vesaliusstraat 9c, 3000 Leuven",
    "lat": 50.875,
    "lng": 4.7084,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027882",
@@ -3117,9 +3062,8 @@
      "rating": "16+",
      "language": "VO",
      "releaseDate": null,
-     "firstShowing": "2026-10-29",
      "url": "https://cinebel.dhnet.be/cinema/1126/Cinema%20ZED-Vesalius#movie592",
-     "status": "coming_soon"
+     "status": "now_showing"
     },
     {
      "slug": "7530",
@@ -3129,9 +3073,8 @@
      "rating": "AL",
      "language": "VO",
      "releaseDate": null,
-     "firstShowing": "2026-10-29",
      "url": "https://cinebel.dhnet.be/cinema/1126/Cinema%20ZED-Vesalius#movie7530",
-     "status": "coming_soon"
+     "status": "now_showing"
     },
     {
      "slug": "1027662",
@@ -3142,17 +3085,6 @@
      "language": "VO",
      "releaseDate": "2026-10-14",
      "url": "https://cinebel.dhnet.be/cinema/1126/Cinema%20ZED-Vesalius#movie1027662",
-     "status": "now_showing"
-    },
-    {
-     "slug": "1028033",
-     "title": "Jeunes filles en uniforme",
-     "originalTitle": "Mädchen in Uniform",
-     "year": 1958,
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://cinebel.dhnet.be/cinema/1126/Cinema%20ZED-Vesalius#movie1028033",
      "status": "now_showing"
     },
     {
@@ -3333,7 +3265,7 @@
    "address": "Avenue de Mérode 91, 1330 Rixensart",
    "lat": 50.7117,
    "lng": 4.521,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027586",
@@ -3542,7 +3474,7 @@
    "address": "Place Général Piron 6, 5660 Couvin",
    "lat": 50.0531,
    "lng": 4.4944,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027606",
@@ -3619,17 +3551,6 @@
      "language": "VO",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/902/Cin%C3%A9%20Couvin#movie1027740",
-     "status": "now_showing"
-    },
-    {
-     "slug": "1028011",
-     "title": "La Maison de nos rêves",
-     "originalTitle": "",
-     "year": 2026,
-     "rating": "9+",
-     "language": "VO",
-     "releaseDate": "2026-10-07",
-     "url": "https://cinebel.dhnet.be/cinema/902/Cin%C3%A9%20Couvin#movie1028011",
      "status": "now_showing"
     },
     {
@@ -3762,7 +3683,7 @@
    "address": "Rue de Diekirch 36, 6700 Arlon",
    "lat": 49.6915,
    "lng": 5.8171,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027606",
@@ -3993,7 +3914,7 @@
    "address": "Rue de la Croisette 11, 5575 Gedinne",
    "lat": 49.9788,
    "lng": 4.9368,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027606",
@@ -4213,7 +4134,7 @@
    "address": "Rue de l'Eglise 20, 5670 Viroinval",
    "lat": 50.0758,
    "lng": 4.5488,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027586",
@@ -4323,19 +4244,8 @@
    "address": "Rue de Soignies 4, 1400 Nivelles",
    "lat": 50.5978,
    "lng": 4.3217,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
-    {
-     "slug": "1027216",
-     "title": "Comment le Venezuela déplace la montagne",
-     "originalTitle": "Cómo Venezuela mueve la montaña",
-     "year": 2024,
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027216",
-     "status": "now_showing"
-    },
     {
      "slug": "1027586",
      "title": "Coward",
@@ -4565,7 +4475,7 @@
    "address": "Place de la Vieille Halle aux Blés, 1000 Bruxelles",
    "lat": 50.844,
    "lng": 4.352,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027647",
@@ -4587,8 +4497,9 @@
      "rating": "16+",
      "language": "VO",
      "releaseDate": null,
+     "firstShowing": "2026-10-30",
      "url": "https://cinebel.dhnet.be/cinema/1130/Cin%C3%A9Brel%20-%20Fondation%20Jacques%20Brel#movie1027648",
-     "status": "now_showing"
+     "status": "coming_soon"
     },
     {
      "slug": "1027649",
@@ -4598,9 +4509,8 @@
      "rating": "16+",
      "language": "VO",
      "releaseDate": null,
-     "firstShowing": "2026-10-29",
      "url": "https://cinebel.dhnet.be/cinema/1130/Cin%C3%A9Brel%20-%20Fondation%20Jacques%20Brel#movie1027649",
-     "status": "coming_soon"
+     "status": "now_showing"
     },
     {
      "slug": "1027650",
@@ -4610,9 +4520,8 @@
      "rating": "16+",
      "language": "VO",
      "releaseDate": null,
-     "firstShowing": "2026-10-29",
      "url": "https://cinebel.dhnet.be/cinema/1130/Cin%C3%A9Brel%20-%20Fondation%20Jacques%20Brel#movie1027650",
-     "status": "coming_soon"
+     "status": "now_showing"
     },
     {
      "slug": "11327",
@@ -4634,7 +4543,7 @@
    "address": "Rue des Carmes 49, 5000 Namur",
    "lat": 50.4668,
    "lng": 4.8637,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1022020",
@@ -5078,7 +4987,7 @@
    "address": "Rue Notre Dame 27, 5060 Tamines",
    "lat": 50.442,
    "lng": 4.6082,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027606",
@@ -5089,17 +4998,6 @@
      "language": "VF",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/1064/Cin%C3%A9ma%20Cameo%20(Tamines)#movie1027606",
-     "status": "now_showing"
-    },
-    {
-     "slug": "1027586",
-     "title": "Coward",
-     "originalTitle": "",
-     "year": 2026,
-     "rating": "16+",
-     "language": "VO",
-     "releaseDate": "2026-10-21",
-     "url": "https://cinebel.dhnet.be/cinema/1064/Cin%C3%A9ma%20Cameo%20(Tamines)#movie1027586",
      "status": "now_showing"
     },
     {
@@ -5155,17 +5053,6 @@
      "language": "VO",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/1064/Cin%C3%A9ma%20Cameo%20(Tamines)#movie1027740",
-     "status": "now_showing"
-    },
-    {
-     "slug": "1028011",
-     "title": "La Maison de nos rêves",
-     "originalTitle": "",
-     "year": 2026,
-     "rating": "9+",
-     "language": "VO",
-     "releaseDate": "2026-10-07",
-     "url": "https://cinebel.dhnet.be/cinema/1064/Cin%C3%A9ma%20Cameo%20(Tamines)#movie1028011",
      "status": "now_showing"
     },
     {
@@ -5309,7 +5196,7 @@
    "address": "Rue de la Marlière 31, 7700 Mouscron",
    "lat": 50.7424,
    "lng": 3.2045,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027606",
@@ -5542,17 +5429,6 @@
      "releaseDate": "2026-08-12",
      "url": "https://cinebel.dhnet.be/cinema/956/Cin%C3%A9ma%20For%26ver#movie1027572",
      "status": "now_showing"
-    },
-    {
-     "slug": "1027645",
-     "title": "Verity",
-     "originalTitle": "",
-     "year": 2026,
-     "rating": "16+",
-     "language": "VF",
-     "releaseDate": "2026-09-30",
-     "url": "https://cinebel.dhnet.be/cinema/956/Cin%C3%A9ma%20For%26ver#movie1027645",
-     "status": "now_showing"
     }
    ]
   },
@@ -5563,19 +5439,8 @@
    "address": "Avenue de Hinnisdael 17, 1150 Bruxelles",
    "lat": 50.841,
    "lng": 4.4657,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
-    {
-     "slug": "1027606",
-     "title": "Clayface",
-     "originalTitle": "",
-     "year": 2026,
-     "rating": "16+",
-     "language": "VO",
-     "releaseDate": "2026-10-21",
-     "url": "https://cinebel.dhnet.be/cinema/739/Cin%C3%A9ma%20Le%20Stockel#movie1027606",
-     "status": "now_showing"
-    },
     {
      "slug": "1027586",
      "title": "Coward",
@@ -5805,7 +5670,7 @@
    "address": "Chaussée de Wavre 18, 1050 Bruxelles",
    "lat": 50.8374,
    "lng": 4.3629,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027860",
@@ -6048,7 +5913,7 @@
    "address": "Grand'Place 40, 1370 Jodoigne",
    "lat": 50.7249,
    "lng": 4.8684,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027606",
@@ -6246,7 +6111,7 @@
    "address": "Galerie de la Reine 26, 1000 Bruxelles",
    "lat": 50.8475,
    "lng": 4.3546,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1001559",
@@ -6337,17 +6202,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "1028106",
-     "title": "Le Monde à l’envers",
-     "originalTitle": "",
-     "year": 2026,
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://cinebel.dhnet.be/cinema/691/Galeries%20Cin%C3%A9ma#movie1028106",
-     "status": "now_showing"
-    },
-    {
      "slug": "1027859",
      "title": "Le Mystère Lucy Lost",
      "originalTitle": "",
@@ -6422,7 +6276,7 @@
    "address": "Boulevard André Delvaux 1, 7000 Mons",
    "lat": 50.4616,
    "lng": 3.9357,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027915",
@@ -6830,7 +6684,7 @@
    "address": "Boulevard Delwart 60, 7500 Tournai",
    "lat": 50.6147,
    "lng": 3.3866,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027586",
@@ -6919,17 +6773,6 @@
      "releaseDate": "2026-09-30",
      "url": "https://cinebel.dhnet.be/cinema/952/Imagix%20Tournai#movie1027593",
      "status": "now_showing"
-    },
-    {
-     "slug": "1027688",
-     "title": "Si tu penses bien",
-     "originalTitle": "",
-     "year": 2026,
-     "rating": "12+",
-     "language": "VO",
-     "releaseDate": "2026-10-07",
-     "url": "https://cinebel.dhnet.be/cinema/952/Imagix%20Tournai#movie1027688",
-     "status": "now_showing"
     }
    ]
   },
@@ -6940,7 +6783,7 @@
    "address": "Groenendaallaan 394, 2030 Antwerpen",
    "lat": 51.2453,
    "lng": 4.4158,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027915",
@@ -7436,7 +7279,7 @@
    "address": "Boulevard du Centenaire 20, 1020 Bruxelles",
    "lat": 50.8954,
    "lng": 4.3374,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027574",
@@ -7523,8 +7366,9 @@
      "rating": "AL",
      "language": "VO",
      "releaseDate": null,
+     "firstShowing": "2026-10-30",
      "url": "https://cinebel.dhnet.be/cinema/716/Kinepolis%20Bruxelles#movie1027968",
-     "status": "now_showing"
+     "status": "coming_soon"
     },
     {
      "slug": "1027312",
@@ -7955,7 +7799,7 @@
    "address": "Boulevard de France, 1420 Braine-l'Alleud",
    "lat": 50.6662,
    "lng": 4.3788,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027574",
@@ -8362,7 +8206,7 @@
    "address": "Chaussée de Tongres 200, 4000 Liège",
    "lat": 50.5557,
    "lng": 5.3065,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027574",
@@ -8791,7 +8635,7 @@
    "address": "Rue du Gouvernement 1, 7800 Ath",
    "lat": 50.6306,
    "lng": 3.7759,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027372",
@@ -8906,17 +8750,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "1027876",
-     "title": "Le Dernier pour la route / The Last One for the Road",
-     "originalTitle": "Andiamo a bere l'ultima",
-     "year": 2025,
-     "rating": "16+",
-     "language": "VO",
-     "releaseDate": "2026-10-14",
-     "url": "https://cinebel.dhnet.be/cinema/958/L'Ecran%20Ath#movie1027876",
-     "status": "now_showing"
-    },
-    {
      "slug": "1027844",
      "title": "Les Misérables",
      "originalTitle": "",
@@ -9025,7 +8858,7 @@
    "address": "Rue du Mouton Blanc 20, 4000 Liège",
    "lat": 50.6413,
    "lng": 5.5699,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1022020",
@@ -9348,7 +9181,7 @@
    "address": "Place Saint-Etienne 6, 6723 Habay-la-Vieille",
    "lat": 49.7231,
    "lng": 5.6184,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027606",
@@ -9437,17 +9270,6 @@
      "releaseDate": "2026-11-04",
      "url": "https://cinebel.dhnet.be/cinema/925/Le%20Foyer#movie1027902",
      "status": "coming_soon"
-    },
-    {
-     "slug": "1027524",
-     "title": "L'île des souvenirs",
-     "originalTitle": "Forgotten Island",
-     "year": 2026,
-     "rating": "6+",
-     "language": "VF",
-     "releaseDate": "2026-10-07",
-     "url": "https://cinebel.dhnet.be/cinema/925/Le%20Foyer#movie1027524",
-     "status": "now_showing"
     },
     {
      "slug": "1027594",
@@ -9590,7 +9412,7 @@
    "address": "Rue Paul Joseph Carpay 22, 4020 Liège",
    "lat": 50.6462,
    "lng": 5.6025,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027586",
@@ -9725,17 +9547,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "1027315",
-     "title": "Shaun le Mouton: La Bêêête d'Halloween",
-     "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
-     "year": 2026,
-     "rating": "AL",
-     "language": "VF",
-     "releaseDate": "2026-10-21",
-     "url": "https://cinebel.dhnet.be/cinema/864/Le%20Parc#movie1027315",
-     "status": "now_showing"
-    },
-    {
      "slug": "1027829",
      "title": "Une femme aujourd'hui",
      "originalTitle": "",
@@ -9777,7 +9588,7 @@
    "address": "Rue Sylvain Guyaux 16, 7100 La Louvière",
    "lat": 50.4754,
    "lng": 4.1864,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027606",
@@ -9986,7 +9797,7 @@
    "address": "Avenue d’Houffalize 56D, 6800 Libramont",
    "lat": 49.9462,
    "lng": 5.4224,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027606",
@@ -10209,17 +10020,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "1027645",
-     "title": "Verity",
-     "originalTitle": "",
-     "year": 2026,
-     "rating": "16+",
-     "language": "VF",
-     "releaseDate": "2026-09-30",
-     "url": "https://cinebel.dhnet.be/cinema/1128/Le%20Totem#movie1027645",
-     "status": "now_showing"
-    },
-    {
      "slug": "1027744",
      "title": "Vivre encore",
      "originalTitle": "",
@@ -10239,7 +10039,7 @@
    "address": "Avenue Edmond Leburton 39, 4300 Waremme",
    "lat": 50.6985,
    "lng": 5.2592,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027882",
@@ -10327,17 +10127,6 @@
      "language": "VO",
      "releaseDate": "2026-10-07",
      "url": "https://cinebel.dhnet.be/cinema/873/Les%20Vari%C3%A9t%C3%A9s#movie1028011",
-     "status": "now_showing"
-    },
-    {
-     "slug": "1027594",
-     "title": "Le Corset",
-     "originalTitle": "",
-     "year": 2026,
-     "rating": "6+",
-     "language": "VO",
-     "releaseDate": "2026-10-14",
-     "url": "https://cinebel.dhnet.be/cinema/873/Les%20Vari%C3%A9t%C3%A9s#movie1027594",
      "status": "now_showing"
     },
     {
@@ -10448,7 +10237,7 @@
    "address": "Lakenstraat 14, 2000 Antwerpen",
    "lat": 51.2094,
    "lng": 4.3876,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027586",
@@ -10513,9 +10302,8 @@
      "rating": "16+",
      "language": "VO",
      "releaseDate": null,
-     "firstShowing": "2026-10-29",
      "url": "https://cinebel.dhnet.be/cinema/1120/Lumi%C3%A8re%20Antwerpen#movie15787",
-     "status": "coming_soon"
+     "status": "now_showing"
     },
     {
      "slug": "11736",
@@ -10605,7 +10393,7 @@
    "address": "Frederik de Merodestraat 28, 2800 Mechelen",
    "lat": 51.03,
    "lng": 4.482,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027586",
@@ -10806,7 +10594,7 @@
    "address": "Avenue de la Libération 1a, 4960 Malmedy",
    "lat": 50.4319,
    "lng": 6.028,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027606",
@@ -11004,7 +10792,7 @@
    "address": "Rue Léon Colleaux 34, 6762 Saint-Mard",
    "lat": 49.5545,
    "lng": 5.5332,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027241",
@@ -11191,7 +10979,7 @@
    "address": "Boulevard Anspach 85, 1000 Bruxelles",
    "lat": 50.8477,
    "lng": 4.3488,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "576",
@@ -11544,7 +11332,7 @@
    "address": "Rue Pont d'Avroy 21, 4000 Liège",
    "lat": 50.6402,
    "lng": 5.5704,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027606",
@@ -11742,19 +11530,8 @@
    "address": "Rue de la Gare fleurie, 16, 5100 Namur (Jambes)",
    "lat": 50.4538,
    "lng": 4.8739,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
-    {
-     "slug": "1027606",
-     "title": "Clayface",
-     "originalTitle": "",
-     "year": 2026,
-     "rating": "16+",
-     "language": "VF",
-     "releaseDate": "2026-10-21",
-     "url": "https://cinebel.dhnet.be/cinema/896/Path%C3%A9%20Acinapolis%20Namur#movie1027606",
-     "status": "now_showing"
-    },
     {
      "slug": "1017808",
      "title": "Coco",
@@ -12073,7 +11850,7 @@
    "address": "Centre commercial Ville 2 - Grand Rue 141-143, 6000 Charleroi",
    "lat": 50.4163,
    "lng": 4.4485,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027574",
@@ -12470,7 +12247,7 @@
    "address": "Grand Place 55, 1348 Louvain-la-Neuve",
    "lat": 50.6691,
    "lng": 4.6115,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027574",
@@ -12924,7 +12701,7 @@
    "address": "Bd des Gérardchamps 7a, 4800 Verviers",
    "lat": 50.5873,
    "lng": 5.8495,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027606",
@@ -13222,7 +12999,7 @@
    "address": "Rue des Fossés 20, 6760 Virton",
    "lat": 49.5681,
    "lng": 5.5337,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027875",
@@ -13709,7 +13486,7 @@
    "address": "Rue de Nimy 12, 7000 Mons",
    "lat": 50.4553,
    "lng": 3.9534,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027809",
@@ -14101,7 +13878,7 @@
    "address": "Rue Simon 14, 6990 Hotton",
    "lat": 50.2666,
    "lng": 5.4483,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027586",
@@ -14299,7 +14076,7 @@
    "address": "Rue de Montigny 58, 6000 Charleroi",
    "lat": 50.408,
    "lng": 4.4465,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027753",
@@ -14354,7 +14131,7 @@
    "address": "Quai Arthur Rimbaud 10, 6000 Charleroi",
    "lat": 50.4063,
    "lng": 4.441,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027586",
@@ -14496,8 +14273,9 @@
      "rating": "16+",
      "language": "VO",
      "releaseDate": null,
+     "firstShowing": "2026-10-31",
      "url": "https://cinebel.dhnet.be/cinema/1116/Quai10#movie15787",
-     "status": "now_showing"
+     "status": "coming_soon"
     },
     {
      "slug": "1027844",
@@ -14629,7 +14407,7 @@
    "address": "Place Xavier Neujean 14, 4000 Liège",
    "lat": 50.6429,
    "lng": 5.5681,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027606",
@@ -15028,7 +14806,7 @@
    "address": "Sint-Michielshelling 3, 9000 Gent",
    "lat": 51.0537,
    "lng": 3.7214,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027586",
@@ -15182,8 +14960,9 @@
      "rating": "AL",
      "language": "NV",
      "releaseDate": null,
+     "firstShowing": "2026-10-31",
      "url": "https://cinebel.dhnet.be/cinema/994/Sphinx#movie1028103",
-     "status": "now_showing"
+     "status": "coming_soon"
     },
     {
      "slug": "1028012",
@@ -15248,8 +15027,9 @@
      "rating": "AL",
      "language": "NV",
      "releaseDate": null,
+     "firstShowing": "2026-11-02",
      "url": "https://cinebel.dhnet.be/cinema/994/Sphinx#movie1027848",
-     "status": "now_showing"
+     "status": "coming_soon"
     },
     {
      "slug": "1027299",
@@ -15293,7 +15073,7 @@
    "address": "Sint-Annaplein 63, 9000 Gent",
    "lat": 51.0488,
    "lng": 3.7339,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027586",
@@ -15414,8 +15194,9 @@
      "rating": "16+",
      "language": "VO",
      "releaseDate": null,
+     "firstShowing": "2026-10-30",
      "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie15787",
-     "status": "now_showing"
+     "status": "coming_soon"
     },
     {
      "slug": "11736",
@@ -15425,9 +15206,8 @@
      "rating": "16+",
      "language": "VO",
      "releaseDate": null,
-     "firstShowing": "2026-10-29",
      "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie11736",
-     "status": "coming_soon"
+     "status": "now_showing"
     },
     {
      "slug": "1027914",
@@ -15560,7 +15340,7 @@
    "address": "Place de Brouckère 38, 1000 Bruxelles",
    "lat": 50.8518,
    "lng": 4.3525,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027606",
@@ -15890,7 +15670,7 @@
    "address": "Avenue de la Toison d'Or 8-17, 1050 Bruxelles",
    "lat": 50.8384,
    "lng": 4.3618,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027754",
@@ -16275,7 +16055,7 @@
    "address": "Rue Hottonruy 3, 4970 Stavelot",
    "lat": 50.3928,
    "lng": 5.9291,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027606",
@@ -16561,7 +16341,7 @@
    "address": "Chaussée de Bruxelles 165, 1410 Waterloo",
    "lat": 50.717,
    "lng": 4.399,
-   "fetchedAt": "2026-10-28",
+   "fetchedAt": "2026-10-29",
    "films": [
     {
      "slug": "1027586",

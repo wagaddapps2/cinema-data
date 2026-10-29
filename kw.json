@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T18:33:56.746Z",
+ "updatedAt": "2026-10-29T00:33:33.475Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -110,14 +110,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "train-to-busan-korean",
-     "title": "Train to Busan",
-     "rating": "R15",
-     "language": "Korean",
-     "url": "https://kwt.voxcinemas.com/movies/train-to-busan-korean",
-     "status": "now_showing"
-    },
-    {
      "slug": "heart-of-the-beast",
      "title": "Heart of the Beast",
      "rating": "PG12",
@@ -134,27 +126,11 @@
      "status": "now_showing"
     },
     {
-     "slug": "digger",
-     "title": "Digger",
-     "rating": "R18",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/digger",
-     "status": "now_showing"
-    },
-    {
      "slug": "the-odyssey",
      "title": "The Odyssey",
      "rating": "R15",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/the-odyssey",
-     "status": "now_showing"
-    },
-    {
-     "slug": "no-paradise-if-you-are-killed-by-a-woman",
-     "title": "No Paradise if You Are Killed by a Woman",
-     "rating": "R18",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/no-paradise-if-you-are-killed-by-a-woman",
      "status": "now_showing"
     },
     {
@@ -220,96 +196,6 @@
      "language": "Japanese",
      "url": "https://kwt.voxcinemas.com/movies/godzilla-minus-zero-preview-screening-japanese",
      "status": "now_showing"
-    },
-    {
-     "slug": "sense-and-sensibility",
-     "title": "Sense and Sensibility",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": "2026-10-29",
-     "url": "https://kwt.voxcinemas.com/movies/sense-and-sensibility",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "wala-kan-ala-el-bal-arabic",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "R15",
-     "language": "Arabic",
-     "releaseDate": "2026-10-29",
-     "url": "https://kwt.voxcinemas.com/movies/wala-kan-ala-el-bal-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-influencer-project",
-     "title": "The Influencer Project",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": "2026-10-29",
-     "url": "https://kwt.voxcinemas.com/movies/the-influencer-project",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "wildwood",
-     "title": "Wildwood",
-     "rating": "PG12",
-     "language": "English",
-     "releaseDate": "2026-10-29",
-     "url": "https://kwt.voxcinemas.com/movies/wildwood",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "soy-turkish",
-     "title": "Soy",
-     "rating": "R15",
-     "language": "Turkish",
-     "releaseDate": "2026-10-29",
-     "url": "https://kwt.voxcinemas.com/movies/soy-turkish",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "naseeb-arabic",
-     "title": "Naseeb",
-     "rating": "PG12",
-     "language": "Arabic",
-     "releaseDate": "2026-10-29",
-     "url": "https://kwt.voxcinemas.com/movies/naseeb-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "hope-korean",
-     "title": "Hope",
-     "rating": "R15",
-     "language": "Korean",
-     "releaseDate": "2026-10-29",
-     "url": "https://kwt.voxcinemas.com/movies/hope-korean",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "how-to-save-the-immortal-2-elixir-of-life",
-     "title": "How to Save the Immortal 2: Elixir of Life",
-     "rating": "PG",
-     "language": "English",
-     "releaseDate": "2026-10-29",
-     "url": "https://kwt.voxcinemas.com/movies/how-to-save-the-immortal-2-elixir-of-life",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-texas-chainsaw-massacre-re-release",
-     "title": "The Texas Chainsaw Massacre (Re-release)",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": "2026-10-29",
-     "url": "https://kwt.voxcinemas.com/movies/the-texas-chainsaw-massacre-re-release",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "godzilla-minus-zero-preview-screening-japanese",
-     "title": "Godzilla Minus Zero - Preview Screening",
-     "rating": "PG12",
-     "language": "Japanese",
-     "releaseDate": "2026-11-03",
-     "url": "https://kwt.voxcinemas.com/movies/godzilla-minus-zero-preview-screening-japanese",
-     "status": "coming_soon"
     },
     {
      "slug": "the-cat-in-the-hat",
@@ -587,48 +473,12 @@
    "name": "Grand Hamra",
    "films": [
     {
-     "slug": "the-beast",
-     "title": "THE BEAST",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/the-beast/en",
-     "status": "now_showing"
-    },
-    {
      "slug": "wala-kan-ala-el-bal",
      "title": "WALA KAN ALA EL-BAL",
      "rating": "R15",
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/wala-kan-ala-el-bal/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "street-fighter",
-     "title": "STREET FIGHTER",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/street-fighter/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "other-mommy",
-     "title": "Other Mommy",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/other-mommy/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "whalefall",
-     "title": "Whalefall",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/whalefall/en",
      "status": "now_showing"
     },
     {
@@ -844,39 +694,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "the-beast",
-     "title": "THE BEAST",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/the-beast/en",
-     "status": "now_showing"
-    },
-    {
      "slug": "wala-kan-ala-el-bal",
      "title": "WALA KAN ALA EL-BAL",
      "rating": "R15",
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/wala-kan-ala-el-bal/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "street-fighter",
-     "title": "STREET FIGHTER",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/street-fighter/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "other-mommy",
-     "title": "Other Mommy",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/other-mommy/en",
      "status": "now_showing"
     },
     {
@@ -913,15 +736,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/matloub-3a2eleyain/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "no-paradise-if-you-are-killed-by-a-woman",
-     "title": "NO PARADISE IF YOU ARE KILLED BY A WOMAN",
-     "rating": "R18",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/no-paradise-if-you-are-killed-by-a-woman/en",
      "status": "now_showing"
     },
     {
@@ -1371,15 +1185,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "orijinal-malayalam",
-     "title": "Orijinal",
-     "rating": "",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/orijinal-malayalam",
-     "status": "coming_soon"
-    },
-    {
      "slug": "remain-english",
      "title": "Remain",
      "rating": "",
@@ -1485,15 +1290,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/pinocchio-and-the-water-of-life-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "i-object-english",
-     "title": "I, Object",
-     "rating": "PG",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/i-object-english",
      "status": "coming_soon"
     },
     {
@@ -1727,48 +1523,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "no-paradise-if-you-are-killed-by-a-woman-english",
-     "title": "No Paradise If You Are Killed by a Woman",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/no-paradise-if-you-are-killed-by-a-woman-english",
-     "status": "now_showing"
-    },
-    {
-     "slug": "street-fighter-english",
-     "title": "Street Fighter",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/street-fighter-english",
-     "status": "now_showing"
-    },
-    {
      "slug": "whalefall-english",
      "title": "Whalefall",
      "rating": "R15",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/whalefall-english",
-     "status": "now_showing"
-    },
-    {
-     "slug": "matloub-aaeleyan-arabic",
-     "title": "Matloub Aaeleyan",
-     "rating": "R15",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/matloub-aaeleyan-arabic",
-     "status": "now_showing"
-    },
-    {
-     "slug": "verity-english",
-     "title": "Verity",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/verity-english",
      "status": "now_showing"
     },
     {
@@ -1997,15 +1757,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "orijinal-malayalam",
-     "title": "Orijinal",
-     "rating": "",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/orijinal-malayalam",
-     "status": "coming_soon"
-    },
-    {
      "slug": "remain-english",
      "title": "Remain",
      "rating": "",
@@ -2111,15 +1862,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/pinocchio-and-the-water-of-life-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "i-object-english",
-     "title": "I, Object",
-     "rating": "PG",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/i-object-english",
      "status": "coming_soon"
     },
     {
@@ -2943,69 +2685,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.skycinemaskw.com/movie-information/clayface/9999001534",
-     "status": "now_showing"
-    },
-    {
-     "slug": "no-paradise-if-you-are-killed-by-a-woman-variou/9999001533",
-     "title": "NO PARADISE IF YOU ARE KILLED BY A WOMAN - VARIOU",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/no-paradise-if-you-are-killed-by-a-woman-variou/9999001533",
-     "status": "now_showing"
-    },
-    {
-     "slug": "treasure-trekkers/9999001532",
-     "title": "TREASURE TREKKERS",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/treasure-trekkers/9999001532",
-     "status": "now_showing"
-    },
-    {
-     "slug": "train-to-busan-(2016)-korean/9999001531",
-     "title": "TRAIN TO BUSAN",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/train-to-busan-(2016)-korean/9999001531",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-dino-family/9999001530",
-     "title": "THE DINO FAMILY",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/the-dino-family/9999001530",
-     "status": "now_showing"
-    },
-    {
-     "slug": "whalefall/9999001520",
-     "title": "WHALEFALL",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/whalefall/9999001520",
-     "status": "now_showing"
-    },
-    {
-     "slug": "street-fighter/9999001519",
-     "title": "STREET FIGHTER",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/street-fighter/9999001519",
-     "status": "now_showing"
-    },
-    {
-     "slug": "matloub-aaeleyan-(egyptian)-arabic/9999001517",
-     "title": "MATLOUB AAELEYAN",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/matloub-aaeleyan-(egyptian)-arabic/9999001517",
      "status": "now_showing"
     },
     {
