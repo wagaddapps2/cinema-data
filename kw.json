@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T12:37:09.357Z",
+ "updatedAt": "2026-10-30T18:33:58.119Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -139,14 +139,6 @@
      "rating": "PG",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/treasure-trekkers",
-     "status": "now_showing"
-    },
-    {
-     "slug": "seventeen-world-tour-new",
-     "title": "SEVENTEEN WORLD TOUR 'NEW_'",
-     "rating": "PG12",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/seventeen-world-tour-new",
      "status": "now_showing"
     },
     {
