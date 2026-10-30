@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-10-29T18:38:37.562Z",
+ "updatedAt": "2026-10-30T00:39:06.802Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
    "name": "Cinemas in Syria",
    "films": [
-    {
-     "slug": "2102532",
-     "title": "The Rocket from Calabuch",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102532/",
-     "status": "now_showing"
-    },
     {
      "slug": "2099773",
      "title": "Wala Kan Ala El-Bal",
