@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-10-30T18:35:46.372Z",
+ "updatedAt": "2026-10-31T00:42:03.168Z",
  "territory": "OM",
  "cinemas": {
   "elcinema-om": {
    "name": "Cinemas in Oman",
    "films": [
+    {
+     "slug": "2102074",
+     "title": "BTS World Tour 'Arirang' in São Paulo: Live Viewing",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-31",
+     "url": "https://elcinema.com/en/work/2102074/",
+     "status": "now_showing"
+    },
     {
      "slug": "2102516",
      "title": "Aali",
@@ -12,15 +21,6 @@
      "language": "",
      "releaseDate": "2026-10-30",
      "url": "https://elcinema.com/en/work/2102516/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102001",
-     "title": "Delhi Gate",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102001/",
      "status": "now_showing"
     },
     {
@@ -69,6 +69,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102517",
+     "title": "How to Save the Immortal 2: Elixir of Life",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102517/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102185",
      "title": "Adarsha Kutumbam House No: 47",
      "rating": "",
@@ -78,12 +87,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102517",
-     "title": "How to Save the Immortal 2: Elixir of Life",
+     "slug": "2102001",
+     "title": "Delhi Gate",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102517/",
+     "url": "https://elcinema.com/en/work/2102001/",
      "status": "now_showing"
     },
     {
@@ -132,15 +141,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102437",
-     "title": "Seventeen World Tour (New_)",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-26",
-     "url": "https://elcinema.com/en/work/2102437/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102435",
      "title": "Hybe Cheering Party",
      "rating": "",
@@ -150,12 +150,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102340",
-     "title": "Titans",
+     "slug": "2102345",
+     "title": "Tu Hai Meri Kiran",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102340/",
+     "url": "https://elcinema.com/en/work/2102345/",
      "status": "now_showing"
     },
     {
@@ -165,6 +165,15 @@
      "language": "",
      "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2101651/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102340",
+     "title": "Titans",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102340/",
      "status": "now_showing"
     },
     {
@@ -186,30 +195,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102345",
-     "title": "Tu Hai Meri Kiran",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102345/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-21",
      "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097221",
-     "title": "Jailer 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     },
     {
@@ -228,6 +219,15 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097221",
+     "title": "Jailer 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     },
     {
@@ -255,15 +255,6 @@
      "language": "",
      "releaseDate": "2026-10-02",
      "url": "https://elcinema.com/en/work/2101997/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097950",
-     "title": "Digger",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2097950/",
      "status": "now_showing"
     },
     {
