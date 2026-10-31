@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T06:35:50.304Z",
+ "updatedAt": "2026-10-31T12:33:37.132Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -131,14 +131,6 @@
      "rating": "R15",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/the-odyssey",
-     "status": "now_showing"
-    },
-    {
-     "slug": "treasure-trekkers",
-     "title": "Treasure Trekkers",
-     "rating": "PG",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/treasure-trekkers",
      "status": "now_showing"
     },
     {
