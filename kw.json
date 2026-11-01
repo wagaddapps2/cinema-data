@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T18:29:26.273Z",
+ "updatedAt": "2026-11-01T00:39:24.387Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -2675,15 +2675,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099119/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2088495",
      "title": "Wildwood",
      "rating": "",
@@ -2726,6 +2717,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099119",
+     "title": "Sense and Sensibility",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099119/",
      "status": "now_showing"
     },
     {
