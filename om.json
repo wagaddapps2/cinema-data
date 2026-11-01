@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T00:41:21.878Z",
+ "updatedAt": "2026-11-01T06:44:22.863Z",
  "territory": "OM",
  "cinemas": {
   "elcinema-om": {
@@ -69,12 +69,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
+     "slug": "2088495",
+     "title": "Wildwood",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2099773/",
+     "url": "https://elcinema.com/en/work/2088495/",
      "status": "now_showing"
     },
     {
@@ -96,12 +96,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2088495",
-     "title": "Wildwood",
+     "slug": "2099773",
+     "title": "Wala Kan Ala El-Bal",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2088495/",
+     "url": "https://elcinema.com/en/work/2099773/",
      "status": "now_showing"
     },
     {
@@ -114,21 +114,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102435",
-     "title": "Hybe Cheering Party",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-25",
-     "url": "https://elcinema.com/en/work/2102435/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102340",
-     "title": "Titans",
+     "slug": "2101651",
+     "title": "The Dino Family",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102340/",
+     "url": "https://elcinema.com/en/work/2101651/",
      "status": "now_showing"
     },
     {
@@ -141,21 +132,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101651",
-     "title": "The Dino Family",
+     "slug": "2102340",
+     "title": "Titans",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101651/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101935",
-     "title": "No Paradise If You Are Killed by a Woman",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101935/",
+     "url": "https://elcinema.com/en/work/2102340/",
      "status": "now_showing"
     },
     {
@@ -168,21 +150,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101935",
+     "title": "No Paradise If You Are Killed by a Woman",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101935/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-21",
      "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -195,21 +177,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2097221",
      "title": "Jailer 2",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2097221/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -222,12 +204,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101997",
      "title": "Drishyam: The Conclusion",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-02",
      "url": "https://elcinema.com/en/work/2101997/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097950",
+     "title": "Digger",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2097950/",
      "status": "now_showing"
     },
     {

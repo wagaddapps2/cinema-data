@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T00:41:14.607Z",
+ "updatedAt": "2026-11-01T06:44:12.360Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
@@ -15,21 +15,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102339",
-     "title": "Kabaddi 5 - After the Final Match",
+     "slug": "2093435",
+     "title": "It Feeds",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102339/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2029710",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2029710/",
+     "url": "https://elcinema.com/en/work/2093435/",
      "status": "now_showing"
     },
     {
@@ -42,6 +33,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102350",
+     "title": "Orijinal",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102350/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101651",
      "title": "The Dino Family",
      "rating": "",
@@ -51,12 +51,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102350",
-     "title": "Orijinal",
+     "slug": "2029710",
+     "title": "Sense and Sensibility",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102350/",
+     "url": "https://elcinema.com/en/work/2029710/",
      "status": "now_showing"
     },
     {
@@ -69,12 +69,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2093435",
-     "title": "It Feeds",
+     "slug": "2102339",
+     "title": "Kabaddi 5 - After the Final Match",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2093435/",
+     "url": "https://elcinema.com/en/work/2102339/",
      "status": "now_showing"
     },
     {
@@ -87,12 +87,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
+     "slug": "2099773",
+     "title": "Wala Kan Ala El-Bal",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2099119/",
+     "url": "https://elcinema.com/en/work/2099773/",
      "status": "now_showing"
     },
     {
@@ -114,12 +114,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
+     "slug": "2099119",
+     "title": "Sense and Sensibility",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2099773/",
+     "url": "https://elcinema.com/en/work/2099119/",
      "status": "now_showing"
     },
     {
@@ -129,15 +129,6 @@
      "language": "",
      "releaseDate": "2026-10-28",
      "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102437",
-     "title": "Seventeen World Tour (New_)",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-26",
-     "url": "https://elcinema.com/en/work/2102437/",
      "status": "now_showing"
     },
     {
@@ -159,15 +150,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-21",
-     "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102265",
      "title": "Soy",
      "rating": "",
@@ -177,30 +159,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-21",
+     "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102341",
      "title": "Always Yours, Never Mine",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-21",
      "url": "https://elcinema.com/en/work/2102341/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099122",
-     "title": "Forgotten Island",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2099122/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -219,6 +192,24 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -303,21 +294,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100028",
-     "title": "Colony",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-26",
-     "url": "https://elcinema.com/en/work/2100028/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2094924",
      "title": "Coyote vs. Acme",
      "rating": "",
      "language": "",
      "releaseDate": "2026-08-26",
      "url": "https://elcinema.com/en/work/2094924/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100028",
+     "title": "Colony",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-26",
+     "url": "https://elcinema.com/en/work/2100028/",
      "status": "now_showing"
     },
     {

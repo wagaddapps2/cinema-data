@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T00:41:17.836Z",
+ "updatedAt": "2026-11-01T06:44:15.674Z",
  "territory": "QA",
  "cinemas": {
   "elcinema-qa": {
@@ -15,21 +15,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102265",
-     "title": "Soy",
+     "slug": "2063764",
+     "title": "The Texas Chain Saw Massacre",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102265/",
+     "url": "https://elcinema.com/en/work/2063764/",
      "status": "now_showing"
     },
     {
-     "slug": "2102304",
-     "title": "Aa Bata Aama 2",
+     "slug": "2102517",
+     "title": "How to Save the Immortal 2: Elixir of Life",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102304/",
+     "url": "https://elcinema.com/en/work/2102517/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2088495",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2088495/",
      "status": "now_showing"
     },
     {
@@ -60,21 +69,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097360",
-     "title": "The Mongoose",
+     "slug": "2102350",
+     "title": "Orijinal",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2063764",
-     "title": "The Texas Chain Saw Massacre",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2063764/",
+     "url": "https://elcinema.com/en/work/2102350/",
      "status": "now_showing"
     },
     {
@@ -87,30 +87,39 @@
      "status": "now_showing"
     },
     {
-     "slug": "2088495",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102517",
-     "title": "How to Save the Immortal 2: Elixir of Life",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102517/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101649",
      "title": "The Influencer Project",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2101649/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097360",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2097360/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102304",
+     "title": "Aa Bata Aama 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102304/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102265",
+     "title": "Soy",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102265/",
      "status": "now_showing"
     },
     {
@@ -123,39 +132,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102350",
-     "title": "Orijinal",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102350/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099773",
      "title": "Wala Kan Ala El-Bal",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
      "url": "https://elcinema.com/en/work/2099773/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101651",
-     "title": "The Dino Family",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101651/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101940",
-     "title": "Treasure Trekkers",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101940/",
      "status": "now_showing"
     },
     {
@@ -168,21 +150,48 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102341",
-     "title": "Always Yours, Never Mine",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102341/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102340",
      "title": "Titans",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2102340/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101940",
+     "title": "Treasure Trekkers",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101940/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102339",
+     "title": "Kabaddi 5 - After the Final Match",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102339/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101651",
+     "title": "The Dino Family",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101651/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102341",
+     "title": "Always Yours, Never Mine",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102341/",
      "status": "now_showing"
     },
     {
@@ -204,21 +213,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097221",
-     "title": "Jailer 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2097221/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2096857",
      "title": "Street Fighter",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097221",
+     "title": "Jailer 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     },
     {
@@ -249,15 +258,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101997",
-     "title": "Drishyam: The Conclusion",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101997/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101672",
      "title": "The Crystal Planet",
      "rating": "",
@@ -267,12 +267,48 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101997/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097950",
+     "title": "Digger",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2097950/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101963",
+     "title": "The Smurfs: Timeless Adventure Volume 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2101963/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100562",
      "title": "Heart of the Beast",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-23",
      "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098173",
+     "title": "Resident Evil",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-16",
+     "url": "https://elcinema.com/en/work/2098173/",
      "status": "now_showing"
     },
     {

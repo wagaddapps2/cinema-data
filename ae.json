@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-11-01T00:41:13.665Z",
+ "updatedAt": "2026-11-01T06:44:06.219Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
    "name": "Cinemas in United Arab Emirates",
    "films": [
+    {
+     "slug": "1523378",
+     "title": "The Twilight Saga : Eclipse",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-01",
+     "url": "https://elcinema.com/en/work/1523378/",
+     "status": "now_showing"
+    },
     {
      "slug": "2042037",
      "title": "Three Colors: Red",
@@ -33,15 +42,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102516",
-     "title": "Aali",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102516/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2016773",
      "title": "Street Fighter",
      "rating": "",
@@ -51,57 +51,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101649",
-     "title": "The Influencer Project",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2101649/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2099773/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2099119/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102350",
-     "title": "Orijinal",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102350/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2078914",
      "title": "Twilight",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2078914/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102344",
-     "title": "Pee Mak",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102344/",
      "status": "now_showing"
     },
     {
@@ -123,42 +78,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102304",
-     "title": "Aa Bata Aama 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102304/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102265",
-     "title": "Soy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102265/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102074",
-     "title": "BTS World Tour 'Arirang' in São Paulo: Live Viewing",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102074/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102517",
-     "title": "How to Save the Immortal 2: Elixir of Life",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102517/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2096928",
      "title": "Naseeb",
      "rating": "",
@@ -177,6 +96,96 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099119",
+     "title": "Sense and Sensibility",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2099119/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099773",
+     "title": "Wala Kan Ala El-Bal",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2099773/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101649",
+     "title": "The Influencer Project",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2101649/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102074",
+     "title": "BTS World Tour 'Arirang' in São Paulo: Live Viewing",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102074/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102265",
+     "title": "Soy",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102265/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102304",
+     "title": "Aa Bata Aama 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102304/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102344",
+     "title": "Pee Mak",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102344/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102350",
+     "title": "Orijinal",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102350/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102516",
+     "title": "Aali",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102516/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102517",
+     "title": "How to Save the Immortal 2: Elixir of Life",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102517/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2088495",
      "title": "Wildwood",
      "rating": "",
@@ -192,15 +201,6 @@
      "language": "",
      "releaseDate": "2026-10-26",
      "url": "https://elcinema.com/en/work/2102437/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2004405",
-     "title": "Corpse Bride",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-25",
-     "url": "https://elcinema.com/en/work/2004405/",
      "status": "now_showing"
     },
     {
@@ -240,30 +240,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2093501",
-     "title": "Klara and the Sun",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2093501/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101651",
      "title": "The Dino Family",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2101651/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101940",
-     "title": "Treasure Trekkers",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101940/",
      "status": "now_showing"
     },
     {
@@ -276,12 +258,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2093501",
+     "title": "Klara and the Sun",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2093501/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101940",
+     "title": "Treasure Trekkers",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101940/",
      "status": "now_showing"
     },
     {
@@ -339,15 +339,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102183",
      "title": "Premada Oorali",
      "rating": "",
@@ -366,12 +357,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2095519",
      "title": "Other Mommy",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101991",
+     "title": "Baththa",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101991/",
      "status": "now_showing"
     },
     {
@@ -420,21 +429,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098173",
-     "title": "Resident Evil",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2098173/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099778",
      "title": "Tad and the Magic Lamp",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-17",
      "url": "https://elcinema.com/en/work/2099778/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098173",
+     "title": "Resident Evil",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-17",
+     "url": "https://elcinema.com/en/work/2098173/",
      "status": "now_showing"
     },
     {
@@ -510,15 +519,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2001295",
-     "title": "Edward Scissorhands",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2024-12-19",
-     "url": "https://elcinema.com/en/work/2001295/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2086992",
      "title": "Smile 2",
      "rating": "",
@@ -534,15 +534,6 @@
      "language": "",
      "releaseDate": "2024-06-27",
      "url": "https://elcinema.com/en/work/2083853/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2009495",
-     "title": "Beetlejuice",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2024-04-07",
-     "url": "https://elcinema.com/en/work/2009495/",
      "status": "now_showing"
     },
     {
@@ -579,15 +570,6 @@
      "language": "",
      "releaseDate": "2019-04-23",
      "url": "https://elcinema.com/en/work/2032663/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2004749",
-     "title": "Monster House",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2006-08-31",
-     "url": "https://elcinema.com/en/work/2004749/",
      "status": "now_showing"
     },
     {

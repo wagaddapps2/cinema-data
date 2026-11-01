@@ -1,17 +1,26 @@
 {
- "updatedAt": "2026-11-01T00:41:19.803Z",
+ "updatedAt": "2026-11-01T06:44:21.024Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
    "name": "Cinemas in Bahrain",
    "films": [
     {
-     "slug": "2102185",
-     "title": "Adarsha Kutumbam House No: 47",
+     "slug": "2066612",
+     "title": "The Texas Chainsaw Massacre",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-01",
+     "url": "https://elcinema.com/en/work/2066612/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2093435",
+     "title": "It Feeds",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102185/",
+     "url": "https://elcinema.com/en/work/2093435/",
      "status": "now_showing"
     },
     {
@@ -33,21 +42,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102350",
-     "title": "Orijinal",
+     "slug": "2102185",
+     "title": "Adarsha Kutumbam House No: 47",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102350/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102304",
-     "title": "Aa Bata Aama 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102304/",
+     "url": "https://elcinema.com/en/work/2102185/",
      "status": "now_showing"
     },
     {
@@ -60,12 +60,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2093435",
-     "title": "It Feeds",
+     "slug": "2102304",
+     "title": "Aa Bata Aama 2",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2093435/",
+     "url": "https://elcinema.com/en/work/2102304/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102350",
+     "title": "Orijinal",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102350/",
      "status": "now_showing"
     },
     {
@@ -75,15 +84,6 @@
      "language": "",
      "releaseDate": "2026-10-28",
      "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096928",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2096928/",
      "status": "now_showing"
     },
     {
@@ -105,12 +105,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2096928",
+     "title": "Naseeb",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2096928/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102339",
      "title": "Kabaddi 5 - After the Final Match",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-23",
      "url": "https://elcinema.com/en/work/2102339/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102341",
+     "title": "Always Yours, Never Mine",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102341/",
      "status": "now_showing"
     },
     {
@@ -159,21 +177,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097221",
      "title": "Jailer 2",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2097221/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {

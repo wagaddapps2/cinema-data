@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T00:39:24.387Z",
+ "updatedAt": "2026-11-01T06:42:17.719Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -2372,21 +2372,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102185",
-     "title": "Adarsha Kutumbam House No: 47",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102185/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097221",
      "title": "Jailer 2",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2097221/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102185",
+     "title": "Adarsha Kutumbam House No: 47",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102185/",
      "status": "now_showing"
     },
     {
@@ -2485,15 +2485,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2090950",
-     "title": "Hope",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2090950/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
@@ -2554,6 +2545,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2063764/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2090950",
+     "title": "Hope",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2090950/",
      "status": "now_showing"
     },
     {
