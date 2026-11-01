@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T12:37:01.382Z",
+ "updatedAt": "2026-11-01T18:31:26.039Z",
  "territory": "QA",
  "cinemas": {
   "elcinema-qa": {
@@ -393,6 +393,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-20",
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-06",
+     "url": "https://elcinema.com/en/work/2095318/",
+     "status": "coming_soon"
+    },
+    {
      "slug": "2096404",
      "title": "Dune: Part Three",
      "rating": "",
@@ -480,6 +498,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099777/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-11",
+     "url": "https://elcinema.com/en/work/2100998/",
      "status": "coming_soon"
     },
     {

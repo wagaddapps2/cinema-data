@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T12:35:08.914Z",
+ "updatedAt": "2026-11-01T18:29:32.173Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -961,6 +961,15 @@
    "name": "Ozone Cinemas Khaitan",
    "films": [
     {
+     "slug": "ramayana-hindi",
+     "title": "Ramayana",
+     "rating": "PG12",
+     "language": "Hindi",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/ramayana-hindi",
+     "status": "now_showing"
+    },
+    {
      "slug": "aadarsha-kutumbam-house-no-47-ak-47-telugu",
      "title": "Aadarsha Kutumbam House No: 47 - AK 47",
      "rating": "R15",
@@ -1066,15 +1075,6 @@
      "language": "Turkish",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/belkis-turkish",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "ramayana-hindi",
-     "title": "Ramayana",
-     "rating": "PG12",
-     "language": "Hindi",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/ramayana-hindi",
      "status": "coming_soon"
     },
     {
@@ -1647,15 +1647,6 @@
      "language": "Turkish",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/belkis-turkish",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "ramayana-hindi",
-     "title": "Ramayana",
-     "rating": "PG12",
-     "language": "Hindi",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/ramayana-hindi",
      "status": "coming_soon"
     },
     {

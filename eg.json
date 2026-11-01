@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T12:36:47.322Z",
+ "updatedAt": "2026-11-01T18:31:13.356Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
@@ -384,6 +384,15 @@
      "status": "coming_soon"
     },
     {
+     "slug": "2098610",
+     "title": "Taha Al Ghareeb",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098610/",
+     "status": "coming_soon"
+    },
+    {
      "slug": "2099107",
      "title": "Werwulf",
      "rating": "",
@@ -456,6 +465,15 @@
      "status": "coming_soon"
     },
     {
+     "slug": "2100835",
+     "title": "ليلة باظت خالص",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2100835/",
+     "status": "coming_soon"
+    },
+    {
      "slug": "2100998",
      "title": "Hadoota",
      "rating": "",
@@ -489,6 +507,15 @@
      "language": "",
      "releaseDate": "2026-11-25",
      "url": "https://elcinema.com/en/work/2101516/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2101989/",
      "status": "coming_soon"
     }
    ]
