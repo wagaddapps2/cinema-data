@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T06:42:17.719Z",
+ "updatedAt": "2026-11-01T12:35:08.914Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -1008,7 +1008,7 @@
     {
      "slug": "the-cat-in-the-hat-arabic",
      "title": "The Cat in the Hat",
-     "rating": "",
+     "rating": "PG",
      "language": "Arabic",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-cat-in-the-hat-arabic",
@@ -1053,7 +1053,7 @@
     {
      "slug": "idiots-english",
      "title": "Idiots",
-     "rating": "",
+     "rating": "R18",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/idiots-english",
@@ -1071,7 +1071,7 @@
     {
      "slug": "ramayana-hindi",
      "title": "Ramayana",
-     "rating": "",
+     "rating": "PG12",
      "language": "Hindi",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/ramayana-hindi",
@@ -1589,7 +1589,7 @@
     {
      "slug": "the-cat-in-the-hat-arabic",
      "title": "The Cat in the Hat",
-     "rating": "",
+     "rating": "PG",
      "language": "Arabic",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-cat-in-the-hat-arabic",
@@ -1634,7 +1634,7 @@
     {
      "slug": "idiots-english",
      "title": "Idiots",
-     "rating": "",
+     "rating": "R18",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/idiots-english",
@@ -1652,7 +1652,7 @@
     {
      "slug": "ramayana-hindi",
      "title": "Ramayana",
-     "rating": "",
+     "rating": "PG12",
      "language": "Hindi",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/ramayana-hindi",
@@ -2440,15 +2440,6 @@
    "name": "Cinescape Avenues",
    "films": [
     {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099119/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2088495",
      "title": "Wildwood",
      "rating": "",
@@ -2467,12 +2458,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101649",
-     "title": "The Influencer Project",
+     "slug": "2100562",
+     "title": "Heart of the Beast",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101649/",
+     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {
@@ -2485,12 +2476,39 @@
      "status": "now_showing"
     },
     {
+     "slug": "2090950",
+     "title": "Hope",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2090950/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096928",
+     "title": "Naseeb",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2096928/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -2512,21 +2530,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096928",
-     "title": "Naseeb",
+     "slug": "2099119",
+     "title": "Sense and Sensibility",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096928/",
+     "url": "https://elcinema.com/en/work/2099119/",
      "status": "now_showing"
     },
     {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
+     "slug": "2101649",
+     "title": "The Influencer Project",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100562/",
+     "url": "https://elcinema.com/en/work/2101649/",
      "status": "now_showing"
     },
     {
@@ -2545,24 +2563,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2063764/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2090950",
-     "title": "Hope",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2090950/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -2747,6 +2747,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2097360",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097360/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2096857",
      "title": "Street Fighter",
      "rating": "",
@@ -2765,15 +2774,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102265",
-     "title": "Soy",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102265/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2090950",
      "title": "Hope",
      "rating": "",
@@ -2783,21 +2783,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2063764",
      "title": "The Texas Chain Saw Massacre",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2063764/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102265",
+     "title": "Soy",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102265/",
      "status": "now_showing"
     },
     {

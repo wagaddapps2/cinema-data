@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T06:44:23.860Z",
+ "updatedAt": "2026-11-01T12:37:10.184Z",
  "territory": "LB",
  "cinemas": {
   "elcinema-lb": {
@@ -51,24 +51,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102437",
-     "title": "Seventeen World Tour (New_)",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-26",
-     "url": "https://elcinema.com/en/work/2102437/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102435",
-     "title": "Hybe Cheering Party",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-25",
-     "url": "https://elcinema.com/en/work/2102435/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101940",
      "title": "Treasure Trekkers",
      "rating": "",
@@ -114,21 +96,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095519",
-     "title": "Other Mommy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095519",
+     "title": "Other Mommy",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2095519/",
      "status": "now_showing"
     },
     {
@@ -141,21 +123,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2100562/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101963",
      "title": "The Smurfs: Timeless Adventure Volume 2",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-24",
      "url": "https://elcinema.com/en/work/2101963/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {
