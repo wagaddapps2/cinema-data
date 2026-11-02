@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T00:42:43.093Z",
+ "updatedAt": "2026-11-02T07:04:13.682Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
@@ -12,6 +12,33 @@
      "language": "",
      "releaseDate": "2026-10-31",
      "url": "https://elcinema.com/en/work/2102074/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2093435",
+     "title": "It Feeds",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2093435/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101651",
+     "title": "The Dino Family",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2101651/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102517",
+     "title": "How to Save the Immortal 2: Elixir of Life",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102517/",
      "status": "now_showing"
     },
     {
@@ -33,33 +60,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101651",
-     "title": "The Dino Family",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2101651/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2093435",
-     "title": "It Feeds",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2093435/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102517",
-     "title": "How to Save the Immortal 2: Elixir of Life",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102517/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102350",
      "title": "Orijinal",
      "rating": "",
@@ -75,6 +75,15 @@
      "language": "",
      "releaseDate": "2026-10-28",
      "url": "https://elcinema.com/en/work/2096928/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097360",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2097360/",
      "status": "now_showing"
     },
     {
@@ -114,24 +123,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102437",
-     "title": "Seventeen World Tour (New_)",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-26",
-     "url": "https://elcinema.com/en/work/2102437/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102340",
      "title": "Titans",
      "rating": "",
@@ -150,21 +141,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102341",
-     "title": "Always Yours, Never Mine",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-21",
-     "url": "https://elcinema.com/en/work/2102341/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-21",
      "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102341",
+     "title": "Always Yours, Never Mine",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-21",
+     "url": "https://elcinema.com/en/work/2102341/",
      "status": "now_showing"
     },
     {
@@ -294,15 +285,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100028",
-     "title": "Colony",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-26",
-     "url": "https://elcinema.com/en/work/2100028/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095133",
      "title": "El Set Lamma (Veto)",
      "rating": "",
@@ -339,21 +321,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101308",
-     "title": "Above & Below",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-12",
-     "url": "https://elcinema.com/en/work/2101308/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2096322",
      "title": "PAW Patrol: The Dino Movie",
      "rating": "",
      "language": "",
      "releaseDate": "2026-08-12",
      "url": "https://elcinema.com/en/work/2096322/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101308",
+     "title": "Above & Below",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-12",
+     "url": "https://elcinema.com/en/work/2101308/",
      "status": "now_showing"
     },
     {
@@ -420,30 +402,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096826",
-     "title": "Ready or Not 2: Here I Come",
+     "slug": "2030306",
+     "title": "City of God",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-04-01",
-     "url": "https://elcinema.com/en/work/2096826/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2089640",
-     "title": "Scream 7",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-03-18",
-     "url": "https://elcinema.com/en/work/2089640/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2094918",
-     "title": "28 Years Later: The Bone Temple",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-01-11",
-     "url": "https://elcinema.com/en/work/2094918/",
+     "releaseDate": "2024-02-22",
+     "url": "https://elcinema.com/en/work/2030306/",
      "status": "now_showing"
     },
     {
@@ -453,15 +417,6 @@
      "language": "",
      "releaseDate": "2025-08-14",
      "url": "https://elcinema.com/en/work/2093117/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2091976",
-     "title": "Night of the Zoopocalypse",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2025-03-30",
-     "url": "https://elcinema.com/en/work/2091976/",
      "status": "now_showing"
     },
     {

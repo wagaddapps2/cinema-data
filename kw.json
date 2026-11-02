@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T00:41:08.730Z",
+ "updatedAt": "2026-11-02T07:02:31.485Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -258,15 +258,6 @@
      "language": "English",
      "releaseDate": "2026-11-05",
      "url": "https://kwt.voxcinemas.com/movies/idiots",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "belkis-turkish",
-     "title": "Belkis",
-     "rating": "18TC",
-     "language": "Turkish",
-     "releaseDate": "2026-11-05",
-     "url": "https://kwt.voxcinemas.com/movies/belkis-turkish",
      "status": "coming_soon"
     },
     {
@@ -978,6 +969,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "just-marriedcom-konkani",
+     "title": "Just Married.com",
+     "rating": "PG12",
+     "language": "Konkani",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/just-marriedcom-konkani",
+     "status": "now_showing"
+    },
+    {
      "slug": "aadarsha-kutumbam-house-no-47-ak-47-telugu",
      "title": "Aadarsha Kutumbam House No: 47 - AK 47",
      "rating": "R15",
@@ -1002,15 +1002,6 @@
      "language": "Malayalam",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/titans-malayalam",
-     "status": "now_showing"
-    },
-    {
-     "slug": "just-marriedcom-konkani",
-     "title": "Just Married.com",
-     "rating": "PG12",
-     "language": "Konkani",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/just-marriedcom-konkani",
      "status": "now_showing"
     },
     {
@@ -2746,15 +2737,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2096857",
      "title": "Street Fighter",
      "rating": "",
@@ -2773,6 +2755,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102265",
+     "title": "Soy",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102265/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2090950",
      "title": "Hope",
      "rating": "",
@@ -2782,21 +2773,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2097360",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097360/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2063764",
      "title": "The Texas Chain Saw Massacre",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2063764/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102265",
-     "title": "Soy",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102265/",
      "status": "now_showing"
     },
     {

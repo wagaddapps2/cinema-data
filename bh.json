@@ -1,26 +1,17 @@
 {
- "updatedAt": "2026-11-02T00:42:47.520Z",
+ "updatedAt": "2026-11-02T07:04:17.202Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
    "name": "Cinemas in Bahrain",
    "films": [
     {
-     "slug": "2102185",
-     "title": "Adarsha Kutumbam House No: 47",
+     "slug": "2093435",
+     "title": "It Feeds",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102185/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102517",
-     "title": "How to Save the Immortal 2: Elixir of Life",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102517/",
+     "url": "https://elcinema.com/en/work/2093435/",
      "status": "now_showing"
     },
     {
@@ -30,6 +21,15 @@
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2101649/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102517",
+     "title": "How to Save the Immortal 2: Elixir of Life",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102517/",
      "status": "now_showing"
     },
     {
@@ -60,12 +60,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2093435",
-     "title": "It Feeds",
+     "slug": "2102185",
+     "title": "Adarsha Kutumbam House No: 47",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2093435/",
+     "url": "https://elcinema.com/en/work/2102185/",
      "status": "now_showing"
     },
     {
@@ -114,21 +114,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101651",
-     "title": "The Dino Family",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101651/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102341",
      "title": "Always Yours, Never Mine",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2102341/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101651",
+     "title": "The Dino Family",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101651/",
      "status": "now_showing"
     },
     {
@@ -258,12 +258,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2100043",
+     "title": "Cats in the Museum: Treasures of Egypt",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-10",
+     "url": "https://elcinema.com/en/work/2100043/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2094876",
      "title": "Mutiny",
      "rating": "",
      "language": "",
      "releaseDate": "2026-08-19",
      "url": "https://elcinema.com/en/work/2094876/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096322",
+     "title": "PAW Patrol: The Dino Movie",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-13",
+     "url": "https://elcinema.com/en/work/2096322/",
      "status": "now_showing"
     },
     {
