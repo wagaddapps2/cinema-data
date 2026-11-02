@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T12:52:03.577Z",
+ "updatedAt": "2026-11-02T18:47:12.811Z",
  "territory": "BE",
  "cinemas": {
   "cinebel-693": {
@@ -1641,6 +1641,160 @@
     }
    ]
   },
+  "cinebel-921": {
+   "name": "CineXtra Bastogne",
+   "city": "Bastogne",
+   "brand": "CineXtra",
+   "address": "Rue Gustave-Delperdange 3, 6600 Bastogne",
+   "lat": 50.0054,
+   "lng": 5.724,
+   "fetchedAt": "2026-11-02",
+   "films": [
+    {
+     "slug": "1027908",
+     "title": "Coyote vs. Acme",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/921/CineXtra%20Bastogne#movie1027908",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027241",
+     "title": "Ducobu et le fantôme de Saint-Potache",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/921/CineXtra%20Bastogne#movie1027241",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027937",
+     "title": "George Michael: The Faith Tour",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-06",
+     "url": "https://cinebel.dhnet.be/cinema/921/CineXtra%20Bastogne#movie1027937",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027742",
+     "title": "Heart of the Beast",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-09-23",
+     "url": "https://cinebel.dhnet.be/cinema/921/CineXtra%20Bastogne#movie1027742",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027636",
+     "title": "L'Ordre Pourpre",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/921/CineXtra%20Bastogne#movie1027636",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1028011",
+     "title": "La Maison de nos rêves",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "9+",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/921/CineXtra%20Bastogne#movie1028011",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027844",
+     "title": "Les Misérables",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/921/CineXtra%20Bastogne#movie1027844",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027863",
+     "title": "Malfaisante",
+     "originalTitle": "Other Mommy",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VF",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/921/CineXtra%20Bastogne#movie1027863",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027828",
+     "title": "Mochy",
+     "originalTitle": "Yugly",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/921/CineXtra%20Bastogne#movie1027828",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027315",
+     "title": "Shaun le Mouton: La Bêêête d'Halloween",
+     "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VF",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/921/CineXtra%20Bastogne#movie1027315",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027806",
+     "title": "Tad l'explorateur et la lampe magique",
+     "originalTitle": "Tadeo Jones y la lámpara maravillosa",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/921/CineXtra%20Bastogne#movie1027806",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1025539",
+     "title": "TKT (T'inquiète)",
+     "originalTitle": "",
+     "year": 2024,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2024-10-09",
+     "url": "https://cinebel.dhnet.be/cinema/921/CineXtra%20Bastogne#movie1025539",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028018",
+     "title": "Un bon patron",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/921/CineXtra%20Bastogne#movie1028018",
+     "status": "coming_soon"
+    }
+   ]
+  },
   "cinebel-935": {
    "name": "CineXtra Marche",
    "city": "Marche-en-Famenne",
@@ -1695,6 +1849,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027937",
+     "title": "George Michael: The Faith Tour",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-06",
+     "url": "https://cinebel.dhnet.be/cinema/935/CineXtra%20Marche#movie1027937",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027742",
      "title": "Heart of the Beast",
      "originalTitle": "",
@@ -1715,6 +1880,17 @@
      "releaseDate": "2026-10-28",
      "url": "https://cinebel.dhnet.be/cinema/935/CineXtra%20Marche#movie1027918",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027902",
+     "title": "L'Affaire Marie-Claire",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/935/CineXtra%20Marche#movie1027902",
+     "status": "coming_soon"
     },
     {
      "slug": "1027524",
@@ -1791,6 +1967,39 @@
      "language": "VF",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/935/CineXtra%20Marche#movie1027315",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027806",
+     "title": "Tad l'explorateur et la lampe magique",
+     "originalTitle": "Tadeo Jones y la lámpara maravillosa",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/935/CineXtra%20Marche#movie1027806",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028018",
+     "title": "Un bon patron",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/935/CineXtra%20Marche#movie1028018",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027744",
+     "title": "Vivre encore",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/935/CineXtra%20Marche#movie1027744",
      "status": "now_showing"
     }
    ]
@@ -2177,6 +2386,39 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027914",
+     "title": "Minotaure",
+     "originalTitle": "Minotaur",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/778/Cinema%20Cartoon's#movie1027914",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027828",
+     "title": "Mochy",
+     "originalTitle": "Yugly",
+     "year": 2026,
+     "rating": "6+",
+     "language": "NV",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/778/Cinema%20Cartoon's#movie1027828",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027939",
+     "title": "Monster Mia",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "NV",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/778/Cinema%20Cartoon's#movie1027939",
+     "status": "now_showing"
+    },
+    {
      "slug": "1028103",
      "title": "Mumbo",
      "originalTitle": "",
@@ -2243,6 +2485,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1028064",
+     "title": "The Six",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/778/Cinema%20Cartoon's#movie1028064",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027890",
      "title": "Wicker",
      "originalTitle": "",
@@ -2252,6 +2505,17 @@
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/778/Cinema%20Cartoon's#movie1027890",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027608",
+     "title": "Wild Horse Nine",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/778/Cinema%20Cartoon's#movie1027608",
+     "status": "coming_soon"
     }
    ]
   },
@@ -2353,6 +2617,28 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027937",
+     "title": "George Michael: The Faith Tour",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-06",
+     "url": "https://cinebel.dhnet.be/cinema/978/Cinema%20Koksijde#movie1027937",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027849",
+     "title": "Godzilla Minus Zero",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/978/Cinema%20Koksijde#movie1027849",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027742",
      "title": "Heart of the Beast",
      "originalTitle": "",
@@ -2383,6 +2669,17 @@
      "language": "VO",
      "releaseDate": "2026-09-16",
      "url": "https://cinebel.dhnet.be/cinema/978/Cinema%20Koksijde#movie1027719",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027124",
+     "title": "L'Odyssée",
+     "originalTitle": "The Odyssey",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-07-15",
+     "url": "https://cinebel.dhnet.be/cinema/978/Cinema%20Koksijde#movie1027124",
      "status": "now_showing"
     },
     {
@@ -2461,6 +2758,17 @@
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/978/Cinema%20Koksijde#movie1027890",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027608",
+     "title": "Wild Horse Nine",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/978/Cinema%20Koksijde#movie1027608",
+     "status": "coming_soon"
     }
    ]
   },
@@ -5420,6 +5728,18 @@
      "status": "now_showing"
     },
     {
+     "slug": "1028121",
+     "title": "Lorie Party 2026",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-11-05",
+     "url": "https://cinebel.dhnet.be/cinema/956/Cin%C3%A9ma%20For%26ver#movie1028121",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027863",
      "title": "Malfaisante",
      "originalTitle": "Other Mommy",
@@ -5805,6 +6125,18 @@
    "fetchedAt": "2026-11-02",
    "films": [
     {
+     "slug": "1028124",
+     "title": "Black Zombie",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-11-05",
+     "url": "https://cinebel.dhnet.be/cinema/731/Cin%C3%A9ma%20Vend%C3%B4me#movie1028124",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027860",
      "title": "Congo Boy",
      "originalTitle": "",
@@ -5847,6 +6179,18 @@
      "releaseDate": null,
      "firstShowing": "2026-11-03",
      "url": "https://cinebel.dhnet.be/cinema/731/Cin%C3%A9ma%20Vend%C3%B4me#movie1028107",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027901",
+     "title": "Grandir",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-11-09",
+     "url": "https://cinebel.dhnet.be/cinema/731/Cin%C3%A9ma%20Vend%C3%B4me#movie1027901",
      "status": "coming_soon"
     },
     {
@@ -5905,6 +6249,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027914",
+     "title": "Minotaure",
+     "originalTitle": "Minotaur",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/731/Cin%C3%A9ma%20Vend%C3%B4me#movie1027914",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1028012",
      "title": "Naza",
      "originalTitle": "",
@@ -5914,6 +6269,17 @@
      "releaseDate": "2026-09-30",
      "url": "https://cinebel.dhnet.be/cinema/731/Cin%C3%A9ma%20Vend%C3%B4me#movie1028012",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027841",
+     "title": "No Good Men",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-11-25",
+     "url": "https://cinebel.dhnet.be/cinema/731/Cin%C3%A9ma%20Vend%C3%B4me#movie1027841",
+     "status": "coming_soon"
     },
     {
      "slug": "1027593",
@@ -5936,6 +6302,17 @@
      "releaseDate": "2026-10-14",
      "url": "https://cinebel.dhnet.be/cinema/731/Cin%C3%A9ma%20Vend%C3%B4me#movie1027917",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027752",
+     "title": "Quelques mots d'amour",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/731/Cin%C3%A9ma%20Vend%C3%B4me#movie1027752",
+     "status": "coming_soon"
     },
     {
      "slug": "1027894",
@@ -6180,6 +6557,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027856",
+     "title": "Gruffalo, de père en fils",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VF",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/691/Galeries%20Cin%C3%A9ma#movie1027856",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027918",
      "title": "Hope",
      "originalTitle": "Hopeu",
@@ -6277,6 +6665,29 @@
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/691/Galeries%20Cin%C3%A9ma#movie1027315",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027608",
+     "title": "Wild Horse Nine",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/691/Galeries%20Cin%C3%A9ma#movie1027608",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1001443",
+     "title": "Woyzeck",
+     "originalTitle": "",
+     "year": 1979,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-11-09",
+     "url": "https://cinebel.dhnet.be/cinema/691/Galeries%20Cin%C3%A9ma#movie1001443",
+     "status": "coming_soon"
     }
    ]
   },
@@ -7510,6 +7921,18 @@
    "fetchedAt": "2026-11-02",
    "films": [
     {
+     "slug": "1028122",
+     "title": "Carlo Acutis, un saint pour notre temps",
+     "originalTitle": "Carlo Acutis - The Millennial Saint",
+     "year": 2026,
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "firstShowing": "2026-11-06",
+     "url": "https://cinebel.dhnet.be/cinema/765/Kinepolis%20Imagibraine#movie1028122",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027606",
      "title": "Clayface",
      "originalTitle": "",
@@ -7519,6 +7942,17 @@
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/765/Kinepolis%20Imagibraine#movie1027606",
      "status": "now_showing"
+    },
+    {
+     "slug": "1028017",
+     "title": "Club Kid",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VF",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/765/Kinepolis%20Imagibraine#movie1028017",
+     "status": "coming_soon"
     },
     {
      "slug": "1027586",
@@ -7540,6 +7974,17 @@
      "language": "VF",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/765/Kinepolis%20Imagibraine#movie1027908",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027502",
+     "title": "De la Comédie-Française",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-07-22",
+     "url": "https://cinebel.dhnet.be/cinema/765/Kinepolis%20Imagibraine#movie1027502",
      "status": "now_showing"
     },
     {
@@ -7587,6 +8032,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027937",
+     "title": "George Michael: The Faith Tour",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-06",
+     "url": "https://cinebel.dhnet.be/cinema/765/Kinepolis%20Imagibraine#movie1027937",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027849",
      "title": "Godzilla Minus Zero",
      "originalTitle": "",
@@ -7631,6 +8087,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027902",
+     "title": "L'Affaire Marie-Claire",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/765/Kinepolis%20Imagibraine#movie1027902",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027124",
      "title": "L'Odyssée",
      "originalTitle": "The Odyssey",
@@ -7642,6 +8109,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027636",
+     "title": "L'Ordre Pourpre",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/765/Kinepolis%20Imagibraine#movie1027636",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027524",
      "title": "L'île des souvenirs",
      "originalTitle": "Forgotten Island",
@@ -7650,6 +8128,17 @@
      "language": "VF",
      "releaseDate": "2026-10-07",
      "url": "https://cinebel.dhnet.be/cinema/765/Kinepolis%20Imagibraine#movie1027524",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027544",
+     "title": "La Pat' Patrouille - Le Film: Mission Dino",
+     "originalTitle": "PAW Patrol: The Dino Movie",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-08-05",
+     "url": "https://cinebel.dhnet.be/cinema/765/Kinepolis%20Imagibraine#movie1027544",
      "status": "now_showing"
     },
     {
@@ -7697,6 +8186,29 @@
      "status": "now_showing"
     },
     {
+     "slug": "1028121",
+     "title": "Lorie Party 2026",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-11-05",
+     "url": "https://cinebel.dhnet.be/cinema/765/Kinepolis%20Imagibraine#movie1028121",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027863",
+     "title": "Malfaisante",
+     "originalTitle": "Other Mommy",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VF",
+     "releaseDate": "2026-10-07",
+     "url": "https://cinebel.dhnet.be/cinema/765/Kinepolis%20Imagibraine#movie1027863",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027828",
      "title": "Mochy",
      "originalTitle": "Yugly",
@@ -7730,6 +8242,18 @@
      "status": "now_showing"
     },
     {
+     "slug": "1028120",
+     "title": "Rammstein - Live in Mexico City",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/765/Kinepolis%20Imagibraine#movie1028120",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027651",
      "title": "Resident Evil",
      "originalTitle": "",
@@ -7752,12 +8276,23 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027866",
+     "title": "Scrooge",
+     "originalTitle": "Ebenezer",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/765/Kinepolis%20Imagibraine#movie1027866",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027315",
      "title": "Shaun le Mouton: La Bêêête d'Halloween",
      "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
      "year": 2026,
      "rating": "AL",
-     "language": "VF",
+     "language": "VF/NV",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/765/Kinepolis%20Imagibraine#movie1027315",
      "status": "now_showing"
@@ -7785,6 +8320,39 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027806",
+     "title": "Tad l'explorateur et la lampe magique",
+     "originalTitle": "Tadeo Jones y la lámpara maravillosa",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-09-30",
+     "url": "https://cinebel.dhnet.be/cinema/765/Kinepolis%20Imagibraine#movie1027806",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027020",
+     "title": "Toy Story 5",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-06-17",
+     "url": "https://cinebel.dhnet.be/cinema/765/Kinepolis%20Imagibraine#movie1027020",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028018",
+     "title": "Un bon patron",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/765/Kinepolis%20Imagibraine#movie1028018",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027829",
      "title": "Une femme aujourd'hui",
      "originalTitle": "",
@@ -7805,6 +8373,17 @@
      "releaseDate": "2026-09-30",
      "url": "https://cinebel.dhnet.be/cinema/765/Kinepolis%20Imagibraine#movie1027645",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027608",
+     "title": "Wild Horse Nine",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/765/Kinepolis%20Imagibraine#movie1027608",
+     "status": "coming_soon"
     }
    ]
   },
@@ -9045,6 +9624,18 @@
    "fetchedAt": "2026-11-02",
    "films": [
     {
+     "slug": "1028122",
+     "title": "Carlo Acutis, un saint pour notre temps",
+     "originalTitle": "Carlo Acutis - The Millennial Saint",
+     "year": 2026,
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "firstShowing": "2026-11-06",
+     "url": "https://cinebel.dhnet.be/cinema/947/Le%20Stuart#movie1028122",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027606",
      "title": "Clayface",
      "originalTitle": "",
@@ -9078,6 +9669,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027937",
+     "title": "George Michael: The Faith Tour",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-06",
+     "url": "https://cinebel.dhnet.be/cinema/947/Le%20Stuart#movie1027937",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027742",
      "title": "Heart of the Beast",
      "originalTitle": "",
@@ -9098,6 +9700,17 @@
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/947/Le%20Stuart#movie1027740",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027636",
+     "title": "L'Ordre Pourpre",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/947/Le%20Stuart#movie1027636",
+     "status": "coming_soon"
     },
     {
      "slug": "1027524",
@@ -9166,6 +9779,28 @@
      "status": "now_showing"
     },
     {
+     "slug": "1028027",
+     "title": "Ramayana: L'Avènement d'une légende",
+     "originalTitle": "Ramayana: Rise of a Legend",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/947/Le%20Stuart#movie1028027",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027866",
+     "title": "Scrooge",
+     "originalTitle": "Ebenezer",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/947/Le%20Stuart#movie1027866",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027315",
      "title": "Shaun le Mouton: La Bêêête d'Halloween",
      "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
@@ -9208,6 +9843,17 @@
      "releaseDate": "2026-08-12",
      "url": "https://cinebel.dhnet.be/cinema/947/Le%20Stuart#movie1027572",
      "status": "now_showing"
+    },
+    {
+     "slug": "1028018",
+     "title": "Un bon patron",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/947/Le%20Stuart#movie1028018",
+     "status": "coming_soon"
     },
     {
      "slug": "1027645",
@@ -9276,6 +9922,29 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027901",
+     "title": "Grandir",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-11-10",
+     "url": "https://cinebel.dhnet.be/cinema/1128/Le%20Totem#movie1027901",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027740",
+     "title": "Karma",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/1128/Le%20Totem#movie1027740",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027750",
      "title": "L'Espèce explosive",
      "originalTitle": "",
@@ -9298,6 +9967,39 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027594",
+     "title": "Le Corset",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/1128/Le%20Totem#movie1027594",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027859",
+     "title": "Le Mystère Lucy Lost",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-10-28",
+     "url": "https://cinebel.dhnet.be/cinema/1128/Le%20Totem#movie1027859",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027762",
+     "title": "Le Roi du Game",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "9+",
+     "language": "VO",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/1128/Le%20Totem#movie1027762",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027844",
      "title": "Les Misérables",
      "originalTitle": "",
@@ -9306,6 +10008,17 @@
      "language": "VO",
      "releaseDate": "2026-10-14",
      "url": "https://cinebel.dhnet.be/cinema/1128/Le%20Totem#movie1027844",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027828",
+     "title": "Mochy",
+     "originalTitle": "Yugly",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/1128/Le%20Totem#movie1027828",
      "status": "now_showing"
     },
     {
@@ -9340,6 +10053,50 @@
      "releaseDate": "2026-09-30",
      "url": "https://cinebel.dhnet.be/cinema/1128/Le%20Totem#movie1027593",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027752",
+     "title": "Quelques mots d'amour",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/1128/Le%20Totem#movie1027752",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027596",
+     "title": "Sanguine",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-28",
+     "url": "https://cinebel.dhnet.be/cinema/1128/Le%20Totem#movie1027596",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027315",
+     "title": "Shaun le Mouton: La Bêêête d'Halloween",
+     "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VF",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/1128/Le%20Totem#movie1027315",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028018",
+     "title": "Un bon patron",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/1128/Le%20Totem#movie1028018",
+     "status": "coming_soon"
     },
     {
      "slug": "1027744",
@@ -9562,6 +10319,17 @@
    "fetchedAt": "2026-11-02",
    "films": [
     {
+     "slug": "1028017",
+     "title": "Club Kid",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/1120/Lumi%C3%A8re%20Antwerpen#movie1028017",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027586",
      "title": "Coward",
      "originalTitle": "",
@@ -9595,6 +10363,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "11447",
+     "title": "Le Retour",
+     "originalTitle": "Vozvrashcheniye",
+     "year": 2003,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2003-12-31",
+     "url": "https://cinebel.dhnet.be/cinema/1120/Lumi%C3%A8re%20Antwerpen#movie11447",
+     "status": "now_showing"
+    },
+    {
      "slug": "15787",
      "title": "Les Diables",
      "originalTitle": "The Devils",
@@ -9618,6 +10397,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027914",
+     "title": "Minotaure",
+     "originalTitle": "Minotaur",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/1120/Lumi%C3%A8re%20Antwerpen#movie1027914",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027939",
      "title": "Monster Mia",
      "originalTitle": "",
@@ -9627,6 +10417,18 @@
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/1120/Lumi%C3%A8re%20Antwerpen#movie1027939",
      "status": "now_showing"
+    },
+    {
+     "slug": "1028103",
+     "title": "Mumbo",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "NV",
+     "releaseDate": null,
+     "firstShowing": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/1120/Lumi%C3%A8re%20Antwerpen#movie1028103",
+     "status": "coming_soon"
     },
     {
      "slug": "1028012",
@@ -9649,6 +10451,28 @@
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/1120/Lumi%C3%A8re%20Antwerpen#movie1027315",
      "status": "now_showing"
+    },
+    {
+     "slug": "1028030",
+     "title": "Tegenwoordig heet iedereen sorry",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "9+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/1120/Lumi%C3%A8re%20Antwerpen#movie1028030",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028064",
+     "title": "The Six",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/1120/Lumi%C3%A8re%20Antwerpen#movie1028064",
+     "status": "coming_soon"
     },
     {
      "slug": "1027608",
@@ -9740,6 +10564,40 @@
      "status": "now_showing"
     },
     {
+     "slug": "15787",
+     "title": "Les Diables",
+     "originalTitle": "The Devils",
+     "year": 1971,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-11-05",
+     "url": "https://cinebel.dhnet.be/cinema/1129/Lumi%C3%A8re%20Mechelen#movie15787",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027914",
+     "title": "Minotaure",
+     "originalTitle": "Minotaur",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/1129/Lumi%C3%A8re%20Mechelen#movie1027914",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027828",
+     "title": "Mochy",
+     "originalTitle": "Yugly",
+     "year": 2026,
+     "rating": "6+",
+     "language": "NV",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/1129/Lumi%C3%A8re%20Mechelen#movie1027828",
+     "status": "now_showing"
+    },
+    {
      "slug": "1028103",
      "title": "Mumbo",
      "originalTitle": "",
@@ -9815,6 +10673,17 @@
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/1129/Lumi%C3%A8re%20Mechelen#movie1027890",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027608",
+     "title": "Wild Horse Nine",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/1129/Lumi%C3%A8re%20Mechelen#movie1027608",
+     "status": "coming_soon"
     }
    ]
   },
@@ -9850,6 +10719,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027937",
+     "title": "George Michael: The Faith Tour",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-06",
+     "url": "https://cinebel.dhnet.be/cinema/1111/Moviemills#movie1027937",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027742",
      "title": "Heart of the Beast",
      "originalTitle": "",
@@ -9870,6 +10750,28 @@
      "releaseDate": "2026-10-28",
      "url": "https://cinebel.dhnet.be/cinema/1111/Moviemills#movie1027918",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027902",
+     "title": "L'Affaire Marie-Claire",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/1111/Moviemills#movie1027902",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027636",
+     "title": "L'Ordre Pourpre",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/1111/Moviemills#movie1027636",
+     "status": "coming_soon"
     },
     {
      "slug": "1027524",
@@ -9991,6 +10893,17 @@
      "releaseDate": "2026-09-30",
      "url": "https://cinebel.dhnet.be/cinema/1111/Moviemills#movie1027806",
      "status": "now_showing"
+    },
+    {
+     "slug": "1028018",
+     "title": "Un bon patron",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/1111/Moviemills#movie1028018",
+     "status": "coming_soon"
     }
    ]
   },
@@ -10159,6 +11072,18 @@
      "status": "now_showing"
     },
     {
+     "slug": "1028123",
+     "title": "Days of Wonder",
+     "originalTitle": "Päivien lumo",
+     "year": 2025,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-11-10",
+     "url": "https://cinebel.dhnet.be/cinema/1118/Palace#movie1028123",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027846",
      "title": "Du fioul dans les artères",
      "originalTitle": "",
@@ -10200,6 +11125,17 @@
      "language": "VO",
      "releaseDate": "2026-09-23",
      "url": "https://cinebel.dhnet.be/cinema/1118/Palace#movie1027749",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027856",
+     "title": "Gruffalo, de père en fils",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VF",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/1118/Palace#movie1027856",
      "status": "now_showing"
     },
     {
@@ -10269,6 +11205,17 @@
      "status": "coming_soon"
     },
     {
+     "slug": "1027859",
+     "title": "Le Mystère Lucy Lost",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-10-28",
+     "url": "https://cinebel.dhnet.be/cinema/1118/Palace#movie1027859",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027914",
      "title": "Minotaure",
      "originalTitle": "Minotaur",
@@ -10278,6 +11225,17 @@
      "releaseDate": "2026-11-11",
      "url": "https://cinebel.dhnet.be/cinema/1118/Palace#movie1027914",
      "status": "coming_soon"
+    },
+    {
+     "slug": "1027828",
+     "title": "Mochy",
+     "originalTitle": "Yugly",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/1118/Palace#movie1027828",
+     "status": "now_showing"
     },
     {
      "slug": "1028023",
@@ -10369,6 +11327,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027761",
+     "title": "Rose",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-09-09",
+     "url": "https://cinebel.dhnet.be/cinema/1118/Palace#movie1027761",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027315",
      "title": "Shaun le Mouton: La Bêêête d'Halloween",
      "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
@@ -10412,6 +11381,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1028064",
+     "title": "The Six",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/1118/Palace#movie1028064",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027608",
      "title": "Wild Horse Nine",
      "originalTitle": "",
@@ -10420,6 +11400,17 @@
      "language": "VO",
      "releaseDate": "2026-11-04",
      "url": "https://cinebel.dhnet.be/cinema/1118/Palace#movie1027608",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1028110",
+     "title": "You Can See Everything",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-12-30",
+     "url": "https://cinebel.dhnet.be/cinema/1118/Palace#movie1028110",
      "status": "coming_soon"
     }
    ]
@@ -10467,6 +11458,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027937",
+     "title": "George Michael: The Faith Tour",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-06",
+     "url": "https://cinebel.dhnet.be/cinema/869/Palace%20(Li%C3%A8ge)#movie1027937",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027849",
      "title": "Godzilla Minus Zero",
      "originalTitle": "",
@@ -10487,6 +11489,17 @@
      "releaseDate": "2026-10-28",
      "url": "https://cinebel.dhnet.be/cinema/869/Palace%20(Li%C3%A8ge)#movie1027918",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027636",
+     "title": "L'Ordre Pourpre",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/869/Palace%20(Li%C3%A8ge)#movie1027636",
+     "status": "coming_soon"
     },
     {
      "slug": "1027524",
@@ -10533,6 +11546,18 @@
      "status": "now_showing"
     },
     {
+     "slug": "1028120",
+     "title": "Rammstein - Live in Mexico City",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/869/Palace%20(Li%C3%A8ge)#movie1028120",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027651",
      "title": "Resident Evil",
      "originalTitle": "",
@@ -10542,6 +11567,17 @@
      "releaseDate": "2026-09-16",
      "url": "https://cinebel.dhnet.be/cinema/869/Palace%20(Li%C3%A8ge)#movie1027651",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027866",
+     "title": "Scrooge",
+     "originalTitle": "Ebenezer",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/869/Palace%20(Li%C3%A8ge)#movie1027866",
+     "status": "coming_soon"
     },
     {
      "slug": "1027315",
@@ -10830,6 +11866,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027628",
+     "title": "Comment braquer une banque",
+     "originalTitle": "How to Rob a Bank",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/908/Path%C3%A9%20Charleroi#movie1027628",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027908",
      "title": "Coyote vs. Acme",
      "originalTitle": "",
@@ -10885,6 +11932,29 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027937",
+     "title": "George Michael: The Faith Tour",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-06",
+     "url": "https://cinebel.dhnet.be/cinema/908/Path%C3%A9%20Charleroi#movie1027937",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1024983",
+     "title": "Godzilla Minus One",
+     "originalTitle": "",
+     "year": 2023,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-11-06",
+     "url": "https://cinebel.dhnet.be/cinema/908/Path%C3%A9%20Charleroi#movie1024983",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027849",
      "title": "Godzilla Minus Zero",
      "originalTitle": "",
@@ -10904,6 +11974,17 @@
      "language": "VF",
      "releaseDate": "2026-09-23",
      "url": "https://cinebel.dhnet.be/cinema/908/Path%C3%A9%20Charleroi#movie1027742",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027918",
+     "title": "Hope",
+     "originalTitle": "Hopeu",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VF",
+     "releaseDate": "2026-10-28",
+     "url": "https://cinebel.dhnet.be/cinema/908/Path%C3%A9%20Charleroi#movie1027918",
      "status": "now_showing"
     },
     {
@@ -10929,6 +12010,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027902",
+     "title": "L'Affaire Marie-Claire",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/908/Path%C3%A9%20Charleroi#movie1027902",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027124",
      "title": "L'Odyssée",
      "originalTitle": "The Odyssey",
@@ -10938,6 +12030,17 @@
      "releaseDate": "2026-07-15",
      "url": "https://cinebel.dhnet.be/cinema/908/Path%C3%A9%20Charleroi#movie1027124",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027636",
+     "title": "L'Ordre Pourpre",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/908/Path%C3%A9%20Charleroi#movie1027636",
+     "status": "coming_soon"
     },
     {
      "slug": "1027524",
@@ -11017,6 +12120,18 @@
      "status": "now_showing"
     },
     {
+     "slug": "1028121",
+     "title": "Lorie Party 2026",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-11-05",
+     "url": "https://cinebel.dhnet.be/cinema/908/Path%C3%A9%20Charleroi#movie1028121",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027863",
      "title": "Malfaisante",
      "originalTitle": "Other Mommy",
@@ -11072,6 +12187,40 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027818",
+     "title": "Raison et sentiments",
+     "originalTitle": "Sense and Sensibility",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VF",
+     "releaseDate": "2026-09-23",
+     "url": "https://cinebel.dhnet.be/cinema/908/Path%C3%A9%20Charleroi#movie1027818",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028027",
+     "title": "Ramayana: L'Avènement d'une légende",
+     "originalTitle": "Ramayana: Rise of a Legend",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/908/Path%C3%A9%20Charleroi#movie1028027",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1028120",
+     "title": "Rammstein - Live in Mexico City",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/908/Path%C3%A9%20Charleroi#movie1028120",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027651",
      "title": "Resident Evil",
      "originalTitle": "",
@@ -11083,6 +12232,18 @@
      "status": "now_showing"
     },
     {
+     "slug": "8900",
+     "title": "Rocky",
+     "originalTitle": "",
+     "year": 1976,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": null,
+     "firstShowing": "2026-11-10",
+     "url": "https://cinebel.dhnet.be/cinema/908/Path%C3%A9%20Charleroi#movie8900",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027596",
      "title": "Sanguine",
      "originalTitle": "",
@@ -11092,6 +12253,17 @@
      "releaseDate": "2026-10-28",
      "url": "https://cinebel.dhnet.be/cinema/908/Path%C3%A9%20Charleroi#movie1027596",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027866",
+     "title": "Scrooge",
+     "originalTitle": "Ebenezer",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/908/Path%C3%A9%20Charleroi#movie1027866",
+     "status": "coming_soon"
     },
     {
      "slug": "1027315",
@@ -11149,6 +12321,28 @@
      "status": "now_showing"
     },
     {
+     "slug": "1028018",
+     "title": "Un bon patron",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/908/Path%C3%A9%20Charleroi#movie1028018",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "13810",
+     "title": "V for Vendetta",
+     "originalTitle": "",
+     "year": 2006,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2006-03-29",
+     "url": "https://cinebel.dhnet.be/cinema/908/Path%C3%A9%20Charleroi#movie13810",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027645",
      "title": "Verity",
      "originalTitle": "",
@@ -11158,6 +12352,17 @@
      "releaseDate": "2026-09-30",
      "url": "https://cinebel.dhnet.be/cinema/908/Path%C3%A9%20Charleroi#movie1027645",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027608",
+     "title": "Wild Horse Nine",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/908/Path%C3%A9%20Charleroi#movie1027608",
+     "status": "coming_soon"
     }
    ]
   },
@@ -12177,6 +13382,17 @@
      "status": "coming_soon"
     },
     {
+     "slug": "1027754",
+     "title": "Camembert",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "9+",
+     "language": "VO",
+     "releaseDate": "2026-11-18",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027754",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027586",
      "title": "Coward",
      "originalTitle": "",
@@ -12185,6 +13401,17 @@
      "language": "VO",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027586",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027908",
+     "title": "Coyote vs. Acme",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027908",
      "status": "now_showing"
     },
     {
@@ -12223,6 +13450,17 @@
      "status": "coming_soon"
     },
     {
+     "slug": "1027746",
+     "title": "Fjord",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-12-09",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027746",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027662",
      "title": "Franz",
      "originalTitle": "",
@@ -12256,6 +13494,18 @@
      "status": "now_showing"
     },
     {
+     "slug": "7984",
+     "title": "Hook ou la Revanche du capitaine Crochet",
+     "originalTitle": "Hook",
+     "year": 1991,
+     "rating": "AL",
+     "language": "VF",
+     "releaseDate": null,
+     "firstShowing": "2026-12-20",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie7984",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027918",
      "title": "Hope",
      "originalTitle": "Hopeu",
@@ -12278,6 +13528,29 @@
      "status": "coming_soon"
     },
     {
+     "slug": "1834",
+     "title": "Indiana Jones et la dernière croisade",
+     "originalTitle": "Indiana Jones and the Last Crusade",
+     "year": 1989,
+     "rating": "AL",
+     "language": "VF",
+     "releaseDate": null,
+     "firstShowing": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1834",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027902",
+     "title": "L'Affaire Marie-Claire",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027902",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027750",
      "title": "L'Espèce explosive",
      "originalTitle": "",
@@ -12287,6 +13560,18 @@
      "releaseDate": "2026-10-14",
      "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027750",
      "status": "now_showing"
+    },
+    {
+     "slug": "1028119",
+     "title": "La Face cachée de l'art américain",
+     "originalTitle": "",
+     "year": 2017,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-11-08",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1028119",
+     "status": "coming_soon"
     },
     {
      "slug": "1027753",
@@ -12333,6 +13618,29 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027859",
+     "title": "Le Mystère Lucy Lost",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-10-28",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027859",
+     "status": "now_showing"
+    },
+    {
+     "slug": "15787",
+     "title": "Les Diables",
+     "originalTitle": "The Devils",
+     "year": 1971,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-11-05",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie15787",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1018671",
      "title": "Manu, l’homme qui ne voulait pas lâcher sa caméra",
      "originalTitle": "",
@@ -12354,6 +13662,17 @@
      "firstShowing": "2026-11-04",
      "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1026306",
      "status": "coming_soon"
+    },
+    {
+     "slug": "1028023",
+     "title": "Moulin",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-28",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1028023",
+     "status": "now_showing"
     },
     {
      "slug": "1028012",
@@ -12409,6 +13728,17 @@
      "releaseDate": "2026-10-14",
      "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027917",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027752",
+     "title": "Quelques mots d'amour",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027752",
+     "status": "coming_soon"
     },
     {
      "slug": "1027643",
@@ -12499,6 +13829,17 @@
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027890",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027608",
+     "title": "Wild Horse Nine",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/943/Plaza%20ArtHouse%20Cinema#movie1027608",
+     "status": "coming_soon"
     }
    ]
   },
@@ -12721,6 +14062,17 @@
    "fetchedAt": "2026-11-02",
    "films": [
     {
+     "slug": "1027586",
+     "title": "Coward",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/909/Quai%2010-C%C3%B4t%C3%A9%20Parc#movie1027586",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027753",
      "title": "La Gradiva",
      "originalTitle": "",
@@ -12763,6 +14115,40 @@
      "releaseDate": "2026-09-30",
      "url": "https://cinebel.dhnet.be/cinema/909/Quai%2010-C%C3%B4t%C3%A9%20Parc#movie1027593",
      "status": "now_showing"
+    },
+    {
+     "slug": "1026457",
+     "title": "Partir un jour",
+     "originalTitle": "",
+     "year": 2025,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-11-06",
+     "url": "https://cinebel.dhnet.be/cinema/909/Quai%2010-C%C3%B4t%C3%A9%20Parc#movie1026457",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027315",
+     "title": "Shaun le Mouton: La Bêêête d'Halloween",
+     "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/909/Quai%2010-C%C3%B4t%C3%A9%20Parc#movie1027315",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027608",
+     "title": "Wild Horse Nine",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/909/Quai%2010-C%C3%B4t%C3%A9%20Parc#movie1027608",
+     "status": "coming_soon"
     }
    ]
   },
@@ -12776,6 +14162,18 @@
    "fetchedAt": "2026-11-02",
    "films": [
     {
+     "slug": "1027909",
+     "title": "Comme un château fort",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-11-05",
+     "url": "https://cinebel.dhnet.be/cinema/1116/Quai10#movie1027909",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027586",
      "title": "Coward",
      "originalTitle": "",
@@ -12787,6 +14185,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027908",
+     "title": "Coyote vs. Acme",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/1116/Quai10#movie1027908",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027749",
      "title": "Garance",
      "originalTitle": "",
@@ -12795,6 +14204,28 @@
      "language": "VO",
      "releaseDate": "2026-09-23",
      "url": "https://cinebel.dhnet.be/cinema/1116/Quai10#movie1027749",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027849",
+     "title": "Godzilla Minus Zero",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/1116/Quai10#movie1027849",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027856",
+     "title": "Gruffalo, de père en fils",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VF",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/1116/Quai10#movie1027856",
      "status": "now_showing"
     },
     {
@@ -12820,6 +14251,28 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027902",
+     "title": "L'Affaire Marie-Claire",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/1116/Quai10#movie1027902",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027594",
+     "title": "Le Corset",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/1116/Quai10#movie1027594",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027718",
      "title": "Le Fantôme de l'Opéra",
      "originalTitle": "",
@@ -12829,6 +14282,29 @@
      "releaseDate": "2026-10-28",
      "url": "https://cinebel.dhnet.be/cinema/1116/Quai10#movie1027718",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027859",
+     "title": "Le Mystère Lucy Lost",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-10-28",
+     "url": "https://cinebel.dhnet.be/cinema/1116/Quai10#movie1027859",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027858",
+     "title": "Le Noël d'Ernest et Célestine",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-11-08",
+     "url": "https://cinebel.dhnet.be/cinema/1116/Quai10#movie1027858",
+     "status": "coming_soon"
     },
     {
      "slug": "15787",
@@ -12853,6 +14329,28 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027828",
+     "title": "Mochy",
+     "originalTitle": "Yugly",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/1116/Quai10#movie1027828",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027939",
+     "title": "Monster Mia",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/1116/Quai10#movie1027939",
+     "status": "now_showing"
+    },
+    {
      "slug": "1028023",
      "title": "Moulin",
      "originalTitle": "",
@@ -12873,6 +14371,17 @@
      "releaseDate": "2026-10-07",
      "url": "https://cinebel.dhnet.be/cinema/1116/Quai10#movie1027758",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027752",
+     "title": "Quelques mots d'amour",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/1116/Quai10#movie1027752",
+     "status": "coming_soon"
     },
     {
      "slug": "1027760",
@@ -12906,6 +14415,17 @@
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/1116/Quai10#movie1027890",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027608",
+     "title": "Wild Horse Nine",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/1116/Quai10#movie1027608",
+     "status": "coming_soon"
     }
    ]
   },
@@ -13345,10 +14865,9 @@
      "year": 2006,
      "rating": "AL",
      "language": "VO",
-     "releaseDate": null,
-     "firstShowing": "2026-11-05",
+     "releaseDate": "2006-05-24",
      "url": "https://cinebel.dhnet.be/cinema/994/Sphinx#movie14375",
-     "status": "coming_soon"
+     "status": "now_showing"
     },
     {
      "slug": "1027828",
@@ -13506,6 +15025,17 @@
    "fetchedAt": "2026-11-02",
    "films": [
     {
+     "slug": "1028017",
+     "title": "Club Kid",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1028017",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027586",
      "title": "Coward",
      "originalTitle": "",
@@ -13572,6 +15102,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027318",
+     "title": "La Grande rêvasion",
+     "originalTitle": "",
+     "year": 2025,
+     "rating": "AL",
+     "language": "NV",
+     "releaseDate": "2026-07-01",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1027318",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027594",
      "title": "Le Corset",
      "originalTitle": "",
@@ -13580,6 +15121,29 @@
      "language": "NV",
      "releaseDate": "2026-10-14",
      "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1027594",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10602",
+     "title": "Le Loup-garou de Londres",
+     "originalTitle": "An American Werewolf in London",
+     "year": 1981,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-11-10",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie10602",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "11447",
+     "title": "Le Retour",
+     "originalTitle": "Vozvrashcheniye",
+     "year": 2003,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2003-12-31",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie11447",
      "status": "now_showing"
     },
     {
@@ -13603,6 +15167,17 @@
      "releaseDate": null,
      "firstShowing": "2026-11-03",
      "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie11736",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027914",
+     "title": "Minotaure",
+     "originalTitle": "Minotaur",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1027914",
      "status": "coming_soon"
     },
     {
@@ -13672,6 +15247,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1028030",
+     "title": "Tegenwoordig heet iedereen sorry",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "9+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1028030",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027894",
      "title": "The Only Living Pickpocket in New York",
      "originalTitle": "",
@@ -13683,6 +15269,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1028064",
+     "title": "The Six",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1028064",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027890",
      "title": "Wicker",
      "originalTitle": "",
@@ -13692,6 +15289,17 @@
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1027890",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027608",
+     "title": "Wild Horse Nine",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/995/Studio%20Skoop#movie1027608",
+     "status": "coming_soon"
     }
    ]
   },
@@ -13782,6 +15390,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027937",
+     "title": "George Michael: The Faith Tour",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-06",
+     "url": "https://cinebel.dhnet.be/cinema/713/UGC%20De%20Brouck%C3%A8re#movie1027937",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027849",
      "title": "Godzilla Minus Zero",
      "originalTitle": "",
@@ -13815,6 +15434,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1004222",
+     "title": "Inglourious Basterds",
+     "originalTitle": "",
+     "year": 2009,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2009-08-19",
+     "url": "https://cinebel.dhnet.be/cinema/713/UGC%20De%20Brouck%C3%A8re#movie1004222",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027740",
      "title": "Karma",
      "originalTitle": "",
@@ -13835,6 +15465,28 @@
      "releaseDate": "2026-09-30",
      "url": "https://cinebel.dhnet.be/cinema/713/UGC%20De%20Brouck%C3%A8re#movie1027857",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027902",
+     "title": "L'Affaire Marie-Claire",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/713/UGC%20De%20Brouck%C3%A8re#movie1027902",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027636",
+     "title": "L'Ordre Pourpre",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/713/UGC%20De%20Brouck%C3%A8re#movie1027636",
+     "status": "coming_soon"
     },
     {
      "slug": "1027524",
@@ -13868,6 +15520,17 @@
      "releaseDate": "2026-10-28",
      "url": "https://cinebel.dhnet.be/cinema/713/UGC%20De%20Brouck%C3%A8re#movie1027718",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027756",
+     "title": "Le Faux Soir",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-12-02",
+     "url": "https://cinebel.dhnet.be/cinema/713/UGC%20De%20Brouck%C3%A8re#movie1027756",
+     "status": "coming_soon"
     },
     {
      "slug": "1027762",
@@ -13936,6 +15599,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1028027",
+     "title": "Ramayana: L'Avènement d'une légende",
+     "originalTitle": "Ramayana: Rise of a Legend",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/713/UGC%20De%20Brouck%C3%A8re#movie1028027",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027651",
      "title": "Resident Evil",
      "originalTitle": "",
@@ -13958,6 +15632,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027866",
+     "title": "Scrooge",
+     "originalTitle": "Ebenezer",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/713/UGC%20De%20Brouck%C3%A8re#movie1027866",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027315",
      "title": "Shaun le Mouton: La Bêêête d'Halloween",
      "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
@@ -13966,6 +15651,17 @@
      "language": "VF",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/713/UGC%20De%20Brouck%C3%A8re#movie1027315",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1026727",
+     "title": "Spider-Man: Brand New Day",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-07-29",
+     "url": "https://cinebel.dhnet.be/cinema/713/UGC%20De%20Brouck%C3%A8re#movie1026727",
      "status": "now_showing"
     },
     {
@@ -13989,6 +15685,17 @@
      "releaseDate": "2026-08-12",
      "url": "https://cinebel.dhnet.be/cinema/713/UGC%20De%20Brouck%C3%A8re#movie1027572",
      "status": "now_showing"
+    },
+    {
+     "slug": "1028018",
+     "title": "Un bon patron",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/713/UGC%20De%20Brouck%C3%A8re#movie1028018",
+     "status": "coming_soon"
     },
     {
      "slug": "1027645",
@@ -14024,6 +15731,17 @@
      "status": "coming_soon"
     },
     {
+     "slug": "1028017",
+     "title": "Club Kid",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1028017",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027586",
      "title": "Coward",
      "originalTitle": "",
@@ -14032,6 +15750,17 @@
      "language": "VO",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1027586",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027908",
+     "title": "Coyote vs. Acme",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1027908",
      "status": "now_showing"
     },
     {
@@ -14101,6 +15830,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027902",
+     "title": "L'Affaire Marie-Claire",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1027902",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027719",
      "title": "L'Invitation",
      "originalTitle": "The Invite",
@@ -14121,6 +15861,17 @@
      "releaseDate": "2026-07-15",
      "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1027124",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027636",
+     "title": "L'Ordre Pourpre",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1027636",
+     "status": "coming_soon"
     },
     {
      "slug": "1027524",
@@ -14266,6 +16017,18 @@
      "status": "coming_soon"
     },
     {
+     "slug": "6948",
+     "title": "Plein Soleil",
+     "originalTitle": "",
+     "year": 1960,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-11-08",
+     "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie6948",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027913",
      "title": "Primetime",
      "originalTitle": "",
@@ -14275,6 +16038,17 @@
      "releaseDate": "2026-10-07",
      "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1027913",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027752",
+     "title": "Quelques mots d'amour",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1027752",
+     "status": "coming_soon"
     },
     {
      "slug": "1027818",
@@ -14330,6 +16104,17 @@
      "releaseDate": "2026-10-07",
      "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1027760",
      "status": "now_showing"
+    },
+    {
+     "slug": "1028018",
+     "title": "Un bon patron",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1028018",
+     "status": "coming_soon"
     },
     {
      "slug": "1027829",
