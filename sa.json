@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T07:04:13.682Z",
+ "updatedAt": "2026-11-02T12:52:14.396Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
@@ -168,12 +168,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099122",
-     "title": "Forgotten Island",
+     "slug": "2098154",
+     "title": "Whalefall",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2099122/",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -195,12 +195,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
+     "slug": "2099122",
+     "title": "Forgotten Island",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2098154/",
+     "url": "https://elcinema.com/en/work/2099122/",
      "status": "now_showing"
     },
     {
@@ -303,15 +303,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099118",
-     "title": "Insidious: Out of the Further",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-18",
-     "url": "https://elcinema.com/en/work/2099118/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2094876",
      "title": "Mutiny",
      "rating": "",
@@ -327,15 +318,6 @@
      "language": "",
      "releaseDate": "2026-08-12",
      "url": "https://elcinema.com/en/work/2096322/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101308",
-     "title": "Above & Below",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-12",
-     "url": "https://elcinema.com/en/work/2101308/",
      "status": "now_showing"
     },
     {
@@ -366,15 +348,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099406",
-     "title": "Evil Dead Burn",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-07-08",
-     "url": "https://elcinema.com/en/work/2099406/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098745",
      "title": "Minions & Monsters",
      "rating": "",
@@ -390,33 +363,6 @@
      "language": "",
      "releaseDate": "2026-05-29",
      "url": "https://elcinema.com/en/work/2100043/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099005",
-     "title": "Backrooms",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-05-27",
-     "url": "https://elcinema.com/en/work/2099005/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2030306",
-     "title": "City of God",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2024-02-22",
-     "url": "https://elcinema.com/en/work/2030306/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2093117",
-     "title": "Sketch",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2025-08-14",
-     "url": "https://elcinema.com/en/work/2093117/",
      "status": "now_showing"
     },
     {
