@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T18:31:13.356Z",
+ "updatedAt": "2026-11-02T00:42:37.174Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
@@ -501,21 +501,21 @@
      "status": "coming_soon"
     },
     {
-     "slug": "2101516",
-     "title": "The Further Mis-Adventures of Cliff Booth",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-25",
-     "url": "https://elcinema.com/en/work/2101516/",
-     "status": "coming_soon"
-    },
-    {
      "slug": "2101989",
      "title": "Crypto",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2101989/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2102069",
+     "title": "Üç Harfliler: Mühür",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102069/",
      "status": "coming_soon"
     }
    ]

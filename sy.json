@@ -1,26 +1,17 @@
 {
- "updatedAt": "2026-11-01T18:31:32.025Z",
+ "updatedAt": "2026-11-02T00:42:51.685Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
    "name": "Cinemas in Syria",
    "films": [
     {
-     "slug": "2102669",
-     "title": "The Executioner",
+     "slug": "2099773",
+     "title": "Wala Kan Ala El-Bal",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-01",
-     "url": "https://elcinema.com/en/work/2102669/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102670",
-     "title": "Cell 211",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-01",
-     "url": "https://elcinema.com/en/work/2102670/",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2099773/",
      "status": "now_showing"
     },
     {
@@ -30,15 +21,6 @@
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2100794/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2099773/",
      "status": "now_showing"
     },
     {

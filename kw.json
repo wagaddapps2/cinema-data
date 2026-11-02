@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T18:29:32.173Z",
+ "updatedAt": "2026-11-02T00:41:08.730Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -131,6 +131,14 @@
      "rating": "R15",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/the-odyssey",
+     "status": "now_showing"
+    },
+    {
+     "slug": "treasure-trekkers",
+     "title": "Treasure Trekkers",
+     "rating": "PG",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/treasure-trekkers",
      "status": "now_showing"
     },
     {
@@ -2336,6 +2344,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102517",
      "title": "How to Save the Immortal 2: Elixir of Life",
      "rating": "",
@@ -2354,6 +2371,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102185",
+     "title": "Adarsha Kutumbam House No: 47",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102185/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2090950",
      "title": "Hope",
      "rating": "",
@@ -2369,15 +2395,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2097221/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102185",
-     "title": "Adarsha Kutumbam House No: 47",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102185/",
      "status": "now_showing"
     },
     {
@@ -2415,21 +2432,21 @@
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
-    },
-    {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
     }
    ]
   },
   "cinescape-3101210": {
    "name": "Cinescape Avenues",
    "films": [
+    {
+     "slug": "2099119",
+     "title": "Sense and Sensibility",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099119/",
+     "status": "now_showing"
+    },
     {
      "slug": "2088495",
      "title": "Wildwood",
@@ -2455,6 +2472,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101649",
+     "title": "The Influencer Project",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101649/",
      "status": "now_showing"
     },
     {
@@ -2518,24 +2544,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102265/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099119/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101649",
-     "title": "The Influencer Project",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101649/",
      "status": "now_showing"
     },
     {
