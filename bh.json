@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T00:43:25.427Z",
+ "updatedAt": "2026-11-03T06:53:32.468Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
@@ -264,6 +264,15 @@
      "language": "",
      "releaseDate": "2026-08-19",
      "url": "https://elcinema.com/en/work/2094876/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095765",
+     "title": "Spider-Man: Brand New Day",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-07-29",
+     "url": "https://elcinema.com/en/work/2095765/",
      "status": "now_showing"
     },
     {

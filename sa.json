@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T00:43:21.083Z",
+ "updatedAt": "2026-11-03T06:53:25.825Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
@@ -33,24 +33,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101649",
-     "title": "The Influencer Project",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2101649/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101651",
-     "title": "The Dino Family",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2101651/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102517",
      "title": "How to Save the Immortal 2: Elixir of Life",
      "rating": "",
@@ -69,6 +51,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101649",
+     "title": "The Influencer Project",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2101649/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2093435",
      "title": "It Feeds",
      "rating": "",
@@ -78,21 +69,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097360",
-     "title": "The Mongoose",
+     "slug": "2101651",
+     "title": "The Dino Family",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2088495",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2088495/",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2101651/",
      "status": "now_showing"
     },
     {
@@ -105,21 +87,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2099773/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099119",
      "title": "Sense and Sensibility",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
      "url": "https://elcinema.com/en/work/2099119/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099773",
+     "title": "Wala Kan Ala El-Bal",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2099773/",
      "status": "now_showing"
     },
     {
@@ -132,12 +114,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102437",
-     "title": "Seventeen World Tour (New_)",
+     "slug": "2088495",
+     "title": "Wildwood",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-26",
-     "url": "https://elcinema.com/en/work/2102437/",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2088495/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097360",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2097360/",
      "status": "now_showing"
     },
     {
@@ -159,21 +150,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102341",
-     "title": "Always Yours, Never Mine",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-21",
-     "url": "https://elcinema.com/en/work/2102341/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-21",
      "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102341",
+     "title": "Always Yours, Never Mine",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-21",
+     "url": "https://elcinema.com/en/work/2102341/",
      "status": "now_showing"
     },
     {
@@ -186,21 +177,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097221",
      "title": "Jailer 2",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2097221/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -303,15 +294,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2094924",
-     "title": "Coyote vs. Acme",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-26",
-     "url": "https://elcinema.com/en/work/2094924/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095133",
      "title": "El Set Lamma (Veto)",
      "rating": "",
@@ -321,21 +303,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100028",
-     "title": "Colony",
+     "slug": "2094924",
+     "title": "Coyote vs. Acme",
      "rating": "",
      "language": "",
      "releaseDate": "2026-08-26",
-     "url": "https://elcinema.com/en/work/2100028/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099118",
-     "title": "Insidious: Out of the Further",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-18",
-     "url": "https://elcinema.com/en/work/2099118/",
+     "url": "https://elcinema.com/en/work/2094924/",
      "status": "now_showing"
     },
     {
@@ -393,21 +366,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2093181",
+     "title": "Saqr w Kanarya",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-06-24",
+     "url": "https://elcinema.com/en/work/2093181/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100043",
      "title": "Cats in the Museum: Treasures of Egypt",
      "rating": "",
      "language": "",
      "releaseDate": "2026-05-29",
      "url": "https://elcinema.com/en/work/2100043/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099005",
-     "title": "Backrooms",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-05-27",
-     "url": "https://elcinema.com/en/work/2099005/",
      "status": "now_showing"
     },
     {
@@ -426,15 +399,6 @@
      "language": "",
      "releaseDate": "2025-08-14",
      "url": "https://elcinema.com/en/work/2093117/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2091976",
-     "title": "Night of the Zoopocalypse",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2025-03-30",
-     "url": "https://elcinema.com/en/work/2091976/",
      "status": "now_showing"
     },
     {
