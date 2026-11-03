@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T12:49:46.144Z",
+ "updatedAt": "2026-11-03T18:39:19.015Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -182,14 +182,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "godzilla-minus-zero-preview-screening-japanese",
-     "title": "Godzilla Minus Zero - Preview Screening",
-     "rating": "PG12",
-     "language": "Japanese",
-     "url": "https://kwt.voxcinemas.com/movies/godzilla-minus-zero-preview-screening-japanese",
-     "status": "now_showing"
-    },
-    {
      "slug": "a-talent-for-murder",
      "title": "A Talent for Murder",
      "rating": "R18",
@@ -203,6 +195,14 @@
      "rating": "PG12",
      "language": "Japanese",
      "url": "https://kwt.voxcinemas.com/movies/godzilla-minus-zero-japanese",
+     "status": "now_showing"
+    },
+    {
+     "slug": "idiots",
+     "title": "Idiots",
+     "rating": "R18",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/idiots",
      "status": "now_showing"
     },
     {
@@ -235,6 +235,14 @@
      "rating": "R18",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/the-cycle",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-shawshank-redemption-re-release",
+     "title": "The Shawshank Redemption (Re-release)",
+     "rating": "R18",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/the-shawshank-redemption-re-release",
      "status": "now_showing"
     },
     {
@@ -293,7 +301,7 @@
     {
      "slug": "idiots",
      "title": "Idiots",
-     "rating": "18TC",
+     "rating": "R18",
      "language": "English",
      "releaseDate": "2026-11-05",
      "url": "https://kwt.voxcinemas.com/movies/idiots",
@@ -1089,6 +1097,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "scene-tamil",
+     "title": "Scene",
+     "rating": "R15",
+     "language": "Tamil",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/scene-tamil",
+     "status": "now_showing"
+    },
+    {
      "slug": "just-marriedcom-konkani",
      "title": "Just Married.com",
      "rating": "PG12",
@@ -1131,15 +1148,6 @@
      "language": "Turkish",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/belkis-turkish",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "scene-tamil",
-     "title": "Scene",
-     "rating": "R15",
-     "language": "Tamil",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/scene-tamil",
      "status": "coming_soon"
     },
     {
@@ -1284,15 +1292,6 @@
      "language": "Hindi",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/gunmaaster-g9-hindi",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "hadoota-arabic",
-     "title": "Hadoota",
-     "rating": "PG12",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/hadoota-arabic",
      "status": "coming_soon"
     },
     {
@@ -1553,6 +1552,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "scene-tamil",
+     "title": "Scene",
+     "rating": "R15",
+     "language": "Tamil",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/scene-tamil",
+     "status": "now_showing"
+    },
+    {
      "slug": "the-shawshank-redemption-1994-re-release-english",
      "title": "The Shawshank Redemption 1994 Re-Release",
      "rating": "R18",
@@ -1724,21 +1732,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "hadoota-arabic",
+     "title": "Hadoota",
+     "rating": "PG12",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/hadoota-arabic",
+     "status": "now_showing"
+    },
+    {
      "slug": "belkis-turkish",
      "title": "Belkis",
      "rating": "",
      "language": "Turkish",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/belkis-turkish",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "scene-tamil",
-     "title": "Scene",
-     "rating": "R15",
-     "language": "Tamil",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/scene-tamil",
      "status": "coming_soon"
     },
     {
@@ -1883,15 +1891,6 @@
      "language": "Hindi",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/gunmaaster-g9-hindi",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "hadoota-arabic",
-     "title": "Hadoota",
-     "rating": "PG12",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/hadoota-arabic",
      "status": "coming_soon"
     },
     {
