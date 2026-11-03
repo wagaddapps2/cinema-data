@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T18:47:26.190Z",
+ "updatedAt": "2026-11-03T00:43:27.113Z",
  "territory": "OM",
  "cinemas": {
   "elcinema-om": {
@@ -318,15 +318,6 @@
      "language": "",
      "releaseDate": "2026-12-23",
      "url": "https://elcinema.com/en/work/2098170/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2098323",
-     "title": "Godzilla Minus Zero",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-03",
-     "url": "https://elcinema.com/en/work/2098323/",
      "status": "coming_soon"
     },
     {
