@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-11-04T06:57:53.787Z",
+ "updatedAt": "2026-11-04T12:50:11.509Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
    "name": "Cinemas in Syria",
    "films": [
+    {
+     "slug": "2102683",
+     "title": "Marco",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-02",
+     "url": "https://elcinema.com/en/work/2102683/",
+     "status": "now_showing"
+    },
     {
      "slug": "2099773",
      "title": "Wala Kan Ala El-Bal",
@@ -66,6 +75,24 @@
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2003135",
+     "title": "Enchanted",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-04-23",
+     "url": "https://elcinema.com/en/work/2003135/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2090850",
+     "title": "Zootopia 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2025-11-27",
+     "url": "https://elcinema.com/en/work/2090850/",
      "status": "now_showing"
     },
     {

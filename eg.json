@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T06:57:40.023Z",
+ "updatedAt": "2026-11-04T12:49:56.095Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
@@ -514,7 +514,7 @@
      "title": "Üç Harfliler: Mühür",
      "rating": "",
      "language": "",
-     "releaseDate": null,
+     "releaseDate": "2026-11-05",
      "url": "https://elcinema.com/en/work/2102069/",
      "status": "coming_soon"
     }

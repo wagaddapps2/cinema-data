@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T06:57:48.768Z",
+ "updatedAt": "2026-11-04T12:50:05.170Z",
  "territory": "QA",
  "cinemas": {
   "elcinema-qa": {
@@ -507,15 +507,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102000/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2102002",
-     "title": "The Draw",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102002/",
      "status": "coming_soon"
     }
    ]

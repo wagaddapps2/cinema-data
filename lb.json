@@ -1,26 +1,17 @@
 {
- "updatedAt": "2026-11-04T06:57:52.467Z",
+ "updatedAt": "2026-11-04T12:50:10.747Z",
  "territory": "LB",
  "cinemas": {
   "elcinema-lb": {
    "name": "Cinemas in Lebanon",
    "films": [
     {
-     "slug": "2098323",
-     "title": "Godzilla Minus Zero",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-03",
-     "url": "https://elcinema.com/en/work/2098323/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102529",
-     "title": "Jean Valjean",
+     "slug": "2088495",
+     "title": "Wildwood",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102529/",
+     "url": "https://elcinema.com/en/work/2088495/",
      "status": "now_showing"
     },
     {
@@ -51,21 +42,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2088495",
-     "title": "Wildwood",
+     "slug": "2102529",
+     "title": "Jean Valjean",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2098155/",
+     "url": "https://elcinema.com/en/work/2102529/",
      "status": "now_showing"
     },
     {
@@ -75,6 +57,15 @@
      "language": "",
      "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2101940/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2098155/",
      "status": "now_showing"
     },
     {
@@ -129,6 +120,15 @@
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101963",
+     "title": "The Smurfs: Timeless Adventure Volume 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2101963/",
      "status": "now_showing"
     },
     {

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T06:56:07.972Z",
+ "updatedAt": "2026-11-04T12:48:13.209Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -142,14 +142,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "resident-evil",
-     "title": "Resident Evil",
-     "rating": "R15",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/resident-evil",
-     "status": "now_showing"
-    },
-    {
      "slug": "the-odyssey",
      "title": "The Odyssey",
      "rating": "R15",
@@ -195,14 +187,6 @@
      "rating": "R15",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/the-mongoose",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-texas-chainsaw-massacre-re-release",
-     "title": "The Texas Chainsaw Massacre (Re-release)",
-     "rating": "R18",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/the-texas-chainsaw-massacre-re-release",
      "status": "now_showing"
     },
     {
@@ -252,15 +236,6 @@
      "language": "Arabic",
      "url": "https://kwt.voxcinemas.com/movies/hadoota-arabic",
      "status": "now_showing"
-    },
-    {
-     "slug": "the-draw",
-     "title": "The Draw",
-     "rating": "18TC",
-     "language": "English",
-     "releaseDate": "2026-11-05",
-     "url": "https://kwt.voxcinemas.com/movies/the-draw",
-     "status": "coming_soon"
     },
     {
      "slug": "godzilla-minus-zero-japanese",
@@ -398,15 +373,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "bts-world-tour-arirang-in-kaohsiung-live-viewin",
-     "title": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWIN",
-     "rating": "18TC",
-     "language": "English",
-     "releaseDate": "2026-11-21",
-     "url": "https://kwt.voxcinemas.com/movies/bts-world-tour-arirang-in-kaohsiung-live-viewin",
-     "status": "coming_soon"
-    },
-    {
      "slug": "focker-in-law",
      "title": "Focker In-Law",
      "rating": "18TC",
@@ -494,15 +460,6 @@
      "language": "English",
      "releaseDate": "2026-12-24",
      "url": "https://kwt.voxcinemas.com/movies/jumanji-open-world",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "bts-world-tour-arirang-in-jakarta-live-viewing",
-     "title": "BTS WORLD TOUR 'ARIRANG' IN JAKARTA: LIVE VIEWING",
-     "rating": "18TC",
-     "language": "English",
-     "releaseDate": "2026-12-29",
-     "url": "https://kwt.voxcinemas.com/movies/bts-world-tour-arirang-in-jakarta-live-viewing",
      "status": "coming_soon"
     },
     {
@@ -1187,6 +1144,15 @@
      "status": "coming_soon"
     },
     {
+     "slug": "forgotten-island-english",
+     "title": "Forgotten Island",
+     "rating": "PG12",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/forgotten-island-english",
+     "status": "coming_soon"
+    },
+    {
      "slug": "victorian-psycho-english",
      "title": "Victorian Psycho",
      "rating": "",
@@ -1660,15 +1626,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "hope-korean",
-     "title": "Hope",
-     "rating": "R15",
-     "language": "Korean",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/hope-korean",
-     "status": "now_showing"
-    },
-    {
      "slug": "the-mongoose-english",
      "title": "The Mongoose",
      "rating": "R15",
@@ -1723,15 +1680,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "treasure-trekkers-english",
-     "title": "Treasure Trekkers",
-     "rating": "PG",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/treasure-trekkers-english",
-     "status": "now_showing"
-    },
-    {
      "slug": "whalefall-english",
      "title": "Whalefall",
      "rating": "R15",
@@ -1783,6 +1731,15 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-last-temptation-of-becky-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "forgotten-island-english",
+     "title": "Forgotten Island",
+     "rating": "PG12",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/forgotten-island-english",
      "status": "coming_soon"
     },
     {
@@ -2133,15 +2090,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096928",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096928/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
@@ -2151,12 +2099,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
+     "slug": "2096928",
+     "title": "Naseeb",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099773/",
+     "url": "https://elcinema.com/en/work/2096928/",
      "status": "now_showing"
     },
     {
@@ -2202,6 +2150,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099119/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099773",
+     "title": "Wala Kan Ala El-Bal",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099773/",
      "status": "now_showing"
     },
     {
@@ -2302,6 +2259,24 @@
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2063764/",
      "status": "now_showing"
+    },
+    {
+     "slug": "2099759",
+     "title": "Ramayana",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099759/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098323",
+     "title": "Godzilla Minus Zero",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098323/",
+     "status": "now_showing"
     }
    ]
   },
@@ -2382,15 +2357,6 @@
    "name": "Cinescape Al Kout",
    "films": [
     {
-     "slug": "2096928",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096928/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099119",
      "title": "Sense and Sensibility",
      "rating": "",
@@ -2406,15 +2372,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101649/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -2445,12 +2402,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
+     "slug": "2096928",
+     "title": "Naseeb",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098154/",
+     "url": "https://elcinema.com/en/work/2096928/",
      "status": "now_showing"
     },
     {
@@ -2463,12 +2420,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102185",
-     "title": "Adarsha Kutumbam House No: 47",
+     "slug": "2096857",
+     "title": "Street Fighter",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102185/",
+     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -2499,15 +2456,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102265",
-     "title": "Soy",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102265/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
@@ -2526,12 +2474,48 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102185",
+     "title": "Adarsha Kutumbam House No: 47",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102185/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102265",
+     "title": "Soy",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102265/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099759",
+     "title": "Ramayana",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099759/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098323",
      "title": "Godzilla Minus Zero",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2098323/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     }
    ]
@@ -2555,15 +2539,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099773/",
      "status": "now_showing"
     },
     {
@@ -2612,15 +2587,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096928",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096928/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
@@ -2648,6 +2614,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "2096928",
+     "title": "Naseeb",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2096928/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099773",
+     "title": "Wala Kan Ala El-Bal",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099773/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
@@ -2663,6 +2647,24 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2063764/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099759",
+     "title": "Ramayana",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099759/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098323",
+     "title": "Godzilla Minus Zero",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098323/",
      "status": "now_showing"
     },
     {
@@ -2838,24 +2840,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101940",
-     "title": "Treasure Trekkers",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101940/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097360",
      "title": "The Mongoose",
      "rating": "",
@@ -2874,15 +2858,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102265",
-     "title": "Soy",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102265/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2090950",
      "title": "Hope",
      "rating": "",
@@ -2898,6 +2873,33 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2063764/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102265",
+     "title": "Soy",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102265/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099759",
+     "title": "Ramayana",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099759/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098323",
+     "title": "Godzilla Minus Zero",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098323/",
      "status": "now_showing"
     },
     {

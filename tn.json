@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T06:57:55.907Z",
+ "updatedAt": "2026-11-04T12:50:13.388Z",
  "territory": "TN",
  "cinemas": {
   "elcinema-tn": {
@@ -39,15 +39,6 @@
      "language": "",
      "releaseDate": "2026-11-20",
      "url": "https://elcinema.com/en/work/2095116/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-06",
-     "url": "https://elcinema.com/en/work/2095318/",
      "status": "coming_soon"
     },
     {
