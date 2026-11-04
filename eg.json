@@ -1,17 +1,35 @@
 {
- "updatedAt": "2026-11-03T18:41:01.349Z",
+ "updatedAt": "2026-11-04T00:41:46.526Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
    "name": "Cinemas in Egypt",
    "films": [
     {
-     "slug": "2097360",
-     "title": "The Mongoose",
+     "slug": "2093435",
+     "title": "It Feeds",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2097360/",
+     "url": "https://elcinema.com/en/work/2093435/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101649",
+     "title": "The Influencer Project",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2101649/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099119",
+     "title": "Sense and Sensibility",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2099119/",
      "status": "now_showing"
     },
     {
@@ -33,30 +51,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101649",
-     "title": "The Influencer Project",
+     "slug": "2097360",
+     "title": "The Mongoose",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2101649/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2093435",
-     "title": "It Feeds",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2093435/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2099119/",
+     "url": "https://elcinema.com/en/work/2097360/",
      "status": "now_showing"
     },
     {
@@ -69,12 +69,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101935",
-     "title": "No Paradise If You Are Killed by a Woman",
+     "slug": "2102265",
+     "title": "Soy",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101935/",
+     "url": "https://elcinema.com/en/work/2102265/",
      "status": "now_showing"
     },
     {
@@ -84,15 +84,6 @@
      "language": "",
      "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102265",
-     "title": "Soy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102265/",
      "status": "now_showing"
     },
     {
@@ -114,21 +105,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2093506",
-     "title": "The Magic Faraway Tree",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2093506/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2093506",
+     "title": "The Magic Faraway Tree",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2093506/",
      "status": "now_showing"
     },
     {
@@ -159,15 +150,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097950",
-     "title": "Digger",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2097950/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098232",
      "title": "Verity",
      "rating": "",
@@ -177,12 +159,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099939",
-     "title": "Shish Doo",
+     "slug": "2097950",
+     "title": "Digger",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2097950/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2099939/",
+     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {
@@ -195,12 +186,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
+     "slug": "2099939",
+     "title": "Shish Doo",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2100562/",
+     "url": "https://elcinema.com/en/work/2099939/",
      "status": "now_showing"
     },
     {
@@ -276,6 +267,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2093425",
+     "title": "Abo Zaabal 89",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2025-05-07",
+     "url": "https://elcinema.com/en/work/2093425/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2049146",
      "title": "Moscow Cairo",
      "rating": "",
@@ -300,15 +300,6 @@
      "language": "",
      "releaseDate": "2026-11-20",
      "url": "https://elcinema.com/en/work/2095116/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-06",
-     "url": "https://elcinema.com/en/work/2095318/",
      "status": "coming_soon"
     },
     {

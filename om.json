@@ -1,10 +1,28 @@
 {
- "updatedAt": "2026-11-03T18:41:16.170Z",
+ "updatedAt": "2026-11-04T00:42:04.620Z",
  "territory": "OM",
  "cinemas": {
   "elcinema-om": {
    "name": "Cinemas in Oman",
    "films": [
+    {
+     "slug": "2099759",
+     "title": "Ramayana",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-04",
+     "url": "https://elcinema.com/en/work/2099759/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098323",
+     "title": "Godzilla Minus Zero",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-04",
+     "url": "https://elcinema.com/en/work/2098323/",
+     "status": "now_showing"
+    },
     {
      "slug": "2102517",
      "title": "How to Save the Immortal 2: Elixir of Life",
@@ -69,30 +87,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2088495",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101649",
      "title": "The Influencer Project",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
      "url": "https://elcinema.com/en/work/2101649/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096928",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2096928/",
      "status": "now_showing"
     },
     {
@@ -105,12 +105,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101935",
-     "title": "No Paradise If You Are Killed by a Woman",
+     "slug": "2096928",
+     "title": "Naseeb",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101935/",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2096928/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2088495",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2088495/",
      "status": "now_showing"
     },
     {
@@ -150,21 +159,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101935",
+     "title": "No Paradise If You Are Killed by a Woman",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101935/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-21",
      "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -183,6 +192,15 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -276,15 +294,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-06",
-     "url": "https://elcinema.com/en/work/2095318/",
-     "status": "coming_soon"
-    },
-    {
      "slug": "2096404",
      "title": "Dune: Part Three",
      "rating": "",
@@ -336,15 +345,6 @@
      "language": "",
      "releaseDate": "2026-11-25",
      "url": "https://elcinema.com/en/work/2099110/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2099759",
-     "title": "Ramayana",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-08",
-     "url": "https://elcinema.com/en/work/2099759/",
      "status": "coming_soon"
     },
     {
