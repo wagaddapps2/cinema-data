@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T12:48:13.209Z",
+ "updatedAt": "2026-11-04T18:46:09.519Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -147,30 +147,6 @@
      "rating": "R15",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/the-odyssey",
-     "status": "now_showing"
-    },
-    {
-     "slug": "treasure-trekkers",
-     "title": "Treasure Trekkers",
-     "rating": "PG",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/treasure-trekkers",
-     "status": "now_showing"
-    },
-    {
-     "slug": "how-to-save-the-immortal-2-elixir-of-life",
-     "title": "How to Save the Immortal 2: Elixir of Life",
-     "rating": "PG",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/how-to-save-the-immortal-2-elixir-of-life",
-     "status": "now_showing"
-    },
-    {
-     "slug": "soy-turkish",
-     "title": "Soy",
-     "rating": "R15",
-     "language": "Turkish",
-     "url": "https://kwt.voxcinemas.com/movies/soy-turkish",
      "status": "now_showing"
     },
     {
@@ -585,15 +561,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "naseeb",
-     "title": "NASEEB",
-     "rating": "PG12",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/naseeb/en",
-     "status": "now_showing"
-    },
-    {
      "slug": "sense-and-sensibility",
      "title": "SENSE AND SENSIBILITY",
      "rating": "R15",
@@ -609,15 +576,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/the-influencer-project/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "wildwood",
-     "title": "WILDWOOD",
-     "rating": "PG12",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/wildwood/en",
      "status": "now_showing"
     },
     {
@@ -778,33 +736,6 @@
   "grand-4": {
    "name": "Grand Al Andalus",
    "films": [
-    {
-     "slug": "heart-of-the-beast",
-     "title": "HEART OF THE BEAST",
-     "rating": "PG12",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/heart-of-the-beast/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "wala-kan-ala-el-bal",
-     "title": "WALA KAN ALA EL-BAL",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/wala-kan-ala-el-bal/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "whalefall",
-     "title": "Whalefall",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/whalefall/en",
-     "status": "now_showing"
-    },
     {
      "slug": "godzilla-minus-zero",
      "title": "GODZILLA MINUS ZERO",
@@ -1099,13 +1030,13 @@
      "status": "now_showing"
     },
     {
-     "slug": "titans-malayalam",
-     "title": "Titans",
-     "rating": "PG12",
+     "slug": "disco-malayalam",
+     "title": "Disco",
+     "rating": "",
      "language": "Malayalam",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/titans-malayalam",
-     "status": "now_showing"
+     "url": "https://www.ozonecinema.com/movies/disco-malayalam",
+     "status": "coming_soon"
     },
     {
      "slug": "belkis-turkish",
@@ -1186,15 +1117,6 @@
      "language": "Arabic",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/crypto-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "disco-malayalam",
-     "title": "Disco",
-     "rating": "",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/disco-malayalam",
      "status": "coming_soon"
     },
     {
@@ -1599,15 +1521,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "aadarsha-kutumbam-house-no-47-ak-47-telugu",
-     "title": "Aadarsha Kutumbam House No: 47 - AK 47",
-     "rating": "R15",
-     "language": "Telugu",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/aadarsha-kutumbam-house-no-47-ak-47-telugu",
-     "status": "now_showing"
-    },
-    {
      "slug": "naseeb-arabic",
      "title": "Naseeb",
      "rating": "PG12",
@@ -1635,15 +1548,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "how-to-save-the-immortal-2-english",
-     "title": "How to Save the Immortal 2",
-     "rating": "PG",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/how-to-save-the-immortal-2-english",
-     "status": "now_showing"
-    },
-    {
      "slug": "the-influencer-project-english",
      "title": "The Influencer Project",
      "rating": "R15",
@@ -1662,33 +1566,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "soy-turkish",
-     "title": "Soy",
-     "rating": "R15",
-     "language": "Turkish",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/soy-turkish",
-     "status": "now_showing"
-    },
-    {
-     "slug": "clayface-english",
-     "title": "Clayface",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/clayface-english",
-     "status": "now_showing"
-    },
-    {
-     "slug": "whalefall-english",
-     "title": "Whalefall",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/whalefall-english",
-     "status": "now_showing"
-    },
-    {
      "slug": "hadoota-arabic",
      "title": "Hadoota",
      "rating": "PG12",
@@ -1696,6 +1573,15 @@
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/hadoota-arabic",
      "status": "now_showing"
+    },
+    {
+     "slug": "disco-malayalam",
+     "title": "Disco",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/disco-malayalam",
+     "status": "coming_soon"
     },
     {
      "slug": "belkis-turkish",
@@ -1776,15 +1662,6 @@
      "language": "Arabic",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/crypto-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "disco-malayalam",
-     "title": "Disco",
-     "rating": "",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/disco-malayalam",
      "status": "coming_soon"
     },
     {
