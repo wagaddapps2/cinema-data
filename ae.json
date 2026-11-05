@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T07:00:13.288Z",
+ "updatedAt": "2026-11-05T12:54:24.769Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
@@ -15,21 +15,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099699",
-     "title": "Idiots",
+     "slug": "2101615",
+     "title": "A Talent for Murder",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2099699/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102704",
-     "title": "Scene",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102704/",
+     "url": "https://elcinema.com/en/work/2101615/",
      "status": "now_showing"
     },
     {
@@ -42,30 +33,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102705",
-     "title": "Disco",
+     "slug": "2102704",
+     "title": "Scene",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102705/",
+     "url": "https://elcinema.com/en/work/2102704/",
      "status": "now_showing"
     },
     {
-     "slug": "2101615",
-     "title": "A Talent for Murder",
+     "slug": "2099699",
+     "title": "Idiots",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2101615/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102002",
-     "title": "The Draw",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102002/",
+     "url": "https://elcinema.com/en/work/2099699/",
      "status": "now_showing"
     },
     {
@@ -78,21 +60,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "1809742",
-     "title": "Zombieland",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-03",
-     "url": "https://elcinema.com/en/work/1809742/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098323",
      "title": "Godzilla Minus Zero",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-03",
      "url": "https://elcinema.com/en/work/2098323/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1809742",
+     "title": "Zombieland",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-03",
+     "url": "https://elcinema.com/en/work/1809742/",
      "status": "now_showing"
     },
     {
@@ -105,12 +87,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102517",
-     "title": "How to Save the Immortal 2: Elixir of Life",
+     "slug": "2090950",
+     "title": "Hope",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102517/",
+     "url": "https://elcinema.com/en/work/2090950/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2093435",
+     "title": "It Feeds",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2093435/",
      "status": "now_showing"
     },
     {
@@ -132,39 +123,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2093435",
-     "title": "It Feeds",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2093435/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2090950",
-     "title": "Hope",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2090950/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102516",
-     "title": "Aali",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102516/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099119",
      "title": "Sense and Sensibility",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2099119/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099773",
+     "title": "Wala Kan Ala El-Bal",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2099773/",
      "status": "now_showing"
     },
     {
@@ -177,12 +150,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
+     "slug": "2102516",
+     "title": "Aali",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2099773/",
+     "url": "https://elcinema.com/en/work/2102516/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102517",
+     "title": "How to Save the Immortal 2: Elixir of Life",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102517/",
      "status": "now_showing"
     },
     {
@@ -204,6 +186,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101651",
+     "title": "The Dino Family",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101651/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102341",
      "title": "Always Yours, Never Mine",
      "rating": "",
@@ -222,15 +213,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101651",
-     "title": "The Dino Family",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101651/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101940",
      "title": "Treasure Trekkers",
      "rating": "",
@@ -240,12 +222,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096857",
-     "title": "Street Fighter",
+     "slug": "2098154",
+     "title": "Whalefall",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2096857/",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -258,12 +240,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
+     "slug": "2096857",
+     "title": "Street Fighter",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2098154/",
+     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -330,21 +312,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101963",
-     "title": "The Smurfs: Timeless Adventure Volume 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101963/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2100562",
      "title": "Heart of the Beast",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-24",
      "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101963",
+     "title": "The Smurfs: Timeless Adventure Volume 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2101963/",
      "status": "now_showing"
     },
     {

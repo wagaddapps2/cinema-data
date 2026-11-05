@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-11-05T07:00:10.680Z",
+ "updatedAt": "2026-11-05T12:54:22.494Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
    "name": "Cinemas in Egypt",
    "films": [
-    {
-     "slug": "2099759",
-     "title": "Ramayana",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2099759/",
-     "status": "now_showing"
-    },
     {
      "slug": "2102069",
      "title": "Üç Harfliler: Mühür",
@@ -24,21 +15,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099699",
-     "title": "Idiots",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2099699/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095318",
      "title": "The Cat in the Hat",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
      "url": "https://elcinema.com/en/work/2095318/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099699",
+     "title": "Idiots",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2099699/",
      "status": "now_showing"
     },
     {
@@ -60,21 +51,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099759",
+     "title": "Ramayana",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2099759/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2097360",
      "title": "The Mongoose",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101649",
-     "title": "The Influencer Project",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2101649/",
      "status": "now_showing"
     },
     {
@@ -159,12 +150,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2093506",
-     "title": "The Magic Faraway Tree",
+     "slug": "2096857",
+     "title": "Street Fighter",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2093506/",
+     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -174,15 +165,6 @@
      "language": "",
      "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -210,15 +192,6 @@
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101963",
-     "title": "The Smurfs: Timeless Adventure Volume 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2101963/",
      "status": "now_showing"
     },
     {
@@ -309,15 +282,6 @@
      "language": "",
      "releaseDate": "2019-11-17",
      "url": "https://elcinema.com/en/work/2049146/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2032663",
-     "title": "Avengers Endgame: Encore re-release",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2019-04-24",
-     "url": "https://elcinema.com/en/work/2032663/",
      "status": "now_showing"
     },
     {

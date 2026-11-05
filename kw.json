@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T06:58:22.535Z",
+ "updatedAt": "2026-11-05T12:52:38.708Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -207,15 +207,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "victorian-psycho",
-     "title": "Victorian Psycho",
-     "rating": "18TC",
-     "language": "English",
-     "releaseDate": "2026-11-12",
-     "url": "https://kwt.voxcinemas.com/movies/victorian-psycho",
-     "status": "coming_soon"
-    },
-    {
      "slug": "hadoota-arabic",
      "title": "Hadoota",
      "rating": "PG12",
@@ -249,6 +240,15 @@
      "language": "English",
      "releaseDate": "2026-11-19",
      "url": "https://kwt.voxcinemas.com/movies/ghost-soldier",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "i-play-rocky",
+     "title": "I Play Rocky",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-11-19",
+     "url": "https://kwt.voxcinemas.com/movies/i-play-rocky",
      "status": "coming_soon"
     },
     {
@@ -297,6 +297,15 @@
      "status": "coming_soon"
     },
     {
+     "slug": "monster-mia",
+     "title": "Monster Mia",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-12-03",
+     "url": "https://kwt.voxcinemas.com/movies/monster-mia",
+     "status": "coming_soon"
+    },
+    {
      "slug": "violent-night-2",
      "title": "Violent Night 2",
      "rating": "18TC",
@@ -342,6 +351,15 @@
      "status": "coming_soon"
     },
     {
+     "slug": "king-hindi",
+     "title": "King",
+     "rating": "18TC",
+     "language": "Hindi",
+     "releaseDate": "2026-12-24",
+     "url": "https://kwt.voxcinemas.com/movies/king-hindi",
+     "status": "coming_soon"
+    },
+    {
      "slug": "mamsous-arabic",
      "title": "Mamsous",
      "rating": "18TC",
@@ -366,6 +384,15 @@
      "language": "English",
      "releaseDate": "2027-01-14",
      "url": "https://kwt.voxcinemas.com/movies/children-of-blood-and-bone",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "river",
+     "title": "River",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2027-01-21",
+     "url": "https://kwt.voxcinemas.com/movies/river",
      "status": "coming_soon"
     },
     {
@@ -489,15 +516,6 @@
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/idiots/en",
      "status": "now_showing"
-    },
-    {
-     "slug": "buttery-effect--azzam",
-     "title": "Buttery Effect -Azzam",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/buttery-effect--azzam/en",
-     "status": "coming_soon"
     },
     {
      "slug": "shaun-the-sheep-the-beast-of-mossy-bottom",
@@ -710,15 +728,6 @@
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/idiots/en",
      "status": "now_showing"
-    },
-    {
-     "slug": "buttery-effect--azzam",
-     "title": "Buttery Effect -Azzam",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/buttery-effect--azzam/en",
-     "status": "coming_soon"
     },
     {
      "slug": "shaun-the-sheep-the-beast-of-mossy-bottom",
@@ -1767,6 +1776,20 @@
     }
    ]
   },
+  "cinescape-3101202": {
+   "name": "Cinescape 360",
+   "films": [
+    {
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095318/",
+     "status": "now_showing"
+    }
+   ]
+  },
   "cinescape-3101203": {
    "name": "Cinescape Al-Bairaq",
    "films": [
@@ -1962,6 +1985,119 @@
     }
    ]
   },
+  "cinescape-3101210": {
+   "name": "Cinescape Avenues",
+   "films": [
+    {
+     "slug": "2098323",
+     "title": "Godzilla Minus Zero",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098323/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095318/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097360",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097360/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102002",
+     "title": "The Draw",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102002/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099759",
+     "title": "Ramayana",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099759/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096928",
+     "title": "Naseeb",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2096928/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2088495",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2088495/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099773",
+     "title": "Wala Kan Ala El-Bal",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099773/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2004262",
+     "title": "The Shawshank Redemption",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2004262/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101615",
+     "title": "A Talent for Murder",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101615/",
+     "status": "now_showing"
+    }
+   ]
+  },
   "cinescape-3101339": {
    "name": "Cinescape 1954 Film House",
    "films": [
@@ -2061,15 +2197,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099773",
      "title": "Wala Kan Ala El-Bal",
      "rating": "",
@@ -2094,6 +2221,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099759/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -2178,21 +2314,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2090950",
-     "title": "Hope",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2090950/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099699",
      "title": "Idiots",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099699/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2090950",
+     "title": "Hope",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2090950/",
      "status": "now_showing"
     }
    ]

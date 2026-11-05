@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-11-05T07:00:19.093Z",
+ "updatedAt": "2026-11-05T12:54:35.421Z",
  "territory": "QA",
  "cinemas": {
   "elcinema-qa": {
    "name": "Cinemas in Qatar",
    "films": [
-    {
-     "slug": "2099699",
-     "title": "Idiots",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2099699/",
-     "status": "now_showing"
-    },
     {
      "slug": "2095318",
      "title": "The Cat in the Hat",
@@ -24,12 +15,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099699",
+     "title": "Idiots",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2099699/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100794",
      "title": "The Cycle",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
      "url": "https://elcinema.com/en/work/2100794/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102704",
+     "title": "Scene",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2102704/",
      "status": "now_showing"
     },
     {
@@ -69,42 +78,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2099119/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2063764",
-     "title": "The Texas Chain Saw Massacre",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2063764/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102517",
-     "title": "How to Save the Immortal 2: Elixir of Life",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102517/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2088495",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2093435",
      "title": "It Feeds",
      "rating": "",
@@ -114,12 +87,39 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102516",
+     "title": "Aali",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102516/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102350",
+     "title": "Orijinal",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102350/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102344",
      "title": "Pee Mak",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2102344/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102304",
+     "title": "Aa Bata Aama 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102304/",
      "status": "now_showing"
     },
     {
@@ -141,6 +141,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2088495",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2088495/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2097360",
      "title": "The Mongoose",
      "rating": "",
@@ -150,12 +159,48 @@
      "status": "now_showing"
     },
     {
+     "slug": "2063764",
+     "title": "The Texas Chain Saw Massacre",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2063764/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099119",
+     "title": "Sense and Sensibility",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2099119/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102517",
+     "title": "How to Save the Immortal 2: Elixir of Life",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102517/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099773",
      "title": "Wala Kan Ala El-Bal",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
      "url": "https://elcinema.com/en/work/2099773/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102339",
+     "title": "Kabaddi 5 - After the Final Match",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102339/",
      "status": "now_showing"
     },
     {
@@ -249,21 +294,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101997",
-     "title": "Drishyam: The Conclusion",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101997/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101672",
      "title": "The Crystal Planet",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2101672/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101997/",
      "status": "now_showing"
     },
     {

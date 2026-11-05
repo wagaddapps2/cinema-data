@@ -1,10 +1,64 @@
 {
- "updatedAt": "2026-11-05T07:00:23.672Z",
+ "updatedAt": "2026-11-05T12:54:43.088Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
    "name": "Cinemas in Syria",
    "films": [
+    {
+     "slug": "2102683",
+     "title": "Marco",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-02",
+     "url": "https://elcinema.com/en/work/2102683/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099773",
+     "title": "Wala Kan Ala El-Bal",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2099773/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2086212",
+     "title": "In Your Dreams",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-01-01",
+     "url": "https://elcinema.com/en/work/2086212/",
+     "status": "now_showing"
+    },
     {
      "slug": "2068409",
      "title": "Luca",
