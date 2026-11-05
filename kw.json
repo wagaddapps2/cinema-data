@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T18:46:09.519Z",
+ "updatedAt": "2026-11-05T00:45:57.325Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -110,14 +110,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "other-mommy",
-     "title": "Other Mommy",
-     "rating": "R15",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/other-mommy",
-     "status": "now_showing"
-    },
-    {
      "slug": "the-dino-family",
      "title": "The Dino Family",
      "rating": "PG",
@@ -147,14 +139,6 @@
      "rating": "R15",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/the-odyssey",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-influencer-project",
-     "title": "The Influencer Project",
-     "rating": "R15",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/the-influencer-project",
      "status": "now_showing"
     },
     {
@@ -212,87 +196,6 @@
      "language": "Arabic",
      "url": "https://kwt.voxcinemas.com/movies/hadoota-arabic",
      "status": "now_showing"
-    },
-    {
-     "slug": "godzilla-minus-zero-japanese",
-     "title": "Godzilla Minus Zero",
-     "rating": "PG12",
-     "language": "Japanese",
-     "releaseDate": "2026-11-05",
-     "url": "https://kwt.voxcinemas.com/movies/godzilla-minus-zero-japanese",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-shawshank-redemption-re-release",
-     "title": "The Shawshank Redemption (Re-release)",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": "2026-11-05",
-     "url": "https://kwt.voxcinemas.com/movies/the-shawshank-redemption-re-release",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "a-talent-for-murder",
-     "title": "A Talent for Murder",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": "2026-11-05",
-     "url": "https://kwt.voxcinemas.com/movies/a-talent-for-murder",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-cat-in-the-hat-arabic",
-     "title": "The Cat In The Hat",
-     "rating": "PG",
-     "language": "Arabic",
-     "releaseDate": "2026-11-05",
-     "url": "https://kwt.voxcinemas.com/movies/the-cat-in-the-hat-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "idiots",
-     "title": "Idiots",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": "2026-11-05",
-     "url": "https://kwt.voxcinemas.com/movies/idiots",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-cycle",
-     "title": "The Cycle",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": "2026-11-05",
-     "url": "https://kwt.voxcinemas.com/movies/the-cycle",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "ramayana-hindi",
-     "title": "Ramayana",
-     "rating": "PG12",
-     "language": "Hindi",
-     "releaseDate": "2026-11-05",
-     "url": "https://kwt.voxcinemas.com/movies/ramayana-hindi",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "ramayana-english",
-     "title": "Ramayana - English",
-     "rating": "18TC",
-     "language": "English",
-     "releaseDate": "2026-11-05",
-     "url": "https://kwt.voxcinemas.com/movies/ramayana-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "how-to-rob-a-bank",
-     "title": "How to Rob a Bank",
-     "rating": "18TC",
-     "language": "English",
-     "releaseDate": "2026-11-12",
-     "url": "https://kwt.voxcinemas.com/movies/how-to-rob-a-bank",
-     "status": "coming_soon"
     },
     {
      "slug": "les-mis-rables",
@@ -516,15 +419,6 @@
    "name": "Grand Hamra",
    "films": [
     {
-     "slug": "wala-kan-ala-el-bal",
-     "title": "WALA KAN ALA EL-BAL",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/wala-kan-ala-el-bal/en",
-     "status": "now_showing"
-    },
-    {
      "slug": "godzilla-minus-zero",
      "title": "GODZILLA MINUS ZERO",
      "rating": "PG12",
@@ -558,24 +452,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/the-mongoose/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "sense-and-sensibility",
-     "title": "SENSE AND SENSIBILITY",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/sense-and-sensibility/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-influencer-project",
-     "title": "THE INFLUENCER PROJECT",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/the-influencer-project/en",
      "status": "now_showing"
     },
     {
@@ -746,30 +622,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "verity",
-     "title": "VERITY",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/verity/en",
-     "status": "now_showing"
-    },
-    {
      "slug": "clayface",
      "title": "CLAYFACE",
      "rating": "R18",
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/clayface/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "matloub-3a2eleyain",
-     "title": "MATLOUB 3A2ELEYAIN",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/matloub-3a2eleyain/en",
      "status": "now_showing"
     },
     {
@@ -797,15 +655,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/sense-and-sensibility/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-influencer-project",
-     "title": "THE INFLUENCER PROJECT",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/the-influencer-project/en",
      "status": "now_showing"
     },
     {
@@ -1174,15 +1023,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "ghost-soldier-english",
-     "title": "Ghost Soldier",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/ghost-soldier-english",
-     "status": "coming_soon"
-    },
-    {
      "slug": "gunmaaster-g9-hindi",
      "title": "Gunmaaster G9",
      "rating": "",
@@ -1548,24 +1388,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "the-influencer-project-english",
-     "title": "The Influencer Project",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-influencer-project-english",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-texas-chain-saw-massacre-1974-english",
-     "title": "The Texas Chain Saw Massacre (1974)",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-texas-chain-saw-massacre-1974-english",
-     "status": "now_showing"
-    },
-    {
      "slug": "hadoota-arabic",
      "title": "Hadoota",
      "rating": "PG12",
@@ -1716,15 +1538,6 @@
      "language": "Arabic",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/travellers-hell-saudi-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "ghost-soldier-english",
-     "title": "Ghost Soldier",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/ghost-soldier-english",
      "status": "coming_soon"
     },
     {
@@ -1954,418 +1767,16 @@
     }
    ]
   },
-  "cinescape-3101202": {
-   "name": "Cinescape 360",
-   "films": [
-    {
-     "slug": "2090950",
-     "title": "Hope",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2090950/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096928",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096928/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101649",
-     "title": "The Influencer Project",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101649/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2088495",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095519",
-     "title": "Other Mommy",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099119/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099773/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101940",
-     "title": "Treasure Trekkers",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101940/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100562/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101963",
-     "title": "The Smurfs: Timeless Adventure Volume 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101963/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102517",
-     "title": "How to Save the Immortal 2: Elixir of Life",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102517/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102265",
-     "title": "Soy",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102265/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2044050",
-     "title": "Train to Busan",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2044050/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2063764",
-     "title": "The Texas Chain Saw Massacre",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2063764/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099759",
-     "title": "Ramayana",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099759/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098323",
-     "title": "Godzilla Minus Zero",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098323/",
-     "status": "now_showing"
-    }
-   ]
-  },
   "cinescape-3101203": {
    "name": "Cinescape Al-Bairaq",
    "films": [
     {
-     "slug": "2088495",
-     "title": "Wildwood",
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102517",
-     "title": "How to Save the Immortal 2: Elixir of Life",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102517/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099773/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096928",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096928/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "cinescape-3101206": {
-   "name": "Cinescape Ajial",
-   "films": [
-    {
-     "slug": "2102185",
-     "title": "Adarsha Kutumbam House No: 47",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102185/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097221",
-     "title": "Jailer 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097221/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "cinescape-3101208": {
-   "name": "Cinescape Al Kout",
-   "films": [
-    {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099119/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101649",
-     "title": "The Influencer Project",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101649/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2088495",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099773/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096928",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096928/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102517",
-     "title": "How to Save the Immortal 2: Elixir of Life",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102517/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2090950",
-     "title": "Hope",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2090950/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097221",
-     "title": "Jailer 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097221/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2063764",
-     "title": "The Texas Chain Saw Massacre",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2063764/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102185",
-     "title": "Adarsha Kutumbam House No: 47",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102185/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102265",
-     "title": "Soy",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102265/",
+     "url": "https://elcinema.com/en/work/2095318/",
      "status": "now_showing"
     },
     {
@@ -2387,405 +1798,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "cinescape-3101210": {
-   "name": "Cinescape Avenues",
-   "films": [
-    {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099119/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2088495",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100562/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101649",
-     "title": "The Influencer Project",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101649/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2090950",
-     "title": "Hope",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2090950/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102517",
-     "title": "How to Save the Immortal 2: Elixir of Life",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102517/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102265",
-     "title": "Soy",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102265/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2096928",
      "title": "Naseeb",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2096928/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099773/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2063764",
-     "title": "The Texas Chain Saw Massacre",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2063764/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099759",
-     "title": "Ramayana",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099759/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098323",
-     "title": "Godzilla Minus Zero",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098323/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2044050",
-     "title": "Train to Busan",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2044050/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "cinescape-3101339": {
-   "name": "Cinescape 1954 Film House",
-   "films": [
-    {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099773/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102265",
-     "title": "Soy",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102265/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096928",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096928/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2088495",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2063764",
-     "title": "The Texas Chain Saw Massacre",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2063764/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "cinescape-3101460": {
-   "name": "Cinescape Assima",
-   "films": [
-    {
-     "slug": "2095519",
-     "title": "Other Mommy",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099773/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2088495",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096928",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096928/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099119/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100562/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102517",
-     "title": "How to Save the Immortal 2: Elixir of Life",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102517/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2090950",
-     "title": "Hope",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2090950/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2063764",
-     "title": "The Texas Chain Saw Massacre",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2063764/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102265",
-     "title": "Soy",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102265/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099759",
-     "title": "Ramayana",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099759/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098323",
-     "title": "Godzilla Minus Zero",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098323/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101649",
-     "title": "The Influencer Project",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101649/",
      "status": "now_showing"
     }
    ]
@@ -2839,15 +1857,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "sense-and-sensibility-/9999001541",
-     "title": "SENSE AND SENSIBILITY",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/sense-and-sensibility-/9999001541",
-     "status": "now_showing"
-    },
-    {
      "slug": "wildwood-/9999001540",
      "title": "WILDWOOD",
      "rating": "",
@@ -2857,48 +1866,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "wala-kan-ala-el-bal-(egyptian)-arabic/9999001539",
-     "title": "WALA KAN ALA EL-BAL",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/wala-kan-ala-el-bal-(egyptian)-arabic/9999001539",
-     "status": "now_showing"
-    },
-    {
      "slug": "naseeb-(egyptian)-arabic/9999001538",
      "title": "NASEEB",
      "rating": "",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.skycinemaskw.com/movie-information/naseeb-(egyptian)-arabic/9999001538",
-     "status": "now_showing"
-    },
-    {
-     "slug": "hope-korean/9999001537",
-     "title": "HOPE",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/hope-korean/9999001537",
-     "status": "now_showing"
-    },
-    {
-     "slug": "soy-turkish/9999001536",
-     "title": "SOY",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/soy-turkish/9999001536",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-mongoose/9999001535",
-     "title": "THE MONGOOSE",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/the-mongoose/9999001535",
      "status": "now_showing"
     },
     {
