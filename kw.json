@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T12:52:38.708Z",
+ "updatedAt": "2026-11-05T18:42:54.412Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -897,15 +897,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "belkis-turkish",
-     "title": "Belkis",
-     "rating": "",
-     "language": "Turkish",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/belkis-turkish",
-     "status": "coming_soon"
-    },
-    {
      "slug": "how-to-rob-a-bank-english",
      "title": "How to Rob a Bank",
      "rating": "",
@@ -915,12 +906,30 @@
      "status": "coming_soon"
     },
     {
-     "slug": "train-tamil",
-     "title": "Train",
-     "rating": "",
-     "language": "Tamil",
+     "slug": "ebenezer-english",
+     "title": "Ebenezer",
+     "rating": "R15",
+     "language": "English",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/train-tamil",
+     "url": "https://www.ozonecinema.com/movies/ebenezer-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "best-pancakes-in-the-county-english",
+     "title": "Best Pancakes in the County",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/best-pancakes-in-the-county-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "belkis-turkish",
+     "title": "Belkis",
+     "rating": "",
+     "language": "Turkish",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/belkis-turkish",
      "status": "coming_soon"
     },
     {
@@ -933,12 +942,39 @@
      "status": "coming_soon"
     },
     {
+     "slug": "the-hunger-games-sunrise-on-the-reaping-english",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-hunger-games-sunrise-on-the-reaping-english",
+     "status": "coming_soon"
+    },
+    {
      "slug": "forgotten-island-english",
      "title": "Forgotten Island",
      "rating": "PG12",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/forgotten-island-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "i-play-rocky-english",
+     "title": "I Play Rocky",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/i-play-rocky-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "train-tamil",
+     "title": "Train",
+     "rating": "",
+     "language": "Tamil",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/train-tamil",
      "status": "coming_soon"
     },
     {
@@ -1014,6 +1050,15 @@
      "status": "coming_soon"
     },
     {
+     "slug": "yeh-prem-mol-liya-hindi",
+     "title": "Yeh Prem Mol Liya",
+     "rating": "",
+     "language": "Hindi",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/yeh-prem-mol-liya-hindi",
+     "status": "coming_soon"
+    },
+    {
      "slug": "eetha-hindi",
      "title": "Eetha",
      "rating": "",
@@ -1056,15 +1101,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/paper-tiger-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "best-pancakes-in-the-county-english",
-     "title": "Best Pancakes in the County",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/best-pancakes-in-the-county-english",
      "status": "coming_soon"
     },
     {
@@ -1119,24 +1155,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/bury-the-devil-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-hunger-games-sunrise-on-the-reaping-english",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-hunger-games-sunrise-on-the-reaping-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "i-play-rocky-english",
-     "title": "I Play Rocky",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/i-play-rocky-english",
      "status": "coming_soon"
     },
     {
@@ -1415,15 +1433,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "belkis-turkish",
-     "title": "Belkis",
-     "rating": "",
-     "language": "Turkish",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/belkis-turkish",
-     "status": "coming_soon"
-    },
-    {
      "slug": "how-to-rob-a-bank-english",
      "title": "How to Rob a Bank",
      "rating": "",
@@ -1433,12 +1442,30 @@
      "status": "coming_soon"
     },
     {
-     "slug": "train-tamil",
-     "title": "Train",
-     "rating": "",
-     "language": "Tamil",
+     "slug": "ebenezer-english",
+     "title": "Ebenezer",
+     "rating": "R15",
+     "language": "English",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/train-tamil",
+     "url": "https://www.ozonecinema.com/movies/ebenezer-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "best-pancakes-in-the-county-english",
+     "title": "Best Pancakes in the County",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/best-pancakes-in-the-county-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "belkis-turkish",
+     "title": "Belkis",
+     "rating": "",
+     "language": "Turkish",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/belkis-turkish",
      "status": "coming_soon"
     },
     {
@@ -1451,12 +1478,39 @@
      "status": "coming_soon"
     },
     {
+     "slug": "the-hunger-games-sunrise-on-the-reaping-english",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-hunger-games-sunrise-on-the-reaping-english",
+     "status": "coming_soon"
+    },
+    {
      "slug": "forgotten-island-english",
      "title": "Forgotten Island",
      "rating": "PG12",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/forgotten-island-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "i-play-rocky-english",
+     "title": "I Play Rocky",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/i-play-rocky-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "train-tamil",
+     "title": "Train",
+     "rating": "",
+     "language": "Tamil",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/train-tamil",
      "status": "coming_soon"
     },
     {
@@ -1532,6 +1586,15 @@
      "status": "coming_soon"
     },
     {
+     "slug": "yeh-prem-mol-liya-hindi",
+     "title": "Yeh Prem Mol Liya",
+     "rating": "",
+     "language": "Hindi",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/yeh-prem-mol-liya-hindi",
+     "status": "coming_soon"
+    },
+    {
      "slug": "eetha-hindi",
      "title": "Eetha",
      "rating": "",
@@ -1574,15 +1637,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/paper-tiger-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "best-pancakes-in-the-county-english",
-     "title": "Best Pancakes in the County",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/best-pancakes-in-the-county-english",
      "status": "coming_soon"
     },
     {
@@ -1637,24 +1691,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/bury-the-devil-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-hunger-games-sunrise-on-the-reaping-english",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-hunger-games-sunrise-on-the-reaping-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "i-play-rocky-english",
-     "title": "I Play Rocky",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/i-play-rocky-english",
      "status": "coming_soon"
     },
     {
@@ -1786,6 +1822,168 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2095318/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102002",
+     "title": "The Draw",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102002/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099773",
+     "title": "Wala Kan Ala El-Bal",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099773/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099759",
+     "title": "Ramayana",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099759/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101615",
+     "title": "A Talent for Murder",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101615/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098323",
+     "title": "Godzilla Minus Zero",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098323/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097360",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097360/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099699",
+     "title": "Idiots",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099699/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2088495",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2088495/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096928",
+     "title": "Naseeb",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2096928/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2004262",
+     "title": "The Shawshank Redemption",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2004262/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100794",
+     "title": "The Cycle",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100794/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2063764",
+     "title": "The Texas Chain Saw Massacre",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2063764/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2090950",
+     "title": "Hope",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2090950/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     }
    ]

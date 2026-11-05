@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T12:54:21.470Z",
+ "updatedAt": "2026-11-05T18:44:51.687Z",
  "territory": "BE",
  "cinemas": {
   "cinebel-693": {
@@ -4136,6 +4136,73 @@
      "language": "VO",
      "releaseDate": "2026-10-21",
      "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027890",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "cinebel-1130": {
+   "name": "CinéBrel - Fondation Jacques Brel",
+   "city": "Bruxelles",
+   "brand": "",
+   "address": "Place de la Vieille Halle aux Blés, 1000 Bruxelles",
+   "lat": 50.8444,
+   "lng": 4.3525,
+   "fetchedAt": "2026-11-05",
+   "films": [
+    {
+     "slug": "1027647",
+     "title": "J'aime les Belges !",
+     "originalTitle": "",
+     "year": 2008,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/cinema/1130/Cin%C3%A9Brel%20-%20Fondation%20Jacques%20Brel#movie1027647",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027648",
+     "title": "L'Alizé",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-11-06",
+     "url": "https://cinebel.dhnet.be/cinema/1130/Cin%C3%A9Brel%20-%20Fondation%20Jacques%20Brel#movie1027648",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027649",
+     "title": "L'Atlantique",
+     "originalTitle": "",
+     "year": 2021,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/cinema/1130/Cin%C3%A9Brel%20-%20Fondation%20Jacques%20Brel#movie1027649",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027650",
+     "title": "Le Pacifique",
+     "originalTitle": "",
+     "year": 2023,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/cinema/1130/Cin%C3%A9Brel%20-%20Fondation%20Jacques%20Brel#movie1027650",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11327",
+     "title": "Les Adieux à L'Olympia",
+     "originalTitle": "",
+     "year": 1966,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://cinebel.dhnet.be/cinema/1130/Cin%C3%A9Brel%20-%20Fondation%20Jacques%20Brel#movie11327",
      "status": "now_showing"
     }
    ]
@@ -13425,7 +13492,7 @@
      "title": "Le Noël d'Ernest et Célestine",
      "originalTitle": "",
      "year": 2026,
-     "rating": "",
+     "rating": "AL",
      "language": "VO",
      "releaseDate": "2026-12-09",
      "url": "https://cinebel.dhnet.be/cinema/1116/Quai10#movie1027858",
@@ -14657,6 +14724,17 @@
    "fetchedAt": "2026-11-05",
    "films": [
     {
+     "slug": "1026681",
+     "title": "Astérix - Le Royaume de Nubie",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": "2026-12-02",
+     "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1026681",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027754",
      "title": "Camembert",
      "originalTitle": "",
@@ -14798,6 +14876,18 @@
      "releaseDate": "2026-10-28",
      "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1027753",
      "status": "now_showing"
+    },
+    {
+     "slug": "2582",
+     "title": "Le Cercle Rouge",
+     "originalTitle": "",
+     "year": 1970,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-11-29",
+     "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie2582",
+     "status": "coming_soon"
     },
     {
      "slug": "1027594",
