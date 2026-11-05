@@ -1,10 +1,28 @@
 {
- "updatedAt": "2026-11-05T00:47:59.629Z",
+ "updatedAt": "2026-11-05T07:00:24.749Z",
  "territory": "IQ",
  "cinemas": {
   "elcinema-iq": {
    "name": "Cinemas in Iraq",
    "films": [
+    {
+     "slug": "2097360",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2097360/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102002",
+     "title": "The Draw",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2102002/",
+     "status": "now_showing"
+    },
     {
      "slug": "2095318",
      "title": "The Cat in the Hat",
@@ -24,12 +42,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097360",
-     "title": "The Mongoose",
+     "slug": "2099759",
+     "title": "Ramayana",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2097360/",
+     "url": "https://elcinema.com/en/work/2099759/",
      "status": "now_showing"
     },
     {
@@ -42,12 +60,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102482",
-     "title": "Qareen",
+     "slug": "2102527",
+     "title": "Belkis",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102482/",
+     "url": "https://elcinema.com/en/work/2102527/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2093435",
+     "title": "It Feeds",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2093435/",
      "status": "now_showing"
     },
     {
@@ -57,6 +84,24 @@
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2099119/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101651",
+     "title": "The Dino Family",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2101651/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102482",
+     "title": "Qareen",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102482/",
      "status": "now_showing"
     },
     {
@@ -105,6 +150,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2095519",
+     "title": "Other Mommy",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
@@ -120,6 +174,33 @@
      "language": "",
      "releaseDate": "2026-09-23",
      "url": "https://elcinema.com/en/work/2101968/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101935",
+     "title": "No Paradise If You Are Killed by a Woman",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-22",
+     "url": "https://elcinema.com/en/work/2101935/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095329",
+     "title": "The Odyssey",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-07-16",
+     "url": "https://elcinema.com/en/work/2095329/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2093181",
+     "title": "Saqr w Kanarya",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-06-24",
+     "url": "https://elcinema.com/en/work/2093181/",
      "status": "now_showing"
     },
     {
