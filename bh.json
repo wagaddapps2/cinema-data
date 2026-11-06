@@ -1,10 +1,37 @@
 {
- "updatedAt": "2026-11-05T18:45:07.537Z",
+ "updatedAt": "2026-11-06T00:45:58.689Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
    "name": "Cinemas in Bahrain",
    "films": [
+    {
+     "slug": "2102705",
+     "title": "Disco",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-06",
+     "url": "https://elcinema.com/en/work/2102705/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102706",
+     "title": "Mookuthi Amman 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-06",
+     "url": "https://elcinema.com/en/work/2102706/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102704",
+     "title": "Scene",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2102704/",
+     "status": "now_showing"
+    },
     {
      "slug": "2100794",
      "title": "The Cycle",
@@ -60,6 +87,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2088495",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2088495/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2096928",
      "title": "Naseeb",
      "rating": "",
@@ -75,15 +111,6 @@
      "language": "",
      "releaseDate": "2026-10-28",
      "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2088495",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2088495/",
      "status": "now_showing"
     },
     {
@@ -132,12 +159,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097221",
-     "title": "Jailer 2",
+     "slug": "2098154",
+     "title": "Whalefall",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2097221/",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -147,15 +174,6 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {

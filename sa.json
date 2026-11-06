@@ -1,44 +1,26 @@
 {
- "updatedAt": "2026-11-05T18:45:02.190Z",
+ "updatedAt": "2026-11-06T00:45:57.205Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
    "name": "Cinemas in Saudi Arabia",
    "films": [
     {
-     "slug": "2097963",
-     "title": "Yunan",
+     "slug": "2097271",
+     "title": "The Grace",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2097963/",
+     "releaseDate": "2026-11-06",
+     "url": "https://elcinema.com/en/work/2097271/",
      "status": "now_showing"
     },
     {
-     "slug": "2098106",
-     "title": "Cotton Queen",
+     "slug": "2097891",
+     "title": "Khartoum",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2098106/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102705",
-     "title": "Disco",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102705/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097316",
-     "title": "The Luminous Life",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2097316/",
+     "releaseDate": "2026-11-06",
+     "url": "https://elcinema.com/en/work/2097891/",
      "status": "now_showing"
     },
     {
@@ -51,12 +33,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102708",
-     "title": "Supremes",
+     "slug": "2097963",
+     "title": "Yunan",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102708/",
+     "url": "https://elcinema.com/en/work/2097963/",
      "status": "now_showing"
     },
     {
@@ -69,6 +51,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102705",
+     "title": "Disco",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2102705/",
+     "status": "now_showing"
+    },
+    {
      "slug": "1011119",
      "title": "Albahth A'n Fediha",
      "rating": "",
@@ -78,21 +69,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095239",
-     "title": "13 Days, 13 Nights",
+     "slug": "2098106",
+     "title": "Cotton Queen",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2095239/",
+     "url": "https://elcinema.com/en/work/2098106/",
      "status": "now_showing"
     },
     {
-     "slug": "2100794",
-     "title": "The Cycle",
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-04",
-     "url": "https://elcinema.com/en/work/2100794/",
+     "url": "https://elcinema.com/en/work/2095318/",
      "status": "now_showing"
     },
     {
@@ -105,12 +96,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
+     "slug": "2100794",
+     "title": "The Cycle",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-04",
-     "url": "https://elcinema.com/en/work/2095318/",
+     "url": "https://elcinema.com/en/work/2100794/",
      "status": "now_showing"
     },
     {
@@ -132,12 +123,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101651",
-     "title": "The Dino Family",
+     "slug": "2093435",
+     "title": "It Feeds",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2101651/",
+     "url": "https://elcinema.com/en/work/2093435/",
      "status": "now_showing"
     },
     {
@@ -150,6 +141,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101651",
+     "title": "The Dino Family",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2101651/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102339",
      "title": "Kabaddi 5 - After the Final Match",
      "rating": "",
@@ -159,12 +159,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2093435",
-     "title": "It Feeds",
+     "slug": "2097360",
+     "title": "The Mongoose",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2093435/",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2097360/",
      "status": "now_showing"
     },
     {
@@ -177,21 +177,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2088495",
-     "title": "Wildwood",
+     "slug": "2099773",
+     "title": "Wala Kan Ala El-Bal",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2097360/",
+     "url": "https://elcinema.com/en/work/2099773/",
      "status": "now_showing"
     },
     {
@@ -213,12 +204,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
+     "slug": "2088495",
+     "title": "Wildwood",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2099773/",
+     "url": "https://elcinema.com/en/work/2088495/",
      "status": "now_showing"
     },
     {
@@ -231,21 +222,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097221",
      "title": "Jailer 2",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2097221/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -282,15 +273,6 @@
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101997",
-     "title": "Drishyam: The Conclusion",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101997/",
      "status": "now_showing"
     },
     {
@@ -348,21 +330,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2094924",
-     "title": "Coyote vs. Acme",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-26",
-     "url": "https://elcinema.com/en/work/2094924/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095133",
      "title": "El Set Lamma (Veto)",
      "rating": "",
      "language": "",
      "releaseDate": "2026-08-26",
      "url": "https://elcinema.com/en/work/2095133/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2094924",
+     "title": "Coyote vs. Acme",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-26",
+     "url": "https://elcinema.com/en/work/2094924/",
      "status": "now_showing"
     },
     {
@@ -429,30 +411,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2030306",
-     "title": "City of God",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2024-02-22",
-     "url": "https://elcinema.com/en/work/2030306/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2009118",
      "title": "Léon: The Professional",
      "rating": "",
      "language": "",
      "releaseDate": "2022-10-06",
      "url": "https://elcinema.com/en/work/2009118/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2044050",
-     "title": "Train to Busan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2020-08-13",
-     "url": "https://elcinema.com/en/work/2044050/",
      "status": "now_showing"
     },
     {
