@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T12:50:13.758Z",
+ "updatedAt": "2026-11-06T18:43:12.160Z",
  "territory": "FR",
  "cinemas": {
   "linternaute-90": {
@@ -9806,6 +9806,15 @@
      "language": "VO",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11309183-the-good-boy/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11312981",
+     "title": "Fatherland",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11312981-fatherland/",
      "status": "now_showing"
     }
    ]
