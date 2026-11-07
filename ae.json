@@ -1,35 +1,35 @@
 {
- "updatedAt": "2026-11-06T18:44:04.406Z",
+ "updatedAt": "2026-11-07T00:42:57.655Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
    "name": "Cinemas in United Arab Emirates",
    "films": [
     {
-     "slug": "2011186",
-     "title": "Rocky",
+     "slug": "2102518",
+     "title": "Stray Kids World Tour 'Run It' Live Viewing",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-06",
-     "url": "https://elcinema.com/en/work/2011186/",
+     "releaseDate": "2026-11-07",
+     "url": "https://elcinema.com/en/work/2102518/",
      "status": "now_showing"
     },
     {
-     "slug": "2102707",
-     "title": "Summer Holidays",
+     "slug": "2102710",
+     "title": "Dead End",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-06",
-     "url": "https://elcinema.com/en/work/2102707/",
+     "releaseDate": "2026-11-07",
+     "url": "https://elcinema.com/en/work/2102710/",
      "status": "now_showing"
     },
     {
-     "slug": "2102706",
-     "title": "Mookuthi Amman 2",
+     "slug": "2102709",
+     "title": "Dog Day Evening",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-06",
-     "url": "https://elcinema.com/en/work/2102706/",
+     "releaseDate": "2026-11-07",
+     "url": "https://elcinema.com/en/work/2102709/",
      "status": "now_showing"
     },
     {
@@ -42,6 +42,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2011186",
+     "title": "Rocky",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-06",
+     "url": "https://elcinema.com/en/work/2011186/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2011187",
      "title": "Rocky II",
      "rating": "",
@@ -51,21 +60,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101615",
-     "title": "A Talent for Murder",
+     "slug": "2102706",
+     "title": "Mookuthi Amman 2",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2101615/",
+     "releaseDate": "2026-11-06",
+     "url": "https://elcinema.com/en/work/2102706/",
      "status": "now_showing"
     },
     {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
+     "slug": "2102707",
+     "title": "Summer Holidays",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2095318/",
+     "releaseDate": "2026-11-06",
+     "url": "https://elcinema.com/en/work/2102707/",
      "status": "now_showing"
     },
     {
@@ -75,6 +84,15 @@
      "language": "",
      "releaseDate": "2026-11-05",
      "url": "https://elcinema.com/en/work/2099699/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101615",
+     "title": "A Talent for Murder",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2101615/",
      "status": "now_showing"
     },
     {
@@ -93,6 +111,15 @@
      "language": "",
      "releaseDate": "2026-11-05",
      "url": "https://elcinema.com/en/work/2102704/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2095318/",
      "status": "now_showing"
     },
     {
@@ -123,12 +150,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099119",
+     "title": "Sense and Sensibility",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2099119/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2090950",
      "title": "Hope",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2090950/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2093435",
+     "title": "It Feeds",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2093435/",
      "status": "now_showing"
     },
     {
@@ -141,30 +186,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102344",
+     "title": "Pee Mak",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102344/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2096928",
      "title": "Naseeb",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2096928/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2099119/",
      "status": "now_showing"
     },
     {
@@ -177,21 +213,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102344",
-     "title": "Pee Mak",
+     "slug": "2097360",
+     "title": "The Mongoose",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102344/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2093435",
-     "title": "It Feeds",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2093435/",
+     "url": "https://elcinema.com/en/work/2097360/",
      "status": "now_showing"
     },
     {
@@ -213,6 +240,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101940",
+     "title": "Treasure Trekkers",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101940/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101651",
+     "title": "The Dino Family",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101651/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
@@ -228,24 +273,6 @@
      "language": "",
      "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2102341/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101651",
-     "title": "The Dino Family",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101651/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101940",
-     "title": "Treasure Trekkers",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101940/",
      "status": "now_showing"
     },
     {
@@ -285,21 +312,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102185",
      "title": "Adarsha Kutumbam House No: 47",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2102185/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -321,21 +348,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101997",
+     "title": "Drishyam: The Conclusion",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101997/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2097950",
      "title": "Digger",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-30",
      "url": "https://elcinema.com/en/work/2097950/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {
@@ -348,12 +375,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099778",
-     "title": "Tad and the Magic Lamp",
+     "slug": "2100562",
+     "title": "Heart of the Beast",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2099778/",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {
@@ -366,12 +393,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099766",
-     "title": "Fall 2: Deadpoint",
+     "slug": "2099778",
+     "title": "Tad and the Magic Lamp",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-09-03",
-     "url": "https://elcinema.com/en/work/2099766/",
+     "releaseDate": "2026-09-17",
+     "url": "https://elcinema.com/en/work/2099778/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100043",
+     "title": "Cats in the Museum: Treasures of Egypt",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-10",
+     "url": "https://elcinema.com/en/work/2100043/",
      "status": "now_showing"
     },
     {
@@ -399,6 +435,15 @@
      "language": "",
      "releaseDate": "2026-07-16",
      "url": "https://elcinema.com/en/work/2095329/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2002016",
+     "title": "Before Sunset",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2025-07-20",
+     "url": "https://elcinema.com/en/work/2002016/",
      "status": "now_showing"
     },
     {

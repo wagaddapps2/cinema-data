@@ -1,17 +1,26 @@
 {
- "updatedAt": "2026-11-06T18:44:07.682Z",
+ "updatedAt": "2026-11-07T00:42:59.692Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
    "name": "Cinemas in Saudi Arabia",
    "films": [
     {
-     "slug": "2097271",
-     "title": "The Grace",
+     "slug": "2102723",
+     "title": "Minghun",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-06",
-     "url": "https://elcinema.com/en/work/2097271/",
+     "releaseDate": "2026-11-07",
+     "url": "https://elcinema.com/en/work/2102723/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097322",
+     "title": "Mr. Nobody Against Putin",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-07",
+     "url": "https://elcinema.com/en/work/2097322/",
      "status": "now_showing"
     },
     {
@@ -24,21 +33,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102704",
-     "title": "Scene",
+     "slug": "2102518",
+     "title": "Stray Kids World Tour 'Run It' Live Viewing",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102704/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097963",
-     "title": "Yunan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2097963/",
+     "url": "https://elcinema.com/en/work/2102518/",
      "status": "now_showing"
     },
     {
@@ -51,12 +51,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102705",
-     "title": "Disco",
+     "slug": "2102708",
+     "title": "Supremes",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102705/",
+     "url": "https://elcinema.com/en/work/2102708/",
      "status": "now_showing"
     },
     {
@@ -69,12 +69,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098106",
-     "title": "Cotton Queen",
+     "slug": "2102705",
+     "title": "Disco",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2098106/",
+     "url": "https://elcinema.com/en/work/2102705/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097963",
+     "title": "Yunan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2097963/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102704",
+     "title": "Scene",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2102704/",
      "status": "now_showing"
     },
     {
@@ -123,24 +141,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2093435",
-     "title": "It Feeds",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2093435/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2029710",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2029710/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101651",
      "title": "The Dino Family",
      "rating": "",
@@ -159,30 +159,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097360",
-     "title": "The Mongoose",
+     "slug": "2093435",
+     "title": "It Feeds",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2097360/",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2093435/",
      "status": "now_showing"
     },
     {
-     "slug": "2090950",
-     "title": "Hope",
+     "slug": "2029710",
+     "title": "Sense and Sensibility",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2090950/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2099773/",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2029710/",
      "status": "now_showing"
     },
     {
@@ -204,6 +195,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2097360",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2097360/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2088495",
      "title": "Wildwood",
      "rating": "",
@@ -213,12 +213,48 @@
      "status": "now_showing"
     },
     {
+     "slug": "2090950",
+     "title": "Hope",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2090950/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099773",
+     "title": "Wala Kan Ala El-Bal",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2099773/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-21",
      "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -240,21 +276,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
+     "slug": "2095519",
+     "title": "Other Mommy",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099122",
-     "title": "Forgotten Island",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2099122/",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2095519/",
      "status": "now_showing"
     },
     {
@@ -264,15 +291,6 @@
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095519",
-     "title": "Other Mommy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2095519/",
      "status": "now_showing"
     },
     {
@@ -408,6 +426,15 @@
      "language": "",
      "releaseDate": "2024-05-22",
      "url": "https://elcinema.com/en/work/2079262/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2030306",
+     "title": "City of God",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-02-22",
+     "url": "https://elcinema.com/en/work/2030306/",
      "status": "now_showing"
     },
     {

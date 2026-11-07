@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-11-06T18:44:01.214Z",
+ "updatedAt": "2026-11-07T00:42:52.903Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
    "name": "Cinemas in Egypt",
    "films": [
+    {
+     "slug": "2102702",
+     "title": "Four Women of Egypt",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-07",
+     "url": "https://elcinema.com/en/work/2102702/",
+     "status": "now_showing"
+    },
     {
      "slug": "2098323",
      "title": "Godzilla Minus Zero",
@@ -24,21 +33,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100794",
-     "title": "The Cycle",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2100794/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095318",
      "title": "The Cat in the Hat",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
      "url": "https://elcinema.com/en/work/2095318/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100794",
+     "title": "The Cycle",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2100794/",
      "status": "now_showing"
     },
     {
@@ -60,15 +69,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2088495",
      "title": "Wildwood",
      "rating": "",
@@ -87,12 +87,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
+     "slug": "2097360",
+     "title": "The Mongoose",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2099119/",
+     "url": "https://elcinema.com/en/work/2097360/",
      "status": "now_showing"
     },
     {
@@ -102,6 +102,15 @@
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2093435/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099119",
+     "title": "Sense and Sensibility",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2099119/",
      "status": "now_showing"
     },
     {
@@ -123,21 +132,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102265",
-     "title": "Soy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2102265/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102265",
+     "title": "Soy",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102265/",
      "status": "now_showing"
     },
     {
@@ -192,15 +201,6 @@
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097950",
-     "title": "Digger",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2097950/",
      "status": "now_showing"
     },
     {
@@ -285,6 +285,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2097300",
+     "title": "Dayel Anna Ard",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2025-11-14",
+     "url": "https://elcinema.com/en/work/2097300/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2049146",
      "title": "Moscow Cairo",
      "rating": "",
@@ -294,12 +303,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "1009209",
-     "title": "Awdat Al Ibn Aldal",
+     "slug": "1010131",
+     "title": "Anyaab",
      "rating": "",
      "language": "",
-     "releaseDate": "1976-09-24",
-     "url": "https://elcinema.com/en/work/1009209/",
+     "releaseDate": "1981-08-01",
+     "url": "https://elcinema.com/en/work/1010131/",
      "status": "now_showing"
     },
     {
