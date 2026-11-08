@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T12:34:49.358Z",
+ "updatedAt": "2026-11-08T18:29:42.062Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -899,7 +899,7 @@
     {
      "slug": "how-to-rob-a-bank-english",
      "title": "How to Rob a Bank",
-     "rating": "",
+     "rating": "R15",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/how-to-rob-a-bank-english",
@@ -917,7 +917,7 @@
     {
      "slug": "best-pancakes-in-the-county-english",
      "title": "Best Pancakes in the County",
-     "rating": "",
+     "rating": "R15",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/best-pancakes-in-the-county-english",
@@ -1435,7 +1435,7 @@
     {
      "slug": "how-to-rob-a-bank-english",
      "title": "How to Rob a Bank",
-     "rating": "",
+     "rating": "R15",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/how-to-rob-a-bank-english",
@@ -1453,7 +1453,7 @@
     {
      "slug": "best-pancakes-in-the-county-english",
      "title": "Best Pancakes in the County",
-     "rating": "",
+     "rating": "R15",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/best-pancakes-in-the-county-english",
