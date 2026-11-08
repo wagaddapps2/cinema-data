@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T06:46:31.307Z",
+ "updatedAt": "2026-11-08T12:36:31.771Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
@@ -51,12 +51,39 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099198",
+     "title": "Swapped",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-18",
+     "url": "https://elcinema.com/en/work/2099198/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098609",
      "title": "Khally Balak Min Nafsak",
      "rating": "",
      "language": "",
      "releaseDate": "2026-07-23",
      "url": "https://elcinema.com/en/work/2098609/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2034536",
+     "title": "Zootopia",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-07-22",
+     "url": "https://elcinema.com/en/work/2034536/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2000022",
+     "title": "Alvin and the Chipmunks: The Squeakquel",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2009-12-24",
+     "url": "https://elcinema.com/en/work/2000022/",
      "status": "now_showing"
     },
     {

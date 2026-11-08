@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T06:46:23.016Z",
+ "updatedAt": "2026-11-08T12:36:26.677Z",
  "territory": "QA",
  "cinemas": {
   "elcinema-qa": {
@@ -33,30 +33,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102706",
-     "title": "Mookuthi Amman 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102706/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2049606",
-     "title": "The Idiot",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2049606/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102704",
      "title": "Scene",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
      "url": "https://elcinema.com/en/work/2102704/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102706",
+     "title": "Mookuthi Amman 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2102706/",
      "status": "now_showing"
     },
     {
@@ -87,12 +78,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101649",
-     "title": "The Influencer Project",
+     "slug": "2102304",
+     "title": "Aa Bata Aama 2",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2101649/",
+     "url": "https://elcinema.com/en/work/2102304/",
      "status": "now_showing"
     },
     {
@@ -123,33 +114,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102517",
-     "title": "How to Save the Immortal 2: Elixir of Life",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102517/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102344",
-     "title": "Pee Mak",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102344/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102304",
-     "title": "Aa Bata Aama 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102304/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2096928",
      "title": "Naseeb",
      "rating": "",
@@ -174,6 +138,33 @@
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2099119/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101649",
+     "title": "The Influencer Project",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2101649/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102344",
+     "title": "Pee Mak",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102344/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102517",
+     "title": "How to Save the Immortal 2: Elixir of Life",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102517/",
      "status": "now_showing"
     },
     {
@@ -267,15 +258,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095519",
-     "title": "Other Mommy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
@@ -285,12 +267,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101672",
-     "title": "The Crystal Planet",
+     "slug": "2095519",
+     "title": "Other Mommy",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2101672/",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2095519/",
      "status": "now_showing"
     },
     {
@@ -300,6 +282,15 @@
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2101997/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101672",
+     "title": "The Crystal Planet",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101672/",
      "status": "now_showing"
     },
     {
