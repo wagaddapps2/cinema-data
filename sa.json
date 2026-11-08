@@ -1,28 +1,10 @@
 {
- "updatedAt": "2026-11-07T18:31:24.817Z",
+ "updatedAt": "2026-11-08T00:42:51.000Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
    "name": "Cinemas in Saudi Arabia",
    "films": [
-    {
-     "slug": "2102723",
-     "title": "Minghun",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-07",
-     "url": "https://elcinema.com/en/work/2102723/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097322",
-     "title": "Mr. Nobody Against Putin",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-07",
-     "url": "https://elcinema.com/en/work/2097322/",
-     "status": "now_showing"
-    },
     {
      "slug": "2097891",
      "title": "Khartoum",
@@ -42,30 +24,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102002",
-     "title": "The Draw",
+     "slug": "2097963",
+     "title": "Yunan",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102002/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102708",
-     "title": "Supremes",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102708/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "1011119",
-     "title": "Albahth A'n Fediha",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/1011119/",
+     "url": "https://elcinema.com/en/work/2097963/",
      "status": "now_showing"
     },
     {
@@ -78,12 +42,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097963",
-     "title": "Yunan",
+     "slug": "2102002",
+     "title": "The Draw",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2097963/",
+     "url": "https://elcinema.com/en/work/2102002/",
      "status": "now_showing"
     },
     {
@@ -96,12 +60,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
+     "slug": "1011119",
+     "title": "Albahth A'n Fediha",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/1011119/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100794",
+     "title": "The Cycle",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-04",
-     "url": "https://elcinema.com/en/work/2095318/",
+     "url": "https://elcinema.com/en/work/2100794/",
      "status": "now_showing"
     },
     {
@@ -114,12 +87,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100794",
-     "title": "The Cycle",
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-04",
-     "url": "https://elcinema.com/en/work/2100794/",
+     "url": "https://elcinema.com/en/work/2095318/",
      "status": "now_showing"
     },
     {
@@ -141,12 +114,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101651",
-     "title": "The Dino Family",
+     "slug": "2029710",
+     "title": "Sense and Sensibility",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2101651/",
+     "url": "https://elcinema.com/en/work/2029710/",
      "status": "now_showing"
     },
     {
@@ -159,6 +132,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101651",
+     "title": "The Dino Family",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2101651/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2093435",
      "title": "It Feeds",
      "rating": "",
@@ -168,39 +150,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2029710",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2029710/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
+     "slug": "2099773",
+     "title": "Wala Kan Ala El-Bal",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2099119/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096928",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2096928/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2097360/",
+     "url": "https://elcinema.com/en/work/2099773/",
      "status": "now_showing"
     },
     {
@@ -222,12 +177,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
+     "slug": "2096928",
+     "title": "Naseeb",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2099773/",
+     "url": "https://elcinema.com/en/work/2096928/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097360",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2097360/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099119",
+     "title": "Sense and Sensibility",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2099119/",
      "status": "now_showing"
     },
     {
@@ -240,21 +213,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099122",
-     "title": "Forgotten Island",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2099122/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2099122/",
      "status": "now_showing"
     },
     {
@@ -267,12 +240,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096857",
-     "title": "Street Fighter",
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2096857/",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -282,15 +255,6 @@
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -345,15 +309,6 @@
      "language": "",
      "releaseDate": "2026-08-27",
      "url": "https://elcinema.com/en/work/2042469/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095133",
-     "title": "El Set Lamma (Veto)",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-26",
-     "url": "https://elcinema.com/en/work/2095133/",
      "status": "now_showing"
     },
     {
@@ -426,24 +381,6 @@
      "language": "",
      "releaseDate": "2024-05-22",
      "url": "https://elcinema.com/en/work/2079262/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2030306",
-     "title": "City of God",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2024-02-22",
-     "url": "https://elcinema.com/en/work/2030306/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2009118",
-     "title": "Léon: The Professional",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2022-10-06",
-     "url": "https://elcinema.com/en/work/2009118/",
      "status": "now_showing"
     },
     {
