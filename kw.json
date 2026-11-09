@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T07:09:55.918Z",
+ "updatedAt": "2026-11-09T12:54:38.005Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -861,6 +861,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "disco-malayalam",
+     "title": "Disco",
+     "rating": "R18",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/disco-malayalam",
+     "status": "now_showing"
+    },
+    {
      "slug": "just-marriedcom-konkani",
      "title": "Just Married.com",
      "rating": "PG12",
@@ -888,33 +897,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "how-to-rob-a-bank-english",
-     "title": "How to Rob a Bank",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/how-to-rob-a-bank-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "ebenezer-english",
-     "title": "Ebenezer",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/ebenezer-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "best-pancakes-in-the-county-english",
-     "title": "Best Pancakes in the County",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/best-pancakes-in-the-county-english",
-     "status": "coming_soon"
-    },
-    {
      "slug": "belkis-turkish",
      "title": "Belkis",
      "rating": "",
@@ -924,12 +906,12 @@
      "status": "coming_soon"
     },
     {
-     "slug": "the-last-temptation-of-becky-english",
-     "title": "The Last Temptation of Becky",
+     "slug": "gupi-and-the-grumpy-king-english-dub",
+     "title": "Gupi And the Grumpy King",
      "rating": "",
-     "language": "English",
+     "language": "English Dub",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-last-temptation-of-becky-english",
+     "url": "https://www.ozonecinema.com/movies/gupi-and-the-grumpy-king-english-dub",
      "status": "coming_soon"
     },
     {
@@ -1316,6 +1298,51 @@
      "status": "now_showing"
     },
     {
+     "slug": "disco-malayalam",
+     "title": "Disco",
+     "rating": "R18",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/disco-malayalam",
+     "status": "now_showing"
+    },
+    {
+     "slug": "how-to-rob-a-bank-english",
+     "title": "How to Rob a Bank",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/how-to-rob-a-bank-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "ebenezer-english",
+     "title": "Ebenezer",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/ebenezer-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "best-pancakes-in-the-county-english",
+     "title": "Best Pancakes in the County",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/best-pancakes-in-the-county-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-last-temptation-of-becky-english",
+     "title": "The Last Temptation of Becky",
+     "rating": "R18",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-last-temptation-of-becky-english",
+     "status": "now_showing"
+    },
+    {
      "slug": "the-shawshank-redemption-1994-re-release-english",
      "title": "The Shawshank Redemption 1994 Re-Release",
      "rating": "R18",
@@ -1415,33 +1442,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "how-to-rob-a-bank-english",
-     "title": "How to Rob a Bank",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/how-to-rob-a-bank-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "ebenezer-english",
-     "title": "Ebenezer",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/ebenezer-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "best-pancakes-in-the-county-english",
-     "title": "Best Pancakes in the County",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/best-pancakes-in-the-county-english",
-     "status": "coming_soon"
-    },
-    {
      "slug": "belkis-turkish",
      "title": "Belkis",
      "rating": "",
@@ -1451,12 +1451,12 @@
      "status": "coming_soon"
     },
     {
-     "slug": "the-last-temptation-of-becky-english",
-     "title": "The Last Temptation of Becky",
+     "slug": "gupi-and-the-grumpy-king-english-dub",
+     "title": "Gupi And the Grumpy King",
      "rating": "",
-     "language": "English",
+     "language": "English Dub",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-last-temptation-of-becky-english",
+     "url": "https://www.ozonecinema.com/movies/gupi-and-the-grumpy-king-english-dub",
      "status": "coming_soon"
     },
     {
@@ -1834,6 +1834,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099759",
+     "title": "Ramayana",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099759/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
@@ -1885,24 +1894,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099759",
-     "title": "Ramayana",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099759/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102002",
-     "title": "The Draw",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102002/",
      "status": "now_showing"
     },
     {
@@ -1960,12 +1951,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102002",
+     "title": "The Draw",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102002/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2063764",
      "title": "The Texas Chain Saw Massacre",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2063764/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102265",
+     "title": "Soy",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102265/",
      "status": "now_showing"
     },
     {
@@ -2033,21 +2042,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102704",
-     "title": "Scene",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102704/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097221",
      "title": "Jailer 2",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2097221/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102704",
+     "title": "Scene",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102704/",
      "status": "now_showing"
     }
    ]
@@ -2056,21 +2065,21 @@
    "name": "Cinescape Al Kout",
    "films": [
     {
-     "slug": "2102002",
-     "title": "The Draw",
+     "slug": "2099759",
+     "title": "Ramayana",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102002/",
+     "url": "https://elcinema.com/en/work/2099759/",
      "status": "now_showing"
     },
     {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
+     "slug": "2098155",
+     "title": "Clayface",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095318/",
+     "url": "https://elcinema.com/en/work/2098155/",
      "status": "now_showing"
     },
     {
@@ -2101,21 +2110,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099759",
-     "title": "Ramayana",
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099759/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098155/",
+     "url": "https://elcinema.com/en/work/2095318/",
      "status": "now_showing"
     },
     {
@@ -2164,15 +2164,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099699",
-     "title": "Idiots",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099699/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2004262",
      "title": "The Shawshank Redemption",
      "rating": "",
@@ -2188,6 +2179,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099773/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099699",
+     "title": "Idiots",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099699/",
      "status": "now_showing"
     }
    ]
@@ -2223,12 +2223,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102002",
-     "title": "The Draw",
+     "slug": "2096928",
+     "title": "Naseeb",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102002/",
+     "url": "https://elcinema.com/en/work/2096928/",
      "status": "now_showing"
     },
     {
@@ -2247,15 +2247,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096928",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096928/",
      "status": "now_showing"
     },
     {
@@ -2404,15 +2395,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099773",
      "title": "Wala Kan Ala El-Bal",
      "rating": "",
@@ -2437,6 +2419,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099759/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -2467,12 +2458,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102002",
-     "title": "The Draw",
+     "slug": "2098232",
+     "title": "Verity",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102002/",
+     "url": "https://elcinema.com/en/work/2098232/",
      "status": "now_showing"
     },
     {
@@ -2482,15 +2473,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101615/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098232/",
      "status": "now_showing"
     },
     {
@@ -2521,6 +2503,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102002",
+     "title": "The Draw",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102002/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2090950",
      "title": "Hope",
      "rating": "",
@@ -2543,6 +2534,51 @@
   "sky-salmiya": {
    "name": "SKY Cinemas Salmiya",
    "films": [
+    {
+     "slug": "how-to-rob-a-bank/9999001552",
+     "title": "HOW TO ROB A BANK",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/how-to-rob-a-bank/9999001552",
+     "status": "now_showing"
+    },
+    {
+     "slug": "hadoota-(egyptian)-arabic/9999001551",
+     "title": "HADOOTA",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/hadoota-(egyptian)-arabic/9999001551",
+     "status": "now_showing"
+    },
+    {
+     "slug": "ebenezer/9999001550",
+     "title": "EBENEZER",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/ebenezer/9999001550",
+     "status": "now_showing"
+    },
+    {
+     "slug": "best-pancakes-in-the-county/9999001549",
+     "title": "BEST PANCAKES IN THE COUNTY",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/best-pancakes-in-the-county/9999001549",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-last-temptation-of-becky/9999001548",
+     "title": "THE LAST TEMPTATION OF BECKY",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/the-last-temptation-of-becky/9999001548",
+     "status": "now_showing"
+    },
     {
      "slug": "a-talent-for-murder/9999001546",
      "title": "A TALENT FOR MURDER",
@@ -2614,6 +2650,15 @@
      "releaseDate": null,
      "url": "https://www.skycinemaskw.com/movie-information/clayface/9999001534",
      "status": "now_showing"
+    },
+    {
+     "slug": "gupi-and-the-grumpy-king-english-dub/9999001547",
+     "title": "GUPI AND THE GRUMPY KING - ENGLISH DUB",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/gupi-and-the-grumpy-king-english-dub/9999001547",
+     "status": "coming_soon"
     },
     {
      "slug": "avengers-doomsday/9999001436",
