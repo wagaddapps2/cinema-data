@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T12:54:38.005Z",
+ "updatedAt": "2026-11-09T18:43:42.776Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -190,6 +190,22 @@
      "status": "now_showing"
     },
     {
+     "slug": "best-pancakes-in-the-county",
+     "title": "Best Pancakes in the County",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/best-pancakes-in-the-county",
+     "status": "now_showing"
+    },
+    {
+     "slug": "ebenezer",
+     "title": "Ebenezer",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/ebenezer",
+     "status": "now_showing"
+    },
+    {
      "slug": "hadoota-arabic",
      "title": "Hadoota",
      "rating": "PG12",
@@ -198,13 +214,20 @@
      "status": "now_showing"
     },
     {
-     "slug": "les-mis-rables",
-     "title": "Les Misérables",
-     "rating": "18TC",
+     "slug": "how-to-rob-a-bank",
+     "title": "How to Rob a Bank",
+     "rating": "R15",
      "language": "English",
-     "releaseDate": "2026-11-12",
-     "url": "https://kwt.voxcinemas.com/movies/les-mis-rables",
-     "status": "coming_soon"
+     "url": "https://kwt.voxcinemas.com/movies/how-to-rob-a-bank",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-last-temptation-of-becky",
+     "title": "The Last Temptation of Becky",
+     "rating": "R18",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/the-last-temptation-of-becky",
+     "status": "now_showing"
     },
     {
      "slug": "hadoota-arabic",
@@ -216,12 +239,48 @@
      "status": "coming_soon"
     },
     {
+     "slug": "belkis-turkish",
+     "title": "Belkis",
+     "rating": "18TC",
+     "language": "Turkish",
+     "releaseDate": "2026-11-12",
+     "url": "https://kwt.voxcinemas.com/movies/belkis-turkish",
+     "status": "coming_soon"
+    },
+    {
      "slug": "ebenezer",
      "title": "Ebenezer",
-     "rating": "18TC",
+     "rating": "R15",
      "language": "English",
      "releaseDate": "2026-11-12",
      "url": "https://kwt.voxcinemas.com/movies/ebenezer",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-last-temptation-of-becky",
+     "title": "The Last Temptation of Becky",
+     "rating": "R18",
+     "language": "English",
+     "releaseDate": "2026-11-12",
+     "url": "https://kwt.voxcinemas.com/movies/the-last-temptation-of-becky",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "best-pancakes-in-the-county",
+     "title": "Best Pancakes in the County",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": "2026-11-12",
+     "url": "https://kwt.voxcinemas.com/movies/best-pancakes-in-the-county",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "gupi-and-the-grumpy-king",
+     "title": "Gupi & The Grumpy King",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-11-12",
+     "url": "https://kwt.voxcinemas.com/movies/gupi-and-the-grumpy-king",
      "status": "coming_soon"
     },
     {
@@ -231,6 +290,15 @@
      "language": "English",
      "releaseDate": "2026-11-19",
      "url": "https://kwt.voxcinemas.com/movies/the-hunger-games-sunrise-on-the-reaping",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "crypto-arabic",
+     "title": "Crypto",
+     "rating": "18TC",
+     "language": "Arabic",
+     "releaseDate": "2026-11-19",
+     "url": "https://kwt.voxcinemas.com/movies/crypto-arabic",
      "status": "coming_soon"
     },
     {
@@ -267,15 +335,6 @@
      "language": "English",
      "releaseDate": "2026-11-26",
      "url": "https://kwt.voxcinemas.com/movies/hexed",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "crypto-arabic",
-     "title": "Crypto",
-     "rating": "18TC",
-     "language": "Arabic",
-     "releaseDate": "2026-11-26",
-     "url": "https://kwt.voxcinemas.com/movies/crypto-arabic",
      "status": "coming_soon"
     },
     {
@@ -1253,21 +1312,12 @@
    "name": "Ozone Cinemas Jahra",
    "films": [
     {
-     "slug": "the-cat-in-the-hat-english",
-     "title": "The Cat in the Hat",
-     "rating": "PG",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-cat-in-the-hat-english",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-cat-in-the-hat-arabic",
-     "title": "The Cat in the Hat",
-     "rating": "PG",
+     "slug": "hadoota-arabic",
+     "title": "Hadoota",
+     "rating": "PG12",
      "language": "Arabic",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-cat-in-the-hat-arabic",
+     "url": "https://www.ozonecinema.com/movies/hadoota-arabic",
      "status": "now_showing"
     },
     {
@@ -1295,6 +1345,33 @@
      "language": "Tamil",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/scene-tamil",
+     "status": "now_showing"
+    },
+    {
+     "slug": "into-the-wonderwoods-english",
+     "title": "Into The Wonderwoods",
+     "rating": "PG",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/into-the-wonderwoods-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-cat-in-the-hat-english",
+     "title": "The Cat in the Hat",
+     "rating": "PG",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-cat-in-the-hat-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-cat-in-the-hat-arabic",
+     "title": "The Cat in the Hat",
+     "rating": "PG",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-cat-in-the-hat-arabic",
      "status": "now_showing"
     },
     {
@@ -1430,15 +1507,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-mongoose-english",
-     "status": "now_showing"
-    },
-    {
-     "slug": "hadoota-arabic",
-     "title": "Hadoota",
-     "rating": "PG12",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/hadoota-arabic",
      "status": "now_showing"
     },
     {
