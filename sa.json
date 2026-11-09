@@ -1,17 +1,35 @@
 {
- "updatedAt": "2026-11-09T00:45:07.507Z",
+ "updatedAt": "2026-11-09T07:11:31.695Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
    "name": "Cinemas in Saudi Arabia",
    "films": [
     {
-     "slug": "2102002",
-     "title": "The Draw",
+     "slug": "2102720",
+     "title": "The Last Ambassador",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-09",
+     "url": "https://elcinema.com/en/work/2102720/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102718",
+     "title": "Homecoming",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-09",
+     "url": "https://elcinema.com/en/work/2102718/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1011119",
+     "title": "Albahth A'n Fediha",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102002/",
+     "url": "https://elcinema.com/en/work/1011119/",
      "status": "now_showing"
     },
     {
@@ -33,21 +51,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102518",
-     "title": "Stray Kids World Tour 'Run It' Live Viewing",
+     "slug": "2102002",
+     "title": "The Draw",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102518/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "1011119",
-     "title": "Albahth A'n Fediha",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/1011119/",
+     "url": "https://elcinema.com/en/work/2102002/",
      "status": "now_showing"
     },
     {
@@ -60,12 +69,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101615",
-     "title": "A Talent for Murder",
+     "slug": "2099699",
+     "title": "Idiots",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-04",
-     "url": "https://elcinema.com/en/work/2101615/",
+     "url": "https://elcinema.com/en/work/2099699/",
      "status": "now_showing"
     },
     {
@@ -78,12 +87,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099699",
-     "title": "Idiots",
+     "slug": "2101615",
+     "title": "A Talent for Murder",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-04",
-     "url": "https://elcinema.com/en/work/2099699/",
+     "url": "https://elcinema.com/en/work/2101615/",
      "status": "now_showing"
     },
     {
@@ -96,12 +105,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101651",
-     "title": "The Dino Family",
+     "slug": "2093435",
+     "title": "It Feeds",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2101651/",
+     "url": "https://elcinema.com/en/work/2093435/",
      "status": "now_showing"
     },
     {
@@ -114,21 +123,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2093435",
-     "title": "It Feeds",
+     "slug": "2101651",
+     "title": "The Dino Family",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2093435/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096928",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2096928/",
+     "url": "https://elcinema.com/en/work/2101651/",
      "status": "now_showing"
     },
     {
@@ -141,12 +141,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2088495",
-     "title": "Wildwood",
+     "slug": "2096928",
+     "title": "Naseeb",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2088495/",
+     "url": "https://elcinema.com/en/work/2096928/",
      "status": "now_showing"
     },
     {
@@ -177,6 +177,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2088495",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2088495/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101940",
      "title": "Treasure Trekkers",
      "rating": "",
@@ -204,6 +213,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
@@ -222,12 +240,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096857",
-     "title": "Street Fighter",
+     "slug": "2095519",
+     "title": "Other Mommy",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2096857/",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2095519/",
      "status": "now_showing"
     },
     {
@@ -237,15 +255,6 @@
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095519",
-     "title": "Other Mommy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2095519/",
      "status": "now_showing"
     },
     {
