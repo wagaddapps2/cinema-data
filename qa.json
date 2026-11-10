@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T18:45:48.154Z",
+ "updatedAt": "2026-11-10T06:00:46.883Z",
  "territory": "QA",
  "cinemas": {
   "elcinema-qa": {
@@ -453,15 +453,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099777/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-11",
-     "url": "https://elcinema.com/en/work/2100998/",
      "status": "coming_soon"
     },
     {
