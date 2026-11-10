@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T14:45:50.920Z",
+ "updatedAt": "2026-11-10T22:52:10.589Z",
  "territory": "FR",
  "cinemas": {
   "linternaute-90": {
@@ -179,7 +179,7 @@
      "rating": "",
      "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
      "status": "now_showing"
     },
     {
@@ -278,7 +278,7 @@
      "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11308401-ce-qui-nous-mene-a-toi/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11308401-ce-qui-nous-mene-a-toi-un-film-bouleversant-sur-le-parcours-de-la-pma-notre-critique/",
      "status": "now_showing"
     },
     {
@@ -297,6 +297,15 @@
      "language": "VO",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/2190916-les-diables/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11313561",
+     "title": "Ramayana : L'avènement d'une légende",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11313561-ramayana-l-avenement-d-une-legende/",
      "status": "now_showing"
     }
    ]
@@ -397,7 +406,7 @@
      "rating": "",
      "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
      "status": "now_showing"
     },
     {
@@ -470,6 +479,71 @@
      "language": "VO",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11305451-safe-version-restauree/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11313561",
+     "title": "Ramayana : L'avènement d'une légende",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11313561-ramayana-l-avenement-d-une-legende/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-1091": {
+   "name": "mk2 Bibliothèque",
+   "city": "Paris",
+   "brand": "MK2",
+   "address": "128 avenue de France, 75013 Paris",
+   "lat": 48.8317,
+   "lng": 2.376,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "10916627",
+     "title": "Le Corset",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916649",
+     "title": "Notre salut",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306141",
+     "title": "Quelques mots d'amour",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306141-quelques-mots-d-amour/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11299497",
+     "title": "La Gradiva",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306693",
+     "title": "Papa où t'es ?",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306693-papa-ou-t-es/",
      "status": "now_showing"
     }
    ]
@@ -588,7 +662,7 @@
      "rating": "",
      "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
      "status": "now_showing"
     },
     {
@@ -661,6 +735,15 @@
      "language": "VF",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11309181-comment-braquer-une-banque/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11313561",
+     "title": "Ramayana : L'avènement d'une légende",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11313561-ramayana-l-avenement-d-une-legende/",
      "status": "now_showing"
     }
    ]
@@ -761,7 +844,7 @@
      "rating": "",
      "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
      "status": "now_showing"
     },
     {
@@ -834,6 +917,15 @@
      "language": "VO",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/7335330-l-odyssee-chef-d-oeuvre-epique-experience-brute-les-critiques-sont-unanimes/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11313561",
+     "title": "Ramayana : L'avènement d'une légende",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11313561-ramayana-l-avenement-d-une-legende/",
      "status": "now_showing"
     }
    ]
@@ -1026,6 +1118,206 @@
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11306687-sanguine/",
      "status": "now_showing"
+    },
+    {
+     "slug": "11313561",
+     "title": "Ramayana : L'avènement d'une légende",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11313561-ramayana-l-avenement-d-une-legende/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-95": {
+   "name": "UGC Ciné Cité Maillot",
+   "city": "Paris",
+   "brand": "UGC",
+   "address": "Place de la Porte Maillot - Palais des Congrès - Niveau -1, 75017 Paris",
+   "lat": 48.8873,
+   "lng": 2.3068,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "11304007",
+     "title": "Les Misérables",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916627",
+     "title": "Le Corset",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305437",
+     "title": "Karma",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306685",
+     "title": "Le Fantôme de l'Opéra",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306685-le-fantome-de-l-opera/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310315",
+     "title": "Moulin",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11308413",
+     "title": "Un bon patron",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11308413-un-bon-patron/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11303119",
+     "title": "L'Affaire Marie-Claire",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303119-l-affaire-marie-claire-ce-qu-on-a-pense-du-film-sur-gisele-halimi-avec-charlotte-gainsbourg/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306141",
+     "title": "Quelques mots d'amour",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306141-quelques-mots-d-amour/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11299497",
+     "title": "La Gradiva",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11309177",
+     "title": "Scrooge",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310323",
+     "title": "Wild Horse Nine",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310323-wild-horse-nine/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11301819",
+     "title": "The Social Reckoning",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11301819-the-social-reckoning-est-ce-aussi-bien-que-the-social-network-l-avis-des-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306679",
+     "title": "Hope",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306679-hope/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11307641",
+     "title": "Carlo Acutis, un saint pour notre temps",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11307641-carlo-acutis-un-saint-pour-notre-temps/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10637222",
+     "title": "La Bataille de Gaulle : J'écris ton nom",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10637222-la-bataille-de-gaulle-j-ecris-ton-nom-pourquoi-le-film-sort-il-un-vendredi/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10435888",
+     "title": "La Bataille De Gaulle : L'âge de fer",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10435888-la-bataille-de-gaulle-l-age-de-fer-faut-il-voir-le-blockbuster-historique-a-la-francaise-notre-avis-tranche/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305451",
+     "title": "Safe (version restaurée)",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305451-safe-version-restauree/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310311",
+     "title": "Carmen (The Royal Opera)",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310311-carmen-the-royal-opera/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2493219",
+     "title": "Dune",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2493219-dune-pour-comprendre-le-film-il-y-a-un-vocabulaire-et-un-univers-particulier-a-connaitre-on-vous-explique-tout/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2649025",
+     "title": "Dune, deuxième partie",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2649025-dune-2-la-date-de-sortie-reportee-quand-le-voir/",
+     "status": "now_showing"
     }
    ]
   },
@@ -1116,7 +1408,7 @@
      "rating": "",
      "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
      "status": "now_showing"
     },
     {
@@ -1271,7 +1563,7 @@
      "rating": "",
      "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
      "status": "now_showing"
     },
     {
@@ -1312,13 +1604,13 @@
     }
    ]
   },
-  "linternaute-95": {
-   "name": "UGC Ciné Cité Maillot",
+  "linternaute-2796": {
+   "name": "Pathé Beaugrenelle",
    "city": "Paris",
-   "brand": "UGC",
-   "address": "Place de la Porte Maillot - Palais des Congrès - Niveau -1, 75017 Paris",
-   "lat": 48.8873,
-   "lng": 2.3068,
+   "brand": "Pathé",
+   "address": "7 rue Linois, 75015 Paris",
+   "lat": 48.8489,
+   "lng": 2.2826,
    "fetchedAt": "2026-11-10",
    "films": [
     {
@@ -1331,21 +1623,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "10916627",
-     "title": "Le Corset",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
-     "status": "now_showing"
-    },
-    {
      "slug": "11305437",
      "title": "Karma",
      "rating": "",
      "language": "VF",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916649",
+     "title": "Notre salut",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11236542",
+     "title": "L'île des souvenirs",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11236542-l-ile-des-souvenirs/",
      "status": "now_showing"
     },
     {
@@ -1367,12 +1668,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "11308413",
-     "title": "Un bon patron",
+     "slug": "11304003",
+     "title": "Malfaisante",
      "rating": "",
-     "language": "VF",
+     "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11308413-un-bon-patron/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304003-malfaisante/",
      "status": "now_showing"
     },
     {
@@ -1385,21 +1686,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "11306141",
-     "title": "Quelques mots d'amour",
+     "slug": "11305435",
+     "title": "Clayface",
      "rating": "",
-     "language": "VF",
+     "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306141-quelques-mots-d-amour/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11299497",
-     "title": "La Gradiva",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305435-clayface-le-film-sur-le-mechant-de-batman-contient-des-scenes-tres-derangeantes-on-n-a-pas-pu-tout-regarder/",
      "status": "now_showing"
     },
     {
@@ -1408,7 +1700,16 @@
      "rating": "",
      "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11307653",
+     "title": "Godzilla Minus Zero",
+     "rating": "",
+     "language": "VF/VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11307653-godzilla-minus-zero/",
      "status": "now_showing"
     },
     {
@@ -1421,15 +1722,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "11301819",
-     "title": "The Social Reckoning",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11301819-the-social-reckoning-est-ce-aussi-bien-que-the-social-network-l-avis-des-critiques/",
-     "status": "now_showing"
-    },
-    {
      "slug": "11306679",
      "title": "Hope",
      "rating": "",
@@ -1439,66 +1731,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "11307641",
-     "title": "Carlo Acutis, un saint pour notre temps",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11307641-carlo-acutis-un-saint-pour-notre-temps/",
-     "status": "now_showing"
-    },
-    {
      "slug": "10637222",
      "title": "La Bataille de Gaulle : J'écris ton nom",
      "rating": "",
      "language": "VF",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/10637222-la-bataille-de-gaulle-j-ecris-ton-nom-pourquoi-le-film-sort-il-un-vendredi/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10435888",
-     "title": "La Bataille De Gaulle : L'âge de fer",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10435888-la-bataille-de-gaulle-l-age-de-fer-faut-il-voir-le-blockbuster-historique-a-la-francaise-notre-avis-tranche/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305451",
-     "title": "Safe (version restaurée)",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305451-safe-version-restauree/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310311",
-     "title": "Carmen (The Royal Opera)",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310311-carmen-the-royal-opera/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2493219",
-     "title": "Dune",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2493219-dune-pour-comprendre-le-film-il-y-a-un-vocabulaire-et-un-univers-particulier-a-connaitre-on-vous-explique-tout/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2649025",
-     "title": "Dune, deuxième partie",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2649025-dune-2-la-date-de-sortie-reportee-quand-le-voir/",
      "status": "now_showing"
     }
    ]
@@ -1618,143 +1856,6 @@
      "language": "VO",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11310319-club-kid/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10637222",
-     "title": "La Bataille de Gaulle : J'écris ton nom",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10637222-la-bataille-de-gaulle-j-ecris-ton-nom-pourquoi-le-film-sort-il-un-vendredi/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-2796": {
-   "name": "Pathé Beaugrenelle",
-   "city": "Paris",
-   "brand": "Pathé",
-   "address": "7 rue Linois, 75015 Paris",
-   "lat": 48.8489,
-   "lng": 2.2826,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "11304007",
-     "title": "Les Misérables",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305437",
-     "title": "Karma",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916649",
-     "title": "Notre salut",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11236542",
-     "title": "L'île des souvenirs",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11236542-l-ile-des-souvenirs/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306685",
-     "title": "Le Fantôme de l'Opéra",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306685-le-fantome-de-l-opera/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310315",
-     "title": "Moulin",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304003",
-     "title": "Malfaisante",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304003-malfaisante/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11303119",
-     "title": "L'Affaire Marie-Claire",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11303119-l-affaire-marie-claire-ce-qu-on-a-pense-du-film-sur-gisele-halimi-avec-charlotte-gainsbourg/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305435",
-     "title": "Clayface",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305435-clayface-le-film-sur-le-mechant-de-batman-contient-des-scenes-tres-derangeantes-on-n-a-pas-pu-tout-regarder/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309177",
-     "title": "Scrooge",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11307653",
-     "title": "Godzilla Minus Zero",
-     "rating": "",
-     "language": "VF/VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11307653-godzilla-minus-zero/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310323",
-     "title": "Wild Horse Nine",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310323-wild-horse-nine/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306679",
-     "title": "Hope",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306679-hope/",
      "status": "now_showing"
     },
     {
@@ -2012,6 +2113,15 @@
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11310329-peppa-fete-noel/",
      "status": "now_showing"
+    },
+    {
+     "slug": "11313561",
+     "title": "Ramayana : L'avènement d'une légende",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11313561-ramayana-l-avenement-d-une-legende/",
+     "status": "now_showing"
     }
    ]
   },
@@ -2098,94 +2208,103 @@
     }
    ]
   },
-  "linternaute-29": {
-   "name": "mk2 Beaubourg",
+  "linternaute-82": {
+   "name": "UGC Lyon Bastille",
    "city": "Paris",
-   "brand": "MK2",
-   "address": "50 rue Rambuteau, 75003 Paris",
-   "lat": 48.8616,
-   "lng": 2.3524,
+   "brand": "UGC",
+   "address": "12 rue de Lyon, 75012 Paris",
+   "lat": 48.8475,
+   "lng": 2.3718,
    "fetchedAt": "2026-11-10",
    "films": [
     {
-     "slug": "10916649",
-     "title": "Notre salut",
+     "slug": "11304007",
+     "title": "Les Misérables",
      "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
      "status": "now_showing"
     },
     {
-     "slug": "10916645",
-     "title": "Minotaure",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11248132",
-     "title": "Garance",
+     "slug": "11305437",
+     "title": "Karma",
      "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
      "status": "now_showing"
     },
     {
-     "slug": "11306141",
-     "title": "Quelques mots d'amour",
+     "slug": "11306685",
+     "title": "Le Fantôme de l'Opéra",
      "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306141-quelques-mots-d-amour/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306685-le-fantome-de-l-opera/",
      "status": "now_showing"
     },
     {
-     "slug": "11299497",
-     "title": "La Gradiva",
+     "slug": "11310315",
+     "title": "Moulin",
      "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
      "status": "now_showing"
     },
     {
-     "slug": "11310323",
-     "title": "Wild Horse Nine",
+     "slug": "11308413",
+     "title": "Un bon patron",
      "rating": "",
-     "language": "VO",
+     "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310323-wild-horse-nine/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11308413-un-bon-patron/",
      "status": "now_showing"
     },
     {
-     "slug": "11310319",
-     "title": "Club Kid",
+     "slug": "11303119",
+     "title": "L'Affaire Marie-Claire",
      "rating": "",
-     "language": "VO",
+     "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310319-club-kid/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303119-l-affaire-marie-claire-ce-qu-on-a-pense-du-film-sur-gisele-halimi-avec-charlotte-gainsbourg/",
      "status": "now_showing"
     },
     {
-     "slug": "11304825",
-     "title": "Irish Travellers",
+     "slug": "2493717",
+     "title": "Hunger Games 5",
      "rating": "",
      "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304825-irish-travellers/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2493717-hunger-games-5-date-casting-teaser-photos-le-film-se-devoile/",
      "status": "now_showing"
     },
     {
-     "slug": "11305451",
-     "title": "Safe (version restaurée)",
+     "slug": "11309177",
+     "title": "Scrooge",
      "rating": "",
-     "language": "VO",
+     "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305451-safe-version-restauree/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11307641",
+     "title": "Carlo Acutis, un saint pour notre temps",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11307641-carlo-acutis-un-saint-pour-notre-temps/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10637222",
+     "title": "La Bataille de Gaulle : J'écris ton nom",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10637222-la-bataille-de-gaulle-j-ecris-ton-nom-pourquoi-le-film-sort-il-un-vendredi/",
      "status": "now_showing"
     }
    ]
@@ -2383,504 +2502,6 @@
     }
    ]
   },
-  "linternaute-82": {
-   "name": "UGC Lyon Bastille",
-   "city": "Paris",
-   "brand": "UGC",
-   "address": "12 rue de Lyon, 75012 Paris",
-   "lat": 48.8475,
-   "lng": 2.3718,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "11304007",
-     "title": "Les Misérables",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305437",
-     "title": "Karma",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306685",
-     "title": "Le Fantôme de l'Opéra",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306685-le-fantome-de-l-opera/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310315",
-     "title": "Moulin",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11308413",
-     "title": "Un bon patron",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11308413-un-bon-patron/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11303119",
-     "title": "L'Affaire Marie-Claire",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11303119-l-affaire-marie-claire-ce-qu-on-a-pense-du-film-sur-gisele-halimi-avec-charlotte-gainsbourg/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2493717",
-     "title": "Hunger Games 5",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2493717-hunger-games-5-date-casting-teaser-photos-le-film-se-devoile/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309177",
-     "title": "Scrooge",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11307641",
-     "title": "Carlo Acutis, un saint pour notre temps",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11307641-carlo-acutis-un-saint-pour-notre-temps/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10637222",
-     "title": "La Bataille de Gaulle : J'écris ton nom",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10637222-la-bataille-de-gaulle-j-ecris-ton-nom-pourquoi-le-film-sort-il-un-vendredi/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-2": {
-   "name": "mk2 Quai-de-Seine",
-   "city": "Paris",
-   "brand": "MK2",
-   "address": "14 quai de la Seine, 75019 Paris",
-   "lat": 48.885,
-   "lng": 2.3715,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "10916627",
-     "title": "Le Corset",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916645",
-     "title": "Minotaure",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310315",
-     "title": "Moulin",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11303119",
-     "title": "L'Affaire Marie-Claire",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11303119-l-affaire-marie-claire-ce-qu-on-a-pense-du-film-sur-gisele-halimi-avec-charlotte-gainsbourg/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306141",
-     "title": "Quelques mots d'amour",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306141-quelques-mots-d-amour/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11299497",
-     "title": "La Gradiva",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306679",
-     "title": "Hope",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306679-hope/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309169",
-     "title": "Il faut brûler Maman",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309169-il-faut-bruler-maman/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-62": {
-   "name": "UGC Odéon",
-   "city": "Paris",
-   "brand": "UGC",
-   "address": "124 boulevard Saint-Germain, 75006 Paris",
-   "lat": 48.8523,
-   "lng": 2.3398,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "11310315",
-     "title": "Moulin",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306141",
-     "title": "Quelques mots d'amour",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306141-quelques-mots-d-amour/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310323",
-     "title": "Wild Horse Nine",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310323-wild-horse-nine/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306679",
-     "title": "Hope",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306679-hope/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310319",
-     "title": "Club Kid",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310319-club-kid/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-81": {
-   "name": "mk2 Nation",
-   "city": "Paris",
-   "brand": "MK2",
-   "address": "133 boulevard Diderot, 75012 Paris",
-   "lat": 48.8482,
-   "lng": 2.3931,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "11304007",
-     "title": "Les Misérables",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916649",
-     "title": "Notre salut",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310315",
-     "title": "Moulin",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11303119",
-     "title": "L'Affaire Marie-Claire",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11303119-l-affaire-marie-claire-ce-qu-on-a-pense-du-film-sur-gisele-halimi-avec-charlotte-gainsbourg/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310323",
-     "title": "Wild Horse Nine",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310323-wild-horse-nine/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310317",
-     "title": "Ma toute petite école",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310317-ma-toute-petite-ecole/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11308401",
-     "title": "Ce qui nous mène à toi",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11308401-ce-qui-nous-mene-a-toi/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-9": {
-   "name": "Les Cinq Caumartin",
-   "city": "Paris",
-   "brand": "",
-   "address": "101 rue Saint-Lazare, 75009 Paris",
-   "lat": 48.8756,
-   "lng": 2.3279,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "10916627",
-     "title": "Le Corset",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916649",
-     "title": "Notre salut",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310315",
-     "title": "Moulin",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11303119",
-     "title": "L'Affaire Marie-Claire",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11303119-l-affaire-marie-claire-ce-qu-on-a-pense-du-film-sur-gisele-halimi-avec-charlotte-gainsbourg/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306141",
-     "title": "Quelques mots d'amour",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306141-quelques-mots-d-amour/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310323",
-     "title": "Wild Horse Nine",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310323-wild-horse-nine/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-61": {
-   "name": "UGC Montparnasse",
-   "city": "Paris",
-   "brand": "UGC",
-   "address": "83 boulevard du Montparnasse, 75006 Paris",
-   "lat": 48.8435,
-   "lng": 2.3257,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "11304007",
-     "title": "Les Misérables",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11299499",
-     "title": "Ducobu et le fantôme de Saint-Potache",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299499-ducobu-et-le-fantome-de-saint-potache/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305437",
-     "title": "Karma",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11236542",
-     "title": "L'île des souvenirs",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11236542-l-ile-des-souvenirs/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306685",
-     "title": "Le Fantôme de l'Opéra",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306685-le-fantome-de-l-opera/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11308413",
-     "title": "Un bon patron",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11308413-un-bon-patron/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309177",
-     "title": "Scrooge",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310323",
-     "title": "Wild Horse Nine",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310323-wild-horse-nine/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306679",
-     "title": "Hope",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306679-hope/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10637222",
-     "title": "La Bataille de Gaulle : J'écris ton nom",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10637222-la-bataille-de-gaulle-j-ecris-ton-nom-pourquoi-le-film-sort-il-un-vendredi/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10435888",
-     "title": "La Bataille De Gaulle : L'âge de fer",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10435888-la-bataille-de-gaulle-l-age-de-fer-faut-il-voir-le-blockbuster-historique-a-la-francaise-notre-avis-tranche/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310311",
-     "title": "Carmen (The Royal Opera)",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310311-carmen-the-royal-opera/",
-     "status": "now_showing"
-    }
-   ]
-  },
   "linternaute-4386": {
    "name": "Cinéma 7 Batignolles",
    "city": "Paris",
@@ -2987,6 +2608,374 @@
      "language": "VO",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11305441-wicker/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-81": {
+   "name": "mk2 Nation",
+   "city": "Paris",
+   "brand": "MK2",
+   "address": "133 boulevard Diderot, 75012 Paris",
+   "lat": 48.8482,
+   "lng": 2.3931,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "11304007",
+     "title": "Les Misérables",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916649",
+     "title": "Notre salut",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310315",
+     "title": "Moulin",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11303119",
+     "title": "L'Affaire Marie-Claire",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303119-l-affaire-marie-claire-ce-qu-on-a-pense-du-film-sur-gisele-halimi-avec-charlotte-gainsbourg/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310323",
+     "title": "Wild Horse Nine",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310323-wild-horse-nine/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310317",
+     "title": "Ma toute petite école",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310317-ma-toute-petite-ecole/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11308401",
+     "title": "Ce qui nous mène à toi",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11308401-ce-qui-nous-mene-a-toi-un-film-bouleversant-sur-le-parcours-de-la-pma-notre-critique/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-61": {
+   "name": "UGC Montparnasse",
+   "city": "Paris",
+   "brand": "UGC",
+   "address": "83 boulevard du Montparnasse, 75006 Paris",
+   "lat": 48.8435,
+   "lng": 2.3257,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "11304007",
+     "title": "Les Misérables",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11299499",
+     "title": "Ducobu et le fantôme de Saint-Potache",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299499-ducobu-et-le-fantome-de-saint-potache/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305437",
+     "title": "Karma",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11236542",
+     "title": "L'île des souvenirs",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11236542-l-ile-des-souvenirs/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306685",
+     "title": "Le Fantôme de l'Opéra",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306685-le-fantome-de-l-opera/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11308413",
+     "title": "Un bon patron",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11308413-un-bon-patron/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11309177",
+     "title": "Scrooge",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310323",
+     "title": "Wild Horse Nine",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310323-wild-horse-nine/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306679",
+     "title": "Hope",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306679-hope/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10637222",
+     "title": "La Bataille de Gaulle : J'écris ton nom",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10637222-la-bataille-de-gaulle-j-ecris-ton-nom-pourquoi-le-film-sort-il-un-vendredi/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10435888",
+     "title": "La Bataille De Gaulle : L'âge de fer",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10435888-la-bataille-de-gaulle-l-age-de-fer-faut-il-voir-le-blockbuster-historique-a-la-francaise-notre-avis-tranche/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310311",
+     "title": "Carmen (The Royal Opera)",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310311-carmen-the-royal-opera/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-2": {
+   "name": "mk2 Quai-de-Seine",
+   "city": "Paris",
+   "brand": "MK2",
+   "address": "14 quai de la Seine, 75019 Paris",
+   "lat": 48.885,
+   "lng": 2.3715,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "10916627",
+     "title": "Le Corset",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916645",
+     "title": "Minotaure",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310315",
+     "title": "Moulin",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11303119",
+     "title": "L'Affaire Marie-Claire",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303119-l-affaire-marie-claire-ce-qu-on-a-pense-du-film-sur-gisele-halimi-avec-charlotte-gainsbourg/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306141",
+     "title": "Quelques mots d'amour",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306141-quelques-mots-d-amour/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11299497",
+     "title": "La Gradiva",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306679",
+     "title": "Hope",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306679-hope/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11309169",
+     "title": "Il faut brûler Maman",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309169-il-faut-bruler-maman/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-29": {
+   "name": "mk2 Beaubourg",
+   "city": "Paris",
+   "brand": "MK2",
+   "address": "50 rue Rambuteau, 75003 Paris",
+   "lat": 48.8616,
+   "lng": 2.3524,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "10916649",
+     "title": "Notre salut",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916645",
+     "title": "Minotaure",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11248132",
+     "title": "Garance",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306141",
+     "title": "Quelques mots d'amour",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306141-quelques-mots-d-amour/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11299497",
+     "title": "La Gradiva",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310323",
+     "title": "Wild Horse Nine",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310323-wild-horse-nine/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310319",
+     "title": "Club Kid",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310319-club-kid/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11304825",
+     "title": "Irish Travellers",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304825-irish-travellers/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305451",
+     "title": "Safe (version restaurée)",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305451-safe-version-restauree/",
      "status": "now_showing"
     }
    ]
@@ -3166,6 +3155,192 @@
     }
    ]
   },
+  "linternaute-62": {
+   "name": "UGC Odéon",
+   "city": "Paris",
+   "brand": "UGC",
+   "address": "124 boulevard Saint-Germain, 75006 Paris",
+   "lat": 48.8523,
+   "lng": 2.3398,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "11310315",
+     "title": "Moulin",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306141",
+     "title": "Quelques mots d'amour",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306141-quelques-mots-d-amour/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310323",
+     "title": "Wild Horse Nine",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310323-wild-horse-nine/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306679",
+     "title": "Hope",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306679-hope/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310319",
+     "title": "Club Kid",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310319-club-kid/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-9": {
+   "name": "Les Cinq Caumartin",
+   "city": "Paris",
+   "brand": "",
+   "address": "101 rue Saint-Lazare, 75009 Paris",
+   "lat": 48.8756,
+   "lng": 2.3279,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "10916627",
+     "title": "Le Corset",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916649",
+     "title": "Notre salut",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310315",
+     "title": "Moulin",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11303119",
+     "title": "L'Affaire Marie-Claire",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303119-l-affaire-marie-claire-ce-qu-on-a-pense-du-film-sur-gisele-halimi-avec-charlotte-gainsbourg/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306141",
+     "title": "Quelques mots d'amour",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306141-quelques-mots-d-amour/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310323",
+     "title": "Wild Horse Nine",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310323-wild-horse-nine/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-56": {
+   "name": "mk2 Odéon - (côté St Germain)",
+   "city": "Paris",
+   "brand": "MK2",
+   "address": "113 boulevard Saint-Germain, 75006 Paris",
+   "lat": 48.8524,
+   "lng": 2.3383,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "11304007",
+     "title": "Les Misérables",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916627",
+     "title": "Le Corset",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310315",
+     "title": "Moulin",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310323",
+     "title": "Wild Horse Nine",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310323-wild-horse-nine/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306679",
+     "title": "Hope",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306679-hope/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310319",
+     "title": "Club Kid",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310319-club-kid/",
+     "status": "now_showing"
+    }
+   ]
+  },
   "linternaute-36": {
    "name": "Pathé BNP Paribas",
    "city": "Paris",
@@ -3314,6 +3489,302 @@
     }
    ]
   },
+  "linternaute-19": {
+   "name": "Pathé Les Fauvettes",
+   "city": "Paris",
+   "brand": "Pathé",
+   "address": "58 avenue des Gobelins, 75013 Paris",
+   "lat": 48.8336,
+   "lng": 2.3538,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "11304007",
+     "title": "Les Misérables",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305437",
+     "title": "Karma",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916649",
+     "title": "Notre salut",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306685",
+     "title": "Le Fantôme de l'Opéra",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306685-le-fantome-de-l-opera/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11309613",
+     "title": "Le Roi du game",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309613-le-roi-du-game/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1965231",
+     "title": "Hunger Games : l'embrasement",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/1965231-hunger-games-l-embrasement/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11083547",
+     "title": "Lucy Lost",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11083547-lucy-lost/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11307653",
+     "title": "Godzilla Minus Zero",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11307653-godzilla-minus-zero/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2205672",
+     "title": "Forrest Gump",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2205672-forrest-gump-une-erreur-se-cache-dans-le-film-que-presque-personne-n-a-remarque/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-80": {
+   "name": "mk2 Bastille - côté Beaumarchais",
+   "city": "Paris",
+   "brand": "MK2",
+   "address": "4 boulevard Beaumarchais, 75011 Paris",
+   "lat": 48.8546,
+   "lng": 2.3691,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "10916627",
+     "title": "Le Corset",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310315",
+     "title": "Moulin",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11248132",
+     "title": "Garance",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306141",
+     "title": "Quelques mots d'amour",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306141-quelques-mots-d-amour/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310323",
+     "title": "Wild Horse Nine",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310323-wild-horse-nine/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-4932": {
+   "name": "Pathé Montparnos",
+   "city": "Paris",
+   "brand": "Pathé",
+   "address": "16 Rue d'Odessa, 75017 Paris",
+   "lat": 48.8421,
+   "lng": 2.3245,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "10916645",
+     "title": "Minotaure",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11308413",
+     "title": "Un bon patron",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11308413-un-bon-patron/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11303119",
+     "title": "L'Affaire Marie-Claire",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303119-l-affaire-marie-claire-ce-qu-on-a-pense-du-film-sur-gisele-halimi-avec-charlotte-gainsbourg/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11309613",
+     "title": "Le Roi du game",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309613-le-roi-du-game/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11307641",
+     "title": "Carlo Acutis, un saint pour notre temps",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11307641-carlo-acutis-un-saint-pour-notre-temps/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11248128",
+     "title": "Primetime",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248128-primetime/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2104739",
+     "title": "Obsession",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2104739-obsession/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10787511",
+     "title": "De la Comédie-Française",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10787511-de-la-comedie-francaise-voici-ce-qu-on-a-pense-du-film-de-bertrand-usclat-et-martin-darondeau/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-52": {
+   "name": "mk2 Odéon - (côté St-Michel)",
+   "city": "Paris",
+   "brand": "MK2",
+   "address": "7 rue Hautefeuille, 75006 Paris",
+   "lat": 48.8522,
+   "lng": 2.3429,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "11305437",
+     "title": "Karma",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11303119",
+     "title": "L'Affaire Marie-Claire",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303119-l-affaire-marie-claire-ce-qu-on-a-pense-du-film-sur-gisele-halimi-avec-charlotte-gainsbourg/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306141",
+     "title": "Quelques mots d'amour",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306141-quelques-mots-d-amour/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11299497",
+     "title": "La Gradiva",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306687",
+     "title": "Sanguine",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306687-sanguine/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11248128",
+     "title": "Primetime",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248128-primetime/",
+     "status": "now_showing"
+    }
+   ]
+  },
   "linternaute-18": {
    "name": "Cinéma le Brady",
    "city": "Paris",
@@ -3451,76 +3922,49 @@
     }
    ]
   },
-  "linternaute-19": {
-   "name": "Pathé Les Fauvettes",
+  "linternaute-38": {
+   "name": "Le Grand Rex",
    "city": "Paris",
-   "brand": "Pathé",
-   "address": "58 avenue des Gobelins, 75013 Paris",
-   "lat": 48.8336,
-   "lng": 2.3538,
+   "brand": "",
+   "address": "1 boulevard Poissonnière, 75002 Paris",
+   "lat": 48.8706,
+   "lng": 2.3477,
    "fetchedAt": "2026-11-10",
    "films": [
     {
-     "slug": "11304007",
-     "title": "Les Misérables",
+     "slug": "11304003",
+     "title": "Malfaisante",
      "rating": "",
-     "language": "VF",
+     "language": "VF/VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304003-malfaisante/",
      "status": "now_showing"
     },
     {
-     "slug": "11305437",
-     "title": "Karma",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916649",
-     "title": "Notre salut",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306685",
-     "title": "Le Fantôme de l'Opéra",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306685-le-fantome-de-l-opera/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309613",
-     "title": "Le Roi du game",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309613-le-roi-du-game/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "1965231",
-     "title": "Hunger Games : l'embrasement",
+     "slug": "11285020",
+     "title": "Digger",
      "rating": "",
      "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/1965231-hunger-games-l-embrasement/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285020-digger/",
      "status": "now_showing"
     },
     {
-     "slug": "11083547",
-     "title": "Lucy Lost",
+     "slug": "11305435",
+     "title": "Clayface",
+     "rating": "",
+     "language": "VF/VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305435-clayface-le-film-sur-le-mechant-de-batman-contient-des-scenes-tres-derangeantes-on-n-a-pas-pu-tout-regarder/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11285026",
+     "title": "Verity",
      "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11083547-lucy-lost/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285026-verity/",
      "status": "now_showing"
     },
     {
@@ -3533,88 +3977,23 @@
      "status": "now_showing"
     },
     {
-     "slug": "2205672",
-     "title": "Forrest Gump",
+     "slug": "7335330",
+     "title": "L'Odyssée",
      "rating": "",
      "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2205672-forrest-gump-une-erreur-se-cache-dans-le-film-que-presque-personne-n-a-remarque/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/7335330-l-odyssee-chef-d-oeuvre-epique-experience-brute-les-critiques-sont-unanimes/",
      "status": "now_showing"
     }
    ]
   },
-  "linternaute-52": {
-   "name": "mk2 Odéon - (côté St-Michel)",
+  "linternaute-76": {
+   "name": "UGC Opéra",
    "city": "Paris",
-   "brand": "MK2",
-   "address": "7 rue Hautefeuille, 75006 Paris",
-   "lat": 48.8522,
-   "lng": 2.3429,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "11305437",
-     "title": "Karma",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11303119",
-     "title": "L'Affaire Marie-Claire",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11303119-l-affaire-marie-claire-ce-qu-on-a-pense-du-film-sur-gisele-halimi-avec-charlotte-gainsbourg/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306141",
-     "title": "Quelques mots d'amour",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306141-quelques-mots-d-amour/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11299497",
-     "title": "La Gradiva",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306687",
-     "title": "Sanguine",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306687-sanguine/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11248128",
-     "title": "Primetime",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248128-primetime/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-56": {
-   "name": "mk2 Odéon - (côté St Germain)",
-   "city": "Paris",
-   "brand": "MK2",
-   "address": "113 boulevard Saint-Germain, 75006 Paris",
-   "lat": 48.8524,
-   "lng": 2.3383,
+   "brand": "UGC",
+   "address": "32 boulevard des Italiens, 75009 Paris",
+   "lat": 48.8713,
+   "lng": 2.3352,
    "fetchedAt": "2026-11-10",
    "films": [
     {
@@ -3627,12 +4006,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "10916627",
-     "title": "Le Corset",
+     "slug": "11306685",
+     "title": "Le Fantôme de l'Opéra",
      "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306685-le-fantome-de-l-opera/",
      "status": "now_showing"
     },
     {
@@ -3642,165 +4021,6 @@
      "language": "VF",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310323",
-     "title": "Wild Horse Nine",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310323-wild-horse-nine/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306679",
-     "title": "Hope",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306679-hope/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310319",
-     "title": "Club Kid",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310319-club-kid/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-80": {
-   "name": "mk2 Bastille - côté Beaumarchais",
-   "city": "Paris",
-   "brand": "MK2",
-   "address": "4 boulevard Beaumarchais, 75011 Paris",
-   "lat": 48.8546,
-   "lng": 2.3691,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "10916627",
-     "title": "Le Corset",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310315",
-     "title": "Moulin",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11248132",
-     "title": "Garance",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306141",
-     "title": "Quelques mots d'amour",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306141-quelques-mots-d-amour/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310323",
-     "title": "Wild Horse Nine",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310323-wild-horse-nine/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-1091": {
-   "name": "mk2 Bibliothèque",
-   "city": "Paris",
-   "brand": "MK2",
-   "address": "128 avenue de France, 75013 Paris",
-   "lat": 48.8317,
-   "lng": 2.376,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "10916627",
-     "title": "Le Corset",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916649",
-     "title": "Notre salut",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306141",
-     "title": "Quelques mots d'amour",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306141-quelques-mots-d-amour/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11299497",
-     "title": "La Gradiva",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306693",
-     "title": "Papa où t'es ?",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306693-papa-ou-t-es/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-4932": {
-   "name": "Pathé Montparnos",
-   "city": "Paris",
-   "brand": "Pathé",
-   "address": "16 Rue d'Odessa, 75017 Paris",
-   "lat": 48.8421,
-   "lng": 2.3245,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "10916645",
-     "title": "Minotaure",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
      "status": "now_showing"
     },
     {
@@ -3813,6 +4033,62 @@
      "status": "now_showing"
     },
     {
+     "slug": "11285026",
+     "title": "Verity",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285026-verity/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11248126",
+     "title": "Raisons et sentiments",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248126-raisons-et-sentiments/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-73": {
+   "name": "Majestic Passy",
+   "city": "Paris",
+   "brand": "",
+   "address": "18 rue de Passy, 75016 Paris",
+   "lat": 48.8582,
+   "lng": 2.2823,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "11304007",
+     "title": "Les Misérables",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305437",
+     "title": "Karma",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310315",
+     "title": "Moulin",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
+     "status": "now_showing"
+    },
+    {
      "slug": "11303119",
      "title": "L'Affaire Marie-Claire",
      "rating": "",
@@ -3822,48 +4098,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "11309613",
-     "title": "Le Roi du game",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309613-le-roi-du-game/",
-     "status": "now_showing"
-    },
-    {
      "slug": "11307641",
      "title": "Carlo Acutis, un saint pour notre temps",
      "rating": "",
      "language": "VO",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11307641-carlo-acutis-un-saint-pour-notre-temps/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11248128",
-     "title": "Primetime",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248128-primetime/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2104739",
-     "title": "Obsession",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2104739-obsession/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10787511",
-     "title": "De la Comédie-Française",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10787511-de-la-comedie-francaise-voici-ce-qu-on-a-pense-du-film-de-bertrand-usclat-et-martin-darondeau/",
      "status": "now_showing"
     }
    ]
@@ -3929,127 +4169,6 @@
      "language": "VO",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/2320861-nadja/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-73": {
-   "name": "Majestic Passy",
-   "city": "Paris",
-   "brand": "",
-   "address": "18 rue de Passy, 75016 Paris",
-   "lat": 48.8582,
-   "lng": 2.2823,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "11304007",
-     "title": "Les Misérables",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305437",
-     "title": "Karma",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310315",
-     "title": "Moulin",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11303119",
-     "title": "L'Affaire Marie-Claire",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11303119-l-affaire-marie-claire-ce-qu-on-a-pense-du-film-sur-gisele-halimi-avec-charlotte-gainsbourg/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11307641",
-     "title": "Carlo Acutis, un saint pour notre temps",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11307641-carlo-acutis-un-saint-pour-notre-temps/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-38": {
-   "name": "Le Grand Rex",
-   "city": "Paris",
-   "brand": "",
-   "address": "1 boulevard Poissonnière, 75002 Paris",
-   "lat": 48.8706,
-   "lng": 2.3477,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "11304003",
-     "title": "Malfaisante",
-     "rating": "",
-     "language": "VF/VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304003-malfaisante/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285020",
-     "title": "Digger",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285020-digger/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305435",
-     "title": "Clayface",
-     "rating": "",
-     "language": "VF/VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305435-clayface-le-film-sur-le-mechant-de-batman-contient-des-scenes-tres-derangeantes-on-n-a-pas-pu-tout-regarder/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285026",
-     "title": "Verity",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285026-verity/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11307653",
-     "title": "Godzilla Minus Zero",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11307653-godzilla-minus-zero/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "7335330",
-     "title": "L'Odyssée",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/7335330-l-odyssee-chef-d-oeuvre-epique-experience-brute-les-critiques-sont-unanimes/",
      "status": "now_showing"
     }
    ]
@@ -4164,6 +4283,107 @@
     }
    ]
   },
+  "linternaute-57": {
+   "name": "mk2 Parnasse",
+   "city": "Paris",
+   "brand": "MK2",
+   "address": "11 rue Jules-Chaplain, 75006 Paris",
+   "lat": 48.8428,
+   "lng": 2.3306,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "11248132",
+     "title": "Garance",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11285020",
+     "title": "Digger",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285020-digger/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11301819",
+     "title": "The Social Reckoning",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11301819-the-social-reckoning-est-ce-aussi-bien-que-the-social-network-l-avis-des-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916637",
+     "title": "Les Eléphants dans la brume",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916637-les-elephants-dans-la-brume/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11198196",
+     "title": "Si tu penses bien",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11198196-si-tu-penses-bien/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "7335330",
+     "title": "L'Odyssée",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/7335330-l-odyssee-chef-d-oeuvre-epique-experience-brute-les-critiques-sont-unanimes/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916643",
+     "title": "Fjord",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916643-fjord/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11198190",
+     "title": "L'invitation",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11198190-l-invitation/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11146970",
+     "title": "Pressure",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11146970-pressure/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2631357",
+     "title": "Coupez !",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2631357-coupez/",
+     "status": "now_showing"
+    }
+   ]
+  },
   "linternaute-54": {
    "name": "Les Trois Luxembourg",
    "city": "Paris",
@@ -4272,89 +4492,6 @@
      "language": "VO",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11310325-l-arabe/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2190916",
-     "title": "Les Diables",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2190916-les-diables/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-41": {
-   "name": "Grand Action",
-   "city": "Paris",
-   "brand": "",
-   "address": "5 rue des Ecoles, 75005 Paris",
-   "lat": 48.8475,
-   "lng": 2.3521,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "10916649",
-     "title": "Notre salut",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11299493",
-     "title": "Ton animal maternel",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299493-ton-animal-maternel/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11198190",
-     "title": "L'invitation",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11198190-l-invitation/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11248120",
-     "title": "Ecrire la vie : Annie Ernaux racontée par des lycéennes et des lycéens",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248120-ecrire-la-vie-annie-ernaux-racontee-par-des-lyceennes-et-des-lyceens/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10573778",
-     "title": "Hair, Paper, Water...",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10573778-hair-paper-water/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305453",
-     "title": "Peking Opera Blues (version restaurée)",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305453-peking-opera-blues-version-restauree/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2204966",
-     "title": "Alien, le huitième passager",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2204966-alien-le-huitieme-passager/",
      "status": "now_showing"
     },
     {
@@ -4487,71 +4624,6 @@
     }
    ]
   },
-  "linternaute-76": {
-   "name": "UGC Opéra",
-   "city": "Paris",
-   "brand": "UGC",
-   "address": "32 boulevard des Italiens, 75009 Paris",
-   "lat": 48.8713,
-   "lng": 2.3352,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "11304007",
-     "title": "Les Misérables",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306685",
-     "title": "Le Fantôme de l'Opéra",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306685-le-fantome-de-l-opera/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310315",
-     "title": "Moulin",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11308413",
-     "title": "Un bon patron",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11308413-un-bon-patron/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285026",
-     "title": "Verity",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285026-verity/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11248126",
-     "title": "Raisons et sentiments",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248126-raisons-et-sentiments/",
-     "status": "now_showing"
-    }
-   ]
-  },
   "linternaute-3": {
    "name": "Le Cinéma des cinéastes",
    "city": "Paris",
@@ -4617,107 +4689,6 @@
     }
    ]
   },
-  "linternaute-57": {
-   "name": "mk2 Parnasse",
-   "city": "Paris",
-   "brand": "MK2",
-   "address": "11 rue Jules-Chaplain, 75006 Paris",
-   "lat": 48.8428,
-   "lng": 2.3306,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "11248132",
-     "title": "Garance",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285020",
-     "title": "Digger",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285020-digger/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11301819",
-     "title": "The Social Reckoning",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11301819-the-social-reckoning-est-ce-aussi-bien-que-the-social-network-l-avis-des-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916637",
-     "title": "Les Eléphants dans la brume",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916637-les-elephants-dans-la-brume/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11198196",
-     "title": "Si tu penses bien",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11198196-si-tu-penses-bien/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "7335330",
-     "title": "L'Odyssée",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/7335330-l-odyssee-chef-d-oeuvre-epique-experience-brute-les-critiques-sont-unanimes/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916643",
-     "title": "Fjord",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916643-fjord/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11198190",
-     "title": "L'invitation",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11198190-l-invitation/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11146970",
-     "title": "Pressure",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11146970-pressure/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2631357",
-     "title": "Coupez !",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2631357-coupez/",
-     "status": "now_showing"
-    }
-   ]
-  },
   "linternaute-65": {
    "name": "le Lincoln",
    "city": "Paris",
@@ -4779,6 +4750,275 @@
      "language": "VF",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11307655-kwibuka-se-souvenir/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2190916",
+     "title": "Les Diables",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2190916-les-diables/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-2560": {
+   "name": "Le Louxor",
+   "city": "Paris",
+   "brand": "",
+   "address": "170 boulevard de Magenta, 75010 Paris",
+   "lat": 48.8835,
+   "lng": 2.3498,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "11306141",
+     "title": "Quelques mots d'amour",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306141-quelques-mots-d-amour/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306679",
+     "title": "Hope",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306679-hope/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310319",
+     "title": "Club Kid",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310319-club-kid/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2004611",
+     "title": "Metropolis (version restaurée 2010)",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2004611-metropolis-version-restauree-2010/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-4020": {
+   "name": "mk2 Bastille - côté Faubourg St Antoine",
+   "city": "Paris",
+   "brand": "MK2",
+   "address": "5 rue du faubourg St Antoine, 75011 Paris",
+   "lat": 48.8531,
+   "lng": 2.3708,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "10916645",
+     "title": "Minotaure",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11299497",
+     "title": "La Gradiva",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2190916",
+     "title": "Les Diables",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2190916-les-diables/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-16": {
+   "name": "Chaplin Saint-Lambert",
+   "city": "Paris",
+   "brand": "",
+   "address": "6 rue Peclet, 75015 Paris",
+   "lat": 48.8431,
+   "lng": 2.2985,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "11280744",
+     "title": "Ni vue, ni connue",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11280744-ni-vue-ni-connue/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11248132",
+     "title": "Garance",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11285028",
+     "title": "Mémoire de fille",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285028-memoire-de-fille/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11248126",
+     "title": "Raisons et sentiments",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248126-raisons-et-sentiments/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916643",
+     "title": "Fjord",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916643-fjord/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10787511",
+     "title": "De la Comédie-Française",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10787511-de-la-comedie-francaise-voici-ce-qu-on-a-pense-du-film-de-bertrand-usclat-et-martin-darondeau/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2004611",
+     "title": "Metropolis (version restaurée 2010)",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2004611-metropolis-version-restauree-2010/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2065753",
+     "title": "Fat City",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2065753-fat-city/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2141448",
+     "title": "Tchao pantin",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2141448-tchao-pantin/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2064319",
+     "title": "Sous les pieds des femmes",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2064319-sous-les-pieds-des-femmes/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-41": {
+   "name": "Grand Action",
+   "city": "Paris",
+   "brand": "",
+   "address": "5 rue des Ecoles, 75005 Paris",
+   "lat": 48.8475,
+   "lng": 2.3521,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "10916649",
+     "title": "Notre salut",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11299493",
+     "title": "Ton animal maternel",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299493-ton-animal-maternel/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11198190",
+     "title": "L'invitation",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11198190-l-invitation/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11248120",
+     "title": "Ecrire la vie : Annie Ernaux racontée par des lycéennes et des lycéens",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248120-ecrire-la-vie-annie-ernaux-racontee-par-des-lyceennes-et-des-lyceens/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10573778",
+     "title": "Hair, Paper, Water...",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10573778-hair-paper-water/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305453",
+     "title": "Peking Opera Blues (version restaurée)",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305453-peking-opera-blues-version-restauree/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2204966",
+     "title": "Alien, le huitième passager",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2204966-alien-le-huitieme-passager/",
      "status": "now_showing"
     },
     {
@@ -4893,91 +5133,6 @@
     }
    ]
   },
-  "linternaute-2560": {
-   "name": "Le Louxor",
-   "city": "Paris",
-   "brand": "",
-   "address": "170 boulevard de Magenta, 75010 Paris",
-   "lat": 48.8835,
-   "lng": 2.3498,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "11306141",
-     "title": "Quelques mots d'amour",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306141-quelques-mots-d-amour/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306679",
-     "title": "Hope",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306679-hope/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310319",
-     "title": "Club Kid",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310319-club-kid/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2004611",
-     "title": "Metropolis (version restaurée 2010)",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2004611-metropolis-version-restauree-2010/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-4020": {
-   "name": "mk2 Bastille - côté Faubourg St Antoine",
-   "city": "Paris",
-   "brand": "MK2",
-   "address": "5 rue du faubourg St Antoine, 75011 Paris",
-   "lat": 48.8531,
-   "lng": 2.3708,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "10916645",
-     "title": "Minotaure",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11299497",
-     "title": "La Gradiva",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2190916",
-     "title": "Les Diables",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2190916-les-diables/",
-     "status": "now_showing"
-    }
-   ]
-  },
   "linternaute-7": {
    "name": "Le Balzac",
    "city": "Paris",
@@ -5025,103 +5180,132 @@
     }
    ]
   },
-  "linternaute-16": {
-   "name": "Chaplin Saint-Lambert",
+  "linternaute-10": {
+   "name": "Luminor Hôtel de Ville",
    "city": "Paris",
    "brand": "",
-   "address": "6 rue Peclet, 75015 Paris",
-   "lat": 48.8431,
-   "lng": 2.2985,
+   "address": "20 rue du Temple, 75004 Paris",
+   "lat": 48.8587,
+   "lng": 2.3536,
    "fetchedAt": "2026-11-10",
    "films": [
     {
-     "slug": "11280744",
-     "title": "Ni vue, ni connue",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11280744-ni-vue-ni-connue/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11248132",
-     "title": "Garance",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285028",
-     "title": "Mémoire de fille",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285028-memoire-de-fille/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11248126",
-     "title": "Raisons et sentiments",
+     "slug": "10916637",
+     "title": "Les Eléphants dans la brume",
      "rating": "",
      "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248126-raisons-et-sentiments/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916637-les-elephants-dans-la-brume/",
      "status": "now_showing"
     },
     {
-     "slug": "10916643",
-     "title": "Fjord",
+     "slug": "11310325",
+     "title": "L'Arabe",
      "rating": "",
      "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916643-fjord/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310325-l-arabe/",
      "status": "now_showing"
     },
     {
-     "slug": "10787511",
-     "title": "De la Comédie-Française",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10787511-de-la-comedie-francaise-voici-ce-qu-on-a-pense-du-film-de-bertrand-usclat-et-martin-darondeau/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2004611",
-     "title": "Metropolis (version restaurée 2010)",
+     "slug": "11306133",
+     "title": "La Tentazione",
      "rating": "",
      "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2004611-metropolis-version-restauree-2010/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306133-la-tentazione/",
      "status": "now_showing"
     },
     {
-     "slug": "2065753",
-     "title": "Fat City",
+     "slug": "11310313",
+     "title": "Nos âmes libres",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310313-nos-ames-libres/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2025861",
+     "title": "Octobre à Paris",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2025861-octobre-a-paris/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-71": {
+   "name": "Espace Saint-Michel",
+   "city": "Paris",
+   "brand": "",
+   "address": "7 place Saint-Michel, 75005 Paris",
+   "lat": 48.8531,
+   "lng": 2.3442,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "11248136",
+     "title": "Fini de rire ! L'humour politique au garde-à-vous ?",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248136-fini-de-rire-l-humour-politique-au-garde-a-vous/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310325",
+     "title": "L'Arabe",
      "rating": "",
      "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2065753-fat-city/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310325-l-arabe/",
      "status": "now_showing"
     },
     {
-     "slug": "2141448",
-     "title": "Tchao pantin",
+     "slug": "11306133",
+     "title": "La Tentazione",
      "rating": "",
-     "language": "VF",
+     "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2141448-tchao-pantin/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306133-la-tentazione/",
      "status": "now_showing"
     },
     {
-     "slug": "2064319",
-     "title": "Sous les pieds des femmes",
+     "slug": "8322421",
+     "title": "Les Recommencements",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/8322421-les-recommencements/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306681",
+     "title": "Supplique à nos fantômes",
      "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2064319-sous-les-pieds-des-femmes/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306681-supplique-a-nos-fantomes/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2204422",
+     "title": "Certains l'aiment chaud",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2204422-certains-l-aiment-chaud/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11311795",
+     "title": "Izolyatsia",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11311795-izolyatsia/",
      "status": "now_showing"
     }
    ]
@@ -5214,80 +5398,6 @@
      "language": "VO",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/2161870-la-femme-et-le-pantin/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-71": {
-   "name": "Espace Saint-Michel",
-   "city": "Paris",
-   "brand": "",
-   "address": "7 place Saint-Michel, 75005 Paris",
-   "lat": 48.8531,
-   "lng": 2.3442,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "11248136",
-     "title": "Fini de rire ! L'humour politique au garde-à-vous ?",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248136-fini-de-rire-l-humour-politique-au-garde-a-vous/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310325",
-     "title": "L'Arabe",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310325-l-arabe/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306133",
-     "title": "La Tentazione",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306133-la-tentazione/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "8322421",
-     "title": "Les Recommencements",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/8322421-les-recommencements/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306681",
-     "title": "Supplique à nos fantômes",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306681-supplique-a-nos-fantomes/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2204422",
-     "title": "Certains l'aiment chaud",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2204422-certains-l-aiment-chaud/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11311795",
-     "title": "Izolyatsia",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11311795-izolyatsia/",
      "status": "now_showing"
     }
    ]
@@ -5413,6 +5523,44 @@
     }
    ]
   },
+  "linternaute-79": {
+   "name": "Majestic Bastille",
+   "city": "Paris",
+   "brand": "",
+   "address": "4 boulevard Richard-Lenoir, 75011 Paris",
+   "lat": 48.854,
+   "lng": 2.37,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "10916649",
+     "title": "Notre salut",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310319",
+     "title": "Club Kid",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310319-club-kid/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310317",
+     "title": "Ma toute petite école",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310317-ma-toute-petite-ecole/",
+     "status": "now_showing"
+    }
+   ]
+  },
   "linternaute-63": {
    "name": "UGC Rotonde",
    "city": "Paris",
@@ -5456,201 +5604,6 @@
      "language": "VO",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11248126-raisons-et-sentiments/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-78": {
-   "name": "Archipel",
-   "city": "Paris",
-   "brand": "",
-   "address": "17 boulevard de Strasbourg, 75010 Paris",
-   "lat": 48.8705,
-   "lng": 2.3547,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "11248118",
-     "title": "Les Roches Rouges",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248118-les-roches-rouges/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11299509",
-     "title": "Low Expectations",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299509-low-expectations/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285036",
-     "title": "Le Monde à l'endroit",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285036-le-monde-a-l-endroit/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304011",
-     "title": "Le Jour de son retour",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304011-le-jour-de-son-retour/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285024",
-     "title": "Un hiver russe",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285024-un-hiver-russe/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2166596",
-     "title": "Maison de poupée",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2166596-maison-de-poupee/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11045411",
-     "title": "L'Inconnue",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11045411-l-inconnue-c-etait-le-film-le-plus-etrange-de-l-annee-a-cannes-on-n-a-pas-tout-compris/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2070847",
-     "title": "Blonde Vénus",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2070847-blonde-venus/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097117",
-     "title": "L'Impératrice rouge",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2097117-l-imperatrice-rouge/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2134046",
-     "title": "Les Naufragés de l'île de la Tortue",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2134046-les-naufrages-de-l-ile-de-la-tortue/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-79": {
-   "name": "Majestic Bastille",
-   "city": "Paris",
-   "brand": "",
-   "address": "4 boulevard Richard-Lenoir, 75011 Paris",
-   "lat": 48.854,
-   "lng": 2.37,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "10916649",
-     "title": "Notre salut",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310319",
-     "title": "Club Kid",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310319-club-kid/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310317",
-     "title": "Ma toute petite école",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310317-ma-toute-petite-ecole/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-10": {
-   "name": "Luminor Hôtel de Ville",
-   "city": "Paris",
-   "brand": "",
-   "address": "20 rue du Temple, 75004 Paris",
-   "lat": 48.8587,
-   "lng": 2.3536,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "10916637",
-     "title": "Les Eléphants dans la brume",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916637-les-elephants-dans-la-brume/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310325",
-     "title": "L'Arabe",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310325-l-arabe/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306133",
-     "title": "La Tentazione",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306133-la-tentazione/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310313",
-     "title": "Nos âmes libres",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310313-nos-ames-libres/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2025861",
-     "title": "Octobre à Paris",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2025861-octobre-a-paris/",
      "status": "now_showing"
     }
    ]
@@ -5886,6 +5839,107 @@
     }
    ]
   },
+  "linternaute-78": {
+   "name": "Archipel",
+   "city": "Paris",
+   "brand": "",
+   "address": "17 boulevard de Strasbourg, 75010 Paris",
+   "lat": 48.8705,
+   "lng": 2.3547,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "11248118",
+     "title": "Les Roches Rouges",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248118-les-roches-rouges/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11299509",
+     "title": "Low Expectations",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299509-low-expectations/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11285036",
+     "title": "Le Monde à l'endroit",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285036-le-monde-a-l-endroit/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11304011",
+     "title": "Le Jour de son retour",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304011-le-jour-de-son-retour/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11285024",
+     "title": "Un hiver russe",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285024-un-hiver-russe/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2166596",
+     "title": "Maison de poupée",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2166596-maison-de-poupee/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11045411",
+     "title": "L'Inconnue",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11045411-l-inconnue-c-etait-le-film-le-plus-etrange-de-l-annee-a-cannes-on-n-a-pas-tout-compris/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2070847",
+     "title": "Blonde Vénus",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2070847-blonde-venus/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097117",
+     "title": "L'Impératrice rouge",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2097117-l-imperatrice-rouge/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2134046",
+     "title": "Les Naufragés de l'île de la Tortue",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2134046-les-naufrages-de-l-ile-de-la-tortue/",
+     "status": "now_showing"
+    }
+   ]
+  },
   "linternaute-1166": {
    "name": "Publicis Cinémas",
    "city": "Paris",
@@ -5971,26 +6025,6 @@
     }
    ]
   },
-  "linternaute-51": {
-   "name": "Max Linder Panorama",
-   "city": "Paris",
-   "brand": "",
-   "address": "24 boulevard Poissonnière, 75009 Paris",
-   "lat": 48.8714,
-   "lng": 2.3449,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "11310315",
-     "title": "Moulin",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
-     "status": "now_showing"
-    }
-   ]
-  },
   "linternaute-86": {
    "name": "Chaplin Denfert",
    "city": "Paris",
@@ -6034,6 +6068,55 @@
      "language": "VF",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/2174138-lady-vengeance/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-51": {
+   "name": "Max Linder Panorama",
+   "city": "Paris",
+   "brand": "",
+   "address": "24 boulevard Poissonnière, 75009 Paris",
+   "lat": 48.8714,
+   "lng": 2.3449,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "11310315",
+     "title": "Moulin",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-26": {
+   "name": "Nouvel Odéon",
+   "city": "Paris",
+   "brand": "",
+   "address": "6 rue de l'Ecole-de-Médecine, 75006 Paris",
+   "lat": 48.8508,
+   "lng": 2.3418,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "10916649",
+     "title": "Notre salut",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2156114",
+     "title": "Le Fleuve sauvage",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2156114-le-fleuve-sauvage/",
      "status": "now_showing"
     }
    ]
@@ -6215,35 +6298,6 @@
      "language": "VF",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/3590437-un-prince/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-26": {
-   "name": "Nouvel Odéon",
-   "city": "Paris",
-   "brand": "",
-   "address": "6 rue de l'Ecole-de-Médecine, 75006 Paris",
-   "lat": 48.8508,
-   "lng": 2.3418,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "10916649",
-     "title": "Notre salut",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2156114",
-     "title": "Le Fleuve sauvage",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2156114-le-fleuve-sauvage/",
      "status": "now_showing"
     }
    ]
@@ -6600,7 +6654,7 @@
      "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
      "status": "now_showing"
     },
     {
@@ -6764,7 +6818,7 @@
      "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
      "status": "now_showing"
     },
     {
@@ -6810,134 +6864,6 @@
      "language": "VF",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11198196-si-tu-penses-bien/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-4890": {
-   "name": "Artplexe Canebière",
-   "city": "Marseille",
-   "brand": "",
-   "address": "125 La Canebière, 13001 Marseille",
-   "lat": 43.2988,
-   "lng": 5.3832,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "11304007",
-     "title": "Les Misérables",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305437",
-     "title": "Karma",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306685",
-     "title": "Le Fantôme de l'Opéra",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306685-le-fantome-de-l-opera/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11303119",
-     "title": "L'Affaire Marie-Claire",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11303119-l-affaire-marie-claire-ce-qu-on-a-pense-du-film-sur-gisele-halimi-avec-charlotte-gainsbourg/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11248132",
-     "title": "Garance",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285020",
-     "title": "Digger",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285020-digger/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305435",
-     "title": "Clayface",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305435-clayface-le-film-sur-le-mechant-de-batman-contient-des-scenes-tres-derangeantes-on-n-a-pas-pu-tout-regarder/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309177",
-     "title": "Scrooge",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306679",
-     "title": "Hope",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306679-hope/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306687",
-     "title": "Sanguine",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306687-sanguine/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11248128",
-     "title": "Primetime",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11248128-primetime/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916643",
-     "title": "Fjord",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916643-fjord/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2139412",
-     "title": "Nosferatu, fantôme de la nuit",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2139412-nosferatu-fantome-de-la-nuit/",
      "status": "now_showing"
     }
    ]
@@ -7194,6 +7120,134 @@
      "language": "VO",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/9797878-stand-by-me-version-restauree/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-4890": {
+   "name": "Artplexe Canebière",
+   "city": "Marseille",
+   "brand": "",
+   "address": "125 La Canebière, 13001 Marseille",
+   "lat": 43.2988,
+   "lng": 5.3832,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "11304007",
+     "title": "Les Misérables",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305437",
+     "title": "Karma",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306685",
+     "title": "Le Fantôme de l'Opéra",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306685-le-fantome-de-l-opera/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11303119",
+     "title": "L'Affaire Marie-Claire",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303119-l-affaire-marie-claire-ce-qu-on-a-pense-du-film-sur-gisele-halimi-avec-charlotte-gainsbourg/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11248132",
+     "title": "Garance",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248132-garance-faut-il-voir-le-film-avec-adele-exarchopoulos-l-avis-des-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11285020",
+     "title": "Digger",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285020-digger/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305435",
+     "title": "Clayface",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305435-clayface-le-film-sur-le-mechant-de-batman-contient-des-scenes-tres-derangeantes-on-n-a-pas-pu-tout-regarder/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11309177",
+     "title": "Scrooge",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306679",
+     "title": "Hope",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306679-hope/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306687",
+     "title": "Sanguine",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306687-sanguine/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11248128",
+     "title": "Primetime",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11248128-primetime/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916643",
+     "title": "Fjord",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916643-fjord/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2139412",
+     "title": "Nosferatu, fantôme de la nuit",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2139412-nosferatu-fantome-de-la-nuit/",
      "status": "now_showing"
     }
    ]
@@ -7655,7 +7709,7 @@
      "rating": "",
      "language": "VF/VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
      "status": "now_showing"
     },
     {
@@ -7855,7 +7909,7 @@
      "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
      "status": "now_showing"
     },
     {
@@ -8091,7 +8145,7 @@
      "rating": "",
      "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
      "status": "now_showing"
     },
     {
@@ -8228,7 +8282,7 @@
      "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
      "status": "now_showing"
     },
     {
@@ -8691,71 +8745,6 @@
     }
    ]
   },
-  "linternaute-111": {
-   "name": "Lumière Bellecour",
-   "city": "Lyon",
-   "brand": "",
-   "address": "12 rue de la Barre, 69002 Lyon",
-   "lat": 45.7575,
-   "lng": 4.8356,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "10916627",
-     "title": "Le Corset",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916649",
-     "title": "Notre salut",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306141",
-     "title": "Quelques mots d'amour",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306141-quelques-mots-d-amour/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11299497",
-     "title": "La Gradiva",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310325",
-     "title": "L'Arabe",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310325-l-arabe/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10916629",
-     "title": "Gabin",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916629-gabin/",
-     "status": "now_showing"
-    }
-   ]
-  },
   "linternaute-124": {
    "name": "Lumière Fourmi",
    "city": "Lyon",
@@ -8857,6 +8846,71 @@
     }
    ]
   },
+  "linternaute-111": {
+   "name": "Lumière Bellecour",
+   "city": "Lyon",
+   "brand": "",
+   "address": "12 rue de la Barre, 69002 Lyon",
+   "lat": 45.7575,
+   "lng": 4.8356,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "10916627",
+     "title": "Le Corset",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916627-le-corset/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916649",
+     "title": "Notre salut",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916649-notre-salut/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306141",
+     "title": "Quelques mots d'amour",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306141-quelques-mots-d-amour/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11299497",
+     "title": "La Gradiva",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310325",
+     "title": "L'Arabe",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310325-l-arabe/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10916629",
+     "title": "Gabin",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916629-gabin/",
+     "status": "now_showing"
+    }
+   ]
+  },
   "linternaute-104": {
    "name": "Le Cinéma-Opéra",
    "city": "Lyon",
@@ -8942,26 +8996,6 @@
     }
    ]
   },
-  "linternaute-264": {
-   "name": "Cinéma Saint-Denis",
-   "city": "Lyon",
-   "brand": "",
-   "address": "77 grande rue de la Croix-Rousse, 69004 Lyon",
-   "lat": 45.78,
-   "lng": 4.8323,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "10637258",
-     "title": "Riz amer (version restaurée)",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10637258-riz-amer-version-restauree/",
-     "status": "now_showing"
-    }
-   ]
-  },
   "linternaute-437": {
    "name": "CinéDuchère",
    "city": "Lyon",
@@ -8978,6 +9012,26 @@
      "language": "VF",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/10386357-l-objet-du-delit/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-264": {
+   "name": "Cinéma Saint-Denis",
+   "city": "Lyon",
+   "brand": "",
+   "address": "77 grande rue de la Croix-Rousse, 69004 Lyon",
+   "lat": 45.78,
+   "lng": 4.8323,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "10637258",
+     "title": "Riz amer (version restaurée)",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10637258-riz-amer-version-restauree/",
      "status": "now_showing"
     }
    ]
@@ -9132,7 +9186,7 @@
      "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
      "status": "now_showing"
     },
     {
@@ -9242,7 +9296,7 @@
      "rating": "",
      "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
      "status": "now_showing"
     },
     {
@@ -9384,6 +9438,71 @@
     }
    ]
   },
+  "linternaute-151": {
+   "name": "ABC",
+   "city": "Toulouse",
+   "brand": "",
+   "address": "13 rue Saint-Bernard, 31000 Toulouse",
+   "lat": 43.609,
+   "lng": 1.444,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "10916645",
+     "title": "Minotaure",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310315",
+     "title": "Moulin",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11309611",
+     "title": "Une femme aujourd'hui",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309611-une-femme-aujourd-hui/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11299497",
+     "title": "La Gradiva",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310319",
+     "title": "Club Kid",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310319-club-kid/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11304825",
+     "title": "Irish Travellers",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304825-irish-travellers/",
+     "status": "now_showing"
+    }
+   ]
+  },
   "linternaute-4447": {
    "name": "Utopia Borderouge",
    "city": "Toulouse",
@@ -9508,71 +9627,6 @@
      "language": "VO",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/2056633-poison/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "linternaute-151": {
-   "name": "ABC",
-   "city": "Toulouse",
-   "brand": "",
-   "address": "13 rue Saint-Bernard, 31000 Toulouse",
-   "lat": 43.609,
-   "lng": 1.444,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "10916645",
-     "title": "Minotaure",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10916645-minotaure/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310315",
-     "title": "Moulin",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309611",
-     "title": "Une femme aujourd'hui",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309611-une-femme-aujourd-hui/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11299497",
-     "title": "La Gradiva",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11299497-la-gradiva/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310319",
-     "title": "Club Kid",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310319-club-kid/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304825",
-     "title": "Irish Travellers",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304825-irish-travellers/",
      "status": "now_showing"
     }
    ]
@@ -9785,7 +9839,7 @@
      "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
      "status": "now_showing"
     },
     {
@@ -9922,7 +9976,7 @@
      "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
      "status": "now_showing"
     },
     {
@@ -10152,6 +10206,15 @@
      "language": "VF",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11310319-club-kid/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11313561",
+     "title": "Ramayana : L'avènement d'une légende",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11313561-ramayana-l-avenement-d-une-legende/",
      "status": "now_showing"
     }
    ]
@@ -10519,7 +10582,7 @@
      "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
      "status": "now_showing"
     },
     {
@@ -10986,7 +11049,7 @@
      "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
      "status": "now_showing"
     },
     {
@@ -11707,7 +11770,7 @@
      "rating": "",
      "language": "VF/VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
      "status": "now_showing"
     },
     {
@@ -12195,224 +12258,6 @@
     }
    ]
   },
-  "linternaute-513": {
-   "name": "Mégarama Bordeaux",
-   "city": "Bordeaux",
-   "brand": "Mégarama",
-   "address": "7 Quai de Queyries, 33000 Bordeaux",
-   "lat": 44.8416,
-   "lng": -0.5621,
-   "fetchedAt": "2026-11-10",
-   "films": [
-    {
-     "slug": "11304007",
-     "title": "Les Misérables",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305437",
-     "title": "Karma",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306685",
-     "title": "Le Fantôme de l'Opéra",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306685-le-fantome-de-l-opera/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310315",
-     "title": "Moulin",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11308413",
-     "title": "Un bon patron",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11308413-un-bon-patron/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11304003",
-     "title": "Malfaisante",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11304003-malfaisante/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11303119",
-     "title": "L'Affaire Marie-Claire",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11303119-l-affaire-marie-claire-ce-qu-on-a-pense-du-film-sur-gisele-halimi-avec-charlotte-gainsbourg/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309613",
-     "title": "Le Roi du game",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309613-le-roi-du-game/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306141",
-     "title": "Quelques mots d'amour",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306141-quelques-mots-d-amour/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11305435",
-     "title": "Clayface",
-     "rating": "",
-     "language": "VF/VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11305435-clayface-le-film-sur-le-mechant-de-batman-contient-des-scenes-tres-derangeantes-on-n-a-pas-pu-tout-regarder/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309177",
-     "title": "Scrooge",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11307653",
-     "title": "Godzilla Minus Zero",
-     "rating": "",
-     "language": "VF/VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11307653-godzilla-minus-zero/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "10942480",
-     "title": "Tombé du ciel",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/10942480-tombe-du-ciel/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11285032",
-     "title": "Kraken",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11285032-kraken/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306679",
-     "title": "Hope",
-     "rating": "",
-     "language": "VF/VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306679-hope/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11306693",
-     "title": "Papa où t'es ?",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11306693-papa-ou-t-es/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310319",
-     "title": "Club Kid",
-     "rating": "",
-     "language": "VF/VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310319-club-kid/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2558468",
-     "title": "Si tu tends l'oreille",
-     "rating": "",
-     "language": "VF/VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2558468-si-tu-tends-l-oreille/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11311785",
-     "title": "Quel monde après Trump ?",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11311785-quel-monde-apres-trump/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11309181",
-     "title": "Comment braquer une banque",
-     "rating": "",
-     "language": "VF",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309181-comment-braquer-une-banque/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "11310325",
-     "title": "L'Arabe",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11310325-l-arabe/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2621469",
-     "title": "La dame de Shanghai",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2621469-la-dame-de-shanghai/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2131601",
-     "title": "Boulevard du crépuscule",
-     "rating": "",
-     "language": "VO",
-     "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/2131601-boulevard-du-crepuscule/",
-     "status": "now_showing"
-    }
-   ]
-  },
   "linternaute-163": {
    "name": "UGC Ciné Cité Bordeaux",
    "city": "Bordeaux",
@@ -12581,7 +12426,7 @@
      "rating": "",
      "language": "VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
      "status": "now_showing"
     },
     {
@@ -12672,6 +12517,224 @@
      "language": "VO",
      "releaseDate": null,
      "url": "https://www.linternaute.com/cinema/tous-les-films/11310311-carmen-the-royal-opera/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "linternaute-513": {
+   "name": "Mégarama Bordeaux",
+   "city": "Bordeaux",
+   "brand": "Mégarama",
+   "address": "7 Quai de Queyries, 33000 Bordeaux",
+   "lat": 44.8416,
+   "lng": -0.5621,
+   "fetchedAt": "2026-11-10",
+   "films": [
+    {
+     "slug": "11304007",
+     "title": "Les Misérables",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304007-les-miserables-faut-il-voir-la-nouvelle-adaptation-du-roman-de-victor-hugo-ce-qu-en-disent-les-critiques/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305437",
+     "title": "Karma",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305437-karma-faut-il-voir-le-thriller-de-guillaume-canet-avec-marion-cotillard-notre-critique/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306685",
+     "title": "Le Fantôme de l'Opéra",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306685-le-fantome-de-l-opera/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310315",
+     "title": "Moulin",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310315-moulin/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11308413",
+     "title": "Un bon patron",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11308413-un-bon-patron/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11304003",
+     "title": "Malfaisante",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11304003-malfaisante/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11303119",
+     "title": "L'Affaire Marie-Claire",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11303119-l-affaire-marie-claire-ce-qu-on-a-pense-du-film-sur-gisele-halimi-avec-charlotte-gainsbourg/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11309613",
+     "title": "Le Roi du game",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309613-le-roi-du-game/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306141",
+     "title": "Quelques mots d'amour",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306141-quelques-mots-d-amour/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11305435",
+     "title": "Clayface",
+     "rating": "",
+     "language": "VF/VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11305435-clayface-le-film-sur-le-mechant-de-batman-contient-des-scenes-tres-derangeantes-on-n-a-pas-pu-tout-regarder/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11309177",
+     "title": "Scrooge",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11307653",
+     "title": "Godzilla Minus Zero",
+     "rating": "",
+     "language": "VF/VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11307653-godzilla-minus-zero/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10942480",
+     "title": "Tombé du ciel",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/10942480-tombe-du-ciel/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11285032",
+     "title": "Kraken",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11285032-kraken/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306679",
+     "title": "Hope",
+     "rating": "",
+     "language": "VF/VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306679-hope/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11306693",
+     "title": "Papa où t'es ?",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11306693-papa-ou-t-es/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310319",
+     "title": "Club Kid",
+     "rating": "",
+     "language": "VF/VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310319-club-kid/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2558468",
+     "title": "Si tu tends l'oreille",
+     "rating": "",
+     "language": "VF/VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2558468-si-tu-tends-l-oreille/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11311785",
+     "title": "Quel monde après Trump ?",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11311785-quel-monde-apres-trump/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11309181",
+     "title": "Comment braquer une banque",
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309181-comment-braquer-une-banque/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11310325",
+     "title": "L'Arabe",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11310325-l-arabe/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2621469",
+     "title": "La dame de Shanghai",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2621469-la-dame-de-shanghai/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2131601",
+     "title": "Boulevard du crépuscule",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "url": "https://www.linternaute.com/cinema/tous-les-films/2131601-boulevard-du-crepuscule/",
      "status": "now_showing"
     }
    ]
@@ -12844,7 +12907,7 @@
      "rating": "",
      "language": "VF",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
      "status": "now_showing"
     },
     {
@@ -13091,7 +13154,7 @@
      "rating": "",
      "language": "VF/VO",
      "releaseDate": null,
-     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge/",
+     "url": "https://www.linternaute.com/cinema/tous-les-films/11309177-scrooge-6-ans-apres-la-violente-bataille-judiciaire-johnny-depp-est-de-retour-au-cinema/",
      "status": "now_showing"
     },
     {

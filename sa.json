@@ -1,17 +1,35 @@
 {
- "updatedAt": "2026-11-10T14:46:36.296Z",
+ "updatedAt": "2026-11-10T22:53:02.873Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
    "name": "Cinemas in Saudi Arabia",
    "films": [
     {
-     "slug": "2102722",
-     "title": "Law School Crew",
+     "slug": "2099108",
+     "title": "Ebenezer",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-10",
-     "url": "https://elcinema.com/en/work/2102722/",
+     "releaseDate": "2026-11-11",
+     "url": "https://elcinema.com/en/work/2099108/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-11",
+     "url": "https://elcinema.com/en/work/2099777/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101647",
+     "title": "George Michael: The Faith Tour",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-11",
+     "url": "https://elcinema.com/en/work/2101647/",
      "status": "now_showing"
     },
     {
@@ -24,21 +42,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2097891",
+     "title": "Khartoum",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-06",
+     "url": "https://elcinema.com/en/work/2097891/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102002",
      "title": "The Draw",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
      "url": "https://elcinema.com/en/work/2102002/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102704",
-     "title": "Scene",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102704/",
      "status": "now_showing"
     },
     {
@@ -51,6 +69,33 @@
      "status": "now_showing"
     },
     {
+     "slug": "2097963",
+     "title": "Yunan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2097963/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102518",
+     "title": "Stray Kids World Tour 'Run It' Live Viewing",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2102518/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102704",
+     "title": "Scene",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2102704/",
+     "status": "now_showing"
+    },
+    {
      "slug": "1011119",
      "title": "Albahth A'n Fediha",
      "rating": "",
@@ -60,12 +105,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100794",
-     "title": "The Cycle",
+     "slug": "2102708",
+     "title": "Supremes",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-04",
-     "url": "https://elcinema.com/en/work/2100794/",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2102708/",
      "status": "now_showing"
     },
     {
@@ -93,6 +138,15 @@
      "language": "",
      "releaseDate": "2026-11-04",
      "url": "https://elcinema.com/en/work/2101615/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100794",
+     "title": "The Cycle",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-04",
+     "url": "https://elcinema.com/en/work/2100794/",
      "status": "now_showing"
     },
     {
@@ -213,12 +267,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099122",
-     "title": "Forgotten Island",
+     "slug": "2096857",
+     "title": "Street Fighter",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2099122/",
+     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -231,21 +285,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096857",
-     "title": "Street Fighter",
+     "slug": "2099122",
+     "title": "Forgotten Island",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095519",
-     "title": "Other Mommy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2095519/",
+     "url": "https://elcinema.com/en/work/2099122/",
      "status": "now_showing"
     },
     {
@@ -255,6 +300,15 @@
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095519",
+     "title": "Other Mommy",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2095519/",
      "status": "now_showing"
     },
     {
@@ -321,6 +375,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2093913",
+     "title": "Sentimental Value",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-06",
+     "url": "https://elcinema.com/en/work/2093913/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2095765",
      "title": "Spider-Man: Brand New Day",
      "rating": "",
@@ -375,6 +438,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2030306",
+     "title": "City of God",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-02-22",
+     "url": "https://elcinema.com/en/work/2030306/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2009118",
      "title": "Léon: The Professional",
      "rating": "",
@@ -382,15 +454,6 @@
      "releaseDate": "2022-10-06",
      "url": "https://elcinema.com/en/work/2009118/",
      "status": "now_showing"
-    },
-    {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-20",
-     "url": "https://elcinema.com/en/work/2095116/",
-     "status": "coming_soon"
     },
     {
      "slug": "2096404",
@@ -453,15 +516,6 @@
      "language": "",
      "releaseDate": "2026-12-03",
      "url": "https://elcinema.com/en/work/2099776/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099777/",
      "status": "coming_soon"
     },
     {

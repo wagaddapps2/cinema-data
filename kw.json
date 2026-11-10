@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T14:45:02.402Z",
+ "updatedAt": "2026-11-10T22:51:14.384Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -605,6 +605,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "the-last-temptation-of-becky",
+     "title": "THE LAST TEMPTATION OF BECKY",
+     "rating": "R18",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/the-last-temptation-of-becky/en",
+     "status": "now_showing"
+    },
+    {
      "slug": "idiots",
      "title": "Idiots",
      "rating": "R18",
@@ -855,7 +864,7 @@
     {
      "slug": "the-last-temptation-of-becky",
      "title": "THE LAST TEMPTATION OF BECKY",
-     "rating": "R15",
+     "rating": "R18",
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/the-last-temptation-of-becky/en",
@@ -1377,6 +1386,33 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/cocomelon-the-movie-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "i-object-english",
+     "title": "I, Object",
+     "rating": "PG",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/i-object-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "melcow-pondicherry-malayalam",
+     "title": "Melcow Pondicherry",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/melcow-pondicherry-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "you-can-see-everything-english",
+     "title": "You Can See Everything",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/you-can-see-everything-english",
      "status": "coming_soon"
     }
    ]
@@ -1932,6 +1968,33 @@
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/cocomelon-the-movie-english",
      "status": "coming_soon"
+    },
+    {
+     "slug": "i-object-english",
+     "title": "I, Object",
+     "rating": "PG",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/i-object-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "melcow-pondicherry-malayalam",
+     "title": "Melcow Pondicherry",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/melcow-pondicherry-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "you-can-see-everything-english",
+     "title": "You Can See Everything",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/you-can-see-everything-english",
+     "status": "coming_soon"
     }
    ]
   },
@@ -2101,21 +2164,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102265",
-     "title": "Soy",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102265/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2090950",
      "title": "Hope",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2090950/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102002",
+     "title": "The Draw",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102002/",
      "status": "now_showing"
     }
    ]
@@ -2407,6 +2470,24 @@
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2004262/",
      "status": "now_showing"
+    },
+    {
+     "slug": "2102002",
+     "title": "The Draw",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102002/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101615",
+     "title": "A Talent for Murder",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101615/",
+     "status": "now_showing"
     }
    ]
   },
@@ -2623,6 +2704,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2090950/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102002",
+     "title": "The Draw",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102002/",
      "status": "now_showing"
     },
     {

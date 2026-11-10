@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T14:46:42.081Z",
+ "updatedAt": "2026-11-10T22:53:15.856Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
@@ -58,42 +58,6 @@
      "releaseDate": "2026-07-23",
      "url": "https://elcinema.com/en/work/2098609/",
      "status": "now_showing"
-    },
-    {
-     "slug": "2090850",
-     "title": "Zootopia 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2025-11-27",
-     "url": "https://elcinema.com/en/work/2090850/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2090766",
-     "title": "How to Train Your Dragon",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2025-07-17",
-     "url": "https://elcinema.com/en/work/2090766/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2034540",
-     "title": "The Good Dinosaur",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2025-06-04",
-     "url": "https://elcinema.com/en/work/2034540/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-20",
-     "url": "https://elcinema.com/en/work/2095116/",
-     "status": "coming_soon"
     },
     {
      "slug": "2096404",

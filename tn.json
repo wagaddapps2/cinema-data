@@ -1,10 +1,28 @@
 {
- "updatedAt": "2026-11-10T14:46:43.819Z",
+ "updatedAt": "2026-11-10T22:53:18.981Z",
  "territory": "TN",
  "cinemas": {
   "elcinema-tn": {
    "name": "Cinemas in Tunisia",
    "films": [
+    {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-11",
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096633",
+     "title": "Nujum al'amal w al'alam",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-11",
+     "url": "https://elcinema.com/en/work/2096633/",
+     "status": "now_showing"
+    },
     {
      "slug": "2102439",
      "title": "Bakma",
@@ -22,33 +40,6 @@
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2102268/",
      "status": "now_showing"
-    },
-    {
-     "slug": "2102269",
-     "title": "Fana Mahat Bash Tethat",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2102269/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101794",
-     "title": "Dar El Eers",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-18",
-     "url": "https://elcinema.com/en/work/2101794/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-20",
-     "url": "https://elcinema.com/en/work/2095116/",
-     "status": "coming_soon"
     },
     {
      "slug": "2096404",
@@ -111,15 +102,6 @@
      "language": "",
      "releaseDate": "2026-12-03",
      "url": "https://elcinema.com/en/work/2099776/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099777/",
      "status": "coming_soon"
     }
    ]

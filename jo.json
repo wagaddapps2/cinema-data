@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T14:46:41.816Z",
+ "updatedAt": "2026-11-10T22:53:15.175Z",
  "territory": "JO",
  "cinemas": {
   "elcinema-jo": {
@@ -148,15 +148,6 @@
      "releaseDate": "2026-09-17",
      "url": "https://elcinema.com/en/work/2098173/",
      "status": "now_showing"
-    },
-    {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-20",
-     "url": "https://elcinema.com/en/work/2095116/",
-     "status": "coming_soon"
     },
     {
      "slug": "2096404",
