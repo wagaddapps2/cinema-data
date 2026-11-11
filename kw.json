@@ -1,10 +1,18 @@
 {
- "updatedAt": "2026-11-11T04:46:09.997Z",
+ "updatedAt": "2026-11-11T13:35:18.161Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
    "name": "VOX Cinemas Kuwait",
    "films": [
+    {
+     "slug": "hadoota-arabic",
+     "title": "Hadoota",
+     "rating": "PG12",
+     "language": "Arabic",
+     "url": "https://kwt.voxcinemas.com/movies/hadoota-arabic",
+     "status": "now_showing"
+    },
     {
      "slug": "godzilla-minus-zero-japanese",
      "title": "Godzilla Minus Zero",
@@ -22,11 +30,51 @@
      "status": "now_showing"
     },
     {
+     "slug": "how-to-rob-a-bank",
+     "title": "How to Rob a Bank",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/how-to-rob-a-bank",
+     "status": "now_showing"
+    },
+    {
+     "slug": "ebenezer",
+     "title": "Ebenezer",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/ebenezer",
+     "status": "now_showing"
+    },
+    {
      "slug": "clayface",
      "title": "Clayface",
      "rating": "R18",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/clayface",
+     "status": "now_showing"
+    },
+    {
+     "slug": "sense-and-sensibility",
+     "title": "Sense and Sensibility",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/sense-and-sensibility",
+     "status": "now_showing"
+    },
+    {
+     "slug": "whalefall",
+     "title": "Whalefall",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/whalefall",
+     "status": "now_showing"
+    },
+    {
+     "slug": "wildwood",
+     "title": "Wildwood",
+     "rating": "PG12",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/wildwood",
      "status": "now_showing"
     },
     {
@@ -43,14 +91,6 @@
      "rating": "PG12",
      "language": "Hindi",
      "url": "https://kwt.voxcinemas.com/movies/ramayana-hindi",
-     "status": "now_showing"
-    },
-    {
-     "slug": "whalefall",
-     "title": "Whalefall",
-     "rating": "R15",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/whalefall",
      "status": "now_showing"
     },
     {
@@ -91,38 +131,6 @@
      "rating": "R15",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/verity",
-     "status": "now_showing"
-    },
-    {
-     "slug": "wildwood",
-     "title": "Wildwood",
-     "rating": "PG12",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/wildwood",
-     "status": "now_showing"
-    },
-    {
-     "slug": "sense-and-sensibility",
-     "title": "Sense and Sensibility",
-     "rating": "R15",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/sense-and-sensibility",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-dino-family",
-     "title": "The Dino Family",
-     "rating": "PG",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/the-dino-family",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-smurfs-timeless-adventure-volume-2",
-     "title": "The Smurfs Timeless Adventure Volume 2",
-     "rating": "PG",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/the-smurfs-timeless-adventure-volume-2",
      "status": "now_showing"
     },
     {
@@ -187,30 +195,6 @@
      "rating": "R15",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/best-pancakes-in-the-county",
-     "status": "now_showing"
-    },
-    {
-     "slug": "ebenezer",
-     "title": "Ebenezer",
-     "rating": "R15",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/ebenezer",
-     "status": "now_showing"
-    },
-    {
-     "slug": "hadoota-arabic",
-     "title": "Hadoota",
-     "rating": "PG12",
-     "language": "Arabic",
-     "url": "https://kwt.voxcinemas.com/movies/hadoota-arabic",
-     "status": "now_showing"
-    },
-    {
-     "slug": "how-to-rob-a-bank",
-     "title": "How to Rob a Bank",
-     "rating": "R15",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/how-to-rob-a-bank",
      "status": "now_showing"
     },
     {
@@ -1038,24 +1022,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "belkis-turkish",
-     "title": "Belkis",
-     "rating": "R15",
-     "language": "Turkish",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/belkis-turkish",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "gupi-and-the-grumpy-king-english-dub",
-     "title": "Gupi And the Grumpy King",
-     "rating": "",
-     "language": "English Dub",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/gupi-and-the-grumpy-king-english-dub",
-     "status": "coming_soon"
-    },
-    {
      "slug": "the-hunger-games-sunrise-on-the-reaping-english",
      "title": "The Hunger Games: Sunrise on the Reaping",
      "rating": "",
@@ -1065,21 +1031,57 @@
      "status": "coming_soon"
     },
     {
-     "slug": "forgotten-island-english",
-     "title": "Forgotten Island",
-     "rating": "PG12",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/forgotten-island-english",
-     "status": "coming_soon"
-    },
-    {
      "slug": "i-play-rocky-english",
      "title": "I Play Rocky",
      "rating": "R15",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/i-play-rocky-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "i-object-english",
+     "title": "I, Object",
+     "rating": "PG",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/i-object-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "om-chapter-1-udhiram-the-blood-wood-tamil",
+     "title": "OM Chapter 1: Udhiram - The Blood Wood",
+     "rating": "",
+     "language": "Tamil",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/om-chapter-1-udhiram-the-blood-wood-tamil",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "melcow-pondicherry-malayalam",
+     "title": "Melcow Pondicherry",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/melcow-pondicherry-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "you-can-see-everything-english",
+     "title": "You Can See Everything",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/you-can-see-everything-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "forgotten-island-english",
+     "title": "Forgotten Island",
+     "rating": "PG12",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/forgotten-island-english",
      "status": "coming_soon"
     },
     {
@@ -1143,15 +1145,6 @@
      "language": "Malayalam",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/athimanoharam-malayalam",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "om-chapter-1-udhiram-the-blood-wood-tamil",
-     "title": "OM Chapter 1: Udhiram - The Blood Wood",
-     "rating": "",
-     "language": "Tamil",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/om-chapter-1-udhiram-the-blood-wood-tamil",
      "status": "coming_soon"
     },
     {
@@ -1387,33 +1380,6 @@
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/cocomelon-the-movie-english",
      "status": "coming_soon"
-    },
-    {
-     "slug": "i-object-english",
-     "title": "I, Object",
-     "rating": "PG",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/i-object-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "melcow-pondicherry-malayalam",
-     "title": "Melcow Pondicherry",
-     "rating": "",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/melcow-pondicherry-malayalam",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "you-can-see-everything-english",
-     "title": "You Can See Everything",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/you-can-see-everything-english",
-     "status": "coming_soon"
     }
    ]
   },
@@ -1430,12 +1396,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "ramayana-hindi",
-     "title": "Ramayana",
-     "rating": "PG12",
-     "language": "Hindi",
+     "slug": "ebenezer-english",
+     "title": "Ebenezer",
+     "rating": "R15",
+     "language": "English",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/ramayana-hindi",
+     "url": "https://www.ozonecinema.com/movies/ebenezer-english",
      "status": "now_showing"
     },
     {
@@ -1448,12 +1414,39 @@
      "status": "now_showing"
     },
     {
-     "slug": "scene-tamil",
-     "title": "Scene",
+     "slug": "how-to-rob-a-bank-english",
+     "title": "How to Rob a Bank",
      "rating": "R15",
-     "language": "Tamil",
+     "language": "English",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/scene-tamil",
+     "url": "https://www.ozonecinema.com/movies/how-to-rob-a-bank-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "gupi-and-the-grumpy-king-english-dub",
+     "title": "Gupi And the Grumpy King",
+     "rating": "PG",
+     "language": "English Dub",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/gupi-and-the-grumpy-king-english-dub",
+     "status": "now_showing"
+    },
+    {
+     "slug": "belkis-turkish",
+     "title": "Belkis",
+     "rating": "R15",
+     "language": "Turkish",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/belkis-turkish",
+     "status": "now_showing"
+    },
+    {
+     "slug": "the-last-temptation-of-becky-english",
+     "title": "The Last Temptation of Becky",
+     "rating": "R18",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-last-temptation-of-becky-english",
      "status": "now_showing"
     },
     {
@@ -1463,6 +1456,24 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/into-the-wonderwoods-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "best-pancakes-in-the-county-english",
+     "title": "Best Pancakes in the County",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/best-pancakes-in-the-county-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "ramayana-hindi",
+     "title": "Ramayana",
+     "rating": "PG12",
+     "language": "Hindi",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/ramayana-hindi",
      "status": "now_showing"
     },
     {
@@ -1490,51 +1501,6 @@
      "language": "Malayalam",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/disco-malayalam",
-     "status": "now_showing"
-    },
-    {
-     "slug": "how-to-rob-a-bank-english",
-     "title": "How to Rob a Bank",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/how-to-rob-a-bank-english",
-     "status": "now_showing"
-    },
-    {
-     "slug": "ebenezer-english",
-     "title": "Ebenezer",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/ebenezer-english",
-     "status": "now_showing"
-    },
-    {
-     "slug": "best-pancakes-in-the-county-english",
-     "title": "Best Pancakes in the County",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/best-pancakes-in-the-county-english",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-last-temptation-of-becky-english",
-     "title": "The Last Temptation of Becky",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-last-temptation-of-becky-english",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-shawshank-redemption-1994-re-release-english",
-     "title": "The Shawshank Redemption 1994 Re-Release",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-shawshank-redemption-1994-re-release-english",
      "status": "now_showing"
     },
     {
@@ -1601,15 +1567,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "sense-and-sensibility-english",
-     "title": "Sense and Sensibility",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/sense-and-sensibility-english",
-     "status": "now_showing"
-    },
-    {
      "slug": "the-mongoose-english",
      "title": "The Mongoose",
      "rating": "R15",
@@ -1617,24 +1574,6 @@
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/the-mongoose-english",
      "status": "now_showing"
-    },
-    {
-     "slug": "belkis-turkish",
-     "title": "Belkis",
-     "rating": "R15",
-     "language": "Turkish",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/belkis-turkish",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "gupi-and-the-grumpy-king-english-dub",
-     "title": "Gupi And the Grumpy King",
-     "rating": "",
-     "language": "English Dub",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/gupi-and-the-grumpy-king-english-dub",
-     "status": "coming_soon"
     },
     {
      "slug": "the-hunger-games-sunrise-on-the-reaping-english",
@@ -1646,21 +1585,57 @@
      "status": "coming_soon"
     },
     {
-     "slug": "forgotten-island-english",
-     "title": "Forgotten Island",
-     "rating": "PG12",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/forgotten-island-english",
-     "status": "coming_soon"
-    },
-    {
      "slug": "i-play-rocky-english",
      "title": "I Play Rocky",
      "rating": "R15",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/i-play-rocky-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "i-object-english",
+     "title": "I, Object",
+     "rating": "PG",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/i-object-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "om-chapter-1-udhiram-the-blood-wood-tamil",
+     "title": "OM Chapter 1: Udhiram - The Blood Wood",
+     "rating": "",
+     "language": "Tamil",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/om-chapter-1-udhiram-the-blood-wood-tamil",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "melcow-pondicherry-malayalam",
+     "title": "Melcow Pondicherry",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/melcow-pondicherry-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "you-can-see-everything-english",
+     "title": "You Can See Everything",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/you-can-see-everything-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "forgotten-island-english",
+     "title": "Forgotten Island",
+     "rating": "PG12",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/forgotten-island-english",
      "status": "coming_soon"
     },
     {
@@ -1724,15 +1699,6 @@
      "language": "Malayalam",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/athimanoharam-malayalam",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "om-chapter-1-udhiram-the-blood-wood-tamil",
-     "title": "OM Chapter 1: Udhiram - The Blood Wood",
-     "rating": "",
-     "language": "Tamil",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/om-chapter-1-udhiram-the-blood-wood-tamil",
      "status": "coming_soon"
     },
     {
@@ -1967,33 +1933,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/cocomelon-the-movie-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "i-object-english",
-     "title": "I, Object",
-     "rating": "PG",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/i-object-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "melcow-pondicherry-malayalam",
-     "title": "Melcow Pondicherry",
-     "rating": "",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/melcow-pondicherry-malayalam",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "you-can-see-everything-english",
-     "title": "You Can See Everything",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/you-can-see-everything-english",
      "status": "coming_soon"
     }
    ]
@@ -2101,15 +2040,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102002",
-     "title": "The Draw",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102002/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099773",
      "title": "Wala Kan Ala El-Bal",
      "rating": "",
@@ -2128,12 +2058,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099699",
-     "title": "Idiots",
+     "slug": "2098232",
+     "title": "Verity",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099699/",
+     "url": "https://elcinema.com/en/work/2098232/",
      "status": "now_showing"
     },
     {
@@ -2146,21 +2076,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2004262",
      "title": "The Shawshank Redemption",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2004262/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099699",
+     "title": "Idiots",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099699/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100998/",
      "status": "now_showing"
     },
     {
@@ -2173,12 +2112,39 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102265",
+     "title": "Soy",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102265/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2090950",
      "title": "Hope",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2090950/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099108/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099777/",
      "status": "now_showing"
     }
    ]
@@ -2341,15 +2307,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101615",
-     "title": "A Talent for Murder",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101615/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102704",
      "title": "Scene",
      "rating": "",
@@ -2383,6 +2340,42 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099773/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101615",
+     "title": "A Talent for Murder",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101615/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099108/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099777/",
      "status": "now_showing"
     }
    ]
@@ -2418,12 +2411,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102002",
-     "title": "The Draw",
+     "slug": "2096928",
+     "title": "Naseeb",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102002/",
+     "url": "https://elcinema.com/en/work/2096928/",
      "status": "now_showing"
     },
     {
@@ -2442,15 +2435,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096928",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096928/",
      "status": "now_showing"
     },
     {
@@ -2490,12 +2474,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101615",
-     "title": "A Talent for Murder",
+     "slug": "2100998",
+     "title": "Hadoota",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101615/",
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099108/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099777/",
      "status": "now_showing"
     }
    ]
@@ -2556,6 +2558,15 @@
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2004262/",
      "status": "now_showing"
+    },
+    {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
     }
    ]
   },
@@ -2599,15 +2610,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099773",
      "title": "Wala Kan Ala El-Bal",
      "rating": "",
@@ -2632,6 +2634,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099759/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -2671,15 +2682,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102002",
-     "title": "The Draw",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102002/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101615",
      "title": "A Talent for Murder",
      "rating": "",
@@ -2707,6 +2709,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2004262",
      "title": "The Shawshank Redemption",
      "rating": "",
@@ -2722,6 +2733,24 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2090950/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099777/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099108/",
      "status": "now_showing"
     },
     {
@@ -2781,6 +2810,15 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.skycinemaskw.com/movie-information/the-last-temptation-of-becky/9999001548",
+     "status": "now_showing"
+    },
+    {
+     "slug": "gupi-and-the-grumpy-king-english-dub/9999001547",
+     "title": "GUPI AND THE GRUMPY KING - ENGLISH DUB",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/gupi-and-the-grumpy-king-english-dub/9999001547",
      "status": "now_showing"
     },
     {
@@ -2854,15 +2892,6 @@
      "releaseDate": null,
      "url": "https://www.skycinemaskw.com/movie-information/clayface/9999001534",
      "status": "now_showing"
-    },
-    {
-     "slug": "gupi-and-the-grumpy-king-english-dub/9999001547",
-     "title": "GUPI AND THE GRUMPY KING - ENGLISH DUB",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/gupi-and-the-grumpy-king-english-dub/9999001547",
-     "status": "coming_soon"
     },
     {
      "slug": "avengers-doomsday/9999001436",

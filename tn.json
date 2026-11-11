@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-11-11T04:48:01.862Z",
+ "updatedAt": "2026-11-11T13:37:10.474Z",
  "territory": "TN",
  "cinemas": {
   "elcinema-tn": {
    "name": "Cinemas in Tunisia",
    "films": [
-    {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-11",
-     "url": "https://elcinema.com/en/work/2095116/",
-     "status": "now_showing"
-    },
     {
      "slug": "2096633",
      "title": "Nujum al'amal w al'alam",
@@ -21,6 +12,15 @@
      "language": "",
      "releaseDate": "2026-11-11",
      "url": "https://elcinema.com/en/work/2096633/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-11",
+     "url": "https://elcinema.com/en/work/2099108/",
      "status": "now_showing"
     },
     {

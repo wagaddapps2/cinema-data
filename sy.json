@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-11-11T04:47:59.730Z",
+ "updatedAt": "2026-11-11T13:37:08.210Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
    "name": "Cinemas in Syria",
    "films": [
+    {
+     "slug": "2102972",
+     "title": "The Canvas",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-11",
+     "url": "https://elcinema.com/en/work/2102972/",
+     "status": "now_showing"
+    },
     {
      "slug": "2101362",
      "title": "Beware Boiúna",
@@ -51,12 +60,39 @@
      "status": "now_showing"
     },
     {
+     "slug": "2094706",
+     "title": "Dora and the Search for Sol Dorado",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-09",
+     "url": "https://elcinema.com/en/work/2094706/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098609",
      "title": "Khally Balak Min Nafsak",
      "rating": "",
      "language": "",
      "releaseDate": "2026-07-23",
      "url": "https://elcinema.com/en/work/2098609/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1019636",
+     "title": "Tangled",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-09-15",
+     "url": "https://elcinema.com/en/work/1019636/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2042563",
+     "title": "Beauty and the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-08-22",
+     "url": "https://elcinema.com/en/work/2042563/",
      "status": "now_showing"
     },
     {
