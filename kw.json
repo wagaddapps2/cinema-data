@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T22:51:14.384Z",
+ "updatedAt": "2026-11-11T04:46:09.997Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -2101,6 +2101,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102002",
+     "title": "The Draw",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102002/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099773",
      "title": "Wala Kan Ala El-Bal",
      "rating": "",
@@ -2119,12 +2128,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098232",
-     "title": "Verity",
+     "slug": "2099699",
+     "title": "Idiots",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098232/",
+     "url": "https://elcinema.com/en/work/2099699/",
      "status": "now_showing"
     },
     {
@@ -2137,21 +2146,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2004262",
      "title": "The Shawshank Redemption",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2004262/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099699",
-     "title": "Idiots",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099699/",
      "status": "now_showing"
     },
     {
@@ -2170,15 +2179,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2090950/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102002",
-     "title": "The Draw",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102002/",
      "status": "now_showing"
     }
    ]
@@ -2211,6 +2211,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2098323/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100998/",
      "status": "now_showing"
     },
     {
@@ -2332,6 +2341,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101615",
+     "title": "A Talent for Murder",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101615/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102704",
      "title": "Scene",
      "rating": "",
@@ -2365,15 +2383,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099773/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101615",
-     "title": "A Talent for Murder",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101615/",
      "status": "now_showing"
     }
    ]
@@ -2409,12 +2418,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096928",
-     "title": "Naseeb",
+     "slug": "2102002",
+     "title": "The Draw",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096928/",
+     "url": "https://elcinema.com/en/work/2102002/",
      "status": "now_showing"
     },
     {
@@ -2433,6 +2442,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096928",
+     "title": "Naseeb",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2096928/",
      "status": "now_showing"
     },
     {
@@ -2469,15 +2487,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2004262/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102002",
-     "title": "The Draw",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102002/",
      "status": "now_showing"
     },
     {
@@ -2590,6 +2599,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099773",
      "title": "Wala Kan Ala El-Bal",
      "rating": "",
@@ -2614,15 +2632,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099759/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -2659,6 +2668,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102002",
+     "title": "The Draw",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102002/",
      "status": "now_showing"
     },
     {
@@ -2704,15 +2722,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2090950/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102002",
-     "title": "The Draw",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102002/",
      "status": "now_showing"
     },
     {

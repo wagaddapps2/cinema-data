@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T22:53:18.981Z",
+ "updatedAt": "2026-11-11T04:48:01.862Z",
  "territory": "TN",
  "cinemas": {
   "elcinema-tn": {
@@ -57,15 +57,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2097394/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2098161",
-     "title": "Les Miserables",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-12-09",
-     "url": "https://elcinema.com/en/work/2098161/",
      "status": "coming_soon"
     },
     {

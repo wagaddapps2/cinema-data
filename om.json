@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T22:53:12.792Z",
+ "updatedAt": "2026-11-11T04:47:57.286Z",
  "territory": "OM",
  "cinemas": {
   "elcinema-om": {
@@ -141,12 +141,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101651",
-     "title": "The Dino Family",
+     "slug": "2096928",
+     "title": "Naseeb",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101651/",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2096928/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2088495",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2088495/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099773",
+     "title": "Wala Kan Ala El-Bal",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2099773/",
      "status": "now_showing"
     },
     {
@@ -156,6 +174,15 @@
      "language": "",
      "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2101940/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101651",
+     "title": "The Dino Family",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101651/",
      "status": "now_showing"
     },
     {
@@ -195,21 +222,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095519",
      "title": "Other Mommy",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099520",
+     "title": "Matloub Aaeleyan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-07",
+     "url": "https://elcinema.com/en/work/2099520/",
      "status": "now_showing"
     },
     {
@@ -249,15 +276,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095329",
-     "title": "The Odyssey",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-07-15",
-     "url": "https://elcinema.com/en/work/2095329/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2096404",
      "title": "Dune: Part Three",
      "rating": "",
@@ -273,15 +291,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2097394/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2098161",
-     "title": "Les Miserables",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-12-09",
-     "url": "https://elcinema.com/en/work/2098161/",
      "status": "coming_soon"
     },
     {
