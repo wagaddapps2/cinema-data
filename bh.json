@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-11-11T13:37:01.180Z",
+ "updatedAt": "2026-11-12T00:05:45.641Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
    "name": "Cinemas in Bahrain",
    "films": [
+    {
+     "slug": "2102966",
+     "title": "Remember",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2102966/",
+     "status": "now_showing"
+    },
     {
      "slug": "2099108",
      "title": "Ebenezer",
@@ -12,15 +21,6 @@
      "language": "",
      "releaseDate": "2026-11-11",
      "url": "https://elcinema.com/en/work/2099108/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-11",
-     "url": "https://elcinema.com/en/work/2100998/",
      "status": "now_showing"
     },
     {
@@ -33,57 +33,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102706",
-     "title": "Mookuthi Amman 2",
+     "slug": "2100998",
+     "title": "Hadoota",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-06",
-     "url": "https://elcinema.com/en/work/2102706/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102705",
-     "title": "Disco",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-06",
-     "url": "https://elcinema.com/en/work/2102705/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099699",
-     "title": "Idiots",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2099699/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102704",
-     "title": "Scene",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102704/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100794",
-     "title": "The Cycle",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2100794/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098323",
-     "title": "Godzilla Minus Zero",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-04",
-     "url": "https://elcinema.com/en/work/2098323/",
+     "releaseDate": "2026-11-11",
+     "url": "https://elcinema.com/en/work/2100998/",
      "status": "now_showing"
     },
     {
@@ -96,48 +51,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099759",
-     "title": "Ramayana",
+     "slug": "2098323",
+     "title": "Godzilla Minus Zero",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-04",
-     "url": "https://elcinema.com/en/work/2099759/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102185",
-     "title": "Adarsha Kutumbam House No: 47",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102185/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2088495",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096928",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2096928/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2097360/",
+     "url": "https://elcinema.com/en/work/2098323/",
      "status": "now_showing"
     },
     {
@@ -150,15 +69,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101651",
-     "title": "The Dino Family",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101651/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
@@ -168,84 +78,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-16",
-     "url": "https://elcinema.com/en/work/2099119/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099122",
-     "title": "Forgotten Island",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2099122/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-07",
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095519",
-     "title": "Other Mommy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-05",
-     "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-23",
-     "url": "https://elcinema.com/en/work/2100562/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098173",
-     "title": "Resident Evil",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-16",
-     "url": "https://elcinema.com/en/work/2098173/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2094876",
-     "title": "Mutiny",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-19",
-     "url": "https://elcinema.com/en/work/2094876/",
      "status": "now_showing"
     },
     {

@@ -1,98 +1,35 @@
 {
- "updatedAt": "2026-11-11T13:37:08.210Z",
+ "updatedAt": "2026-11-12T00:05:47.772Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
    "name": "Cinemas in Syria",
    "films": [
     {
-     "slug": "2102972",
-     "title": "The Canvas",
+     "slug": "2102980",
+     "title": "Sidetracked",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-11",
-     "url": "https://elcinema.com/en/work/2102972/",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2102980/",
      "status": "now_showing"
     },
     {
-     "slug": "2101362",
-     "title": "Beware Boiúna",
+     "slug": "2044350",
+     "title": "Ferdinand",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-06",
-     "url": "https://elcinema.com/en/work/2101362/",
+     "releaseDate": "2025-06-17",
+     "url": "https://elcinema.com/en/work/2044350/",
      "status": "now_showing"
     },
     {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2099773/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2094706",
-     "title": "Dora and the Search for Sol Dorado",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-09",
-     "url": "https://elcinema.com/en/work/2094706/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098609",
-     "title": "Khally Balak Min Nafsak",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-07-23",
-     "url": "https://elcinema.com/en/work/2098609/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "1019636",
-     "title": "Tangled",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2024-09-15",
-     "url": "https://elcinema.com/en/work/1019636/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2042563",
-     "title": "Beauty and the Beast",
+     "slug": "2020094",
+     "title": "The Swan Princess",
      "rating": "",
      "language": "",
      "releaseDate": "2024-08-22",
-     "url": "https://elcinema.com/en/work/2042563/",
+     "url": "https://elcinema.com/en/work/2020094/",
      "status": "now_showing"
     },
     {
