@@ -1,46 +1,10 @@
 {
- "updatedAt": "2026-11-12T14:40:56.201Z",
+ "updatedAt": "2026-11-12T23:15:50.798Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
    "name": "Cinemas in Syria",
    "films": [
-    {
-     "slug": "2099759",
-     "title": "Ramayana",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099759/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102980",
-     "title": "Sidetracked",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102980/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2100562/",
-     "status": "now_showing"
-    },
     {
      "slug": "2095519",
      "title": "Other Mommy",
@@ -57,6 +21,33 @@
      "language": "",
      "releaseDate": "2026-11-12",
      "url": "https://elcinema.com/en/work/2099777/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099759",
+     "title": "Ramayana",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2099759/",
      "status": "now_showing"
     },
     {
@@ -84,42 +75,6 @@
      "language": "",
      "releaseDate": "2026-07-23",
      "url": "https://elcinema.com/en/work/2098609/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2057040",
-     "title": "Onward",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2025-12-24",
-     "url": "https://elcinema.com/en/work/2057040/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2044350",
-     "title": "Ferdinand",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2025-06-17",
-     "url": "https://elcinema.com/en/work/2044350/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2020094",
-     "title": "The Swan Princess",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2024-08-22",
-     "url": "https://elcinema.com/en/work/2020094/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2004859",
-     "title": "The Smurfs",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2024-08-08",
-     "url": "https://elcinema.com/en/work/2004859/",
      "status": "now_showing"
     },
     {

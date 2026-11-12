@@ -1,17 +1,44 @@
 {
- "updatedAt": "2026-11-12T14:40:41.493Z",
+ "updatedAt": "2026-11-12T23:15:31.559Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
    "name": "Cinemas in Egypt",
    "films": [
     {
-     "slug": "2101015",
-     "title": "Best Pancakes in the County",
+     "slug": "2102891",
+     "title": "Only Beautiful Things to Look At",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2101015/",
+     "releaseDate": "2026-11-13",
+     "url": "https://elcinema.com/en/work/2102891/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102893",
+     "title": "Al Baraneya",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-13",
+     "url": "https://elcinema.com/en/work/2102893/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102894",
+     "title": "Enjoy Your Stay",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-13",
+     "url": "https://elcinema.com/en/work/2102894/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102892",
+     "title": "Dead Dogs Don’t Bite",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-13",
+     "url": "https://elcinema.com/en/work/2102892/",
      "status": "now_showing"
     },
     {
@@ -21,15 +48,6 @@
      "language": "",
      "releaseDate": "2026-11-12",
      "url": "https://elcinema.com/en/work/2099777/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099108",
-     "title": "Ebenezer",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099108/",
      "status": "now_showing"
     },
     {
@@ -51,12 +69,39 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101015",
+     "title": "Best Pancakes in the County",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2101015/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2099108/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100998",
      "title": "Hadoota",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-11",
      "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102069",
+     "title": "Üç Harfliler: Mühür",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2102069/",
      "status": "now_showing"
     },
     {
@@ -87,12 +132,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102069",
-     "title": "Üç Harfliler: Mühür",
+     "slug": "2088495",
+     "title": "Wildwood",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102069/",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2088495/",
      "status": "now_showing"
     },
     {
@@ -102,33 +147,6 @@
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2099119/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2093435",
-     "title": "It Feeds",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2093435/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2090950",
-     "title": "Hope",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2090950/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2088495",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2088495/",
      "status": "now_showing"
     },
     {
@@ -273,15 +291,6 @@
      "language": "",
      "releaseDate": "2026-06-24",
      "url": "https://elcinema.com/en/work/2093181/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097300",
-     "title": "Dayel Anna Ard",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2025-11-14",
-     "url": "https://elcinema.com/en/work/2097300/",
      "status": "now_showing"
     },
     {

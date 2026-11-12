@@ -1,17 +1,44 @@
 {
- "updatedAt": "2026-11-12T14:40:45.047Z",
+ "updatedAt": "2026-11-12T23:15:33.888Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
    "name": "Cinemas in United Arab Emirates",
    "films": [
     {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
+     "slug": "2102969",
+     "title": "John Doe",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-13",
+     "url": "https://elcinema.com/en/work/2102969/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102968",
+     "title": "Itlu Arjuna",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-13",
+     "url": "https://elcinema.com/en/work/2102968/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102970",
+     "title": "Melcow Pondicherry",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-13",
+     "url": "https://elcinema.com/en/work/2102970/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098161",
+     "title": "Les Miserables",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099777/",
+     "url": "https://elcinema.com/en/work/2098161/",
      "status": "now_showing"
     },
     {
@@ -21,24 +48,6 @@
      "language": "",
      "releaseDate": "2026-11-12",
      "url": "https://elcinema.com/en/work/2102971/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102966",
-     "title": "Remember",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102966/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102933",
-     "title": "Gupi & The Grumpy King",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102933/",
      "status": "now_showing"
     },
     {
@@ -69,15 +78,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098161",
-     "title": "Les Miserables",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2098161/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101015",
      "title": "Best Pancakes in the County",
      "rating": "",
@@ -96,12 +96,48 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2099777/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099108",
      "title": "Ebenezer",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
      "url": "https://elcinema.com/en/work/2099108/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102967",
+     "title": "Bouma",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2102967/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102966",
+     "title": "Remember",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2102966/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102933",
+     "title": "Gupi & The Grumpy King",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2102933/",
      "status": "now_showing"
     },
     {
@@ -120,6 +156,15 @@
      "language": "",
      "releaseDate": "2026-11-06",
      "url": "https://elcinema.com/en/work/2102706/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102704",
+     "title": "Scene",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2102704/",
      "status": "now_showing"
     },
     {
@@ -150,24 +195,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102704",
-     "title": "Scene",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102704/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102705",
-     "title": "Disco",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102705/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099759",
      "title": "Ramayana",
      "rating": "",
@@ -183,24 +210,6 @@
      "language": "",
      "releaseDate": "2026-11-03",
      "url": "https://elcinema.com/en/work/2098323/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2099119/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096928",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2096928/",
      "status": "now_showing"
     },
     {
@@ -237,6 +246,24 @@
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2097360/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096928",
+     "title": "Naseeb",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2096928/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099119",
+     "title": "Sense and Sensibility",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2099119/",
      "status": "now_showing"
     },
     {
@@ -321,15 +348,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101997",
      "title": "Drishyam: The Conclusion",
      "rating": "",
@@ -339,12 +357,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100562",
      "title": "Heart of the Beast",
      "rating": "",
      "language": "",
      "releaseDate": "2026-09-24",
      "url": "https://elcinema.com/en/work/2100562/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101636",
+     "title": "Donga Naa Koduku",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-18",
+     "url": "https://elcinema.com/en/work/2101636/",
      "status": "now_showing"
     },
     {
@@ -366,15 +402,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2002897",
-     "title": "Taxi Driver",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-14",
-     "url": "https://elcinema.com/en/work/2002897/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095765",
      "title": "Spider-Man: Brand New Day",
      "rating": "",
@@ -393,12 +420,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100369",
-     "title": "Do You Love Me",
+     "slug": "2002587",
+     "title": "Persepolis",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-06-05",
-     "url": "https://elcinema.com/en/work/2100369/",
+     "releaseDate": "2026-07-10",
+     "url": "https://elcinema.com/en/work/2002587/",
      "status": "now_showing"
     },
     {
