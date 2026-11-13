@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T23:15:31.559Z",
+ "updatedAt": "2026-11-13T05:10:08.886Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
@@ -132,21 +132,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2088495",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099119",
      "title": "Sense and Sensibility",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2099119/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2088495",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2088495/",
      "status": "now_showing"
     },
     {
@@ -210,6 +210,15 @@
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097950",
+     "title": "Digger",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2097950/",
      "status": "now_showing"
     },
     {
@@ -388,7 +397,7 @@
      "title": "I Play Rocky",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-13",
+     "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099109/",
      "status": "coming_soon"
     },
