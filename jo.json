@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T05:00:41.444Z",
+ "updatedAt": "2026-11-14T13:00:33.315Z",
  "territory": "JO",
  "cinemas": {
   "elcinema-jo": {
@@ -177,6 +177,24 @@
      "status": "coming_soon"
     },
     {
+     "slug": "2099107",
+     "title": "Werwulf",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-25",
+     "url": "https://elcinema.com/en/work/2099107/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2099109",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099109/",
+     "status": "coming_soon"
+    },
+    {
      "slug": "2099110",
      "title": "Hexed",
      "rating": "",
@@ -192,6 +210,24 @@
      "language": "",
      "releaseDate": "2026-12-03",
      "url": "https://elcinema.com/en/work/2099776/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2101516",
+     "title": "The Further Mis-Adventures of Cliff Booth",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-25",
+     "url": "https://elcinema.com/en/work/2101516/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2101989/",
      "status": "coming_soon"
     }
    ]

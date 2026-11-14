@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T05:00:36.007Z",
+ "updatedAt": "2026-11-14T13:00:28.788Z",
  "territory": "QA",
  "cinemas": {
   "elcinema-qa": {
@@ -375,6 +375,24 @@
      "status": "coming_soon"
     },
     {
+     "slug": "2099107",
+     "title": "Werwulf",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-25",
+     "url": "https://elcinema.com/en/work/2099107/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2099109",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099109/",
+     "status": "coming_soon"
+    },
+    {
      "slug": "2099110",
      "title": "Hexed",
      "rating": "",
@@ -393,12 +411,48 @@
      "status": "coming_soon"
     },
     {
+     "slug": "2101516",
+     "title": "The Further Mis-Adventures of Cliff Booth",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-25",
+     "url": "https://elcinema.com/en/work/2101516/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2101718",
+     "title": "You Can See Everything",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101718/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2101989/",
+     "status": "coming_soon"
+    },
+    {
      "slug": "2102000",
      "title": "Udta Teer",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102000/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2102161",
+     "title": "Traveler's Hell",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102161/",
      "status": "coming_soon"
     }
    ]

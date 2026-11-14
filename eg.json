@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T05:00:31.364Z",
+ "updatedAt": "2026-11-14T13:00:19.191Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
@@ -303,6 +303,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2100677",
+     "title": "Mamsos",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-30",
+     "url": "https://elcinema.com/en/work/2100677/",
+     "status": "coming_soon"
+    },
+    {
      "slug": "2095520",
      "title": "Remain",
      "rating": "",
@@ -336,6 +345,15 @@
      "language": "",
      "releaseDate": "2026-11-20",
      "url": "https://elcinema.com/en/work/2096575/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2096915",
+     "title": "Chickenhare and the Secret of the Groundhog",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2096915/",
      "status": "coming_soon"
     },
     {
@@ -429,6 +447,15 @@
      "status": "coming_soon"
     },
     {
+     "slug": "2099962",
+     "title": "Above the Below",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-03",
+     "url": "https://elcinema.com/en/work/2099962/",
+     "status": "coming_soon"
+    },
+    {
      "slug": "2100782",
      "title": "Momo",
      "rating": "",
@@ -465,12 +492,66 @@
      "status": "coming_soon"
     },
     {
+     "slug": "2101516",
+     "title": "The Further Mis-Adventures of Cliff Booth",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-25",
+     "url": "https://elcinema.com/en/work/2101516/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2101650",
+     "title": "Monster Mia",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101650/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2101718",
+     "title": "You Can See Everything",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101718/",
+     "status": "coming_soon"
+    },
+    {
      "slug": "2101989",
      "title": "Crypto",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2101989/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2102003",
+     "title": "A Mouse Hunt for Christmas",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102003/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2102161",
+     "title": "Traveler's Hell",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102161/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2102674",
+     "title": "برلين",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102674/",
      "status": "coming_soon"
     }
    ]
