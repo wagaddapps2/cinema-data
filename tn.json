@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-11-14T13:00:36.055Z",
+ "updatedAt": "2026-11-14T22:00:56.221Z",
  "territory": "TN",
  "cinemas": {
   "elcinema-tn": {
    "name": "Cinemas in Tunisia",
    "films": [
-    {
-     "slug": "2099108",
-     "title": "Ebenezer",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-11",
-     "url": "https://elcinema.com/en/work/2099108/",
-     "status": "now_showing"
-    },
     {
      "slug": "2102439",
      "title": "Bakma",
@@ -39,6 +30,15 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2102269/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101794",
+     "title": "Dar El Eers",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-23",
+     "url": "https://elcinema.com/en/work/2101794/",
      "status": "now_showing"
     },
     {
@@ -138,15 +138,6 @@
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2101989/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2102161",
-     "title": "Traveler's Hell",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102161/",
      "status": "coming_soon"
     }
    ]

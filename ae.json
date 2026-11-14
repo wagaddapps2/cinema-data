@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T13:00:24.715Z",
+ "updatedAt": "2026-11-14T22:00:35.220Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
@@ -33,30 +33,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102966",
-     "title": "Remember",
+     "slug": "2102967",
+     "title": "Bouma",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102966/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102933",
-     "title": "Gupi & The Grumpy King",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102933/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102220",
-     "title": "The Last Temptation of Becky",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102220/",
+     "url": "https://elcinema.com/en/work/2102967/",
      "status": "now_showing"
     },
     {
@@ -69,21 +51,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101647",
-     "title": "George Michael: The Faith Tour",
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2101647/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101015",
-     "title": "Best Pancakes in the County",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2101015/",
+     "url": "https://elcinema.com/en/work/2099777/",
      "status": "now_showing"
     },
     {
@@ -96,30 +69,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
+     "slug": "2102966",
+     "title": "Remember",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099777/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098161",
-     "title": "Les Miserables",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2098161/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099108",
-     "title": "Ebenezer",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099108/",
+     "url": "https://elcinema.com/en/work/2102966/",
      "status": "now_showing"
     },
     {
@@ -132,21 +87,66 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102967",
-     "title": "Bouma",
+     "slug": "2102933",
+     "title": "Gupi & The Grumpy King",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102967/",
+     "url": "https://elcinema.com/en/work/2102933/",
      "status": "now_showing"
     },
     {
-     "slug": "2099908",
-     "title": "Another World",
+     "slug": "2101015",
+     "title": "Best Pancakes in the County",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2101015/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102220",
+     "title": "The Last Temptation of Becky",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2102220/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101647",
+     "title": "George Michael: The Faith Tour",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2101647/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2099108/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098161",
+     "title": "Les Miserables",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2098161/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102711",
+     "title": "The Dating Menu",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-08",
-     "url": "https://elcinema.com/en/work/2099908/",
+     "url": "https://elcinema.com/en/work/2102711/",
      "status": "now_showing"
     },
     {
@@ -222,15 +222,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2042037",
-     "title": "Three Colors: Red",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-01",
-     "url": "https://elcinema.com/en/work/2042037/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2096928",
      "title": "Naseeb",
      "rating": "",
@@ -258,12 +249,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102344",
-     "title": "Pee Mak",
+     "slug": "2099773",
+     "title": "Wala Kan Ala El-Bal",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102344/",
+     "url": "https://elcinema.com/en/work/2099773/",
      "status": "now_showing"
     },
     {
@@ -276,12 +267,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
+     "slug": "2102344",
+     "title": "Pee Mak",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2099773/",
+     "url": "https://elcinema.com/en/work/2102344/",
      "status": "now_showing"
     },
     {
@@ -321,21 +312,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2004262",
-     "title": "The Shawshank Redemption",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2004262/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2096857",
      "title": "Street Fighter",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2004262",
+     "title": "The Shawshank Redemption",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2004262/",
      "status": "now_showing"
     },
     {
@@ -411,6 +402,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099778",
+     "title": "Tad and the Magic Lamp",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-17",
+     "url": "https://elcinema.com/en/work/2099778/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2094924",
      "title": "Coyote vs. Acme",
      "rating": "",
@@ -453,15 +453,6 @@
      "language": "",
      "releaseDate": "2021-02-25",
      "url": "https://elcinema.com/en/work/2006309/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2006303",
-     "title": "The Lord of the Rings: The Fellowship of the Ring",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2021-02-18",
-     "url": "https://elcinema.com/en/work/2006303/",
      "status": "now_showing"
     },
     {
