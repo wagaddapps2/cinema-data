@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-11-15T04:53:59.134Z",
+ "updatedAt": "2026-11-15T13:29:23.735Z",
  "territory": "LB",
  "cinemas": {
   "elcinema-lb": {
    "name": "Cinemas in Lebanon",
    "films": [
-    {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099777/",
-     "status": "now_showing"
-    },
     {
      "slug": "2103006",
      "title": "Chopin, Chopin!",
@@ -24,21 +15,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101015",
-     "title": "Best Pancakes in the County",
+     "slug": "2097360",
+     "title": "The Mongoose",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2101015/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2100998/",
+     "url": "https://elcinema.com/en/work/2097360/",
      "status": "now_showing"
     },
     {
@@ -60,21 +42,39 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2099777/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101015",
+     "title": "Best Pancakes in the County",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2101015/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102959",
      "title": "Into the Wonderwoods",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
      "url": "https://elcinema.com/en/work/2102959/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2097360/",
      "status": "now_showing"
     },
     {
@@ -114,15 +114,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2099119/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2096928",
      "title": "Naseeb",
      "rating": "",
@@ -132,12 +123,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2088495",
-     "title": "Wildwood",
+     "slug": "2099119",
+     "title": "Sense and Sensibility",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2088495/",
+     "url": "https://elcinema.com/en/work/2099119/",
      "status": "now_showing"
     },
     {
@@ -150,12 +141,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102529",
-     "title": "Jean Valjean",
+     "slug": "2088495",
+     "title": "Wildwood",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102529/",
+     "url": "https://elcinema.com/en/work/2088495/",
      "status": "now_showing"
     },
     {
@@ -186,21 +177,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095519",
-     "title": "Other Mommy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095519",
+     "title": "Other Mommy",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2095519/",
      "status": "now_showing"
     },
     {
@@ -228,6 +219,15 @@
      "language": "",
      "releaseDate": "2026-07-30",
      "url": "https://elcinema.com/en/work/2095765/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098745",
+     "title": "Minions & Monsters",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-07-01",
+     "url": "https://elcinema.com/en/work/2098745/",
      "status": "now_showing"
     },
     {

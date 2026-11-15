@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T04:52:23.492Z",
+ "updatedAt": "2026-11-15T13:27:32.385Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -876,6 +876,15 @@
      "status": "coming_soon"
     },
     {
+     "slug": "forgotten-island-arabic",
+     "title": "Forgotten Island",
+     "rating": "PG12",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/forgotten-island-arabic",
+     "status": "coming_soon"
+    },
+    {
      "slug": "i-play-rocky-english",
      "title": "I Play Rocky",
      "rating": "R15",
@@ -1367,6 +1376,15 @@
      "status": "coming_soon"
     },
     {
+     "slug": "forgotten-island-arabic",
+     "title": "Forgotten Island",
+     "rating": "PG12",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/forgotten-island-arabic",
+     "status": "coming_soon"
+    },
+    {
      "slug": "i-play-rocky-english",
      "title": "I Play Rocky",
      "rating": "R15",
@@ -1795,15 +1813,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102933",
-     "title": "Gupi & The Grumpy King",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102933/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
@@ -1863,6 +1872,15 @@
    "name": "Cinescape Al-Bairaq",
    "films": [
     {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2095318",
      "title": "The Cat in the Hat",
      "rating": "",
@@ -1878,24 +1896,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099777/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102933",
-     "title": "Gupi & The Grumpy King",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102933/",
      "status": "now_showing"
     },
     {
@@ -2049,21 +2049,21 @@
    "name": "Cinescape Avenues",
    "films": [
     {
-     "slug": "2099108",
-     "title": "Ebenezer",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099108/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2100998",
      "title": "Hadoota",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099108/",
      "status": "now_showing"
     },
     {
@@ -2187,30 +2187,12 @@
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099777/",
      "status": "now_showing"
-    },
-    {
-     "slug": "2101015",
-     "title": "Best Pancakes in the County",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101015/",
-     "status": "now_showing"
     }
    ]
   },
   "cinescape-3101460": {
    "name": "Cinescape Assima",
    "films": [
-    {
-     "slug": "2088495",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
     {
      "slug": "2098155",
      "title": "Clayface",
@@ -2272,15 +2254,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099777/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102933",
-     "title": "Gupi & The Grumpy King",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102933/",
      "status": "now_showing"
     },
     {

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T04:53:55.377Z",
+ "updatedAt": "2026-11-15T13:29:17.825Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
@@ -15,21 +15,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2081722",
-     "title": "I Hate Christmas",
+     "slug": "2008356",
+     "title": "The Cat in the Hat",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-15",
-     "url": "https://elcinema.com/en/work/2081722/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097036",
-     "title": "Avengers: Doomsday",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-15",
-     "url": "https://elcinema.com/en/work/2097036/",
+     "url": "https://elcinema.com/en/work/2008356/",
      "status": "now_showing"
     },
     {
@@ -42,24 +33,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102185",
-     "title": "Adarsha Kutumbam House No: 47",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102185/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102966",
-     "title": "Remember",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102966/",
-     "status": "now_showing"
-    },
-    {
      "slug": "1010041",
      "title": "Doaa al Karawan",
      "rating": "",
@@ -69,21 +42,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102933",
-     "title": "Gupi & The Grumpy King",
+     "slug": "2059238",
+     "title": "Les Misérables",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102933/",
+     "url": "https://elcinema.com/en/work/2059238/",
      "status": "now_showing"
     },
     {
-     "slug": "2102527",
-     "title": "Belkis",
+     "slug": "2102185",
+     "title": "Adarsha Kutumbam House No: 47",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102527/",
+     "url": "https://elcinema.com/en/work/2102185/",
      "status": "now_showing"
     },
     {
@@ -96,12 +69,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099108",
-     "title": "Ebenezer",
+     "slug": "2102527",
+     "title": "Belkis",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-11",
-     "url": "https://elcinema.com/en/work/2099108/",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2102527/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102933",
+     "title": "Gupi & The Grumpy King",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2102933/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102966",
+     "title": "Remember",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2102966/",
      "status": "now_showing"
     },
     {
@@ -114,12 +105,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
+     "slug": "2099108",
+     "title": "Ebenezer",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-11",
-     "url": "https://elcinema.com/en/work/2099777/",
+     "url": "https://elcinema.com/en/work/2099108/",
      "status": "now_showing"
     },
     {
@@ -129,6 +120,15 @@
      "language": "",
      "releaseDate": "2026-11-11",
      "url": "https://elcinema.com/en/work/2098161/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-11",
+     "url": "https://elcinema.com/en/work/2099777/",
      "status": "now_showing"
     },
     {
@@ -177,21 +177,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101615",
-     "title": "A Talent for Murder",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-04",
-     "url": "https://elcinema.com/en/work/2101615/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095318",
      "title": "The Cat in the Hat",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-04",
      "url": "https://elcinema.com/en/work/2095318/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101615",
+     "title": "A Talent for Murder",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-04",
+     "url": "https://elcinema.com/en/work/2101615/",
      "status": "now_showing"
     },
     {
@@ -213,30 +213,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2088495",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2096928",
      "title": "Naseeb",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
      "url": "https://elcinema.com/en/work/2096928/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2097360/",
      "status": "now_showing"
     },
     {
@@ -258,6 +240,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "2088495",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2088495/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097360",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2097360/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
@@ -267,21 +267,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099122",
-     "title": "Forgotten Island",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2099122/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2099122/",
      "status": "now_showing"
     },
     {

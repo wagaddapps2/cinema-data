@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-11-15T04:53:57.383Z",
+ "updatedAt": "2026-11-15T13:29:21.834Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
    "name": "Cinemas in Bahrain",
    "films": [
+    {
+     "slug": "2102970",
+     "title": "Melcow Pondicherry",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-15",
+     "url": "https://elcinema.com/en/work/2102970/",
+     "status": "now_showing"
+    },
     {
      "slug": "2102969",
      "title": "John Doe",
@@ -21,15 +30,6 @@
      "language": "",
      "releaseDate": "2026-11-12",
      "url": "https://elcinema.com/en/work/2101015/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102971",
-     "title": "Batulo Jun",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102971/",
      "status": "now_showing"
     },
     {
@@ -60,6 +60,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102971",
+     "title": "Batulo Jun",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2102971/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099777",
      "title": "How to Rob a Bank",
      "rating": "",
@@ -69,21 +78,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099108",
-     "title": "Ebenezer",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-11",
-     "url": "https://elcinema.com/en/work/2099108/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2100998",
      "title": "Hadoota",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-11",
      "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-11",
+     "url": "https://elcinema.com/en/work/2099108/",
      "status": "now_showing"
     },
     {
@@ -105,15 +114,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098323",
-     "title": "Godzilla Minus Zero",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-04",
-     "url": "https://elcinema.com/en/work/2098323/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095318",
      "title": "The Cat in the Hat",
      "rating": "",
@@ -123,12 +123,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2088495",
-     "title": "Wildwood",
+     "slug": "2098323",
+     "title": "Godzilla Minus Zero",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2088495/",
+     "releaseDate": "2026-11-04",
+     "url": "https://elcinema.com/en/work/2098323/",
      "status": "now_showing"
     },
     {
@@ -141,21 +141,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099773",
      "title": "Wala Kan Ala El-Bal",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
      "url": "https://elcinema.com/en/work/2099773/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2088495",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2088495/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097360",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2097360/",
      "status": "now_showing"
     },
     {
