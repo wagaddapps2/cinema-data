@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T22:00:44.365Z",
+ "updatedAt": "2026-11-15T04:53:56.870Z",
  "territory": "QA",
  "cinemas": {
   "elcinema-qa": {
@@ -444,15 +444,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102000/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2102161",
-     "title": "Traveler's Hell",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102161/",
      "status": "coming_soon"
     }
    ]
