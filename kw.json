@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T13:27:32.385Z",
+ "updatedAt": "2026-11-15T22:29:03.051Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -1906,6 +1906,15 @@
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101015/",
      "status": "now_showing"
+    },
+    {
+     "slug": "2102933",
+     "title": "Gupi & The Grumpy King",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102933/",
+     "status": "now_showing"
     }
    ]
   },
@@ -2308,6 +2317,24 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2088495",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2088495/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102933",
+     "title": "Gupi & The Grumpy King",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102933/",
      "status": "now_showing"
     }
    ]
