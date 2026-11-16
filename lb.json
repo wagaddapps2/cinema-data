@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T04:50:24.411Z",
+ "updatedAt": "2026-11-16T14:51:43.839Z",
  "territory": "LB",
  "cinemas": {
   "elcinema-lb": {
@@ -78,15 +78,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100794",
-     "title": "The Cycle",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2100794/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099699",
      "title": "Idiots",
      "rating": "",
@@ -105,48 +96,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2100794",
+     "title": "The Cycle",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2100794/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098323",
      "title": "Godzilla Minus Zero",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-03",
      "url": "https://elcinema.com/en/work/2098323/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102529",
-     "title": "Jean Valjean",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102529/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2099119/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2088495",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2099773/",
      "status": "now_showing"
     },
     {
@@ -159,6 +123,33 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099119",
+     "title": "Sense and Sensibility",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2099119/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099773",
+     "title": "Wala Kan Ala El-Bal",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2099773/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2088495",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2088495/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
@@ -168,21 +159,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099122",
      "title": "Forgotten Island",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -249,12 +240,48 @@
      "status": "now_showing"
     },
     {
+     "slug": "2100677",
+     "title": "Mamsos",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-30",
+     "url": "https://elcinema.com/en/work/2100677/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2096022",
+     "title": "Narnia: The Magician's Nephew",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2027-02-12",
+     "url": "https://elcinema.com/en/work/2096022/",
+     "status": "coming_soon"
+    },
+    {
      "slug": "2096404",
      "title": "Dune: Part Three",
      "rating": "",
      "language": "",
      "releaseDate": "2026-12-18",
      "url": "https://elcinema.com/en/work/2096404/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2097036",
+     "title": "Avengers: Doomsday",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-17",
+     "url": "https://elcinema.com/en/work/2097036/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2097128",
+     "title": "King",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-24",
+     "url": "https://elcinema.com/en/work/2097128/",
      "status": "coming_soon"
     },
     {
@@ -303,6 +330,15 @@
      "status": "coming_soon"
     },
     {
+     "slug": "2099255",
+     "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099255/",
+     "status": "coming_soon"
+    },
+    {
      "slug": "2099776",
      "title": "Violent Night 2",
      "rating": "",
@@ -327,6 +363,33 @@
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2101989/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2102003",
+     "title": "A Mouse Hunt for Christmas",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102003/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2102880",
+     "title": "Sohor Ghali",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2102880/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2102922",
+     "title": "The house of Mr. Ibrahim respected",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-26",
+     "url": "https://elcinema.com/en/work/2102922/",
      "status": "coming_soon"
     }
    ]

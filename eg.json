@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T04:50:18.936Z",
+ "updatedAt": "2026-11-16T14:51:22.166Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
@@ -348,6 +348,15 @@
      "status": "coming_soon"
     },
     {
+     "slug": "2096022",
+     "title": "Narnia: The Magician's Nephew",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2027-02-12",
+     "url": "https://elcinema.com/en/work/2096022/",
+     "status": "coming_soon"
+    },
+    {
      "slug": "2096404",
      "title": "Dune: Part Three",
      "rating": "",
@@ -375,6 +384,15 @@
      "status": "coming_soon"
     },
     {
+     "slug": "2097036",
+     "title": "Avengers: Doomsday",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-17",
+     "url": "https://elcinema.com/en/work/2097036/",
+     "status": "coming_soon"
+    },
+    {
      "slug": "2097394",
      "title": "Focker In-Law",
      "rating": "",
@@ -399,6 +417,15 @@
      "language": "",
      "releaseDate": "2026-12-11",
      "url": "https://elcinema.com/en/work/2098162/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2098169",
+     "title": "Children of Blood and Bone",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2027-01-15",
+     "url": "https://elcinema.com/en/work/2098169/",
      "status": "coming_soon"
     },
     {
@@ -561,6 +588,24 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102674/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2103110",
+     "title": "Nota de Voz / Voice Message",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2103110/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2103113",
+     "title": "Love on Tap",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2103113/",
      "status": "coming_soon"
     }
    ]

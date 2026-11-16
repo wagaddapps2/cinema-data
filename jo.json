@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T04:50:25.556Z",
+ "updatedAt": "2026-11-16T14:51:44.878Z",
  "territory": "JO",
  "cinemas": {
   "elcinema-jo": {
@@ -150,12 +150,48 @@
      "status": "now_showing"
     },
     {
+     "slug": "2100677",
+     "title": "Mamsos",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-30",
+     "url": "https://elcinema.com/en/work/2100677/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2096022",
+     "title": "Narnia: The Magician's Nephew",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2027-02-12",
+     "url": "https://elcinema.com/en/work/2096022/",
+     "status": "coming_soon"
+    },
+    {
      "slug": "2096404",
      "title": "Dune: Part Three",
      "rating": "",
      "language": "",
      "releaseDate": "2026-12-18",
      "url": "https://elcinema.com/en/work/2096404/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2097036",
+     "title": "Avengers: Doomsday",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-17",
+     "url": "https://elcinema.com/en/work/2097036/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2097128",
+     "title": "King",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-24",
+     "url": "https://elcinema.com/en/work/2097128/",
      "status": "coming_soon"
     },
     {
@@ -204,6 +240,15 @@
      "status": "coming_soon"
     },
     {
+     "slug": "2099255",
+     "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099255/",
+     "status": "coming_soon"
+    },
+    {
      "slug": "2099776",
      "title": "Violent Night 2",
      "rating": "",
@@ -228,6 +273,33 @@
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2101989/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2102003",
+     "title": "A Mouse Hunt for Christmas",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102003/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2102880",
+     "title": "Sohor Ghali",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2102880/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2102922",
+     "title": "The house of Mr. Ibrahim respected",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-26",
+     "url": "https://elcinema.com/en/work/2102922/",
      "status": "coming_soon"
     }
    ]

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T04:50:28.167Z",
+ "updatedAt": "2026-11-16T14:51:48.692Z",
  "territory": "IQ",
  "cinemas": {
   "elcinema-iq": {
@@ -258,12 +258,48 @@
      "status": "now_showing"
     },
     {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-20",
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2095523",
+     "title": "Maserati: The Brothers",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-04",
+     "url": "https://elcinema.com/en/work/2095523/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2096022",
+     "title": "Narnia: The Magician's Nephew",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2027-02-12",
+     "url": "https://elcinema.com/en/work/2096022/",
+     "status": "coming_soon"
+    },
+    {
      "slug": "2096404",
      "title": "Dune: Part Three",
      "rating": "",
      "language": "",
      "releaseDate": "2026-12-18",
      "url": "https://elcinema.com/en/work/2096404/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2097036",
+     "title": "Avengers: Doomsday",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-17",
+     "url": "https://elcinema.com/en/work/2097036/",
      "status": "coming_soon"
     },
     {
@@ -276,12 +312,30 @@
      "status": "coming_soon"
     },
     {
+     "slug": "2098160",
+     "title": "Ghost Soldier",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098160/",
+     "status": "coming_soon"
+    },
+    {
      "slug": "2098162",
      "title": "Jumanji: Open World",
      "rating": "",
      "language": "",
      "releaseDate": "2026-12-11",
      "url": "https://elcinema.com/en/work/2098162/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2098169",
+     "title": "Children of Blood and Bone",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2027-01-15",
+     "url": "https://elcinema.com/en/work/2098169/",
      "status": "coming_soon"
     },
     {
@@ -348,12 +402,12 @@
      "status": "coming_soon"
     },
     {
-     "slug": "2101989",
-     "title": "Crypto",
+     "slug": "2102273",
+     "title": "Yugly",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2101989/",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102273/",
      "status": "coming_soon"
     }
    ]

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T04:48:51.179Z",
+ "updatedAt": "2026-11-16T14:49:44.651Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -849,75 +849,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "the-hunger-games-sunrise-on-the-reaping-english",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-hunger-games-sunrise-on-the-reaping-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "crypto-arabic",
-     "title": "Crypto",
-     "rating": "",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/crypto-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "forgotten-island-english",
-     "title": "Forgotten Island",
-     "rating": "PG12",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/forgotten-island-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "forgotten-island-arabic",
-     "title": "Forgotten Island",
-     "rating": "PG12",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/forgotten-island-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "i-play-rocky-english",
-     "title": "I Play Rocky",
+     "slug": "you-can-see-everything-english",
+     "title": "You Can See Everything",
      "rating": "R15",
      "language": "English",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/i-play-rocky-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "i-object-english",
-     "title": "I, Object",
-     "rating": "PG",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/i-object-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "you-can-see-everything-english",
-     "title": "You Can See Everything",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/you-can-see-everything-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "three-wishes-for-cinderella-english",
-     "title": "Three Wishes for Cinderella",
-     "rating": "PG",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/three-wishes-for-cinderella-english",
      "status": "coming_soon"
     },
     {
@@ -954,6 +891,15 @@
      "language": "Malayalam",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/melcow-pondicherry-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "bouma-malayalam",
+     "title": "Bouma",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/bouma-malayalam",
      "status": "coming_soon"
     },
     {
@@ -1026,6 +972,15 @@
      "language": "Arabic",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/travellers-hell-saudi-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "maatrubhumi-hindi",
+     "title": "Maatrubhumi",
+     "rating": "",
+     "language": "Hindi",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/maatrubhumi-hindi",
      "status": "coming_soon"
     },
     {
@@ -1232,6 +1187,69 @@
    "name": "Ozone Cinemas Jahra",
    "films": [
     {
+     "slug": "the-hunger-games-sunrise-on-the-reaping-english",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/the-hunger-games-sunrise-on-the-reaping-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "crypto-arabic",
+     "title": "Crypto",
+     "rating": "R15",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/crypto-arabic",
+     "status": "now_showing"
+    },
+    {
+     "slug": "forgotten-island-english",
+     "title": "Forgotten Island",
+     "rating": "PG12",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/forgotten-island-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "forgotten-island-arabic",
+     "title": "Forgotten Island",
+     "rating": "PG12",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/forgotten-island-arabic",
+     "status": "now_showing"
+    },
+    {
+     "slug": "i-play-rocky-english",
+     "title": "I Play Rocky",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/i-play-rocky-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "i-object-english",
+     "title": "I, Object",
+     "rating": "PG",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/i-object-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "three-wishes-for-cinderella-english",
+     "title": "Three Wishes for Cinderella",
+     "rating": "PG",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/three-wishes-for-cinderella-english",
+     "status": "now_showing"
+    },
+    {
      "slug": "hadoota-arabic",
      "title": "Hadoota",
      "rating": "PG12",
@@ -1349,75 +1367,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "the-hunger-games-sunrise-on-the-reaping-english",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-hunger-games-sunrise-on-the-reaping-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "crypto-arabic",
-     "title": "Crypto",
-     "rating": "",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/crypto-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "forgotten-island-english",
-     "title": "Forgotten Island",
-     "rating": "PG12",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/forgotten-island-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "forgotten-island-arabic",
-     "title": "Forgotten Island",
-     "rating": "PG12",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/forgotten-island-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "i-play-rocky-english",
-     "title": "I Play Rocky",
+     "slug": "you-can-see-everything-english",
+     "title": "You Can See Everything",
      "rating": "R15",
      "language": "English",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/i-play-rocky-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "i-object-english",
-     "title": "I, Object",
-     "rating": "PG",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/i-object-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "you-can-see-everything-english",
-     "title": "You Can See Everything",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/you-can-see-everything-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "three-wishes-for-cinderella-english",
-     "title": "Three Wishes for Cinderella",
-     "rating": "PG",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/three-wishes-for-cinderella-english",
      "status": "coming_soon"
     },
     {
@@ -1463,6 +1418,15 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/a-talent-for-murder-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "bouma-malayalam",
+     "title": "Bouma",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/bouma-malayalam",
      "status": "coming_soon"
     },
     {
@@ -1535,6 +1499,15 @@
      "language": "Arabic",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/travellers-hell-saudi-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "maatrubhumi-hindi",
+     "title": "Maatrubhumi",
+     "rating": "",
+     "language": "Hindi",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/maatrubhumi-hindi",
      "status": "coming_soon"
     },
     {
@@ -1813,6 +1786,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102933",
+     "title": "Gupi & The Grumpy King",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102933/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
@@ -1822,12 +1804,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102220",
-     "title": "The Last Temptation of Becky",
+     "slug": "2102527",
+     "title": "Belkis",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102220/",
+     "url": "https://elcinema.com/en/work/2102527/",
      "status": "now_showing"
     },
     {
@@ -1849,12 +1831,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102527",
-     "title": "Belkis",
+     "slug": "2102220",
+     "title": "The Last Temptation of Becky",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102527/",
+     "url": "https://elcinema.com/en/work/2102220/",
      "status": "now_showing"
     },
     {
@@ -2049,21 +2031,21 @@
    "name": "Cinescape Avenues",
    "films": [
     {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099108",
      "title": "Ebenezer",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099108/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100998/",
      "status": "now_showing"
     },
     {
@@ -2266,30 +2248,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102933",
-     "title": "Gupi & The Grumpy King",
+     "slug": "2102527",
+     "title": "Belkis",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102933/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102220",
-     "title": "The Last Temptation of Becky",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102220/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096928",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096928/",
+     "url": "https://elcinema.com/en/work/2102527/",
      "status": "now_showing"
     },
     {
@@ -2302,12 +2266,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102527",
-     "title": "Belkis",
+     "slug": "2096928",
+     "title": "Naseeb",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102527/",
+     "url": "https://elcinema.com/en/work/2096928/",
      "status": "now_showing"
     },
     {
@@ -2326,6 +2290,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102220",
+     "title": "The Last Temptation of Becky",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102220/",
      "status": "now_showing"
     }
    ]
