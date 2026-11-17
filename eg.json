@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T01:37:12.255Z",
+ "updatedAt": "2026-11-17T15:32:19.475Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
@@ -579,15 +579,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2103110/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2103113",
-     "title": "Love on Tap",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2103113/",
      "status": "coming_soon"
     }
    ]

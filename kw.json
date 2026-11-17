@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T01:35:43.366Z",
+ "updatedAt": "2026-11-17T15:30:42.325Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -150,6 +150,14 @@
      "status": "now_showing"
     },
     {
+     "slug": "crypto-arabic",
+     "title": "Crypto",
+     "rating": "PG15",
+     "language": "Arabic",
+     "url": "https://kwt.voxcinemas.com/movies/crypto-arabic",
+     "status": "now_showing"
+    },
+    {
      "slug": "i-play-rocky",
      "title": "I Play Rocky",
      "rating": "R15",
@@ -158,32 +166,39 @@
      "status": "now_showing"
     },
     {
+     "slug": "the-hunger-games-sunrise-on-the-reaping",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/the-hunger-games-sunrise-on-the-reaping",
+     "status": "now_showing"
+    },
+    {
      "slug": "three-wishes-for-cinderella",
      "title": "Three Wishes for Cinderella",
-     "rating": "18TC",
+     "rating": "PG",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/three-wishes-for-cinderella",
      "status": "now_showing"
     },
     {
+     "slug": "you-can-see-everything",
+     "title": "You Can See Everything",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/you-can-see-everything",
+     "status": "now_showing"
+    },
+    {
      "slug": "crypto-arabic",
      "title": "Crypto",
-     "rating": "18TC",
+     "rating": "PG15",
      "language": "Arabic",
      "releaseDate": "2026-11-19",
      "url": "https://kwt.voxcinemas.com/movies/crypto-arabic",
      "status": "coming_soon"
     },
     {
-     "slug": "ghost-soldier",
-     "title": "Ghost Soldier",
-     "rating": "18TC",
-     "language": "English",
-     "releaseDate": "2026-11-19",
-     "url": "https://kwt.voxcinemas.com/movies/ghost-soldier",
-     "status": "coming_soon"
-    },
-    {
      "slug": "i-play-rocky",
      "title": "I Play Rocky",
      "rating": "R15",
@@ -195,7 +210,7 @@
     {
      "slug": "three-wishes-for-cinderella",
      "title": "Three Wishes for Cinderella",
-     "rating": "18TC",
+     "rating": "PG",
      "language": "English",
      "releaseDate": "2026-11-19",
      "url": "https://kwt.voxcinemas.com/movies/three-wishes-for-cinderella",
@@ -204,7 +219,7 @@
     {
      "slug": "you-can-see-everything",
      "title": "You Can See Everything",
-     "rating": "18TC",
+     "rating": "R15",
      "language": "English",
      "releaseDate": "2026-11-19",
      "url": "https://kwt.voxcinemas.com/movies/you-can-see-everything",
@@ -513,6 +528,60 @@
      "status": "now_showing"
     },
     {
+     "slug": "crypto",
+     "title": "CRYPTO",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/crypto/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "i-play-rocky",
+     "title": "I PLAY ROCKY",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/i-play-rocky/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "forgotten-island",
+     "title": "Forgotten Island",
+     "rating": "PG12",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/forgotten-island/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "three-wishes-for-cinderella",
+     "title": "THREE WISHES FOR CINDERELLA",
+     "rating": "PG",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/three-wishes-for-cinderella/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "you-can-see-everything",
+     "title": "YOU CAN SEE EVERYTHING",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/you-can-see-everything/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "i-object",
+     "title": "I, OBJECT",
+     "rating": "PG",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/i-object/en",
+     "status": "now_showing"
+    },
+    {
      "slug": "shaun-the-sheep-the-beast-of-mossy-bottom",
      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
      "rating": "",
@@ -537,24 +606,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/lockbox/en",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "i-object",
-     "title": "I, OBJECT",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/i-object/en",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-hunger-games-sunrise-on-the-reaping",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/the-hunger-games-sunrise-on-the-reaping/en",
      "status": "coming_soon"
     },
     {
@@ -616,6 +667,15 @@
   "grand-4": {
    "name": "Grand Al Andalus",
    "films": [
+    {
+     "slug": "the-hunger-games-sunrise-on-the-reaping",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/the-hunger-games-sunrise-on-the-reaping/en",
+     "status": "now_showing"
+    },
     {
      "slug": "how-to-rob-a-bank",
      "title": "HOW TO ROB A BANK",
@@ -725,6 +785,69 @@
      "status": "now_showing"
     },
     {
+     "slug": "crypto",
+     "title": "CRYPTO",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/crypto/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "i-play-rocky",
+     "title": "I PLAY ROCKY",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/i-play-rocky/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "forgotten-island",
+     "title": "Forgotten Island",
+     "rating": "PG12",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/forgotten-island/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "three-wishes-for-cinderella",
+     "title": "THREE WISHES FOR CINDERELLA",
+     "rating": "PG",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/three-wishes-for-cinderella/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "you-can-see-everything",
+     "title": "YOU CAN SEE EVERYTHING",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/you-can-see-everything/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "forgotten-island-arabic",
+     "title": "Forgotten Island (Arabic)",
+     "rating": "PG12",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/forgotten-island-arabic/en",
+     "status": "now_showing"
+    },
+    {
+     "slug": "i-object",
+     "title": "I, OBJECT",
+     "rating": "PG",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/i-object/en",
+     "status": "now_showing"
+    },
+    {
      "slug": "shaun-the-sheep-the-beast-of-mossy-bottom",
      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
      "rating": "",
@@ -749,24 +872,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/lockbox/en",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "i-object",
-     "title": "I, OBJECT",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/i-object/en",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "the-hunger-games-sunrise-on-the-reaping",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/the-hunger-games-sunrise-on-the-reaping/en",
      "status": "coming_soon"
     },
     {
@@ -892,12 +997,12 @@
      "status": "coming_soon"
     },
     {
-     "slug": "aakasamlo-oka-tara-telugu",
+     "slug": "aakasamlo-oka-tara-malayalam",
      "title": "Aakasamlo Oka Tara",
      "rating": "PG12",
-     "language": "Telugu",
+     "language": "Malayalam",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/aakasamlo-oka-tara-telugu",
+     "url": "https://www.ozonecinema.com/movies/aakasamlo-oka-tara-malayalam",
      "status": "coming_soon"
     },
     {
@@ -957,7 +1062,7 @@
     {
      "slug": "yeh-prem-mol-liya-hindi",
      "title": "Yeh Prem Mol Liya",
-     "rating": "",
+     "rating": "PG12",
      "language": "Hindi",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/yeh-prem-mol-liya-hindi",
@@ -1410,12 +1515,12 @@
      "status": "coming_soon"
     },
     {
-     "slug": "aakasamlo-oka-tara-telugu",
+     "slug": "aakasamlo-oka-tara-malayalam",
      "title": "Aakasamlo Oka Tara",
      "rating": "PG12",
-     "language": "Telugu",
+     "language": "Malayalam",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/aakasamlo-oka-tara-telugu",
+     "url": "https://www.ozonecinema.com/movies/aakasamlo-oka-tara-malayalam",
      "status": "coming_soon"
     },
     {
@@ -1484,7 +1589,7 @@
     {
      "slug": "yeh-prem-mol-liya-hindi",
      "title": "Yeh Prem Mol Liya",
-     "rating": "",
+     "rating": "PG12",
      "language": "Hindi",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/yeh-prem-mol-liya-hindi",
@@ -1820,12 +1925,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102220",
-     "title": "The Last Temptation of Becky",
+     "slug": "2102527",
+     "title": "Belkis",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102220/",
+     "url": "https://elcinema.com/en/work/2102527/",
      "status": "now_showing"
     },
     {
@@ -1847,12 +1952,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102527",
-     "title": "Belkis",
+     "slug": "2102220",
+     "title": "The Last Temptation of Becky",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102527/",
+     "url": "https://elcinema.com/en/work/2102220/",
      "status": "now_showing"
     },
     {
@@ -2029,24 +2134,6 @@
    "name": "Cinescape Avenues",
    "films": [
     {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099108",
-     "title": "Ebenezer",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099108/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098323",
      "title": "Godzilla Minus Zero",
      "rating": "",
@@ -2083,6 +2170,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2088495",
      "title": "Wildwood",
      "rating": "",
@@ -2092,12 +2188,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101015",
-     "title": "Best Pancakes in the County",
+     "slug": "2099108",
+     "title": "Ebenezer",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101015/",
+     "url": "https://elcinema.com/en/work/2099108/",
      "status": "now_showing"
     },
     {
@@ -2116,15 +2212,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2096928/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102220",
-     "title": "The Last Temptation of Becky",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102220/",
      "status": "now_showing"
     },
     {
@@ -2313,6 +2400,60 @@
   "sky-salmiya": {
    "name": "SKY Cinemas Salmiya",
    "films": [
+    {
+     "slug": "the-hunger-games-sunrise-on-the-reaping/9999001558",
+     "title": "THE HUNGER GAMES: SUNRISE ON THE REAPING",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/the-hunger-games-sunrise-on-the-reaping/9999001558",
+     "status": "now_showing"
+    },
+    {
+     "slug": "i-play-rocky/9999001557",
+     "title": "I PLAY ROCKY",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/i-play-rocky/9999001557",
+     "status": "now_showing"
+    },
+    {
+     "slug": "forgotten-island/9999001556",
+     "title": "FORGOTTEN ISLAND",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/forgotten-island/9999001556",
+     "status": "now_showing"
+    },
+    {
+     "slug": "forgotten-island-arabic/9999001555",
+     "title": "FORGOTTEN ISLAND",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/forgotten-island-arabic/9999001555",
+     "status": "now_showing"
+    },
+    {
+     "slug": "crypto-(egyptian)-arabic-/9999001554",
+     "title": "CRYPTO",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/crypto-(egyptian)-arabic-/9999001554",
+     "status": "now_showing"
+    },
+    {
+     "slug": "you-can-see-everything/9999001553",
+     "title": "YOU CAN SEE EVERYTHING",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.skycinemaskw.com/movie-information/you-can-see-everything/9999001553",
+     "status": "now_showing"
+    },
     {
      "slug": "how-to-rob-a-bank/9999001552",
      "title": "HOW TO ROB A BANK",
