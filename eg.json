@@ -1,80 +1,71 @@
 {
- "updatedAt": "2026-11-16T14:51:22.166Z",
+ "updatedAt": "2026-11-17T01:37:12.255Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
    "name": "Cinemas in Egypt",
    "films": [
     {
-     "slug": "2100264",
-     "title": "The Birthday Party",
+     "slug": "2102911",
+     "title": "Hjemsøgt",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-16",
-     "url": "https://elcinema.com/en/work/2100264/",
+     "releaseDate": "2026-11-17",
+     "url": "https://elcinema.com/en/work/2102911/",
      "status": "now_showing"
     },
     {
-     "slug": "2102954",
-     "title": "SHORT FILM PROGRAM 2",
+     "slug": "2002038",
+     "title": "All the President's Men",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-16",
-     "url": "https://elcinema.com/en/work/2102954/",
+     "releaseDate": "2026-11-17",
+     "url": "https://elcinema.com/en/work/2002038/",
      "status": "now_showing"
     },
     {
-     "slug": "2102910",
-     "title": "The Embalmer",
+     "slug": "2102955",
+     "title": "SHORT FILM PROGRAM 3",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-16",
-     "url": "https://elcinema.com/en/work/2102910/",
+     "releaseDate": "2026-11-17",
+     "url": "https://elcinema.com/en/work/2102955/",
      "status": "now_showing"
     },
     {
-     "slug": "2102908",
-     "title": "Butterfly Jam",
+     "slug": "2102914",
+     "title": "Yugo Goes to America",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-16",
-     "url": "https://elcinema.com/en/work/2102908/",
+     "releaseDate": "2026-11-17",
+     "url": "https://elcinema.com/en/work/2102914/",
      "status": "now_showing"
     },
     {
-     "slug": "2102907",
-     "title": "Brunello: The Gracious Visionary",
+     "slug": "2102913",
+     "title": "Summer Meadow",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-16",
-     "url": "https://elcinema.com/en/work/2102907/",
+     "releaseDate": "2026-11-17",
+     "url": "https://elcinema.com/en/work/2102913/",
      "status": "now_showing"
     },
     {
-     "slug": "2102906",
-     "title": "Strawberries",
+     "slug": "2102912",
+     "title": "Sevda",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-16",
-     "url": "https://elcinema.com/en/work/2102906/",
+     "releaseDate": "2026-11-17",
+     "url": "https://elcinema.com/en/work/2102912/",
      "status": "now_showing"
     },
     {
-     "slug": "2102905",
-     "title": "Shokyakuro",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-16",
-     "url": "https://elcinema.com/en/work/2102905/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102909",
-     "title": "To the Sun and Beyond",
+     "slug": "2102959",
+     "title": "Into the Wonderwoods",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102909/",
+     "url": "https://elcinema.com/en/work/2102959/",
      "status": "now_showing"
     },
     {
@@ -96,15 +87,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102959",
-     "title": "Into the Wonderwoods",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102959/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101015",
      "title": "Best Pancakes in the County",
      "rating": "",
@@ -123,21 +105,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098323",
-     "title": "Godzilla Minus Zero",
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2098323/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100794",
-     "title": "The Cycle",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2100794/",
+     "url": "https://elcinema.com/en/work/2095318/",
      "status": "now_showing"
     },
     {
@@ -150,12 +123,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
+     "slug": "2100794",
+     "title": "The Cycle",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2095318/",
+     "url": "https://elcinema.com/en/work/2100794/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098323",
+     "title": "Godzilla Minus Zero",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2098323/",
      "status": "now_showing"
     },
     {
