@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T15:08:21.591Z",
+ "updatedAt": "2026-11-18T23:53:33.594Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -62,67 +62,19 @@
      "status": "now_showing"
     },
     {
-     "slug": "whalefall",
-     "title": "Whalefall",
-     "rating": "R15",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/whalefall",
-     "status": "now_showing"
-    },
-    {
-     "slug": "wildwood",
-     "title": "Wildwood",
-     "rating": "PG12",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/wildwood",
-     "status": "now_showing"
-    },
-    {
-     "slug": "wala-kan-ala-el-bal-arabic",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "R15",
-     "language": "Arabic",
-     "url": "https://kwt.voxcinemas.com/movies/wala-kan-ala-el-bal-arabic",
-     "status": "now_showing"
-    },
-    {
-     "slug": "naseeb-arabic",
-     "title": "Naseeb",
-     "rating": "PG12",
-     "language": "Arabic",
-     "url": "https://kwt.voxcinemas.com/movies/naseeb-arabic",
-     "status": "now_showing"
-    },
-    {
-     "slug": "verity",
-     "title": "Verity",
-     "rating": "R15",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/verity",
-     "status": "now_showing"
-    },
-    {
-     "slug": "best-pancakes-in-the-county",
-     "title": "Best Pancakes in the County",
-     "rating": "R15",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/best-pancakes-in-the-county",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-last-temptation-of-becky",
-     "title": "The Last Temptation of Becky",
-     "rating": "R18",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/the-last-temptation-of-becky",
-     "status": "now_showing"
-    },
-    {
      "slug": "crypto-arabic",
      "title": "Crypto",
      "rating": "R15",
      "language": "Arabic",
      "url": "https://kwt.voxcinemas.com/movies/crypto-arabic",
+     "status": "now_showing"
+    },
+    {
+     "slug": "forgotten-island",
+     "title": "Forgotten Island",
+     "rating": "PG12",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/forgotten-island",
      "status": "now_showing"
     },
     {
@@ -156,51 +108,6 @@
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/you-can-see-everything",
      "status": "now_showing"
-    },
-    {
-     "slug": "crypto-arabic",
-     "title": "Crypto",
-     "rating": "R15",
-     "language": "Arabic",
-     "releaseDate": "2026-11-19",
-     "url": "https://kwt.voxcinemas.com/movies/crypto-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "i-play-rocky",
-     "title": "I Play Rocky",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": "2026-11-19",
-     "url": "https://kwt.voxcinemas.com/movies/i-play-rocky",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "three-wishes-for-cinderella",
-     "title": "Three Wishes for Cinderella",
-     "rating": "PG",
-     "language": "English",
-     "releaseDate": "2026-11-19",
-     "url": "https://kwt.voxcinemas.com/movies/three-wishes-for-cinderella",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "you-can-see-everything",
-     "title": "You Can See Everything",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": "2026-11-19",
-     "url": "https://kwt.voxcinemas.com/movies/you-can-see-everything",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "focker-in-law",
-     "title": "Focker In-Law",
-     "rating": "18TC",
-     "language": "English",
-     "releaseDate": "2026-11-26",
-     "url": "https://kwt.voxcinemas.com/movies/focker-in-law",
-     "status": "coming_soon"
     },
     {
      "slug": "hexed",
@@ -415,60 +322,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "how-to-rob-a-bank",
-     "title": "HOW TO ROB A BANK",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/how-to-rob-a-bank/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "into-the-wonderwoods",
-     "title": "Into The Wonderwoods",
-     "rating": "PG",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/into-the-wonderwoods/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "verity",
-     "title": "VERITY",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/verity/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "clayface",
-     "title": "CLAYFACE",
-     "rating": "R18",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/clayface/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-mongoose",
-     "title": "THE MONGOOSE",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/the-mongoose/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-cat-in-the-hat",
-     "title": "THE CAT IN THE HAT",
-     "rating": "PG",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/the-cat-in-the-hat/en",
-     "status": "now_showing"
-    },
-    {
      "slug": "ebenezer",
      "title": "EBENEZER",
      "rating": "R15",
@@ -484,24 +337,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/hadoota/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "best-pancakes-in-the-county",
-     "title": "BEST PANCAKES IN THE COUNTY",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/best-pancakes-in-the-county/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-last-temptation-of-becky",
-     "title": "THE LAST TEMPTATION OF BECKY",
-     "rating": "R18",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/the-last-temptation-of-becky/en",
      "status": "now_showing"
     },
     {
@@ -681,33 +516,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "the-mongoose",
-     "title": "THE MONGOOSE",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/the-mongoose/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "naseeb",
-     "title": "NASEEB",
-     "rating": "PG12",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/naseeb/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "sense-and-sensibility",
-     "title": "SENSE AND SENSIBILITY",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/sense-and-sensibility/en",
-     "status": "now_showing"
-    },
-    {
      "slug": "the-cat-in-the-hat",
      "title": "THE CAT IN THE HAT",
      "rating": "PG",
@@ -732,24 +540,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/hadoota/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "best-pancakes-in-the-county",
-     "title": "BEST PANCAKES IN THE COUNTY",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/best-pancakes-in-the-county/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-last-temptation-of-becky",
-     "title": "THE LAST TEMPTATION OF BECKY",
-     "rating": "R18",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/the-last-temptation-of-becky/en",
      "status": "now_showing"
     },
     {
@@ -926,24 +716,6 @@
      "language": "Tamil",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/scene-tamil",
-     "status": "now_showing"
-    },
-    {
-     "slug": "disco-malayalam",
-     "title": "Disco",
-     "rating": "R18",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/disco-malayalam",
-     "status": "now_showing"
-    },
-    {
-     "slug": "jailer-2-tamil",
-     "title": "Jailer 2",
-     "rating": "R15",
-     "language": "Tamil",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/jailer-2-tamil",
      "status": "now_showing"
     },
     {
@@ -1357,78 +1129,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "ebenezer-english",
-     "title": "Ebenezer",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/ebenezer-english",
-     "status": "now_showing"
-    },
-    {
-     "slug": "godzilla-minus-zero-japanese",
-     "title": "Godzilla Minus Zero",
-     "rating": "PG12",
-     "language": "Japanese",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/godzilla-minus-zero-japanese",
-     "status": "now_showing"
-    },
-    {
-     "slug": "how-to-rob-a-bank-english",
-     "title": "How to Rob a Bank",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/how-to-rob-a-bank-english",
-     "status": "now_showing"
-    },
-    {
-     "slug": "gupi-and-the-grumpy-king-english-dub",
-     "title": "Gupi And the Grumpy King",
-     "rating": "PG",
-     "language": "English Dub",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/gupi-and-the-grumpy-king-english-dub",
-     "status": "now_showing"
-    },
-    {
-     "slug": "belkis-turkish",
-     "title": "Belkis",
-     "rating": "R15",
-     "language": "Turkish",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/belkis-turkish",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-last-temptation-of-becky-english",
-     "title": "The Last Temptation of Becky",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-last-temptation-of-becky-english",
-     "status": "now_showing"
-    },
-    {
-     "slug": "into-the-wonderwoods-english",
-     "title": "Into The Wonderwoods",
-     "rating": "PG",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/into-the-wonderwoods-english",
-     "status": "now_showing"
-    },
-    {
-     "slug": "best-pancakes-in-the-county-english",
-     "title": "Best Pancakes in the County",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/best-pancakes-in-the-county-english",
-     "status": "now_showing"
-    },
-    {
      "slug": "bachelor-party-deux-malayalam",
      "title": "Bachelor Party D&#x27;eux",
      "rating": "",
@@ -1754,238 +1454,52 @@
     }
    ]
   },
-  "cinescape-3101202": {
-   "name": "Cinescape 360",
-   "films": [
-    {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099108",
-     "title": "Ebenezer",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099108/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101015",
-     "title": "Best Pancakes in the County",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101015/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099777/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095318/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2088495",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102933",
-     "title": "Gupi & The Grumpy King",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102933/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102527",
-     "title": "Belkis",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102527/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102220",
-     "title": "The Last Temptation of Becky",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102220/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096928",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096928/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098323",
-     "title": "Godzilla Minus Zero",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098323/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095116/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099773/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099109",
-     "title": "I Play Rocky",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099109/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "cinescape-3101203": {
-   "name": "Cinescape Al-Bairaq",
-   "films": [
-    {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095318/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099777/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101015",
-     "title": "Best Pancakes in the County",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101015/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "cinescape-3101206": {
-   "name": "Cinescape Ajial",
-   "films": [
-    {
-     "slug": "2102704",
-     "title": "Scene",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102704/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    }
-   ]
-  },
   "cinescape-3101208": {
    "name": "Cinescape Al Kout",
    "films": [
     {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
+     "slug": "2097821",
+     "title": "I, Object",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099777/",
+     "url": "https://elcinema.com/en/work/2097821/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099109",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099109/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100998/",
      "status": "now_showing"
     },
     {
@@ -1998,107 +1512,39 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097360",
-     "title": "The Mongoose",
+     "slug": "2103092",
+     "title": "OM Chapter 1: Udhiram - The Blood Wood",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097360/",
+     "url": "https://elcinema.com/en/work/2103092/",
      "status": "now_showing"
     },
     {
-     "slug": "2102527",
-     "title": "Belkis",
+     "slug": "2103090",
+     "title": "Three Wishes for Cinderella",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102527/",
+     "url": "https://elcinema.com/en/work/2103090/",
      "status": "now_showing"
     },
     {
-     "slug": "2099108",
-     "title": "Ebenezer",
+     "slug": "2101718",
+     "title": "You Can See Everything",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099108/",
+     "url": "https://elcinema.com/en/work/2101718/",
      "status": "now_showing"
     },
     {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
+     "slug": "2101989",
+     "title": "Crypto",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095318/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096928",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096928/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102704",
-     "title": "Scene",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102704/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102220",
-     "title": "The Last Temptation of Becky",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102220/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095116/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099109",
-     "title": "I Play Rocky",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099109/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "cinescape-3101210": {
-   "name": "Cinescape Avenues",
-   "films": [
-    {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100998/",
+     "url": "https://elcinema.com/en/work/2101989/",
      "status": "now_showing"
     },
     {
@@ -2108,295 +1554,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099108/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098323",
-     "title": "Godzilla Minus Zero",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098323/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099777/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102527",
-     "title": "Belkis",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102527/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095318/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2088495",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096928",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096928/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095116/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099109",
-     "title": "I Play Rocky",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099109/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "cinescape-3101339": {
-   "name": "Cinescape 1954 Film House",
-   "films": [
-    {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099108",
-     "title": "Ebenezer",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099108/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099777/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095116/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "cinescape-3101460": {
-   "name": "Cinescape Assima",
-   "films": [
-    {
-     "slug": "2088495",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096928",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096928/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099108",
-     "title": "Ebenezer",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099108/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098323",
-     "title": "Godzilla Minus Zero",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098323/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101015",
-     "title": "Best Pancakes in the County",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101015/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095318/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099777/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102527",
-     "title": "Belkis",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102527/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102933",
-     "title": "Gupi & The Grumpy King",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102933/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102220",
-     "title": "The Last Temptation of Becky",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102220/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099773/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095116/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099109",
-     "title": "I Play Rocky",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099109/",
      "status": "now_showing"
     }
    ]
@@ -2459,15 +1616,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "how-to-rob-a-bank/9999001552",
-     "title": "HOW TO ROB A BANK",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/how-to-rob-a-bank/9999001552",
-     "status": "now_showing"
-    },
-    {
      "slug": "hadoota-(egyptian)-arabic/9999001551",
      "title": "HADOOTA",
      "rating": "",
@@ -2483,60 +1631,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.skycinemaskw.com/movie-information/ebenezer/9999001550",
-     "status": "now_showing"
-    },
-    {
-     "slug": "best-pancakes-in-the-county/9999001549",
-     "title": "BEST PANCAKES IN THE COUNTY",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/best-pancakes-in-the-county/9999001549",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-last-temptation-of-becky/9999001548",
-     "title": "THE LAST TEMPTATION OF BECKY",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/the-last-temptation-of-becky/9999001548",
-     "status": "now_showing"
-    },
-    {
-     "slug": "gupi-and-the-grumpy-king-english-dub/9999001547",
-     "title": "GUPI AND THE GRUMPY KING - ENGLISH DUB",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/gupi-and-the-grumpy-king-english-dub/9999001547",
-     "status": "now_showing"
-    },
-    {
-     "slug": "a-talent-for-murder/9999001546",
-     "title": "A TALENT FOR MURDER",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/a-talent-for-murder/9999001546",
-     "status": "now_showing"
-    },
-    {
-     "slug": "godzilla-minus-zero-japanese/9999001545",
-     "title": "GODZILLA MINUS ZERO",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/godzilla-minus-zero-japanese/9999001545",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-cat-in-the-hat-/9999001544",
-     "title": "THE CAT IN THE HAT",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/the-cat-in-the-hat-/9999001544",
      "status": "now_showing"
     },
     {

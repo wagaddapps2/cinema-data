@@ -1,62 +1,98 @@
 {
- "updatedAt": "2026-11-18T15:10:10.060Z",
+ "updatedAt": "2026-11-18T23:55:09.116Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
    "name": "Cinemas in Egypt",
    "films": [
     {
-     "slug": "2102956",
-     "title": "برنامج الأفلام القصيرة 4",
+     "slug": "2099122",
+     "title": "Forgotten Island",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-18",
-     "url": "https://elcinema.com/en/work/2102956/",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2099122/",
      "status": "now_showing"
     },
     {
-     "slug": "2102974",
-     "title": "Home Bitter Home",
+     "slug": "2102957",
+     "title": "SHORT FILM PROGRAM 5",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-18",
-     "url": "https://elcinema.com/en/work/2102974/",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2102957/",
      "status": "now_showing"
     },
     {
-     "slug": "2102917",
-     "title": "Louf",
+     "slug": "2102919",
+     "title": "The Ballet Lesson",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-18",
-     "url": "https://elcinema.com/en/work/2102917/",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2102919/",
      "status": "now_showing"
     },
     {
-     "slug": "2102916",
-     "title": "Cuero",
+     "slug": "2102918",
+     "title": "The Green Eyes",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-18",
-     "url": "https://elcinema.com/en/work/2102916/",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2102918/",
      "status": "now_showing"
     },
     {
-     "slug": "2102915",
-     "title": "The Day of Wrath: Tales from Tripoli",
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-18",
-     "url": "https://elcinema.com/en/work/2102915/",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2095116/",
      "status": "now_showing"
     },
     {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
+     "slug": "2099109",
+     "title": "I Play Rocky",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099777/",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2099109/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102527",
+     "title": "Belkis",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2102527/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2101989/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098161",
+     "title": "Les Miserables",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-15",
+     "url": "https://elcinema.com/en/work/2098161/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102893",
+     "title": "Al Baraneya",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-13",
+     "url": "https://elcinema.com/en/work/2102893/",
      "status": "now_showing"
     },
     {
@@ -69,15 +105,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101015",
-     "title": "Best Pancakes in the County",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2101015/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099108",
      "title": "Ebenezer",
      "rating": "",
@@ -87,30 +114,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2099777/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101015",
+     "title": "Best Pancakes in the County",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2101015/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100998",
      "title": "Hadoota",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-11",
      "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102069",
-     "title": "Üç Harfliler: Mühür",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102069/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2095318/",
      "status": "now_showing"
     },
     {
@@ -132,12 +159,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2088495",
-     "title": "Wildwood",
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2088495/",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2095318/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102069",
+     "title": "Üç Harfliler: Mühür",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2102069/",
      "status": "now_showing"
     },
     {
@@ -147,6 +183,15 @@
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2099119/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2088495",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2088495/",
      "status": "now_showing"
     },
     {
