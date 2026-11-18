@@ -1,10 +1,28 @@
 {
- "updatedAt": "2026-11-18T00:35:01.700Z",
+ "updatedAt": "2026-11-18T15:10:30.244Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
    "name": "Cinemas in Syria",
    "films": [
+    {
+     "slug": "2101303",
+     "title": "Prison Cell 211",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2101303/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099759",
+     "title": "Ramayana",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2099759/",
+     "status": "now_showing"
+    },
     {
      "slug": "2095519",
      "title": "Other Mommy",
@@ -42,15 +60,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099759",
-     "title": "Ramayana",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099759/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099773",
      "title": "Wala Kan Ala El-Bal",
      "rating": "",
@@ -60,12 +69,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099520",
-     "title": "Matloub Aaeleyan",
+     "slug": "2020775",
+     "title": "Frozen",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2099520/",
+     "releaseDate": "2026-09-09",
+     "url": "https://elcinema.com/en/work/2020775/",
      "status": "now_showing"
     },
     {
@@ -75,6 +84,33 @@
      "language": "",
      "releaseDate": "2026-07-23",
      "url": "https://elcinema.com/en/work/2098609/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2090768",
+     "title": "Lilo & Stitch",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2025-05-22",
+     "url": "https://elcinema.com/en/work/2090768/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1092881",
+     "title": "Ratatouille",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-08-07",
+     "url": "https://elcinema.com/en/work/1092881/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2048211",
+     "title": "Red Shoes and the Seven Dwarfs",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-07-24",
+     "url": "https://elcinema.com/en/work/2048211/",
      "status": "now_showing"
     },
     {

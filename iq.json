@@ -1,26 +1,26 @@
 {
- "updatedAt": "2026-11-18T00:35:03.117Z",
+ "updatedAt": "2026-11-18T15:10:31.803Z",
  "territory": "IQ",
  "cinemas": {
   "elcinema-iq": {
    "name": "Cinemas in Iraq",
    "films": [
     {
-     "slug": "2099108",
-     "title": "Ebenezer",
+     "slug": "2099109",
+     "title": "I Play Rocky",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099108/",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2099109/",
      "status": "now_showing"
     },
     {
-     "slug": "2102959",
-     "title": "Into the Wonderwoods",
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102959/",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2095116/",
      "status": "now_showing"
     },
     {
@@ -33,12 +33,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101015",
-     "title": "Best Pancakes in the County",
+     "slug": "2102959",
+     "title": "Into the Wonderwoods",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2101015/",
+     "url": "https://elcinema.com/en/work/2102959/",
      "status": "now_showing"
     },
     {
@@ -51,12 +51,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101015",
+     "title": "Best Pancakes in the County",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2101015/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099777",
      "title": "How to Rob a Bank",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
      "url": "https://elcinema.com/en/work/2099777/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2099108/",
      "status": "now_showing"
     },
     {
@@ -69,12 +87,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100794",
-     "title": "The Cycle",
+     "slug": "2099759",
+     "title": "Ramayana",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2100794/",
+     "url": "https://elcinema.com/en/work/2099759/",
      "status": "now_showing"
     },
     {
@@ -87,15 +105,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102002",
-     "title": "The Draw",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102002/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097360",
      "title": "The Mongoose",
      "rating": "",
@@ -105,12 +114,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099759",
-     "title": "Ramayana",
+     "slug": "2100794",
+     "title": "The Cycle",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2099759/",
+     "url": "https://elcinema.com/en/work/2100794/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102002",
+     "title": "The Draw",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2102002/",
      "status": "now_showing"
     },
     {
@@ -300,15 +318,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2097394/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2098160",
-     "title": "Ghost Soldier",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098160/",
      "status": "coming_soon"
     },
     {

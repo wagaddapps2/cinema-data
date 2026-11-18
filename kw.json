@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T00:33:09.083Z",
+ "updatedAt": "2026-11-18T15:08:21.591Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -102,43 +102,11 @@
      "status": "now_showing"
     },
     {
-     "slug": "the-mongoose",
-     "title": "The Mongoose",
-     "rating": "R15",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/the-mongoose",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-cat-in-the-hat-arabic",
-     "title": "The Cat In The Hat",
-     "rating": "PG",
-     "language": "Arabic",
-     "url": "https://kwt.voxcinemas.com/movies/the-cat-in-the-hat-arabic",
-     "status": "now_showing"
-    },
-    {
-     "slug": "belkis-turkish",
-     "title": "Belkis",
-     "rating": "R15",
-     "language": "Turkish",
-     "url": "https://kwt.voxcinemas.com/movies/belkis-turkish",
-     "status": "now_showing"
-    },
-    {
      "slug": "best-pancakes-in-the-county",
      "title": "Best Pancakes in the County",
      "rating": "R15",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/best-pancakes-in-the-county",
-     "status": "now_showing"
-    },
-    {
-     "slug": "gupi-and-the-grumpy-king",
-     "title": "Gupi & The Grumpy King",
-     "rating": "PG",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/gupi-and-the-grumpy-king",
      "status": "now_showing"
     },
     {
@@ -438,6 +406,15 @@
    "name": "Grand Hamra",
    "films": [
     {
+     "slug": "the-hunger-games-sunrise-on-the-reaping",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "R15",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/the-hunger-games-sunrise-on-the-reaping/en",
+     "status": "now_showing"
+    },
+    {
      "slug": "how-to-rob-a-bank",
      "title": "HOW TO ROB A BANK",
      "rating": "R15",
@@ -686,15 +663,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "into-the-wonderwoods",
-     "title": "Into The Wonderwoods",
-     "rating": "PG",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/into-the-wonderwoods/en",
-     "status": "now_showing"
-    },
-    {
      "slug": "godzilla-minus-zero-japanese",
      "title": "GODZILLA MINUS ZERO (Japanese)",
      "rating": "PG12",
@@ -934,6 +902,24 @@
    "name": "Ozone Cinemas Khaitan",
    "films": [
     {
+     "slug": "om-chapter-1-udhiram-the-blood-wood-tamil",
+     "title": "OM Chapter 1: Udhiram - The Blood Wood",
+     "rating": "R15",
+     "language": "Tamil",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/om-chapter-1-udhiram-the-blood-wood-tamil",
+     "status": "now_showing"
+    },
+    {
+     "slug": "aakasamlo-oka-tara-malayalam",
+     "title": "Aakasamlo Oka Tara",
+     "rating": "PG12",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/aakasamlo-oka-tara-malayalam",
+     "status": "now_showing"
+    },
+    {
      "slug": "scene-tamil",
      "title": "Scene",
      "rating": "R15",
@@ -952,15 +938,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "aadarsha-kutumbam-house-no-47-ak-47-telugu",
-     "title": "Aadarsha Kutumbam House No: 47 - AK 47",
-     "rating": "R15",
-     "language": "Telugu",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/aadarsha-kutumbam-house-no-47-ak-47-telugu",
-     "status": "now_showing"
-    },
-    {
      "slug": "jailer-2-tamil",
      "title": "Jailer 2",
      "rating": "R15",
@@ -968,24 +945,6 @@
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/jailer-2-tamil",
      "status": "now_showing"
-    },
-    {
-     "slug": "you-can-see-everything-english",
-     "title": "You Can See Everything",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/you-can-see-everything-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "om-chapter-1-udhiram-the-blood-wood-tamil",
-     "title": "OM Chapter 1: Udhiram - The Blood Wood",
-     "rating": "",
-     "language": "Tamil",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/om-chapter-1-udhiram-the-blood-wood-tamil",
-     "status": "coming_soon"
     },
     {
      "slug": "bachelor-party-deux-malayalam",
@@ -997,12 +956,66 @@
      "status": "coming_soon"
     },
     {
-     "slug": "aakasamlo-oka-tara-malayalam",
-     "title": "Aakasamlo Oka Tara",
-     "rating": "PG12",
-     "language": "Malayalam",
+     "slug": "hexed-arabic",
+     "title": "Hexed",
+     "rating": "PG",
+     "language": "Arabic",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/aakasamlo-oka-tara-malayalam",
+     "url": "https://www.ozonecinema.com/movies/hexed-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "hexed-english",
+     "title": "Hexed",
+     "rating": "PG",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/hexed-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "paper-tiger-english",
+     "title": "Paper Tiger",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/paper-tiger-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "scorpion-english",
+     "title": "Scorpion",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/scorpion-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "travellers-hell-saudi-arabic",
+     "title": "Traveller&#x2019;s Hell -Saudi",
+     "rating": "",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/travellers-hell-saudi-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "focker-in-law-english",
+     "title": "Focker in Law",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/focker-in-law-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "yeh-prem-mol-liya-hindi",
+     "title": "Yeh Prem Mol Liya",
+     "rating": "PG12",
+     "language": "Hindi",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/yeh-prem-mol-liya-hindi",
      "status": "coming_soon"
     },
     {
@@ -1060,15 +1073,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "yeh-prem-mol-liya-hindi",
-     "title": "Yeh Prem Mol Liya",
-     "rating": "PG12",
-     "language": "Hindi",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/yeh-prem-mol-liya-hindi",
-     "status": "coming_soon"
-    },
-    {
      "slug": "shed-english",
      "title": "Shed",
      "rating": "",
@@ -1084,15 +1088,6 @@
      "language": "Hindi",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/eetha-hindi",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "travellers-hell-saudi-arabic",
-     "title": "Traveller&#x2019;s Hell -Saudi",
-     "rating": "",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/travellers-hell-saudi-arabic",
      "status": "coming_soon"
     },
     {
@@ -1114,24 +1109,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "focker-in-law-english",
-     "title": "Focker in Law",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/focker-in-law-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "paper-tiger-english",
-     "title": "Paper Tiger",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/paper-tiger-english",
-     "status": "coming_soon"
-    },
-    {
      "slug": "remain-english",
      "title": "Remain",
      "rating": "",
@@ -1141,30 +1118,12 @@
      "status": "coming_soon"
     },
     {
-     "slug": "hexed-english",
-     "title": "Hexed",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/hexed-english",
-     "status": "coming_soon"
-    },
-    {
      "slug": "monster-mia-english",
      "title": "Monster Mia",
      "rating": "",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/monster-mia-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "scorpion-english",
-     "title": "Scorpion",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/scorpion-english",
      "status": "coming_soon"
     },
     {
@@ -1308,6 +1267,15 @@
    "name": "Ozone Cinemas Jahra",
    "films": [
     {
+     "slug": "om-chapter-1-udhiram-the-blood-wood-tamil",
+     "title": "OM Chapter 1: Udhiram - The Blood Wood",
+     "rating": "R15",
+     "language": "Tamil",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/om-chapter-1-udhiram-the-blood-wood-tamil",
+     "status": "now_showing"
+    },
+    {
      "slug": "the-hunger-games-sunrise-on-the-reaping-english",
      "title": "The Hunger Games: Sunrise on the Reaping",
      "rating": "R15",
@@ -1359,6 +1327,15 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/i-object-english",
+     "status": "now_showing"
+    },
+    {
+     "slug": "you-can-see-everything-english",
+     "title": "You Can See Everything",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/you-can-see-everything-english",
      "status": "now_showing"
     },
     {
@@ -1452,60 +1429,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "the-cat-in-the-hat-english",
-     "title": "The Cat in the Hat",
-     "rating": "PG",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-cat-in-the-hat-english",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-cat-in-the-hat-arabic",
-     "title": "The Cat in the Hat",
-     "rating": "PG",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/the-cat-in-the-hat-arabic",
-     "status": "now_showing"
-    },
-    {
-     "slug": "disco-malayalam",
-     "title": "Disco",
-     "rating": "R18",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/disco-malayalam",
-     "status": "now_showing"
-    },
-    {
-     "slug": "wala-kan-ala-el-bal-arabic",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "R15",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/wala-kan-ala-el-bal-arabic",
-     "status": "now_showing"
-    },
-    {
-     "slug": "you-can-see-everything-english",
-     "title": "You Can See Everything",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/you-can-see-everything-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "om-chapter-1-udhiram-the-blood-wood-tamil",
-     "title": "OM Chapter 1: Udhiram - The Blood Wood",
-     "rating": "",
-     "language": "Tamil",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/om-chapter-1-udhiram-the-blood-wood-tamil",
-     "status": "coming_soon"
-    },
-    {
      "slug": "bachelor-party-deux-malayalam",
      "title": "Bachelor Party D&#x27;eux",
      "rating": "",
@@ -1515,12 +1438,66 @@
      "status": "coming_soon"
     },
     {
-     "slug": "aakasamlo-oka-tara-malayalam",
-     "title": "Aakasamlo Oka Tara",
-     "rating": "PG12",
-     "language": "Malayalam",
+     "slug": "hexed-arabic",
+     "title": "Hexed",
+     "rating": "PG",
+     "language": "Arabic",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/aakasamlo-oka-tara-malayalam",
+     "url": "https://www.ozonecinema.com/movies/hexed-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "hexed-english",
+     "title": "Hexed",
+     "rating": "PG",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/hexed-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "paper-tiger-english",
+     "title": "Paper Tiger",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/paper-tiger-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "scorpion-english",
+     "title": "Scorpion",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/scorpion-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "travellers-hell-saudi-arabic",
+     "title": "Traveller&#x2019;s Hell -Saudi",
+     "rating": "",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/travellers-hell-saudi-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "focker-in-law-english",
+     "title": "Focker in Law",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/focker-in-law-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "yeh-prem-mol-liya-hindi",
+     "title": "Yeh Prem Mol Liya",
+     "rating": "PG12",
+     "language": "Hindi",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/yeh-prem-mol-liya-hindi",
      "status": "coming_soon"
     },
     {
@@ -1587,15 +1564,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "yeh-prem-mol-liya-hindi",
-     "title": "Yeh Prem Mol Liya",
-     "rating": "PG12",
-     "language": "Hindi",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/yeh-prem-mol-liya-hindi",
-     "status": "coming_soon"
-    },
-    {
      "slug": "shed-english",
      "title": "Shed",
      "rating": "",
@@ -1611,15 +1579,6 @@
      "language": "Hindi",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/eetha-hindi",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "travellers-hell-saudi-arabic",
-     "title": "Traveller&#x2019;s Hell -Saudi",
-     "rating": "",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/travellers-hell-saudi-arabic",
      "status": "coming_soon"
     },
     {
@@ -1641,24 +1600,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "focker-in-law-english",
-     "title": "Focker in Law",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/focker-in-law-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "paper-tiger-english",
-     "title": "Paper Tiger",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/paper-tiger-english",
-     "status": "coming_soon"
-    },
-    {
      "slug": "remain-english",
      "title": "Remain",
      "rating": "",
@@ -1668,30 +1609,12 @@
      "status": "coming_soon"
     },
     {
-     "slug": "hexed-english",
-     "title": "Hexed",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/hexed-english",
-     "status": "coming_soon"
-    },
-    {
      "slug": "monster-mia-english",
      "title": "Monster Mia",
      "rating": "",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/monster-mia-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "scorpion-english",
-     "title": "Scorpion",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/scorpion-english",
      "status": "coming_soon"
     },
     {
@@ -1961,12 +1884,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099773",
      "title": "Wala Kan Ala El-Bal",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099773/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099109",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099109/",
      "status": "now_showing"
     }
    ]
@@ -2127,6 +2068,24 @@
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102220/",
      "status": "now_showing"
+    },
+    {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099109",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099109/",
+     "status": "now_showing"
     }
    ]
   },
@@ -2215,12 +2174,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099109",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099109/",
      "status": "now_showing"
     }
    ]
@@ -2254,6 +2231,15 @@
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099777/",
      "status": "now_showing"
+    },
+    {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
     }
    ]
   },
@@ -2267,6 +2253,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2088495/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096928",
+     "title": "Naseeb",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2096928/",
      "status": "now_showing"
     },
     {
@@ -2333,6 +2328,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102527",
+     "title": "Belkis",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102527/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102933",
      "title": "Gupi & The Grumpy King",
      "rating": "",
@@ -2351,30 +2355,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096928",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096928/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099773",
      "title": "Wala Kan Ala El-Bal",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099773/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102527",
-     "title": "Belkis",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102527/",
      "status": "now_showing"
     },
     {
@@ -2387,12 +2373,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099109",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099109/",
      "status": "now_showing"
     }
    ]

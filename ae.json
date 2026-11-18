@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-11-18T00:34:47.683Z",
+ "updatedAt": "2026-11-18T15:10:15.656Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
    "name": "Cinemas in United Arab Emirates",
    "films": [
-    {
-     "slug": "2102969",
-     "title": "John Doe",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-13",
-     "url": "https://elcinema.com/en/work/2102969/",
-     "status": "now_showing"
-    },
     {
      "slug": "2102968",
      "title": "Itlu Arjuna",
@@ -24,12 +15,39 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102969",
+     "title": "John Doe",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-13",
+     "url": "https://elcinema.com/en/work/2102969/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102970",
      "title": "Melcow Pondicherry",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-13",
      "url": "https://elcinema.com/en/work/2102970/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2099777/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2100998/",
      "status": "now_showing"
     },
     {
@@ -60,30 +78,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098161",
-     "title": "Les Miserables",
+     "slug": "2102933",
+     "title": "Gupi & The Grumpy King",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2098161/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099108",
-     "title": "Ebenezer",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099108/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099777/",
+     "url": "https://elcinema.com/en/work/2102933/",
      "status": "now_showing"
     },
     {
@@ -96,21 +96,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102933",
-     "title": "Gupi & The Grumpy King",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102933/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102220",
      "title": "The Last Temptation of Becky",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
      "url": "https://elcinema.com/en/work/2102220/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098161",
+     "title": "Les Miserables",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2098161/",
      "status": "now_showing"
     },
     {
@@ -123,30 +123,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2099108/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101015",
      "title": "Best Pancakes in the County",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
      "url": "https://elcinema.com/en/work/2101015/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102706",
-     "title": "Mookuthi Amman 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-06",
-     "url": "https://elcinema.com/en/work/2102706/",
      "status": "now_showing"
     },
     {
@@ -159,21 +150,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101615",
-     "title": "A Talent for Murder",
+     "slug": "2102706",
+     "title": "Nose-Ring Goddess 2",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2101615/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2095318/",
+     "releaseDate": "2026-11-06",
+     "url": "https://elcinema.com/en/work/2102706/",
      "status": "now_showing"
     },
     {
@@ -195,6 +177,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101615",
+     "title": "A Talent for Murder",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2101615/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2095318/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099759",
      "title": "Ramayana",
      "rating": "",
@@ -213,30 +213,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102344",
-     "title": "Pee Mak",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102344/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2093435",
-     "title": "It Feeds",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2093435/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099773",
      "title": "Wala Kan Ala El-Bal",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2099773/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102344",
+     "title": "Pee Mak",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102344/",
      "status": "now_showing"
     },
     {
@@ -255,6 +246,15 @@
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2097360/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2093435",
+     "title": "It Feeds",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2093435/",
      "status": "now_showing"
     },
     {
@@ -294,12 +294,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2004262",
-     "title": "The Shawshank Redemption",
+     "slug": "2098154",
+     "title": "Whalefall",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2004262/",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -312,12 +312,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
+     "slug": "2004262",
+     "title": "The Shawshank Redemption",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2098154/",
+     "url": "https://elcinema.com/en/work/2004262/",
      "status": "now_showing"
     },
     {
@@ -381,15 +381,6 @@
      "language": "",
      "releaseDate": "2026-09-18",
      "url": "https://elcinema.com/en/work/2101636/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099778",
-     "title": "Tad and the Magic Lamp",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-17",
-     "url": "https://elcinema.com/en/work/2099778/",
      "status": "now_showing"
     },
     {
