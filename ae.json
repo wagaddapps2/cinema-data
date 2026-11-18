@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T15:32:24.608Z",
+ "updatedAt": "2026-11-18T00:34:47.683Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
@@ -15,15 +15,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102970",
-     "title": "Melcow Pondicherry",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-13",
-     "url": "https://elcinema.com/en/work/2102970/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102968",
      "title": "Itlu Arjuna",
      "rating": "",
@@ -33,12 +24,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102971",
-     "title": "Batulo Jun",
+     "slug": "2102970",
+     "title": "Melcow Pondicherry",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102971/",
+     "releaseDate": "2026-11-13",
+     "url": "https://elcinema.com/en/work/2102970/",
      "status": "now_showing"
     },
     {
@@ -60,21 +51,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102933",
-     "title": "Gupi & The Grumpy King",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102933/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2086179",
      "title": "How to Rob a Bank",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
      "url": "https://elcinema.com/en/work/2086179/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098161",
+     "title": "Les Miserables",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2098161/",
      "status": "now_showing"
     },
     {
@@ -96,6 +87,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102971",
+     "title": "Batulo Jun",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2102971/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102933",
+     "title": "Gupi & The Grumpy King",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2102933/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102220",
      "title": "The Last Temptation of Becky",
      "rating": "",
@@ -114,15 +123,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101015",
      "title": "Best Pancakes in the County",
      "rating": "",
@@ -132,12 +132,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098161",
-     "title": "Les Miserables",
+     "slug": "2100998",
+     "title": "Hadoota",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2098161/",
+     "url": "https://elcinema.com/en/work/2100998/",
      "status": "now_showing"
     },
     {
@@ -177,21 +177,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100794",
-     "title": "The Cycle",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2100794/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102704",
      "title": "Scene",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
      "url": "https://elcinema.com/en/work/2102704/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100794",
+     "title": "The Cycle",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2100794/",
      "status": "now_showing"
     },
     {
@@ -213,33 +213,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2030925",
-     "title": "Wings of Desire",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-03",
-     "url": "https://elcinema.com/en/work/2030925/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2042037",
-     "title": "Three Colors: Red",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-01",
-     "url": "https://elcinema.com/en/work/2042037/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096928",
-     "title": "Naseeb",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2096928/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102344",
      "title": "Pee Mak",
      "rating": "",
@@ -258,21 +231,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099773",
      "title": "Wala Kan Ala El-Bal",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2099773/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096928",
+     "title": "Naseeb",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2096928/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097360",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2097360/",
      "status": "now_showing"
     },
     {
@@ -321,21 +303,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2096857",
      "title": "Street Fighter",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -366,21 +348,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101997",
      "title": "Drishyam: The Conclusion",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2101997/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2098232/",
      "status": "now_showing"
     },
     {
@@ -399,6 +381,15 @@
      "language": "",
      "releaseDate": "2026-09-18",
      "url": "https://elcinema.com/en/work/2101636/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099778",
+     "title": "Tad and the Magic Lamp",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-17",
+     "url": "https://elcinema.com/en/work/2099778/",
      "status": "now_showing"
     },
     {
@@ -438,12 +429,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2002016",
-     "title": "Before Sunset",
+     "slug": "2100369",
+     "title": "Do You Love Me",
      "rating": "",
      "language": "",
-     "releaseDate": "2025-07-20",
-     "url": "https://elcinema.com/en/work/2002016/",
+     "releaseDate": "2026-06-05",
+     "url": "https://elcinema.com/en/work/2100369/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2034565",
+     "title": "Paris, Texas",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-08-09",
+     "url": "https://elcinema.com/en/work/2034565/",
      "status": "now_showing"
     },
     {
@@ -627,15 +627,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "2099109",
-     "title": "I Play Rocky",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099109/",
-     "status": "coming_soon"
-    },
-    {
      "slug": "2099110",
      "title": "Hexed",
      "rating": "",
@@ -759,24 +750,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101650/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2101718",
-     "title": "You Can See Everything",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101718/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2101989",
-     "title": "Crypto",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2101989/",
      "status": "coming_soon"
     },
     {

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T15:32:41.301Z",
+ "updatedAt": "2026-11-18T00:35:03.117Z",
  "territory": "IQ",
  "cinemas": {
   "elcinema-iq": {
@@ -258,15 +258,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-20",
-     "url": "https://elcinema.com/en/work/2095116/",
-     "status": "coming_soon"
-    },
-    {
      "slug": "2095523",
      "title": "Maserati: The Brothers",
      "rating": "",
@@ -357,15 +348,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "2099109",
-     "title": "I Play Rocky",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099109/",
-     "status": "coming_soon"
-    },
-    {
      "slug": "2099110",
      "title": "Hexed",
      "rating": "",
@@ -390,15 +372,6 @@
      "language": "",
      "releaseDate": "2026-11-25",
      "url": "https://elcinema.com/en/work/2101516/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2101718",
-     "title": "You Can See Everything",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101718/",
      "status": "coming_soon"
     },
     {

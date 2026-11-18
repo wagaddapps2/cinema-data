@@ -1,80 +1,53 @@
 {
- "updatedAt": "2026-11-17T15:32:19.475Z",
+ "updatedAt": "2026-11-18T00:34:43.165Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
    "name": "Cinemas in Egypt",
    "films": [
     {
-     "slug": "2102911",
-     "title": "Hjemsøgt",
+     "slug": "2102956",
+     "title": "برنامج الأفلام القصيرة 4",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-17",
-     "url": "https://elcinema.com/en/work/2102911/",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2102956/",
      "status": "now_showing"
     },
     {
-     "slug": "2002038",
-     "title": "All the President's Men",
+     "slug": "2102974",
+     "title": "Home Bitter Home",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-17",
-     "url": "https://elcinema.com/en/work/2002038/",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2102974/",
      "status": "now_showing"
     },
     {
-     "slug": "2102955",
-     "title": "SHORT FILM PROGRAM 3",
+     "slug": "2102917",
+     "title": "Louf",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-17",
-     "url": "https://elcinema.com/en/work/2102955/",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2102917/",
      "status": "now_showing"
     },
     {
-     "slug": "2102914",
-     "title": "Yugo Goes to America",
+     "slug": "2102916",
+     "title": "Cuero",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-17",
-     "url": "https://elcinema.com/en/work/2102914/",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2102916/",
      "status": "now_showing"
     },
     {
-     "slug": "2102913",
-     "title": "Summer Meadow",
+     "slug": "2102915",
+     "title": "The Day of Wrath: Tales from Tripoli",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-17",
-     "url": "https://elcinema.com/en/work/2102913/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102912",
-     "title": "Sevda",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-17",
-     "url": "https://elcinema.com/en/work/2102912/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102959",
-     "title": "Into the Wonderwoods",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102959/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099108",
-     "title": "Ebenezer",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099108/",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2102915/",
      "status": "now_showing"
     },
     {
@@ -87,12 +60,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102959",
+     "title": "Into the Wonderwoods",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2102959/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101015",
      "title": "Best Pancakes in the County",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
      "url": "https://elcinema.com/en/work/2101015/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2099108/",
      "status": "now_showing"
     },
     {
@@ -105,15 +96,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2095318/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102069",
      "title": "Üç Harfliler: Mühür",
      "rating": "",
@@ -123,12 +105,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100794",
-     "title": "The Cycle",
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2100794/",
+     "url": "https://elcinema.com/en/work/2095318/",
      "status": "now_showing"
     },
     {
@@ -141,12 +123,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
+     "slug": "2100794",
+     "title": "The Cycle",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2099119/",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2100794/",
      "status": "now_showing"
     },
     {
@@ -156,6 +138,15 @@
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2088495/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099119",
+     "title": "Sense and Sensibility",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2099119/",
      "status": "now_showing"
     },
     {
@@ -438,15 +429,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "2099109",
-     "title": "I Play Rocky",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099109/",
-     "status": "coming_soon"
-    },
-    {
      "slug": "2099110",
      "title": "Hexed",
      "rating": "",
@@ -496,7 +478,7 @@
      "title": "Night Completely Ruined",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-18",
+     "releaseDate": null,
      "url": "https://elcinema.com/en/work/2100835/",
      "status": "coming_soon"
     },
@@ -534,24 +516,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101650/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2101718",
-     "title": "You Can See Everything",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101718/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2101989",
-     "title": "Crypto",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2101989/",
      "status": "coming_soon"
     },
     {
