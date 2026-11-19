@@ -1,28 +1,10 @@
 {
- "updatedAt": "2026-11-18T23:55:14.988Z",
+ "updatedAt": "2026-11-19T05:59:01.170Z",
  "territory": "JO",
  "cinemas": {
   "elcinema-jo": {
    "name": "Cinemas in Jordan",
    "films": [
-    {
-     "slug": "2102959",
-     "title": "Into the Wonderwoods",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102959/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098161",
-     "title": "Les Miserables",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2098161/",
-     "status": "now_showing"
-    },
     {
      "slug": "2099108",
      "title": "Ebenezer",
@@ -30,15 +12,6 @@
      "language": "",
      "releaseDate": "2026-11-12",
      "url": "https://elcinema.com/en/work/2099108/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099777/",
      "status": "now_showing"
     },
     {
@@ -51,93 +24,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101015",
-     "title": "Best Pancakes in the County",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2101015/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2095318/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098323",
-     "title": "Godzilla Minus Zero",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2098323/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2088495",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099773",
-     "title": "Wala Kan Ala El-Bal",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2099773/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095519",
-     "title": "Other Mommy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {
@@ -271,7 +163,7 @@
      "title": "Sohor Ghali",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-19",
+     "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102880/",
      "status": "coming_soon"
     },

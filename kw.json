@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T23:53:33.594Z",
+ "updatedAt": "2026-11-19T05:57:16.546Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -134,6 +134,15 @@
      "language": "English",
      "releaseDate": "2026-11-26",
      "url": "https://kwt.voxcinemas.com/movies/paper-tiger",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "lela-bazit-khalis-arabic",
+     "title": "Lela Bazit Khalis",
+     "rating": "18TC",
+     "language": "Arabic",
+     "releaseDate": "2026-11-26",
+     "url": "https://kwt.voxcinemas.com/movies/lela-bazit-khalis-arabic",
      "status": "coming_soon"
     },
     {
@@ -791,15 +800,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "melcow-pondicherry-malayalam",
-     "title": "Melcow Pondicherry",
-     "rating": "",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/melcow-pondicherry-malayalam",
-     "status": "coming_soon"
-    },
-    {
      "slug": "bouma-malayalam",
      "title": "Bouma",
      "rating": "",
@@ -815,15 +815,6 @@
      "language": "Tamil",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/train-tamil",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "gladiators-in-pursuit-of-challenges-tamil",
-     "title": "Gladiators - In Pursuit of Challenges",
-     "rating": "",
-     "language": "Tamil",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/gladiators-in-pursuit-of-challenges-tamil",
      "status": "coming_soon"
     },
     {
@@ -1201,24 +1192,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "melcow-pondicherry-malayalam",
-     "title": "Melcow Pondicherry",
-     "rating": "",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/melcow-pondicherry-malayalam",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "a-talent-for-murder-english",
-     "title": "A Talent for Murder",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/a-talent-for-murder-english",
-     "status": "coming_soon"
-    },
-    {
      "slug": "bouma-malayalam",
      "title": "Bouma",
      "rating": "",
@@ -1234,15 +1207,6 @@
      "language": "Tamil",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/train-tamil",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "gladiators-in-pursuit-of-challenges-tamil",
-     "title": "Gladiators - In Pursuit of Challenges",
-     "rating": "",
-     "language": "Tamil",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/gladiators-in-pursuit-of-challenges-tamil",
      "status": "coming_soon"
     },
     {
@@ -1454,6 +1418,79 @@
     }
    ]
   },
+  "cinescape-3101203": {
+   "name": "Cinescape Al-Bairaq",
+   "films": [
+    {
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103090",
+     "title": "Three Wishes for Cinderella",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2103090/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097821",
+     "title": "I, Object",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097821/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "cinescape-3101206": {
+   "name": "Cinescape Ajial",
+   "films": [
+    {
+     "slug": "2102704",
+     "title": "Scene",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102704/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    }
+   ]
+  },
   "cinescape-3101208": {
    "name": "Cinescape Al Kout",
    "films": [
@@ -1554,6 +1591,47 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099108/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "cinescape-3101339": {
+   "name": "Cinescape 1954 Film House",
+   "films": [
+    {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099109",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099109/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101718",
+     "title": "You Can See Everything",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101718/",
      "status": "now_showing"
     }
    ]

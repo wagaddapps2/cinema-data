@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-11-18T23:55:13.433Z",
+ "updatedAt": "2026-11-19T05:58:58.168Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
    "name": "Cinemas in Bahrain",
    "films": [
+    {
+     "slug": "2103096",
+     "title": "ENE Repeat",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103096/",
+     "status": "now_showing"
+    },
     {
      "slug": "2101718",
      "title": "You Can See Everything",
@@ -12,6 +21,15 @@
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2101718/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103091",
+     "title": "Bachelor Party D'eux",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103091/",
      "status": "now_showing"
     },
     {
@@ -51,6 +69,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102967",
+     "title": "Bouma",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2102967/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-11",
+     "url": "https://elcinema.com/en/work/2099777/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100998",
      "title": "Hadoota",
      "rating": "",
@@ -69,12 +105,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099759",
-     "title": "Ramayana",
+     "slug": "2102704",
+     "title": "Scene",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2102704/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-04",
-     "url": "https://elcinema.com/en/work/2099759/",
+     "url": "https://elcinema.com/en/work/2095318/",
      "status": "now_showing"
     },
     {
@@ -87,12 +132,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
+     "slug": "2099759",
+     "title": "Ramayana",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-04",
-     "url": "https://elcinema.com/en/work/2095318/",
+     "url": "https://elcinema.com/en/work/2099759/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097360",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2097360/",
      "status": "now_showing"
     },
     {
@@ -424,7 +478,7 @@
      "title": "Pratap",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-19",
+     "releaseDate": null,
      "url": "https://elcinema.com/en/work/2103093/",
      "status": "coming_soon"
     },
@@ -570,15 +624,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2103110/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2103111",
-     "title": "Aakasamlo Oka Tara",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-20",
-     "url": "https://elcinema.com/en/work/2103111/",
      "status": "coming_soon"
     },
     {
