@@ -1,10 +1,37 @@
 {
- "updatedAt": "2026-11-19T05:59:03.431Z",
+ "updatedAt": "2026-11-19T15:30:44.690Z",
  "territory": "TN",
  "cinemas": {
   "elcinema-tn": {
    "name": "Cinemas in Tunisia",
    "films": [
+    {
+     "slug": "2102439",
+     "title": "Bakma",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2102439/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102268",
+     "title": "Weekend",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2102268/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102269",
+     "title": "Fana Mahat Bash Tethat",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2102269/",
+     "status": "now_showing"
+    },
     {
      "slug": "2101794",
      "title": "Dar El Eers",

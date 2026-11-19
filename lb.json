@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-11-19T05:59:00.850Z",
+ "updatedAt": "2026-11-19T15:30:40.119Z",
  "territory": "LB",
  "cinemas": {
   "elcinema-lb": {
    "name": "Cinemas in Lebanon",
    "films": [
+    {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2101989/",
+     "status": "now_showing"
+    },
     {
      "slug": "2095116",
      "title": "The Hunger Games: Sunrise on the Reaping",
@@ -15,12 +24,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101989",
-     "title": "Crypto",
+     "slug": "2097821",
+     "title": "I, Object",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2101989/",
+     "url": "https://elcinema.com/en/work/2097821/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103400",
+     "title": "De Gaulle: Resistance",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103400/",
      "status": "now_showing"
     },
     {
@@ -33,12 +51,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103006",
-     "title": "Chopin, Chopin!",
+     "slug": "2100998",
+     "title": "Hadoota",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2103006/",
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098161",
+     "title": "Les Miserables",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2098161/",
      "status": "now_showing"
     },
     {
@@ -51,12 +78,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098161",
-     "title": "Les Miserables",
+     "slug": "2102959",
+     "title": "Into the Wonderwoods",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2098161/",
+     "url": "https://elcinema.com/en/work/2102959/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103006",
+     "title": "Chopin, Chopin!",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2103006/",
      "status": "now_showing"
     },
     {
@@ -75,15 +111,6 @@
      "language": "",
      "releaseDate": "2026-11-12",
      "url": "https://elcinema.com/en/work/2099777/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2100998/",
      "status": "now_showing"
     },
     {
@@ -114,6 +141,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "2088495",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2088495/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100562",
      "title": "Heart of the Beast",
      "rating": "",
@@ -138,6 +183,15 @@
      "language": "",
      "releaseDate": "2026-03-19",
      "url": "https://elcinema.com/en/work/2098722/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1992699",
+     "title": "Al Fajr",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2000-11-22",
+     "url": "https://elcinema.com/en/work/1992699/",
      "status": "now_showing"
     },
     {

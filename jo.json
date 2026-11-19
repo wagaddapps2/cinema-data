@@ -1,17 +1,62 @@
 {
- "updatedAt": "2026-11-19T05:59:01.170Z",
+ "updatedAt": "2026-11-19T15:30:41.420Z",
  "territory": "JO",
  "cinemas": {
   "elcinema-jo": {
    "name": "Cinemas in Jordan",
    "films": [
     {
-     "slug": "2099108",
-     "title": "Ebenezer",
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098722",
+     "title": "Charbel",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2098722/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099109",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2099109/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2101989/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102959",
+     "title": "Into the Wonderwoods",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099108/",
+     "url": "https://elcinema.com/en/work/2102959/",
      "status": "now_showing"
     },
     {
@@ -24,12 +69,75 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2099108/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2099777/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2095318/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099773",
+     "title": "Wala Kan Ala El-Bal",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2099773/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095519",
+     "title": "Other Mommy",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-08",
      "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-24",
+     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {

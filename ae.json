@@ -1,17 +1,26 @@
 {
- "updatedAt": "2026-11-19T05:58:52.698Z",
+ "updatedAt": "2026-11-19T15:30:29.000Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
    "name": "Cinemas in United Arab Emirates",
    "films": [
     {
-     "slug": "2097821",
-     "title": "I, Object",
+     "slug": "2098160",
+     "title": "Ghost Soldier",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2097821/",
+     "url": "https://elcinema.com/en/work/2098160/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103111",
+     "title": "Aakasamlo Oka Tara",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103111/",
      "status": "now_showing"
     },
     {
@@ -21,6 +30,15 @@
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2103096/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103095",
+     "title": "Appa Kutty",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103095/",
      "status": "now_showing"
     },
     {
@@ -42,21 +60,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2074423",
-     "title": "Resident Evil",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2074423/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2103090",
      "title": "Three Wishes for Cinderella",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2103090/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2074423",
+     "title": "Resident Evil",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2074423/",
      "status": "now_showing"
     },
     {
@@ -69,21 +87,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2095116/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101718",
      "title": "You Can See Everything",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2101718/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2095116/",
      "status": "now_showing"
     },
     {
@@ -105,12 +123,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098160",
-     "title": "Ghost Soldier",
+     "slug": "2097821",
+     "title": "I, Object",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2098160/",
+     "url": "https://elcinema.com/en/work/2097821/",
      "status": "now_showing"
     },
     {
@@ -123,15 +141,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099108",
-     "title": "Ebenezer",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099108/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099777",
      "title": "How to Rob a Bank",
      "rating": "",
@@ -141,12 +150,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2099108/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100998",
      "title": "Hadoota",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
      "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102966",
+     "title": "Remember",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2102966/",
      "status": "now_showing"
     },
     {
@@ -222,12 +249,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2097360",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2097360/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099119",
      "title": "Sense and Sensibility",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2099119/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102344",
+     "title": "Pee Mak",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2102344/",
      "status": "now_showing"
     },
     {
@@ -249,6 +294,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
@@ -258,12 +312,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096857",
-     "title": "Street Fighter",
+     "slug": "2097221",
+     "title": "Jailer 2",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2096857/",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     },
     {
@@ -309,6 +363,33 @@
      "language": "",
      "releaseDate": "2026-07-16",
      "url": "https://elcinema.com/en/work/2095329/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2002016",
+     "title": "Before Sunset",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2025-07-20",
+     "url": "https://elcinema.com/en/work/2002016/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2064037",
+     "title": "The Hunger Games: The Ballad of Songbirds and Snakes",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2023-11-16",
+     "url": "https://elcinema.com/en/work/2064037/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2033601",
+     "title": "Spirited Away",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2023-11-16",
+     "url": "https://elcinema.com/en/work/2033601/",
      "status": "now_showing"
     },
     {
@@ -663,24 +744,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "2103094",
-     "title": "Sathyavan Savithiri",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2103094/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2103095",
-     "title": "Appa Kutty",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2103095/",
-     "status": "coming_soon"
-    },
-    {
      "slug": "2103097",
      "title": "Himalayan Gold",
      "rating": "",
@@ -705,15 +768,6 @@
      "language": "",
      "releaseDate": "2026-11-27",
      "url": "https://elcinema.com/en/work/2103099/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2103100",
-     "title": "Kalli Kheti",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-20",
-     "url": "https://elcinema.com/en/work/2103100/",
      "status": "coming_soon"
     },
     {

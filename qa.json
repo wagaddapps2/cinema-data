@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T05:58:56.815Z",
+ "updatedAt": "2026-11-19T15:30:35.398Z",
  "territory": "QA",
  "cinemas": {
   "elcinema-qa": {
@@ -15,12 +15,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103092",
-     "title": "OM Chapter 1: Udhiram - The Blood Wood",
+     "slug": "2103111",
+     "title": "Aakasamlo Oka Tara",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103092/",
+     "url": "https://elcinema.com/en/work/2103111/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2101989/",
      "status": "now_showing"
     },
     {
@@ -42,21 +51,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2103096",
+     "title": "ENE Repeat",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103096/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103092",
+     "title": "OM Chapter 1: Udhiram - The Blood Wood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103092/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2103091",
      "title": "Bachelor Party D'eux",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2103091/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103090",
-     "title": "Three Wishes for Cinderella",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103090/",
      "status": "now_showing"
     },
     {
@@ -69,12 +87,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101989",
-     "title": "Crypto",
+     "slug": "2103090",
+     "title": "Three Wishes for Cinderella",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2101989/",
+     "url": "https://elcinema.com/en/work/2103090/",
      "status": "now_showing"
     },
     {
@@ -93,6 +111,15 @@
      "language": "",
      "releaseDate": "2026-11-18",
      "url": "https://elcinema.com/en/work/2099109/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102967",
+     "title": "Bouma",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-13",
+     "url": "https://elcinema.com/en/work/2102967/",
      "status": "now_showing"
     },
     {
@@ -120,6 +147,24 @@
      "language": "",
      "releaseDate": "2026-11-12",
      "url": "https://elcinema.com/en/work/2099777/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102970",
+     "title": "Melcow Pondicherry",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2102970/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102971",
+     "title": "Batulo Jun",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2102971/",
      "status": "now_showing"
     },
     {
@@ -168,6 +213,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099119",
+     "title": "Sense and Sensibility",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2099119/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2088495",
      "title": "Wildwood",
      "rating": "",
@@ -186,12 +240,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
+     "slug": "2101940",
+     "title": "Treasure Trekkers",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2099119/",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101940/",
      "status": "now_showing"
     },
     {
@@ -204,21 +258,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101940",
-     "title": "Treasure Trekkers",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101940/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-21",
      "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -591,24 +645,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "2103094",
-     "title": "Sathyavan Savithiri",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2103094/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2103095",
-     "title": "Appa Kutty",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2103095/",
-     "status": "coming_soon"
-    },
-    {
      "slug": "2103097",
      "title": "Himalayan Gold",
      "rating": "",
@@ -633,15 +669,6 @@
      "language": "",
      "releaseDate": "2026-11-27",
      "url": "https://elcinema.com/en/work/2103099/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2103100",
-     "title": "Kalli Kheti",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-20",
-     "url": "https://elcinema.com/en/work/2103100/",
      "status": "coming_soon"
     },
     {

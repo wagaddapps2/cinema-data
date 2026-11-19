@@ -1,10 +1,18 @@
 {
- "updatedAt": "2026-11-19T05:57:16.546Z",
+ "updatedAt": "2026-11-19T15:28:50.182Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
    "name": "VOX Cinemas Kuwait",
    "films": [
+    {
+     "slug": "the-hunger-games-sunrise-on-the-reaping",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/the-hunger-games-sunrise-on-the-reaping",
+     "status": "now_showing"
+    },
     {
      "slug": "hadoota-arabic",
      "title": "Hadoota",
@@ -14,11 +22,11 @@
      "status": "now_showing"
     },
     {
-     "slug": "godzilla-minus-zero-japanese",
-     "title": "Godzilla Minus Zero",
-     "rating": "PG12",
-     "language": "Japanese",
-     "url": "https://kwt.voxcinemas.com/movies/godzilla-minus-zero-japanese",
+     "slug": "i-play-rocky",
+     "title": "I Play Rocky",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/i-play-rocky",
      "status": "now_showing"
     },
     {
@@ -30,11 +38,43 @@
      "status": "now_showing"
     },
     {
+     "slug": "forgotten-island",
+     "title": "Forgotten Island",
+     "rating": "PG12",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/forgotten-island",
+     "status": "now_showing"
+    },
+    {
+     "slug": "you-can-see-everything",
+     "title": "You Can See Everything",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/you-can-see-everything",
+     "status": "now_showing"
+    },
+    {
+     "slug": "godzilla-minus-zero-japanese",
+     "title": "Godzilla Minus Zero",
+     "rating": "PG12",
+     "language": "Japanese",
+     "url": "https://kwt.voxcinemas.com/movies/godzilla-minus-zero-japanese",
+     "status": "now_showing"
+    },
+    {
      "slug": "how-to-rob-a-bank",
      "title": "How to Rob a Bank",
      "rating": "R15",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/how-to-rob-a-bank",
+     "status": "now_showing"
+    },
+    {
+     "slug": "crypto-arabic",
+     "title": "Crypto",
+     "rating": "R15",
+     "language": "Arabic",
+     "url": "https://kwt.voxcinemas.com/movies/crypto-arabic",
      "status": "now_showing"
     },
     {
@@ -62,51 +102,11 @@
      "status": "now_showing"
     },
     {
-     "slug": "crypto-arabic",
-     "title": "Crypto",
-     "rating": "R15",
-     "language": "Arabic",
-     "url": "https://kwt.voxcinemas.com/movies/crypto-arabic",
-     "status": "now_showing"
-    },
-    {
-     "slug": "forgotten-island",
-     "title": "Forgotten Island",
-     "rating": "PG12",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/forgotten-island",
-     "status": "now_showing"
-    },
-    {
-     "slug": "i-play-rocky",
-     "title": "I Play Rocky",
-     "rating": "R15",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/i-play-rocky",
-     "status": "now_showing"
-    },
-    {
-     "slug": "the-hunger-games-sunrise-on-the-reaping",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "R15",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/the-hunger-games-sunrise-on-the-reaping",
-     "status": "now_showing"
-    },
-    {
      "slug": "three-wishes-for-cinderella",
      "title": "Three Wishes for Cinderella",
      "rating": "PG",
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/three-wishes-for-cinderella",
-     "status": "now_showing"
-    },
-    {
-     "slug": "you-can-see-everything",
-     "title": "You Can See Everything",
-     "rating": "R15",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/you-can-see-everything",
      "status": "now_showing"
     },
     {
@@ -182,6 +182,15 @@
      "status": "coming_soon"
     },
     {
+     "slug": "dune-part-three-preview-screening",
+     "title": "Dune: Part Three -Preview Screening",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-12-15",
+     "url": "https://kwt.voxcinemas.com/movies/dune-part-three-preview-screening",
+     "status": "coming_soon"
+    },
+    {
      "slug": "avengers-doomsday",
      "title": "Avengers: Doomsday",
      "rating": "18TC",
@@ -233,6 +242,15 @@
      "language": "English",
      "releaseDate": "2026-12-24",
      "url": "https://kwt.voxcinemas.com/movies/the-angry-birds-movie-3",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "sales-booking-ashar",
+     "title": "Sales Booking - Ashar",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-12-24",
+     "url": "https://kwt.voxcinemas.com/movies/sales-booking-ashar",
      "status": "coming_soon"
     },
     {
@@ -719,6 +737,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "bachelor-party-deux-malayalam",
+     "title": "Bachelor Party D&#x27;eux",
+     "rating": "R18",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/bachelor-party-deux-malayalam",
+     "status": "now_showing"
+    },
+    {
      "slug": "scene-tamil",
      "title": "Scene",
      "rating": "R15",
@@ -726,15 +753,6 @@
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/scene-tamil",
      "status": "now_showing"
-    },
-    {
-     "slug": "bachelor-party-deux-malayalam",
-     "title": "Bachelor Party D&#x27;eux",
-     "rating": "",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/bachelor-party-deux-malayalam",
-     "status": "coming_soon"
     },
     {
      "slug": "hexed-arabic",
@@ -755,12 +773,39 @@
      "status": "coming_soon"
     },
     {
+     "slug": "lela-bazit-khalis-arabic",
+     "title": "Lela Bazit Khalis",
+     "rating": "",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/lela-bazit-khalis-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "bouma-malayalam",
+     "title": "Bouma",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/bouma-malayalam",
+     "status": "coming_soon"
+    },
+    {
      "slug": "paper-tiger-english",
      "title": "Paper Tiger",
      "rating": "",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/paper-tiger-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "prempaatta-malayalam",
+     "title": "Prempaatta",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/prempaatta-malayalam",
      "status": "coming_soon"
     },
     {
@@ -800,12 +845,12 @@
      "status": "coming_soon"
     },
     {
-     "slug": "bouma-malayalam",
-     "title": "Bouma",
+     "slug": "vrushakarma-telugu",
+     "title": "Vrushakarma",
      "rating": "",
-     "language": "Malayalam",
+     "language": "Telugu",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/bouma-malayalam",
+     "url": "https://www.ozonecinema.com/movies/vrushakarma-telugu",
      "status": "coming_soon"
     },
     {
@@ -1030,12 +1075,12 @@
    "name": "Ozone Cinemas Jahra",
    "films": [
     {
-     "slug": "om-chapter-1-udhiram-the-blood-wood-tamil",
-     "title": "OM Chapter 1: Udhiram - The Blood Wood",
-     "rating": "R15",
-     "language": "Tamil",
+     "slug": "hadoota-arabic",
+     "title": "Hadoota",
+     "rating": "PG12",
+     "language": "Arabic",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/om-chapter-1-udhiram-the-blood-wood-tamil",
+     "url": "https://www.ozonecinema.com/movies/hadoota-arabic",
      "status": "now_showing"
     },
     {
@@ -1054,6 +1099,15 @@
      "language": "Arabic",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/crypto-arabic",
+     "status": "now_showing"
+    },
+    {
+     "slug": "om-chapter-1-udhiram-the-blood-wood-tamil",
+     "title": "OM Chapter 1: Udhiram - The Blood Wood",
+     "rating": "R15",
+     "language": "Tamil",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/om-chapter-1-udhiram-the-blood-wood-tamil",
      "status": "now_showing"
     },
     {
@@ -1111,24 +1165,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "hadoota-arabic",
-     "title": "Hadoota",
-     "rating": "PG12",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/hadoota-arabic",
-     "status": "now_showing"
-    },
-    {
-     "slug": "bachelor-party-deux-malayalam",
-     "title": "Bachelor Party D&#x27;eux",
-     "rating": "",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/bachelor-party-deux-malayalam",
-     "status": "coming_soon"
-    },
-    {
      "slug": "hexed-arabic",
      "title": "Hexed",
      "rating": "PG",
@@ -1147,12 +1183,39 @@
      "status": "coming_soon"
     },
     {
+     "slug": "lela-bazit-khalis-arabic",
+     "title": "Lela Bazit Khalis",
+     "rating": "",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/lela-bazit-khalis-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "bouma-malayalam",
+     "title": "Bouma",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/bouma-malayalam",
+     "status": "coming_soon"
+    },
+    {
      "slug": "paper-tiger-english",
      "title": "Paper Tiger",
      "rating": "",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/paper-tiger-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "prempaatta-malayalam",
+     "title": "Prempaatta",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/prempaatta-malayalam",
      "status": "coming_soon"
     },
     {
@@ -1192,12 +1255,12 @@
      "status": "coming_soon"
     },
     {
-     "slug": "bouma-malayalam",
-     "title": "Bouma",
+     "slug": "vrushakarma-telugu",
+     "title": "Vrushakarma",
      "rating": "",
-     "language": "Malayalam",
+     "language": "Telugu",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/bouma-malayalam",
+     "url": "https://www.ozonecinema.com/movies/vrushakarma-telugu",
      "status": "coming_soon"
     },
     {
@@ -1418,6 +1481,128 @@
     }
    ]
   },
+  "cinescape-3101202": {
+   "name": "Cinescape 360",
+   "films": [
+    {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099777/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095318/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099109",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099109/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101718",
+     "title": "You Can See Everything",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101718/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098323",
+     "title": "Godzilla Minus Zero",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098323/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103090",
+     "title": "Three Wishes for Cinderella",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2103090/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097821",
+     "title": "I, Object",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097821/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099108/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101989/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    }
+   ]
+  },
   "cinescape-3101203": {
    "name": "Cinescape Al-Bairaq",
    "films": [
@@ -1595,6 +1780,110 @@
     }
    ]
   },
+  "cinescape-3101210": {
+   "name": "Cinescape Avenues",
+   "films": [
+    {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103090",
+     "title": "Three Wishes for Cinderella",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2103090/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099109",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099109/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099108/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098323",
+     "title": "Godzilla Minus Zero",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098323/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101718",
+     "title": "You Can See Everything",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101718/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099777/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095318/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101989/",
+     "status": "now_showing"
+    }
+   ]
+  },
   "cinescape-3101339": {
    "name": "Cinescape 1954 Film House",
    "films": [
@@ -1623,6 +1912,74 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101718",
+     "title": "You Can See Everything",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101718/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "cinescape-3101460": {
+   "name": "Cinescape Assima",
+   "films": [
+    {
+     "slug": "2099109",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099109/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099108/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101989/",
      "status": "now_showing"
     },
     {

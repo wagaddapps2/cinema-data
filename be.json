@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T05:58:49.137Z",
+ "updatedAt": "2026-11-19T15:30:21.911Z",
  "territory": "BE",
  "cinemas": {
   "cinebel-693": {
@@ -3026,6 +3026,17 @@
    "fetchedAt": "2026-11-19",
    "films": [
     {
+     "slug": "1027637",
+     "title": "Billie à la croisée des mondes",
+     "originalTitle": "Hexed",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-11-25",
+     "url": "https://cinebel.dhnet.be/cinema/903/Cin%C3%A9-Chaplin#movie1027637",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027754",
      "title": "Camembert",
      "originalTitle": "",
@@ -3034,6 +3045,28 @@
      "language": "VO",
      "releaseDate": "2026-11-18",
      "url": "https://cinebel.dhnet.be/cinema/903/Cin%C3%A9-Chaplin#movie1027754",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027757",
+     "title": "Demain je tombe amoureux",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-25",
+     "url": "https://cinebel.dhnet.be/cinema/903/Cin%C3%A9-Chaplin#movie1027757",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027830",
+     "title": "Il faut brûler Maman",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/903/Cin%C3%A9-Chaplin#movie1027830",
      "status": "now_showing"
     },
     {
@@ -3070,6 +3103,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027851",
+     "title": "Paper Tiger",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VF",
+     "releaseDate": "2026-11-25",
+     "url": "https://cinebel.dhnet.be/cinema/903/Cin%C3%A9-Chaplin#movie1027851",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027595",
      "title": "Soudain",
      "originalTitle": "All of a Sudden",
@@ -3078,6 +3122,17 @@
      "language": "VO",
      "releaseDate": "2026-11-18",
      "url": "https://cinebel.dhnet.be/cinema/903/Cin%C3%A9-Chaplin#movie1027595",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027829",
+     "title": "Une femme aujourd'hui",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": "2026-10-28",
+     "url": "https://cinebel.dhnet.be/cinema/903/Cin%C3%A9-Chaplin#movie1027829",
      "status": "now_showing"
     },
     {
@@ -3103,6 +3158,28 @@
    "fetchedAt": "2026-11-19",
    "films": [
     {
+     "slug": "1026681",
+     "title": "Astérix - Le Royaume de Nubie",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-12-02",
+     "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1026681",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027637",
+     "title": "Billie à la croisée des mondes",
+     "originalTitle": "Hexed",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-11-25",
+     "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027637",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027754",
      "title": "Camembert",
      "originalTitle": "",
@@ -3123,6 +3200,17 @@
      "releaseDate": "2026-11-11",
      "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1028017",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027757",
+     "title": "Demain je tombe amoureux",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-25",
+     "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027757",
+     "status": "coming_soon"
     },
     {
      "slug": "1027644",
@@ -3202,6 +3290,28 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027756",
+     "title": "Le Faux Soir",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-12-02",
+     "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027756",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027844",
+     "title": "Les Misérables",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027844",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027914",
      "title": "Minotaure",
      "originalTitle": "Minotaur",
@@ -3224,6 +3334,28 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027841",
+     "title": "No Good Men",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-11-25",
+     "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027841",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027851",
+     "title": "Paper Tiger",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-11-25",
+     "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027851",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027595",
      "title": "Soudain",
      "originalTitle": "All of a Sudden",
@@ -3232,6 +3364,17 @@
      "language": "VO",
      "releaseDate": "2026-11-18",
      "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027595",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027829",
+     "title": "Une femme aujourd'hui",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": "2026-10-28",
+     "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027829",
      "status": "now_showing"
     }
    ]
@@ -13148,6 +13291,17 @@
      "status": "coming_soon"
     },
     {
+     "slug": "1028131",
+     "title": "Avis de tempête",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": "2026-12-30",
+     "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1028131",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027754",
      "title": "Camembert",
      "originalTitle": "",
@@ -13157,6 +13311,17 @@
      "releaseDate": "2026-11-18",
      "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1027754",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027316",
+     "title": "Changer l'eau des fleurs",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-12-09",
+     "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1027316",
+     "status": "coming_soon"
     },
     {
      "slug": "1028017",
@@ -13190,6 +13355,17 @@
      "releaseDate": "2026-10-07",
      "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1027241",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027503",
+     "title": "Dune: Troisième partie",
+     "originalTitle": "Dune: Part Three",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": "2026-12-16",
+     "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1027503",
+     "status": "coming_soon"
     },
     {
      "slug": "1027746",
@@ -13337,6 +13513,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "4851",
+     "title": "Le Fabuleux Destin d'Amélie Poulain",
+     "originalTitle": "",
+     "year": 2001,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2001-04-25",
+     "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie4851",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027844",
      "title": "Les Misérables",
      "originalTitle": "",
@@ -13422,6 +13609,17 @@
      "language": "VO",
      "releaseDate": "2026-11-18",
      "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1027595",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1022366",
+     "title": "The Father",
+     "originalTitle": "",
+     "year": 2020,
+     "rating": "9+",
+     "language": "VO",
+     "releaseDate": "2021-06-16",
+     "url": "https://cinebel.dhnet.be/cinema/730/UGC%20Toison%20d'Or#movie1022366",
      "status": "now_showing"
     },
     {

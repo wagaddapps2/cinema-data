@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-11-19T05:58:54.413Z",
+ "updatedAt": "2026-11-19T15:30:32.344Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
    "name": "Cinemas in Saudi Arabia",
    "films": [
+    {
+     "slug": "2103092",
+     "title": "OM Chapter 1: Udhiram - The Blood Wood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103092/",
+     "status": "now_showing"
+    },
     {
      "slug": "1001199",
      "title": "Ala Bab El Wazeer",
@@ -15,21 +24,39 @@
      "status": "now_showing"
     },
     {
-     "slug": "2054821",
-     "title": "At Eternity's Gate",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2054821/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097821",
      "title": "I, Object",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2097821/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103091",
+     "title": "Bachelor Party D'eux",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103091/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103090",
+     "title": "Three Wishes for Cinderella",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103090/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2054821",
+     "title": "At Eternity's Gate",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2054821/",
      "status": "now_showing"
     },
     {
@@ -51,39 +78,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103090",
-     "title": "Three Wishes for Cinderella",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103090/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103091",
-     "title": "Bachelor Party D'eux",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103091/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103092",
-     "title": "OM Chapter 1: Udhiram - The Blood Wood",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103092/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
+     "slug": "2098160",
+     "title": "Ghost Soldier",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-18",
-     "url": "https://elcinema.com/en/work/2095116/",
+     "url": "https://elcinema.com/en/work/2098160/",
      "status": "now_showing"
     },
     {
@@ -96,21 +96,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098160",
-     "title": "Ghost Soldier",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-18",
-     "url": "https://elcinema.com/en/work/2098160/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101718",
      "title": "You Can See Everything",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-18",
      "url": "https://elcinema.com/en/work/2101718/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2095116/",
      "status": "now_showing"
     },
     {
@@ -168,12 +168,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2097891",
+     "title": "Khartoum",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-06",
+     "url": "https://elcinema.com/en/work/2097891/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2097963",
      "title": "Yunan",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
      "url": "https://elcinema.com/en/work/2097963/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102708",
+     "title": "Supremes",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2102708/",
      "status": "now_showing"
     },
     {
@@ -204,6 +222,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "2029710",
+     "title": "Sense and Sensibility",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2029710/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099119",
+     "title": "Sense and Sensibility",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2099119/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2088495",
      "title": "Wildwood",
      "rating": "",
@@ -219,15 +255,6 @@
      "language": "",
      "releaseDate": "2026-10-28",
      "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2099119/",
      "status": "now_showing"
     },
     {
@@ -249,6 +276,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
@@ -264,6 +309,15 @@
      "language": "",
      "releaseDate": "2026-09-30",
      "url": "https://elcinema.com/en/work/2098232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100562",
+     "title": "Heart of the Beast",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-23",
+     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {
@@ -285,6 +339,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2094924",
+     "title": "Coyote vs. Acme",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-26",
+     "url": "https://elcinema.com/en/work/2094924/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2096322",
      "title": "PAW Patrol: The Dino Movie",
      "rating": "",
@@ -300,6 +363,33 @@
      "language": "",
      "releaseDate": "2026-08-06",
      "url": "https://elcinema.com/en/work/2093913/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095765",
+     "title": "Spider-Man: Brand New Day",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-07-29",
+     "url": "https://elcinema.com/en/work/2095765/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098745",
+     "title": "Minions & Monsters",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-07-01",
+     "url": "https://elcinema.com/en/work/2098745/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099377",
+     "title": "Athar Al Farasha Azaam",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-06-25",
+     "url": "https://elcinema.com/en/work/2099377/",
      "status": "now_showing"
     },
     {
@@ -690,24 +780,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "2103094",
-     "title": "Sathyavan Savithiri",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2103094/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2103095",
-     "title": "Appa Kutty",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2103095/",
-     "status": "coming_soon"
-    },
-    {
      "slug": "2103097",
      "title": "Himalayan Gold",
      "rating": "",
@@ -732,15 +804,6 @@
      "language": "",
      "releaseDate": "2026-11-27",
      "url": "https://elcinema.com/en/work/2103099/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2103100",
-     "title": "Kalli Kheti",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-20",
-     "url": "https://elcinema.com/en/work/2103100/",
      "status": "coming_soon"
     },
     {
