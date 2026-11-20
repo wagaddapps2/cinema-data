@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T15:28:50.182Z",
+ "updatedAt": "2026-11-20T00:19:05.425Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -1657,21 +1657,12 @@
    "name": "Cinescape Ajial",
    "films": [
     {
-     "slug": "2102704",
-     "title": "Scene",
+     "slug": "2103092",
+     "title": "OM Chapter 1: Udhiram - The Blood Wood",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102704/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100998/",
+     "url": "https://elcinema.com/en/work/2103092/",
      "status": "now_showing"
     }
    ]
@@ -1680,57 +1671,12 @@
    "name": "Cinescape Al Kout",
    "films": [
     {
-     "slug": "2097821",
-     "title": "I, Object",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097821/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099109",
-     "title": "I Play Rocky",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099109/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099122",
-     "title": "Forgotten Island",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099122/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095116/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2100998",
      "title": "Hadoota",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098323",
-     "title": "Godzilla Minus Zero",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098323/",
      "status": "now_showing"
     },
     {
@@ -1752,6 +1698,33 @@
      "status": "now_showing"
     },
     {
+     "slug": "2097821",
+     "title": "I, Object",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097821/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101718",
      "title": "You Can See Everything",
      "rating": "",
@@ -1767,6 +1740,24 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101989/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099109",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099109/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098323",
+     "title": "Godzilla Minus Zero",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098323/",
      "status": "now_showing"
     },
     {
@@ -1938,21 +1929,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099108",
-     "title": "Ebenezer",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099108/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2100998",
      "title": "Hadoota",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097821",
+     "title": "I, Object",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097821/",
      "status": "now_showing"
     },
     {
@@ -1965,12 +1956,39 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099777/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2095116",
      "title": "The Hunger Games: Sunrise on the Reaping",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099108/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103090",
+     "title": "Three Wishes for Cinderella",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2103090/",
      "status": "now_showing"
     },
     {
@@ -1989,6 +2007,33 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101718/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095318/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098323",
+     "title": "Godzilla Minus Zero",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098323/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098155/",
      "status": "now_showing"
     }
    ]

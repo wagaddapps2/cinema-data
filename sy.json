@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T15:30:42.111Z",
+ "updatedAt": "2026-11-20T00:20:49.274Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
@@ -24,15 +24,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095519",
      "title": "Other Mommy",
      "rating": "",
@@ -51,48 +42,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2051577",
-     "title": "Everybody Knows",
+     "slug": "2100998",
+     "title": "Hadoota",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-27",
-     "url": "https://elcinema.com/en/work/2051577/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2084421",
-     "title": "The Casagrandes Movie",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-19",
-     "url": "https://elcinema.com/en/work/2084421/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "1019636",
-     "title": "Tangled",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2024-09-15",
-     "url": "https://elcinema.com/en/work/1019636/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2029846",
-     "title": "Ice Age",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2024-07-24",
-     "url": "https://elcinema.com/en/work/2029846/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2037415",
-     "title": "Alvin and the Chipmunks: The Road Chip",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2016-01-28",
-     "url": "https://elcinema.com/en/work/2037415/",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2100998/",
      "status": "now_showing"
     },
     {

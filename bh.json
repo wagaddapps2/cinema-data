@@ -1,17 +1,26 @@
 {
- "updatedAt": "2026-11-19T15:30:37.055Z",
+ "updatedAt": "2026-11-20T00:20:43.786Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
    "name": "Cinemas in Bahrain",
    "films": [
     {
-     "slug": "2101989",
-     "title": "Crypto",
+     "slug": "2103094",
+     "title": "Sathyavan Savithiri",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2101989/",
+     "releaseDate": "2026-11-20",
+     "url": "https://elcinema.com/en/work/2103094/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103092",
+     "title": "OM Chapter 1: Udhiram - The Blood Wood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-20",
+     "url": "https://elcinema.com/en/work/2103092/",
      "status": "now_showing"
     },
     {
@@ -24,21 +33,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103111",
-     "title": "Aakasamlo Oka Tara",
+     "slug": "2103100",
+     "title": "Kalli Kheti",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103111/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103096",
-     "title": "ENE Repeat",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103096/",
+     "url": "https://elcinema.com/en/work/2103100/",
      "status": "now_showing"
     },
     {
@@ -60,12 +60,48 @@
      "status": "now_showing"
     },
     {
+     "slug": "2103095",
+     "title": "Appa Kutty",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103095/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2103090",
      "title": "Three Wishes for Cinderella",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2103090/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2101989/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103096",
+     "title": "ENE Repeat",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103096/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103111",
+     "title": "Aakasamlo Oka Tara",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103111/",
      "status": "now_showing"
     },
     {
@@ -96,12 +132,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
+     "slug": "2100998",
+     "title": "Hadoota",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-11",
-     "url": "https://elcinema.com/en/work/2099777/",
+     "url": "https://elcinema.com/en/work/2100998/",
      "status": "now_showing"
     },
     {
@@ -114,12 +150,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100998",
-     "title": "Hadoota",
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-11",
-     "url": "https://elcinema.com/en/work/2100998/",
+     "url": "https://elcinema.com/en/work/2099777/",
      "status": "now_showing"
     },
     {
@@ -132,21 +168,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-04",
-     "url": "https://elcinema.com/en/work/2095318/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098323",
      "title": "Godzilla Minus Zero",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-04",
      "url": "https://elcinema.com/en/work/2098323/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-04",
+     "url": "https://elcinema.com/en/work/2095318/",
      "status": "now_showing"
     },
     {
@@ -280,7 +316,7 @@
      "title": "Paper Tiger",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-20",
+     "releaseDate": null,
      "url": "https://elcinema.com/en/work/2096575/",
      "status": "coming_soon"
     },
@@ -523,7 +559,7 @@
      "title": "Witch on the Holy Night",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-20",
+     "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102525/",
      "status": "coming_soon"
     },
@@ -534,15 +570,6 @@
      "language": "",
      "releaseDate": "2026-11-26",
      "url": "https://elcinema.com/en/work/2102922/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2103093",
-     "title": "Pratap",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2103093/",
      "status": "coming_soon"
     },
     {
