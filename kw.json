@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T00:19:05.425Z",
+ "updatedAt": "2026-11-20T14:54:32.016Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -173,6 +173,15 @@
      "status": "coming_soon"
     },
     {
+     "slug": "spider-man-brand-new-brand-new-day",
+     "title": "Spider-Man: (Brand New) Brand New Day",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-12-03",
+     "url": "https://kwt.voxcinemas.com/movies/spider-man-brand-new-brand-new-day",
+     "status": "coming_soon"
+    },
+    {
      "slug": "violent-night-2",
      "title": "Violent Night 2",
      "rating": "18TC",
@@ -245,15 +254,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "sales-booking-ashar",
-     "title": "Sales Booking - Ashar",
-     "rating": "18TC",
-     "language": "English",
-     "releaseDate": "2026-12-24",
-     "url": "https://kwt.voxcinemas.com/movies/sales-booking-ashar",
-     "status": "coming_soon"
-    },
-    {
      "slug": "mamsous-arabic",
      "title": "Mamsous",
      "rating": "18TC",
@@ -278,6 +278,15 @@
      "language": "English",
      "releaseDate": "2027-01-14",
      "url": "https://kwt.voxcinemas.com/movies/children-of-blood-and-bone",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-beekeeper-2",
+     "title": "The Beekeeper 2",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2027-01-14",
+     "url": "https://kwt.voxcinemas.com/movies/the-beekeeper-2",
      "status": "coming_soon"
     },
     {
@@ -500,6 +509,24 @@
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/the-exorcist-martyrs/en",
      "status": "coming_soon"
+    },
+    {
+     "slug": "the-beekeeper-2",
+     "title": "THE BEEKEEPER 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/the-beekeeper-2/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "lela-bazit-khalis",
+     "title": "Lela Bazit Khalis",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/lela-bazit-khalis/en",
+     "status": "coming_soon"
     }
    ]
   },
@@ -711,6 +738,24 @@
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/the-exorcist-martyrs/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-beekeeper-2",
+     "title": "THE BEEKEEPER 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/the-beekeeper-2/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "lela-bazit-khalis",
+     "title": "Lela Bazit Khalis",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/lela-bazit-khalis/en",
      "status": "coming_soon"
     }
    ]
@@ -1494,21 +1539,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
+     "slug": "2097821",
+     "title": "I, Object",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095116/",
+     "url": "https://elcinema.com/en/work/2097821/",
      "status": "now_showing"
     },
     {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
+     "slug": "2099108",
+     "title": "Ebenezer",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099777/",
+     "url": "https://elcinema.com/en/work/2099108/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103090",
+     "title": "Three Wishes for Cinderella",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2103090/",
      "status": "now_showing"
     },
     {
@@ -1521,12 +1575,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101989/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2095318",
      "title": "The Cat in the Hat",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2095318/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095116/",
      "status": "now_showing"
     },
     {
@@ -1548,48 +1620,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099777/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098323",
      "title": "Godzilla Minus Zero",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2098323/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103090",
-     "title": "Three Wishes for Cinderella",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2103090/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097821",
-     "title": "I, Object",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097821/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099108",
-     "title": "Ebenezer",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099108/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101989",
-     "title": "Crypto",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101989/",
      "status": "now_showing"
     },
     {
@@ -1775,6 +1820,15 @@
    "name": "Cinescape Avenues",
    "films": [
     {
+     "slug": "2098323",
+     "title": "Godzilla Minus Zero",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098323/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100998",
      "title": "Hadoota",
      "rating": "",
@@ -1784,39 +1838,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103090",
-     "title": "Three Wishes for Cinderella",
+     "slug": "2101989",
+     "title": "Crypto",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2103090/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099109",
-     "title": "I Play Rocky",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099109/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099122",
-     "title": "Forgotten Island",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099122/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099108",
-     "title": "Ebenezer",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099108/",
+     "url": "https://elcinema.com/en/work/2101989/",
      "status": "now_showing"
     },
     {
@@ -1829,12 +1856,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098323",
-     "title": "Godzilla Minus Zero",
+     "slug": "2099122",
+     "title": "Forgotten Island",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098323/",
+     "url": "https://elcinema.com/en/work/2099122/",
      "status": "now_showing"
     },
     {
@@ -1856,6 +1883,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2103090",
+     "title": "Three Wishes for Cinderella",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2103090/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2095318",
      "title": "The Cat in the Hat",
      "rating": "",
@@ -1865,12 +1901,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101989",
-     "title": "Crypto",
+     "slug": "2099108",
+     "title": "Ebenezer",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101989/",
+     "url": "https://elcinema.com/en/work/2099108/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099109",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099109/",
      "status": "now_showing"
     }
    ]
@@ -1920,15 +1965,6 @@
    "name": "Cinescape Assima",
    "films": [
     {
-     "slug": "2099109",
-     "title": "I Play Rocky",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099109/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2100998",
      "title": "Hadoota",
      "rating": "",
@@ -1944,6 +1980,24 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2097821/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099109",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099109/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101989/",
      "status": "now_showing"
     },
     {
@@ -1989,15 +2043,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2103090/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101989",
-     "title": "Crypto",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101989/",
      "status": "now_showing"
     },
     {

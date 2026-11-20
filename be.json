@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T00:20:32.338Z",
+ "updatedAt": "2026-11-20T14:56:04.668Z",
  "territory": "BE",
  "cinemas": {
   "cinebel-693": {
@@ -1281,6 +1281,28 @@
    "fetchedAt": "2026-11-20",
    "films": [
     {
+     "slug": "1024359",
+     "title": "Armageddon Time",
+     "originalTitle": "",
+     "year": 2022,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2023-04-12",
+     "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie1024359",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028079",
+     "title": "Carmen, l'oiseau rebelle",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-12-23",
+     "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie1028079",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1028017",
      "title": "Club Kid",
      "originalTitle": "",
@@ -1304,6 +1326,18 @@
      "status": "coming_soon"
     },
     {
+     "slug": "1028185",
+     "title": "Consolata Consolate",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-09",
+     "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie1028185",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027586",
      "title": "Coward",
      "originalTitle": "",
@@ -1315,6 +1349,18 @@
      "status": "now_showing"
     },
     {
+     "slug": "8665",
+     "title": "Dirty Dancing",
+     "originalTitle": "",
+     "year": 1987,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-17",
+     "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie8665",
+     "status": "coming_soon"
+    },
+    {
      "slug": "7640",
      "title": "Donnie Darko",
      "originalTitle": "",
@@ -1324,6 +1370,17 @@
      "releaseDate": "2002-04-17",
      "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie7640",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027846",
+     "title": "Du fioul dans les artères",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-12-02",
+     "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie1027846",
+     "status": "coming_soon"
     },
     {
      "slug": "1028098",
@@ -1338,6 +1395,28 @@
      "status": "coming_soon"
     },
     {
+     "slug": "1028055",
+     "title": "Fini de rire ! L'humour politique au garde-à-vous ?",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": "2027-01-13",
+     "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie1028055",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027746",
+     "title": "Fjord",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-12-09",
+     "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie1027746",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1026489",
      "title": "Heysel 85",
      "originalTitle": "",
@@ -1349,6 +1428,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027755",
+     "title": "La bola negra",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-12-16",
+     "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie1027755",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027753",
      "title": "La Gradiva",
      "originalTitle": "",
@@ -1358,6 +1448,18 @@
      "releaseDate": "2026-10-28",
      "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie1027753",
      "status": "now_showing"
+    },
+    {
+     "slug": "1028184",
+     "title": "La Maison au bout de la rue",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-02",
+     "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie1028184",
+     "status": "coming_soon"
     },
     {
      "slug": "1026722",
@@ -1380,6 +1482,39 @@
      "releaseDate": "2026-10-14",
      "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie1027594",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027756",
+     "title": "Le Faux Soir",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-12-02",
+     "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie1027756",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027859",
+     "title": "Le Mystère Lucy Lost",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-10-28",
+     "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie1027859",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027858",
+     "title": "Le Noël d'Ernest et Célestine",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VF/NV",
+     "releaseDate": "2026-12-09",
+     "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie1027858",
+     "status": "coming_soon"
     },
     {
      "slug": "1696",
@@ -1405,6 +1540,18 @@
      "status": "coming_soon"
     },
     {
+     "slug": "1027160",
+     "title": "Les âmes bossales",
+     "originalTitle": "",
+     "year": 2024,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-10",
+     "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie1027160",
+     "status": "coming_soon"
+    },
+    {
      "slug": "166",
      "title": "Little Odessa",
      "originalTitle": "",
@@ -1414,6 +1561,18 @@
      "releaseDate": null,
      "firstShowing": "2026-11-29",
      "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie166",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "3527",
+     "title": "Metropolis",
+     "originalTitle": "",
+     "year": 1927,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-09",
+     "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie3527",
      "status": "coming_soon"
     },
     {
@@ -1451,6 +1610,40 @@
      "status": "coming_soon"
     },
     {
+     "slug": "1017348",
+     "title": "The Lost City of Z",
+     "originalTitle": "",
+     "year": 2016,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2017-03-15",
+     "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie1017348",
+     "status": "now_showing"
+    },
+    {
+     "slug": "4461",
+     "title": "The Yards",
+     "originalTitle": "",
+     "year": 2000,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2001-02-21",
+     "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie4461",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1005542",
+     "title": "Un soir de joie",
+     "originalTitle": "",
+     "year": 1955,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-05",
+     "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie1005542",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027608",
      "title": "Wild Horse Nine",
      "originalTitle": "",
@@ -1460,6 +1653,17 @@
      "releaseDate": "2026-11-04",
      "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie1027608",
      "status": "now_showing"
+    },
+    {
+     "slug": "1028110",
+     "title": "You Can See Everything",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-12-30",
+     "url": "https://cinebel.dhnet.be/cinema/725/Cineflagey#movie1028110",
+     "status": "coming_soon"
     }
    ]
   },
@@ -7894,6 +8098,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027860",
+     "title": "Congo Boy",
+     "originalTitle": "",
+     "year": 2025,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-11-25",
+     "url": "https://cinebel.dhnet.be/cinema/863/Le%20Churchill#movie1027860",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027586",
      "title": "Coward",
      "originalTitle": "",
@@ -7950,6 +8165,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027830",
+     "title": "Il faut brûler Maman",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-11-11",
+     "url": "https://cinebel.dhnet.be/cinema/863/Le%20Churchill#movie1027830",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027903",
      "title": "Jupiter",
      "originalTitle": "",
@@ -7958,6 +8184,17 @@
      "language": "VO",
      "releaseDate": "2026-11-18",
      "url": "https://cinebel.dhnet.be/cinema/863/Le%20Churchill#movie1027903",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027740",
+     "title": "Karma",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/863/Le%20Churchill#movie1027740",
      "status": "now_showing"
     },
     {
@@ -7970,6 +8207,18 @@
      "releaseDate": "2026-11-04",
      "url": "https://cinebel.dhnet.be/cinema/863/Le%20Churchill#movie1027902",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027982",
+     "title": "L'Autre Côté du soleil",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-11-30",
+     "url": "https://cinebel.dhnet.be/cinema/863/Le%20Churchill#movie1027982",
+     "status": "coming_soon"
     },
     {
      "slug": "1027753",
@@ -7995,6 +8244,52 @@
      "status": "coming_soon"
     },
     {
+     "slug": "1027594",
+     "title": "Le Corset",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-10-14",
+     "url": "https://cinebel.dhnet.be/cinema/863/Le%20Churchill#movie1027594",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027859",
+     "title": "Le Mystère Lucy Lost",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": "2026-10-28",
+     "url": "https://cinebel.dhnet.be/cinema/863/Le%20Churchill#movie1027859",
+     "status": "now_showing"
+    },
+    {
+     "slug": "8074",
+     "title": "Le Privé",
+     "originalTitle": "The Long Goodbye",
+     "year": 1973,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-07",
+     "url": "https://cinebel.dhnet.be/cinema/863/Le%20Churchill#movie8074",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1028182",
+     "title": "Le Sapin a les boules",
+     "originalTitle": "National Lampoon's Christmas Vacation",
+     "year": 1989,
+     "rating": "",
+     "language": "VF",
+     "releaseDate": null,
+     "firstShowing": "2026-12-02",
+     "url": "https://cinebel.dhnet.be/cinema/863/Le%20Churchill#movie1028182",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027844",
      "title": "Les Misérables",
      "originalTitle": "",
@@ -8015,6 +8310,17 @@
      "releaseDate": null,
      "firstShowing": "2026-11-21",
      "url": "https://cinebel.dhnet.be/cinema/863/Le%20Churchill#movie1027987",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1028026",
+     "title": "Malika",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-11-25",
+     "url": "https://cinebel.dhnet.be/cinema/863/Le%20Churchill#movie1028026",
      "status": "coming_soon"
     },
     {
@@ -8051,6 +8357,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1018112",
+     "title": "Myrtille et la lettre au père Noël",
+     "originalTitle": "",
+     "year": 2017,
+     "rating": "AL",
+     "language": "VF",
+     "releaseDate": "2017-12-06",
+     "url": "https://cinebel.dhnet.be/cinema/863/Le%20Churchill#movie1018112",
+     "status": "now_showing"
+    },
+    {
      "slug": "1028012",
      "title": "Naza",
      "originalTitle": "",
@@ -8060,6 +8377,17 @@
      "releaseDate": "2026-09-30",
      "url": "https://cinebel.dhnet.be/cinema/863/Le%20Churchill#movie1028012",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027841",
+     "title": "No Good Men",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-11-25",
+     "url": "https://cinebel.dhnet.be/cinema/863/Le%20Churchill#movie1027841",
+     "status": "coming_soon"
     },
     {
      "slug": "1027593",
@@ -8082,6 +8410,28 @@
      "releaseDate": "2026-11-04",
      "url": "https://cinebel.dhnet.be/cinema/863/Le%20Churchill#movie1027752",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027315",
+     "title": "Shaun le Mouton: La Bêêête d'Halloween",
+     "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VF",
+     "releaseDate": "2026-10-21",
+     "url": "https://cinebel.dhnet.be/cinema/863/Le%20Churchill#movie1027315",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027933",
+     "title": "Talking to Men Who Have Sex",
+     "originalTitle": "",
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-11-28",
+     "url": "https://cinebel.dhnet.be/cinema/863/Le%20Churchill#movie1027933",
+     "status": "coming_soon"
     },
     {
      "slug": "1027572",
@@ -8305,6 +8655,17 @@
    "fetchedAt": "2026-11-20",
    "films": [
     {
+     "slug": "1027637",
+     "title": "Billie à la croisée des mondes",
+     "originalTitle": "Hexed",
+     "year": 2026,
+     "rating": "6+",
+     "language": "VF",
+     "releaseDate": "2026-11-25",
+     "url": "https://cinebel.dhnet.be/cinema/864/Le%20Parc#movie1027637",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027754",
      "title": "Camembert",
      "originalTitle": "",
@@ -8316,6 +8677,28 @@
      "status": "now_showing"
     },
     {
+     "slug": "1028130",
+     "title": "Claude",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": "2026-12-02",
+     "url": "https://cinebel.dhnet.be/cinema/864/Le%20Parc#movie1028130",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027757",
+     "title": "Demain je tombe amoureux",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-25",
+     "url": "https://cinebel.dhnet.be/cinema/864/Le%20Parc#movie1027757",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1026489",
      "title": "Heysel 85",
      "originalTitle": "",
@@ -8324,6 +8707,17 @@
      "language": "VO",
      "releaseDate": "2026-11-18",
      "url": "https://cinebel.dhnet.be/cinema/864/Le%20Parc#movie1026489",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1027469",
+     "title": "Hunger Games: Lever de soleil sur la moisson",
+     "originalTitle": "The Hunger Games: Sunrise on the Reaping",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-11-18",
+     "url": "https://cinebel.dhnet.be/cinema/864/Le%20Parc#movie1027469",
      "status": "now_showing"
     },
     {
@@ -8349,6 +8743,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027902",
+     "title": "L'Affaire Marie-Claire",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-11-04",
+     "url": "https://cinebel.dhnet.be/cinema/864/Le%20Parc#movie1027902",
+     "status": "now_showing"
+    },
+    {
      "slug": "1027753",
      "title": "La Gradiva",
      "originalTitle": "",
@@ -8360,6 +8765,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027756",
+     "title": "Le Faux Soir",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-12-02",
+     "url": "https://cinebel.dhnet.be/cinema/864/Le%20Parc#movie1027756",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027914",
      "title": "Minotaure",
      "originalTitle": "Minotaur",
@@ -8369,6 +8785,17 @@
      "releaseDate": "2026-11-11",
      "url": "https://cinebel.dhnet.be/cinema/864/Le%20Parc#movie1027914",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027851",
+     "title": "Paper Tiger",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-11-25",
+     "url": "https://cinebel.dhnet.be/cinema/864/Le%20Parc#movie1027851",
+     "status": "coming_soon"
     },
     {
      "slug": "1027752",
@@ -8413,6 +8840,17 @@
      "releaseDate": "2026-11-04",
      "url": "https://cinebel.dhnet.be/cinema/864/Le%20Parc#movie1027608",
      "status": "now_showing"
+    },
+    {
+     "slug": "1028110",
+     "title": "You Can See Everything",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-12-30",
+     "url": "https://cinebel.dhnet.be/cinema/864/Le%20Parc#movie1028110",
+     "status": "coming_soon"
     }
    ]
   },
@@ -12149,6 +12587,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1027757",
+     "title": "Demain je tombe amoureux",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2026-11-25",
+     "url": "https://cinebel.dhnet.be/cinema/1063/Sauveni%C3%A8re#movie1027757",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027918",
      "title": "Hope",
      "originalTitle": "Hopeu",
@@ -12237,6 +12686,17 @@
      "status": "now_showing"
     },
     {
+     "slug": "1028026",
+     "title": "Malika",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-11-25",
+     "url": "https://cinebel.dhnet.be/cinema/1063/Sauveni%C3%A8re#movie1028026",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1027914",
      "title": "Minotaure",
      "originalTitle": "Minotaur",
@@ -12257,6 +12717,17 @@
      "releaseDate": "2026-10-28",
      "url": "https://cinebel.dhnet.be/cinema/1063/Sauveni%C3%A8re#movie1028023",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027851",
+     "title": "Paper Tiger",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2026-11-25",
+     "url": "https://cinebel.dhnet.be/cinema/1063/Sauveni%C3%A8re#movie1027851",
+     "status": "coming_soon"
     },
     {
      "slug": "1027752",
