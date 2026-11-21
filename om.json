@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-11-21T14:15:49.567Z",
+ "updatedAt": "2026-11-21T22:48:56.825Z",
  "territory": "OM",
  "cinemas": {
   "elcinema-om": {
    "name": "Cinemas in Oman",
    "films": [
-    {
-     "slug": "2103306",
-     "title": "BTS World Tour 'Arirang' in Kaohsiung: Live Viewing",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-21",
-     "url": "https://elcinema.com/en/work/2103306/",
-     "status": "now_showing"
-    },
     {
      "slug": "2103093",
      "title": "Pratap",
@@ -105,15 +96,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-18",
-     "url": "https://elcinema.com/en/work/2095116/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101718",
      "title": "You Can See Everything",
      "rating": "",
@@ -138,6 +120,15 @@
      "language": "",
      "releaseDate": "2026-11-18",
      "url": "https://elcinema.com/en/work/2099109/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2095116/",
      "status": "now_showing"
     },
     {
@@ -195,15 +186,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102704",
-     "title": "Scene",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102704/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095318",
      "title": "The Cat in the Hat",
      "rating": "",
@@ -213,12 +195,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099759",
-     "title": "Ramayana",
+     "slug": "2102704",
+     "title": "Scene",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-04",
-     "url": "https://elcinema.com/en/work/2099759/",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2102704/",
      "status": "now_showing"
     },
     {
@@ -231,6 +213,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099759",
+     "title": "Ramayana",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-04",
+     "url": "https://elcinema.com/en/work/2099759/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099119",
      "title": "Sense and Sensibility",
      "rating": "",
@@ -240,21 +231,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2088495",
      "title": "Wildwood",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
      "url": "https://elcinema.com/en/work/2088495/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097360",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2097360/",
      "status": "now_showing"
     },
     {

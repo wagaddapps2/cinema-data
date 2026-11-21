@@ -1,17 +1,26 @@
 {
- "updatedAt": "2026-11-21T14:15:53.962Z",
+ "updatedAt": "2026-11-21T22:49:03.100Z",
  "territory": "TN",
  "cinemas": {
   "elcinema-tn": {
    "name": "Cinemas in Tunisia",
    "films": [
     {
-     "slug": "2103304",
-     "title": "Je m'appelle Clara",
+     "slug": "2035196",
+     "title": "Shaun the Sheep Movie",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-18",
-     "url": "https://elcinema.com/en/work/2103304/",
+     "releaseDate": "2026-11-22",
+     "url": "https://elcinema.com/en/work/2035196/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-11",
+     "url": "https://elcinema.com/en/work/2095116/",
      "status": "now_showing"
     },
     {
@@ -39,6 +48,15 @@
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2102269/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101794",
+     "title": "Dar El Eers",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-09-18",
+     "url": "https://elcinema.com/en/work/2101794/",
      "status": "now_showing"
     },
     {

@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-11-21T14:15:43.971Z",
+ "updatedAt": "2026-11-21T22:48:50.755Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
    "name": "Cinemas in Saudi Arabia",
    "films": [
-    {
-     "slug": "2103306",
-     "title": "BTS World Tour 'Arirang' in Kaohsiung: Live Viewing",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-21",
-     "url": "https://elcinema.com/en/work/2103306/",
-     "status": "now_showing"
-    },
     {
      "slug": "2103111",
      "title": "Aakasamlo Oka Tara",
@@ -21,69 +12,6 @@
      "language": "",
      "releaseDate": "2026-11-20",
      "url": "https://elcinema.com/en/work/2103111/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102161",
-     "title": "Traveler's Hell",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2102161/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103092",
-     "title": "OM Chapter 1: Udhiram - The Blood Wood",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103092/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100262",
-     "title": "Rise of the Conqueror",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2100262/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103091",
-     "title": "Bachelor Party D'eux",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103091/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103090",
-     "title": "Three Wishes for Cinderella",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103090/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "1001199",
-     "title": "Ala Bab El Wazeer",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/1001199/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2054821",
-     "title": "At Eternity's Gate",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2054821/",
      "status": "now_showing"
     },
     {
@@ -96,21 +24,66 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101718",
-     "title": "You Can See Everything",
+     "slug": "2103092",
+     "title": "OM Chapter 1: Udhiram - The Blood Wood",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-18",
-     "url": "https://elcinema.com/en/work/2101718/",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103092/",
      "status": "now_showing"
     },
     {
-     "slug": "2099109",
-     "title": "I Play Rocky",
+     "slug": "1001199",
+     "title": "Ala Bab El Wazeer",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-18",
-     "url": "https://elcinema.com/en/work/2099109/",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/1001199/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103091",
+     "title": "Bachelor Party D'eux",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103091/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2054821",
+     "title": "At Eternity's Gate",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2054821/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103090",
+     "title": "Three Wishes for Cinderella",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103090/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100262",
+     "title": "Rise of the Conqueror",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2100262/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102161",
+     "title": "Traveler's Hell",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2102161/",
      "status": "now_showing"
     },
     {
@@ -132,12 +105,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101718",
+     "title": "You Can See Everything",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2101718/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2095116",
      "title": "The Hunger Games: Sunrise on the Reaping",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-18",
      "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099109",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2099109/",
      "status": "now_showing"
     },
     {
@@ -159,21 +150,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099108",
-     "title": "Ebenezer",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-11",
-     "url": "https://elcinema.com/en/work/2099108/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099777",
      "title": "How to Rob a Bank",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-11",
      "url": "https://elcinema.com/en/work/2099777/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-11",
+     "url": "https://elcinema.com/en/work/2099108/",
      "status": "now_showing"
     },
     {
@@ -195,12 +186,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098106",
-     "title": "Cotton Queen",
+     "slug": "2097963",
+     "title": "Yunan",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2098106/",
+     "url": "https://elcinema.com/en/work/2097963/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102708",
+     "title": "Supremes",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2102708/",
      "status": "now_showing"
     },
     {
@@ -210,15 +210,6 @@
      "language": "",
      "releaseDate": "2026-11-05",
      "url": "https://elcinema.com/en/work/2102704/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097963",
-     "title": "Yunan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2097963/",
      "status": "now_showing"
     },
     {
@@ -258,21 +249,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2088495",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097360",
      "title": "The Mongoose",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
      "url": "https://elcinema.com/en/work/2097360/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2088495",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2088495/",
      "status": "now_showing"
     },
     {
@@ -285,15 +276,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101940",
-     "title": "Treasure Trekkers",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-22",
-     "url": "https://elcinema.com/en/work/2101940/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
@@ -303,21 +285,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099122",
      "title": "Forgotten Island",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
      "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
