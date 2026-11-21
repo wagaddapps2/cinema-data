@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T05:41:16.267Z",
+ "updatedAt": "2026-11-21T14:14:05.072Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -110,6 +110,14 @@
      "status": "now_showing"
     },
     {
+     "slug": "dune-part-three-preview-screening",
+     "title": "Dune: Part Three -Preview Screening",
+     "rating": "R15",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/dune-part-three-preview-screening",
+     "status": "now_showing"
+    },
+    {
      "slug": "hexed",
      "title": "Hexed",
      "rating": "18TC",
@@ -193,7 +201,7 @@
     {
      "slug": "dune-part-three-preview-screening",
      "title": "Dune: Part Three -Preview Screening",
-     "rating": "18TC",
+     "rating": "R15",
      "language": "English",
      "releaseDate": "2026-12-15",
      "url": "https://kwt.voxcinemas.com/movies/dune-part-three-preview-screening",
