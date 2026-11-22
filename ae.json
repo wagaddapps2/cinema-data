@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-11-22T05:11:24.860Z",
+ "updatedAt": "2026-11-22T14:05:38.413Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
    "name": "Cinemas in United Arab Emirates",
    "films": [
-    {
-     "slug": "2103093",
-     "title": "Pratap",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-20",
-     "url": "https://elcinema.com/en/work/2103093/",
-     "status": "now_showing"
-    },
     {
      "slug": "2103100",
      "title": "Kalli Kheti",
@@ -24,30 +15,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103096",
-     "title": "ENE Repeat",
+     "slug": "2103093",
+     "title": "Pratap",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103096/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103095",
-     "title": "Appa Kutty",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103095/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103094",
-     "title": "Sathyavan Savithiri",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103094/",
+     "releaseDate": "2026-11-20",
+     "url": "https://elcinema.com/en/work/2103093/",
      "status": "now_showing"
     },
     {
@@ -60,12 +33,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103092",
-     "title": "OM Chapter 1: Udhiram - The Blood Wood",
+     "slug": "2103095",
+     "title": "Appa Kutty",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103092/",
+     "url": "https://elcinema.com/en/work/2103095/",
      "status": "now_showing"
     },
     {
@@ -75,6 +48,51 @@
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103094",
+     "title": "Sathyavan Savithiri",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103094/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103096",
+     "title": "ENE Repeat",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103096/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103111",
+     "title": "Aakasamlo Oka Tara",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103111/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103092",
+     "title": "OM Chapter 1: Udhiram - The Blood Wood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103092/",
      "status": "now_showing"
     },
     {
@@ -96,6 +114,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2097821",
+     "title": "I, Object",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2097821/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101989",
      "title": "Crypto",
      "rating": "",
@@ -114,24 +141,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100262",
-     "title": "Rise of the Conqueror",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2100262/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099122",
-     "title": "Forgotten Island",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2099122/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098160",
      "title": "Ghost Soldier",
      "rating": "",
@@ -141,21 +150,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097821",
-     "title": "I, Object",
+     "slug": "2100262",
+     "title": "Rise of the Conqueror",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2097821/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103111",
-     "title": "Aakasamlo Oka Tara",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103111/",
+     "url": "https://elcinema.com/en/work/2100262/",
      "status": "now_showing"
     },
     {
@@ -165,24 +165,6 @@
      "language": "",
      "releaseDate": "2026-11-18",
      "url": "https://elcinema.com/en/work/2099109/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102971",
-     "title": "Batulo Jun",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102971/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102967",
-     "title": "Bouma",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102967/",
      "status": "now_showing"
     },
     {
@@ -213,6 +195,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102967",
+     "title": "Bouma",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2102967/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102971",
+     "title": "Batulo Jun",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2102971/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2011186",
      "title": "Rocky",
      "rating": "",
@@ -222,21 +222,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2095318/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102704",
      "title": "Scene",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
      "url": "https://elcinema.com/en/work/2102704/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2095318/",
      "status": "now_showing"
     },
     {
@@ -258,24 +258,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2093435",
-     "title": "It Feeds",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2093435/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099119",
      "title": "Sense and Sensibility",
      "rating": "",
@@ -291,6 +273,15 @@
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2102344/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097360",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2097360/",
      "status": "now_showing"
     },
     {
@@ -330,12 +321,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097221",
-     "title": "Jailer 2",
+     "slug": "2098232",
+     "title": "Verity",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2097221/",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2098232/",
      "status": "now_showing"
     },
     {
@@ -345,15 +336,6 @@
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2101997/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2098232/",
      "status": "now_showing"
     },
     {
@@ -393,30 +375,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2064037",
-     "title": "The Hunger Games: The Ballad of Songbirds and Snakes",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2023-11-16",
-     "url": "https://elcinema.com/en/work/2064037/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2005514",
      "title": "The Lord of the Rings: The Return of the King",
      "rating": "",
      "language": "",
      "releaseDate": "2021-03-18",
      "url": "https://elcinema.com/en/work/2005514/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2006309",
-     "title": "The Lord of the Rings: The Two Towers",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2021-02-25",
-     "url": "https://elcinema.com/en/work/2006309/",
      "status": "now_showing"
     },
     {

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T05:09:43.138Z",
+ "updatedAt": "2026-11-22T14:04:03.470Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -168,6 +168,15 @@
      "language": "Arabic",
      "releaseDate": "2026-11-26",
      "url": "https://kwt.voxcinemas.com/movies/lela-bazit-khalis-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "hexed-arabic",
+     "title": "Hexed",
+     "rating": "18TC",
+     "language": "Arabic",
+     "releaseDate": "2026-11-26",
+     "url": "https://kwt.voxcinemas.com/movies/hexed-arabic",
      "status": "coming_soon"
     },
     {
@@ -881,7 +890,7 @@
     {
      "slug": "travellers-hell-saudi-arabic",
      "title": "Traveller&#x2019;s Hell -Saudi",
-     "rating": "",
+     "rating": "R15",
      "language": "Arabic",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/travellers-hell-saudi-arabic",
@@ -890,7 +899,7 @@
     {
      "slug": "focker-in-law-english",
      "title": "Focker in Law",
-     "rating": "",
+     "rating": "R18",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/focker-in-law-english",
@@ -1291,7 +1300,7 @@
     {
      "slug": "travellers-hell-saudi-arabic",
      "title": "Traveller&#x2019;s Hell -Saudi",
-     "rating": "",
+     "rating": "R15",
      "language": "Arabic",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/travellers-hell-saudi-arabic",
@@ -1300,7 +1309,7 @@
     {
      "slug": "focker-in-law-english",
      "title": "Focker in Law",
-     "rating": "",
+     "rating": "R18",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/focker-in-law-english",
@@ -1564,6 +1573,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099777/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099122",
      "title": "Forgotten Island",
      "rating": "",
@@ -1645,15 +1663,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099777/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
@@ -1674,15 +1683,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099122/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103090",
-     "title": "Three Wishes for Cinderella",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2103090/",
      "status": "now_showing"
     },
     {
@@ -1718,12 +1718,48 @@
    "name": "Cinescape Ajial",
    "films": [
     {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103111",
+     "title": "Aakasamlo Oka Tara",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2103111/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2103092",
      "title": "OM Chapter 1: Udhiram - The Blood Wood",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2103092/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103091",
+     "title": "Bachelor Party D'eux",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2103091/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102704",
+     "title": "Scene",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102704/",
      "status": "now_showing"
     }
    ]
@@ -1890,15 +1926,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101989",
-     "title": "Crypto",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101989/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101718",
      "title": "You Can See Everything",
      "rating": "",
@@ -1924,6 +1951,15 @@
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2095318/",
      "status": "now_showing"
+    },
+    {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101989/",
+     "status": "now_showing"
     }
    ]
   },
@@ -1940,15 +1976,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099109",
-     "title": "I Play Rocky",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099109/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095116",
      "title": "The Hunger Games: Sunrise on the Reaping",
      "rating": "",
@@ -1958,12 +1985,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101718",
-     "title": "You Can See Everything",
+     "slug": "2099109",
+     "title": "I Play Rocky",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101718/",
+     "url": "https://elcinema.com/en/work/2099109/",
      "status": "now_showing"
     }
    ]
@@ -2062,6 +2089,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098323",
+     "title": "Godzilla Minus Zero",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2098323/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2103090",
      "title": "Three Wishes for Cinderella",
      "rating": "",
@@ -2077,15 +2113,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2095318/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098323",
-     "title": "Godzilla Minus Zero",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098323/",
      "status": "now_showing"
     }
    ]
