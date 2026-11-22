@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T14:05:32.903Z",
+ "updatedAt": "2026-11-22T23:16:46.987Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
@@ -24,12 +24,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
+     "slug": "2101989",
+     "title": "Crypto",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2095116/",
+     "url": "https://elcinema.com/en/work/2101989/",
      "status": "now_showing"
     },
     {
@@ -42,12 +42,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101989",
-     "title": "Crypto",
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2101989/",
+     "url": "https://elcinema.com/en/work/2095116/",
      "status": "now_showing"
     },
     {
@@ -96,12 +96,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102069",
-     "title": "Üç Harfliler: Mühür",
+     "slug": "2103303",
+     "title": "Romeo and Juliet - Paris Opera Ballet",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102069/",
+     "releaseDate": "2026-11-09",
+     "url": "https://elcinema.com/en/work/2103303/",
      "status": "now_showing"
     },
     {
@@ -120,6 +120,15 @@
      "language": "",
      "releaseDate": "2026-11-05",
      "url": "https://elcinema.com/en/work/2095318/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102069",
+     "title": "Üç Harfliler: Mühür",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2102069/",
      "status": "now_showing"
     },
     {
@@ -186,21 +195,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097950",
      "title": "Digger",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2097950/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2098232/",
      "status": "now_showing"
     },
     {
@@ -282,15 +291,6 @@
      "language": "",
      "releaseDate": "2026-06-24",
      "url": "https://elcinema.com/en/work/2093181/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097300",
-     "title": "Dayel Anna Ard",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2025-11-14",
-     "url": "https://elcinema.com/en/work/2097300/",
      "status": "now_showing"
     },
     {

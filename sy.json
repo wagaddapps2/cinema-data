@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-11-22T14:05:49.271Z",
+ "updatedAt": "2026-11-22T23:17:04.495Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
    "name": "Cinemas in Syria",
    "films": [
-    {
-     "slug": "2103592",
-     "title": "Siete mesas de billar frances",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-22",
-     "url": "https://elcinema.com/en/work/2103592/",
-     "status": "now_showing"
-    },
     {
      "slug": "2095116",
      "title": "The Hunger Games: Sunrise on the Reaping",
@@ -57,24 +48,6 @@
      "language": "",
      "releaseDate": "2026-11-12",
      "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2029150",
-     "title": "Legends of Oz: Dorothy's Return",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-05-28",
-     "url": "https://elcinema.com/en/work/2029150/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2042564",
-     "title": "Dumbo",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2024-08-28",
-     "url": "https://elcinema.com/en/work/2042564/",
      "status": "now_showing"
     },
     {

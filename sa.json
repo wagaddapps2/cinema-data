@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T14:05:41.102Z",
+ "updatedAt": "2026-11-22T23:16:52.917Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
@@ -42,21 +42,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2054821",
-     "title": "At Eternity's Gate",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2054821/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2103090",
      "title": "Three Wishes for Cinderella",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2103090/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2054821",
+     "title": "At Eternity's Gate",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2054821/",
      "status": "now_showing"
     },
     {
@@ -177,15 +177,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097891",
-     "title": "Khartoum",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-06",
-     "url": "https://elcinema.com/en/work/2097891/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102704",
      "title": "Scene",
      "rating": "",
@@ -201,15 +192,6 @@
      "language": "",
      "releaseDate": "2026-11-05",
      "url": "https://elcinema.com/en/work/2097963/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102708",
-     "title": "Supremes",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102708/",
      "status": "now_showing"
     },
     {
@@ -240,12 +222,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2088495",
-     "title": "Wildwood",
+     "slug": "2029710",
+     "title": "Sense and Sensibility",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2088495/",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2029710/",
      "status": "now_showing"
     },
     {
@@ -264,6 +246,15 @@
      "language": "",
      "releaseDate": "2026-10-28",
      "url": "https://elcinema.com/en/work/2099119/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2088495",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2088495/",
      "status": "now_showing"
     },
     {
@@ -300,6 +291,15 @@
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2099520/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101672",
+     "title": "The Crystal Planet",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2101672/",
      "status": "now_showing"
     },
     {

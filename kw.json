@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T14:04:03.470Z",
+ "updatedAt": "2026-11-22T23:15:01.172Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -798,21 +798,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "aakasamlo-oka-tara-malayalam",
-     "title": "Aakasamlo Oka Tara",
-     "rating": "PG12",
-     "language": "Malayalam",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/aakasamlo-oka-tara-malayalam",
-     "status": "now_showing"
-    },
-    {
      "slug": "bachelor-party-deux-malayalam",
      "title": "Bachelor Party D&#x27;eux",
      "rating": "R18",
      "language": "Malayalam",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/bachelor-party-deux-malayalam",
+     "status": "now_showing"
+    },
+    {
+     "slug": "aakasamlo-oka-tara-malayalam",
+     "title": "Aakasamlo Oka Tara",
+     "rating": "PG12",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/aakasamlo-oka-tara-malayalam",
      "status": "now_showing"
     },
     {
@@ -843,12 +843,30 @@
      "status": "coming_soon"
     },
     {
+     "slug": "focker-in-law-english",
+     "title": "Focker in Law",
+     "rating": "R18",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/focker-in-law-english",
+     "status": "coming_soon"
+    },
+    {
      "slug": "lela-bazit-khalis-arabic",
      "title": "Lela Bazit Khalis",
      "rating": "",
      "language": "Arabic",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/lela-bazit-khalis-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "travellers-hell-saudi-arabic",
+     "title": "Traveller&#x2019;s Hell -Saudi",
+     "rating": "R15",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/travellers-hell-saudi-arabic",
      "status": "coming_soon"
     },
     {
@@ -870,6 +888,15 @@
      "status": "coming_soon"
     },
     {
+     "slug": "yeh-prem-mol-liya-hindi",
+     "title": "Yeh Prem Mol Liya",
+     "rating": "PG12",
+     "language": "Hindi",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/yeh-prem-mol-liya-hindi",
+     "status": "coming_soon"
+    },
+    {
      "slug": "prempaatta-malayalam",
      "title": "Prempaatta",
      "rating": "",
@@ -879,39 +906,12 @@
      "status": "coming_soon"
     },
     {
-     "slug": "scorpion-english",
-     "title": "Scorpion",
+     "slug": "gunmaaster-g9-hindi",
+     "title": "Gunmaaster G9",
      "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/scorpion-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "travellers-hell-saudi-arabic",
-     "title": "Traveller&#x2019;s Hell -Saudi",
-     "rating": "R15",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/travellers-hell-saudi-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "focker-in-law-english",
-     "title": "Focker in Law",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/focker-in-law-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "yeh-prem-mol-liya-hindi",
-     "title": "Yeh Prem Mol Liya",
-     "rating": "PG12",
      "language": "Hindi",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/yeh-prem-mol-liya-hindi",
+     "url": "https://www.ozonecinema.com/movies/gunmaaster-g9-hindi",
      "status": "coming_soon"
     },
     {
@@ -975,15 +975,6 @@
      "language": "Hindi",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/maatrubhumi-hindi",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "gunmaaster-g9-hindi",
-     "title": "Gunmaaster G9",
-     "rating": "",
-     "language": "Hindi",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/gunmaaster-g9-hindi",
      "status": "coming_soon"
     },
     {
@@ -1253,12 +1244,30 @@
      "status": "coming_soon"
     },
     {
+     "slug": "focker-in-law-english",
+     "title": "Focker in Law",
+     "rating": "R18",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/focker-in-law-english",
+     "status": "coming_soon"
+    },
+    {
      "slug": "lela-bazit-khalis-arabic",
      "title": "Lela Bazit Khalis",
      "rating": "",
      "language": "Arabic",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/lela-bazit-khalis-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "travellers-hell-saudi-arabic",
+     "title": "Traveller&#x2019;s Hell -Saudi",
+     "rating": "R15",
+     "language": "Arabic",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/travellers-hell-saudi-arabic",
      "status": "coming_soon"
     },
     {
@@ -1280,6 +1289,15 @@
      "status": "coming_soon"
     },
     {
+     "slug": "yeh-prem-mol-liya-hindi",
+     "title": "Yeh Prem Mol Liya",
+     "rating": "PG12",
+     "language": "Hindi",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/yeh-prem-mol-liya-hindi",
+     "status": "coming_soon"
+    },
+    {
      "slug": "prempaatta-malayalam",
      "title": "Prempaatta",
      "rating": "",
@@ -1289,39 +1307,12 @@
      "status": "coming_soon"
     },
     {
-     "slug": "scorpion-english",
-     "title": "Scorpion",
+     "slug": "gunmaaster-g9-hindi",
+     "title": "Gunmaaster G9",
      "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/scorpion-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "travellers-hell-saudi-arabic",
-     "title": "Traveller&#x2019;s Hell -Saudi",
-     "rating": "R15",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/travellers-hell-saudi-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "focker-in-law-english",
-     "title": "Focker in Law",
-     "rating": "R18",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/focker-in-law-english",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "yeh-prem-mol-liya-hindi",
-     "title": "Yeh Prem Mol Liya",
-     "rating": "PG12",
      "language": "Hindi",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/yeh-prem-mol-liya-hindi",
+     "url": "https://www.ozonecinema.com/movies/gunmaaster-g9-hindi",
      "status": "coming_soon"
     },
     {
@@ -1385,15 +1376,6 @@
      "language": "Hindi",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/maatrubhumi-hindi",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "gunmaaster-g9-hindi",
-     "title": "Gunmaaster G9",
-     "rating": "",
-     "language": "Hindi",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/gunmaaster-g9-hindi",
      "status": "coming_soon"
     },
     {
@@ -1991,6 +1973,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099109/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101718",
+     "title": "You Can See Everything",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101718/",
      "status": "now_showing"
     }
    ]
