@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T22:48:50.755Z",
+ "updatedAt": "2026-11-22T05:11:27.309Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
@@ -15,30 +15,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097821",
-     "title": "I, Object",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2097821/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103092",
-     "title": "OM Chapter 1: Udhiram - The Blood Wood",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103092/",
-     "status": "now_showing"
-    },
-    {
      "slug": "1001199",
      "title": "Ala Bab El Wazeer",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/1001199/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097821",
+     "title": "I, Object",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2097821/",
      "status": "now_showing"
     },
     {
@@ -78,6 +69,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2103092",
+     "title": "OM Chapter 1: Udhiram - The Blood Wood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103092/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102161",
      "title": "Traveler's Hell",
      "rating": "",
@@ -87,12 +87,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098160",
      "title": "Ghost Soldier",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-18",
      "url": "https://elcinema.com/en/work/2098160/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099109",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2099109/",
      "status": "now_showing"
     },
     {
@@ -114,24 +132,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-18",
-     "url": "https://elcinema.com/en/work/2095116/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099109",
-     "title": "I Play Rocky",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-18",
-     "url": "https://elcinema.com/en/work/2099109/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102967",
      "title": "Bouma",
      "rating": "",
@@ -150,21 +150,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-11",
-     "url": "https://elcinema.com/en/work/2099777/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099108",
      "title": "Ebenezer",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-11",
      "url": "https://elcinema.com/en/work/2099108/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-11",
+     "url": "https://elcinema.com/en/work/2099777/",
      "status": "now_showing"
     },
     {
@@ -186,15 +186,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097963",
-     "title": "Yunan",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2097963/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102708",
      "title": "Supremes",
      "rating": "",
@@ -210,6 +201,15 @@
      "language": "",
      "releaseDate": "2026-11-05",
      "url": "https://elcinema.com/en/work/2102704/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097963",
+     "title": "Yunan",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2097963/",
      "status": "now_showing"
     },
     {
@@ -231,21 +231,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101651",
-     "title": "The Dino Family",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2101651/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2029710",
      "title": "Sense and Sensibility",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2029710/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101651",
+     "title": "The Dino Family",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2101651/",
      "status": "now_showing"
     },
     {
@@ -480,6 +480,15 @@
      "language": "",
      "releaseDate": "2022-10-06",
      "url": "https://elcinema.com/en/work/2009118/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2073489",
+     "title": "Slapface",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2022-03-10",
+     "url": "https://elcinema.com/en/work/2073489/",
      "status": "now_showing"
     },
     {

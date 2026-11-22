@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-11-21T22:48:53.233Z",
+ "updatedAt": "2026-11-22T05:11:29.411Z",
  "territory": "QA",
  "cinemas": {
   "elcinema-qa": {
    "name": "Cinemas in Qatar",
    "films": [
-    {
-     "slug": "2103094",
-     "title": "Sathyavan Savithiri",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-20",
-     "url": "https://elcinema.com/en/work/2103094/",
-     "status": "now_showing"
-    },
     {
      "slug": "2103100",
      "title": "Kalli Kheti",
@@ -30,6 +21,15 @@
      "language": "",
      "releaseDate": "2026-11-20",
      "url": "https://elcinema.com/en/work/2103095/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103094",
+     "title": "Sathyavan Savithiri",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-20",
+     "url": "https://elcinema.com/en/work/2103094/",
      "status": "now_showing"
     },
     {
@@ -69,48 +69,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100262",
-     "title": "Rise of the Conqueror",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2100262/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101015",
-     "title": "Best Pancakes in the County",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2101015/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101718",
-     "title": "You Can See Everything",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2101718/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2103090",
      "title": "Three Wishes for Cinderella",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2103090/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103111",
-     "title": "Aakasamlo Oka Tara",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103111/",
      "status": "now_showing"
     },
     {
@@ -123,12 +87,39 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099109",
-     "title": "I Play Rocky",
+     "slug": "2101718",
+     "title": "You Can See Everything",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-18",
-     "url": "https://elcinema.com/en/work/2099109/",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2101718/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101015",
+     "title": "Best Pancakes in the County",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2101015/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103111",
+     "title": "Aakasamlo Oka Tara",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103111/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100262",
+     "title": "Rise of the Conqueror",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2100262/",
      "status": "now_showing"
     },
     {
@@ -138,6 +129,15 @@
      "language": "",
      "releaseDate": "2026-11-18",
      "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099109",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2099109/",
      "status": "now_showing"
     },
     {

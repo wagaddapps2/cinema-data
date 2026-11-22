@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T22:47:07.504Z",
+ "updatedAt": "2026-11-22T05:09:43.138Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -1890,6 +1890,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101989/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101718",
      "title": "You Can See Everything",
      "rating": "",
@@ -1914,15 +1923,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2095318/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101989",
-     "title": "Crypto",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101989/",
      "status": "now_showing"
     }
    ]
