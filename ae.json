@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T23:16:50.817Z",
+ "updatedAt": "2026-11-23T05:52:46.716Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
@@ -24,15 +24,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103096",
-     "title": "ENE Repeat",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103096/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2074423",
      "title": "Resident Evil",
      "rating": "",
@@ -42,12 +33,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103095",
-     "title": "Appa Kutty",
+     "slug": "2103096",
+     "title": "ENE Repeat",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103095/",
+     "url": "https://elcinema.com/en/work/2103096/",
      "status": "now_showing"
     },
     {
@@ -57,6 +48,33 @@
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2101989/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101718",
+     "title": "You Can See Everything",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2101718/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103095",
+     "title": "Appa Kutty",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103095/",
      "status": "now_showing"
     },
     {
@@ -78,6 +96,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "2103111",
+     "title": "Aakasamlo Oka Tara",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103111/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097821",
+     "title": "I, Object",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2097821/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2103091",
      "title": "Bachelor Party D'eux",
      "rating": "",
@@ -93,42 +129,6 @@
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2103090/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101989",
-     "title": "Crypto",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2101989/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097821",
-     "title": "I, Object",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2097821/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101718",
-     "title": "You Can See Everything",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2101718/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100262",
-     "title": "Rise of the Conqueror",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2100262/",
      "status": "now_showing"
     },
     {
@@ -150,12 +150,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103111",
-     "title": "Aakasamlo Oka Tara",
+     "slug": "2100262",
+     "title": "Rise of the Conqueror",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103111/",
+     "url": "https://elcinema.com/en/work/2100262/",
      "status": "now_showing"
     },
     {
@@ -168,21 +168,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100998",
-     "title": "Hadoota",
+     "slug": "2102967",
+     "title": "Bouma",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099108",
-     "title": "Ebenezer",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099108/",
+     "url": "https://elcinema.com/en/work/2102967/",
      "status": "now_showing"
     },
     {
@@ -195,21 +186,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102967",
-     "title": "Bouma",
+     "slug": "2099108",
+     "title": "Ebenezer",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102967/",
+     "url": "https://elcinema.com/en/work/2099108/",
      "status": "now_showing"
     },
     {
-     "slug": "2102971",
-     "title": "Batulo Jun",
+     "slug": "2100998",
+     "title": "Hadoota",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102971/",
+     "url": "https://elcinema.com/en/work/2100998/",
      "status": "now_showing"
     },
     {
@@ -258,6 +249,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099119",
+     "title": "Sense and Sensibility",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2099119/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2097360",
      "title": "The Mongoose",
      "rating": "",
@@ -273,15 +273,6 @@
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2102344/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2099119/",
      "status": "now_showing"
     },
     {
@@ -303,21 +294,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096857",
-     "title": "Street Fighter",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2096857/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098154",
      "title": "Whalefall",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2098154/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096857",
+     "title": "Street Fighter",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2096857/",
      "status": "now_showing"
     },
     {
@@ -330,21 +321,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101997",
      "title": "Drishyam: The Conclusion",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2101997/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098232",
+     "title": "Verity",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-01",
+     "url": "https://elcinema.com/en/work/2098232/",
      "status": "now_showing"
     },
     {

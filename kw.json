@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T23:15:01.172Z",
+ "updatedAt": "2026-11-23T05:50:55.519Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -1555,15 +1555,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099777/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099122",
      "title": "Forgotten Island",
      "rating": "",
@@ -1642,6 +1633,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101989/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099777/",
      "status": "now_showing"
     },
     {
@@ -1768,6 +1768,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099109",
      "title": "I Play Rocky",
      "rating": "",
@@ -1783,15 +1792,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099122/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100998/",
      "status": "now_showing"
     },
     {
@@ -1813,12 +1813,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103090",
-     "title": "Three Wishes for Cinderella",
+     "slug": "2101989",
+     "title": "Crypto",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2103090/",
+     "url": "https://elcinema.com/en/work/2101989/",
      "status": "now_showing"
     },
     {
@@ -1831,12 +1831,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101989",
-     "title": "Crypto",
+     "slug": "2103090",
+     "title": "Three Wishes for Cinderella",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101989/",
+     "url": "https://elcinema.com/en/work/2103090/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099108/",
      "status": "now_showing"
     }
    ]
@@ -1908,6 +1917,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101989/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101718",
      "title": "You Can See Everything",
      "rating": "",
@@ -1933,15 +1951,6 @@
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2095318/",
      "status": "now_showing"
-    },
-    {
-     "slug": "2101989",
-     "title": "Crypto",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101989/",
-     "status": "now_showing"
     }
    ]
   },
@@ -1958,21 +1967,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095116/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099109",
      "title": "I Play Rocky",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099109/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095116/",
      "status": "now_showing"
     },
     {
