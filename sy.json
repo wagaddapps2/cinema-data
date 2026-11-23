@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-11-23T05:53:01.576Z",
+ "updatedAt": "2026-11-23T17:27:54.890Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
    "name": "Cinemas in Syria",
    "films": [
+    {
+     "slug": "2103592",
+     "title": "Siete mesas de billar frances",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-22",
+     "url": "https://elcinema.com/en/work/2103592/",
+     "status": "now_showing"
+    },
     {
      "slug": "2095116",
      "title": "The Hunger Games: Sunrise on the Reaping",
@@ -48,6 +57,24 @@
      "language": "",
      "releaseDate": "2026-11-12",
      "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2084421",
+     "title": "The Casagrandes Movie",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-19",
+     "url": "https://elcinema.com/en/work/2084421/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2037415",
+     "title": "Alvin and the Chipmunks: The Road Chip",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2016-01-28",
+     "url": "https://elcinema.com/en/work/2037415/",
      "status": "now_showing"
     },
     {
