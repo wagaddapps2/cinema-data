@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T03:51:22.391Z",
+ "updatedAt": "2026-11-24T17:00:24.707Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
@@ -33,30 +33,39 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103111",
-     "title": "Aakasamlo Oka Tara",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103111/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2074423",
-     "title": "Resident Evil",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2074423/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095116",
      "title": "The Hunger Games: Sunrise on the Reaping",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103096",
+     "title": "ENE Repeat",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103096/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103095",
+     "title": "Appa Kutty",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103095/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103094",
+     "title": "Sathyavan Savithiri",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103094/",
      "status": "now_showing"
     },
     {
@@ -69,12 +78,66 @@
      "status": "now_showing"
     },
     {
+     "slug": "2103092",
+     "title": "OM Chapter 1: Udhiram - The Blood Wood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103092/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103091",
+     "title": "Bachelor Party D'eux",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103091/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098160",
      "title": "Ghost Soldier",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2098160/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103090",
+     "title": "Three Wishes for Cinderella",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103090/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2101989/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2074423",
+     "title": "Resident Evil",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2074423/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101718",
+     "title": "You Can See Everything",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2101718/",
      "status": "now_showing"
     },
     {
@@ -96,75 +159,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101718",
-     "title": "You Can See Everything",
+     "slug": "2103111",
+     "title": "Aakasamlo Oka Tara",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2101718/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101989",
-     "title": "Crypto",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2101989/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103090",
-     "title": "Three Wishes for Cinderella",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103090/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103091",
-     "title": "Bachelor Party D'eux",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103091/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103092",
-     "title": "OM Chapter 1: Udhiram - The Blood Wood",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103092/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103094",
-     "title": "Sathyavan Savithiri",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103094/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103095",
-     "title": "Appa Kutty",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103095/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103096",
-     "title": "ENE Repeat",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103096/",
+     "url": "https://elcinema.com/en/work/2103111/",
      "status": "now_showing"
     },
     {
@@ -177,12 +177,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102967",
-     "title": "Bouma",
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102967/",
+     "url": "https://elcinema.com/en/work/2099777/",
      "status": "now_showing"
     },
     {
@@ -195,12 +195,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
+     "slug": "2100998",
+     "title": "Hadoota",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099777/",
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102967",
+     "title": "Bouma",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2102967/",
      "status": "now_showing"
     },
     {
@@ -213,21 +222,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100998",
-     "title": "Hadoota",
+     "slug": "2102704",
+     "title": "Scene",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2011186",
-     "title": "Rocky",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-06",
-     "url": "https://elcinema.com/en/work/2011186/",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2102704/",
      "status": "now_showing"
     },
     {
@@ -237,15 +237,6 @@
      "language": "",
      "releaseDate": "2026-11-05",
      "url": "https://elcinema.com/en/work/2095318/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102704",
-     "title": "Scene",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102704/",
      "status": "now_showing"
     },
     {
@@ -330,15 +321,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097221",
-     "title": "Jailer 2",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2097221/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098232",
      "title": "Verity",
      "rating": "",
@@ -381,24 +363,6 @@
      "language": "",
      "releaseDate": "2026-07-16",
      "url": "https://elcinema.com/en/work/2095329/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2005514",
-     "title": "The Lord of the Rings: The Return of the King",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2021-03-18",
-     "url": "https://elcinema.com/en/work/2005514/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2006309",
-     "title": "The Lord of the Rings: The Two Towers",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2021-02-25",
-     "url": "https://elcinema.com/en/work/2006309/",
      "status": "now_showing"
     },
     {
@@ -465,15 +429,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "2096575",
-     "title": "Paper Tiger",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096575/",
-     "status": "coming_soon"
-    },
-    {
      "slug": "2097036",
      "title": "Avengers: Doomsday",
      "rating": "",
@@ -496,7 +451,7 @@
      "title": "Focker In-Law",
      "rating": "",
      "language": "",
-     "releaseDate": null,
+     "releaseDate": "2026-11-26",
      "url": "https://elcinema.com/en/work/2097394/",
      "status": "coming_soon"
     },
@@ -550,7 +505,7 @@
      "title": "Hexed",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-25",
+     "releaseDate": "2026-11-26",
      "url": "https://elcinema.com/en/work/2099110/",
      "status": "coming_soon"
     },

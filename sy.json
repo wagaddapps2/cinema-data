@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T03:51:33.180Z",
+ "updatedAt": "2026-11-24T17:00:43.786Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
@@ -24,15 +24,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095519",
-     "title": "Other Mommy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2100562",
      "title": "Heart of the Beast",
      "rating": "",
@@ -48,6 +39,42 @@
      "language": "",
      "releaseDate": "2026-11-12",
      "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095519",
+     "title": "Other Mommy",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102669",
+     "title": "The Executioner",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-01",
+     "url": "https://elcinema.com/en/work/2102669/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2060138",
+     "title": "Soul",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2024-08-26",
+     "url": "https://elcinema.com/en/work/2060138/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2067356",
+     "title": "Encanto",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2021-11-25",
+     "url": "https://elcinema.com/en/work/2067356/",
      "status": "now_showing"
     },
     {
@@ -127,7 +154,7 @@
      "title": "Hexed",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-25",
+     "releaseDate": "2026-11-26",
      "url": "https://elcinema.com/en/work/2099110/",
      "status": "coming_soon"
     },

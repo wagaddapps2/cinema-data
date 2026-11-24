@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T03:51:17.883Z",
+ "updatedAt": "2026-11-24T17:00:21.508Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
@@ -321,15 +321,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "2096575",
-     "title": "Paper Tiger",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096575/",
-     "status": "coming_soon"
-    },
-    {
      "slug": "2096915",
      "title": "Chickenhare and the Secret of the Groundhog",
      "rating": "",
@@ -352,7 +343,7 @@
      "title": "Focker In-Law",
      "rating": "",
      "language": "",
-     "releaseDate": null,
+     "releaseDate": "2026-11-26",
      "url": "https://elcinema.com/en/work/2097394/",
      "status": "coming_soon"
     },
@@ -406,7 +397,7 @@
      "title": "Hexed",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-25",
+     "releaseDate": "2026-11-26",
      "url": "https://elcinema.com/en/work/2099110/",
      "status": "coming_soon"
     },
@@ -444,15 +435,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2100782/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2100835",
-     "title": "Laylat Bazet Khalis",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-25",
-     "url": "https://elcinema.com/en/work/2100835/",
      "status": "coming_soon"
     },
     {

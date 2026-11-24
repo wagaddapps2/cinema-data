@@ -1,10 +1,28 @@
 {
- "updatedAt": "2026-11-24T03:51:29.593Z",
+ "updatedAt": "2026-11-24T17:00:37.680Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
    "name": "Cinemas in Bahrain",
    "films": [
+    {
+     "slug": "2100835",
+     "title": "Laylat Bazet Khalis",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-24",
+     "url": "https://elcinema.com/en/work/2100835/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096575",
+     "title": "Paper Tiger",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-24",
+     "url": "https://elcinema.com/en/work/2096575/",
+     "status": "now_showing"
+    },
     {
      "slug": "2103094",
      "title": "Sathyavan Savithiri",
@@ -24,21 +42,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101718",
-     "title": "You Can See Everything",
+     "slug": "2103111",
+     "title": "Aakasamlo Oka Tara",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2101718/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103100",
-     "title": "Kalli Kheti",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103100/",
+     "url": "https://elcinema.com/en/work/2103111/",
      "status": "now_showing"
     },
     {
@@ -48,6 +57,33 @@
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2097821/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101718",
+     "title": "You Can See Everything",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2101718/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2101989/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103090",
+     "title": "Three Wishes for Cinderella",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103090/",
      "status": "now_showing"
     },
     {
@@ -69,24 +105,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103090",
-     "title": "Three Wishes for Cinderella",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103090/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101989",
-     "title": "Crypto",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2101989/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2103096",
      "title": "ENE Repeat",
      "rating": "",
@@ -96,21 +114,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103111",
-     "title": "Aakasamlo Oka Tara",
+     "slug": "2103100",
+     "title": "Kalli Kheti",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103111/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-18",
-     "url": "https://elcinema.com/en/work/2095116/",
+     "url": "https://elcinema.com/en/work/2103100/",
      "status": "now_showing"
     },
     {
@@ -123,12 +132,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102967",
      "title": "Bouma",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
      "url": "https://elcinema.com/en/work/2102967/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-11",
+     "url": "https://elcinema.com/en/work/2099777/",
      "status": "now_showing"
     },
     {
@@ -150,30 +177,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-11",
-     "url": "https://elcinema.com/en/work/2099777/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102704",
      "title": "Scene",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
      "url": "https://elcinema.com/en/work/2102704/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098323",
-     "title": "Godzilla Minus Zero",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-04",
-     "url": "https://elcinema.com/en/work/2098323/",
      "status": "now_showing"
     },
     {
@@ -186,6 +195,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098323",
+     "title": "Godzilla Minus Zero",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-04",
+     "url": "https://elcinema.com/en/work/2098323/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099759",
      "title": "Ramayana",
      "rating": "",
@@ -195,21 +213,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2088495",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097360",
      "title": "The Mongoose",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
      "url": "https://elcinema.com/en/work/2097360/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2088495",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2088495/",
      "status": "now_showing"
     },
     {
@@ -312,15 +330,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "2096575",
-     "title": "Paper Tiger",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096575/",
-     "status": "coming_soon"
-    },
-    {
      "slug": "2097036",
      "title": "Avengers: Doomsday",
      "rating": "",
@@ -343,7 +352,7 @@
      "title": "Focker In-Law",
      "rating": "",
      "language": "",
-     "releaseDate": null,
+     "releaseDate": "2026-11-26",
      "url": "https://elcinema.com/en/work/2097394/",
      "status": "coming_soon"
     },
@@ -397,7 +406,7 @@
      "title": "Hexed",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-25",
+     "releaseDate": "2026-11-26",
      "url": "https://elcinema.com/en/work/2099110/",
      "status": "coming_soon"
     },

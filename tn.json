@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T03:51:35.452Z",
+ "updatedAt": "2026-11-24T17:00:46.722Z",
  "territory": "TN",
  "cinemas": {
   "elcinema-tn": {
@@ -82,7 +82,7 @@
      "title": "Focker In-Law",
      "rating": "",
      "language": "",
-     "releaseDate": null,
+     "releaseDate": "2026-11-26",
      "url": "https://elcinema.com/en/work/2097394/",
      "status": "coming_soon"
     },
@@ -127,7 +127,7 @@
      "title": "Hexed",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-25",
+     "releaseDate": "2026-11-26",
      "url": "https://elcinema.com/en/work/2099110/",
      "status": "coming_soon"
     },
