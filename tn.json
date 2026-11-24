@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-11-23T17:27:57.387Z",
+ "updatedAt": "2026-11-24T03:51:35.452Z",
  "territory": "TN",
  "cinemas": {
   "elcinema-tn": {
    "name": "Cinemas in Tunisia",
    "films": [
     {
-     "slug": "2099108",
-     "title": "Ebenezer",
+     "slug": "2103304",
+     "title": "Je m'appelle Clara",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-11",
-     "url": "https://elcinema.com/en/work/2099108/",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2103304/",
      "status": "now_showing"
     },
     {
@@ -24,12 +24,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102269",
-     "title": "Fana Mahat Bash Tethat",
+     "slug": "2102268",
+     "title": "Weekend",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-14",
-     "url": "https://elcinema.com/en/work/2102269/",
+     "url": "https://elcinema.com/en/work/2102268/",
      "status": "now_showing"
     },
     {

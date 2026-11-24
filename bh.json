@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T17:27:48.856Z",
+ "updatedAt": "2026-11-24T03:51:29.593Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
@@ -471,15 +471,6 @@
      "language": "",
      "releaseDate": "2027-03-05",
      "url": "https://elcinema.com/en/work/2100563/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2100658",
-     "title": "Fjord",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100658/",
      "status": "coming_soon"
     },
     {
