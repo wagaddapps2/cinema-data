@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-11-25T01:56:38.157Z",
+ "updatedAt": "2026-11-25T16:50:19.359Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
    "name": "Cinemas in Egypt",
    "films": [
-    {
-     "slug": "2100835",
-     "title": "Laylat Bazet Khalis",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-25",
-     "url": "https://elcinema.com/en/work/2100835/",
-     "status": "now_showing"
-    },
     {
      "slug": "2097637",
      "title": "Sophia",
@@ -24,21 +15,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
+     "slug": "2100835",
+     "title": "Laylat Bazet Khalis",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2095116/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099122",
-     "title": "Forgotten Island",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2099122/",
+     "releaseDate": "2026-11-25",
+     "url": "https://elcinema.com/en/work/2100835/",
      "status": "now_showing"
     },
     {
@@ -60,6 +42,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099109",
      "title": "I Play Rocky",
      "rating": "",
@@ -78,15 +78,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099108",
-     "title": "Ebenezer",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099108/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099777",
      "title": "How to Rob a Bank",
      "rating": "",
@@ -96,12 +87,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101015",
-     "title": "Best Pancakes in the County",
+     "slug": "2099108",
+     "title": "Ebenezer",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2101015/",
+     "url": "https://elcinema.com/en/work/2099108/",
      "status": "now_showing"
     },
     {
@@ -186,30 +177,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095519",
-     "title": "Other Mommy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-08",
-     "url": "https://elcinema.com/en/work/2095519/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-07",
      "url": "https://elcinema.com/en/work/2099520/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098232",
-     "title": "Verity",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-01",
-     "url": "https://elcinema.com/en/work/2098232/",
      "status": "now_showing"
     },
     {

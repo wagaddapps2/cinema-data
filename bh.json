@@ -1,17 +1,26 @@
 {
- "updatedAt": "2026-11-25T01:56:50.231Z",
+ "updatedAt": "2026-11-25T16:50:30.206Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
    "name": "Cinemas in Bahrain",
    "films": [
     {
-     "slug": "2100835",
-     "title": "Laylat Bazet Khalis",
+     "slug": "2099110",
+     "title": "Hexed",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-24",
-     "url": "https://elcinema.com/en/work/2100835/",
+     "releaseDate": "2026-11-25",
+     "url": "https://elcinema.com/en/work/2099110/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097394",
+     "title": "Focker In-Law",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-25",
+     "url": "https://elcinema.com/en/work/2097394/",
      "status": "now_showing"
     },
     {
@@ -24,12 +33,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103094",
-     "title": "Sathyavan Savithiri",
+     "slug": "2100835",
+     "title": "Laylat Bazet Khalis",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-20",
-     "url": "https://elcinema.com/en/work/2103094/",
+     "releaseDate": "2026-11-24",
+     "url": "https://elcinema.com/en/work/2100835/",
      "status": "now_showing"
     },
     {
@@ -42,12 +51,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103111",
-     "title": "Aakasamlo Oka Tara",
+     "slug": "2103094",
+     "title": "Sathyavan Savithiri",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-20",
+     "url": "https://elcinema.com/en/work/2103094/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103090",
+     "title": "Three Wishes for Cinderella",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103111/",
+     "url": "https://elcinema.com/en/work/2103090/",
      "status": "now_showing"
     },
     {
@@ -57,6 +75,42 @@
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2097821/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103111",
+     "title": "Aakasamlo Oka Tara",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103111/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103100",
+     "title": "Kalli Kheti",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103100/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103096",
+     "title": "ENE Repeat",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103096/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103095",
+     "title": "Appa Kutty",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103095/",
      "status": "now_showing"
     },
     {
@@ -78,15 +132,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103090",
-     "title": "Three Wishes for Cinderella",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103090/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2103091",
      "title": "Bachelor Party D'eux",
      "rating": "",
@@ -96,30 +141,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103095",
-     "title": "Appa Kutty",
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103095/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103096",
-     "title": "ENE Repeat",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103096/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103100",
-     "title": "Kalli Kheti",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103100/",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2095116/",
      "status": "now_showing"
     },
     {
@@ -129,15 +156,6 @@
      "language": "",
      "releaseDate": "2026-11-18",
      "url": "https://elcinema.com/en/work/2099109/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-18",
-     "url": "https://elcinema.com/en/work/2095116/",
      "status": "now_showing"
     },
     {
@@ -186,21 +204,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-04",
-     "url": "https://elcinema.com/en/work/2095318/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098323",
      "title": "Godzilla Minus Zero",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-04",
      "url": "https://elcinema.com/en/work/2098323/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-04",
+     "url": "https://elcinema.com/en/work/2095318/",
      "status": "now_showing"
     },
     {
@@ -213,21 +231,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2097360",
-     "title": "The Mongoose",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2097360/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2088495",
      "title": "Wildwood",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
      "url": "https://elcinema.com/en/work/2088495/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097360",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2097360/",
      "status": "now_showing"
     },
     {
@@ -547,10 +565,10 @@
     },
     {
      "slug": "2102922",
-     "title": "The house of Mr. Ibrahim respected",
+     "title": "Manzel El Sayed Ibrahim Al Mohtaram",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-26",
+     "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102922/",
      "status": "coming_soon"
     },

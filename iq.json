@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-11-25T01:56:57.178Z",
+ "updatedAt": "2026-11-25T16:50:38.577Z",
  "territory": "IQ",
  "cinemas": {
   "elcinema-iq": {
    "name": "Cinemas in Iraq",
    "films": [
     {
-     "slug": "2099122",
-     "title": "Forgotten Island",
+     "slug": "2097394",
+     "title": "Focker In-Law",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2099122/",
+     "releaseDate": "2026-11-25",
+     "url": "https://elcinema.com/en/work/2097394/",
      "status": "now_showing"
     },
     {
@@ -39,6 +39,15 @@
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2100262/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2099122/",
      "status": "now_showing"
     },
     {

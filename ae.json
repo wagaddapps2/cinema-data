@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T01:56:43.004Z",
+ "updatedAt": "2026-11-25T16:50:21.351Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
@@ -15,15 +15,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103093",
-     "title": "Pratap",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-20",
-     "url": "https://elcinema.com/en/work/2103093/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2103100",
      "title": "Kalli Kheti",
      "rating": "",
@@ -33,12 +24,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103096",
-     "title": "ENE Repeat",
+     "slug": "2103093",
+     "title": "Pratap",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103096/",
+     "releaseDate": "2026-11-20",
+     "url": "https://elcinema.com/en/work/2103093/",
      "status": "now_showing"
     },
     {
@@ -48,6 +39,15 @@
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103096",
+     "title": "ENE Repeat",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103096/",
      "status": "now_showing"
     },
     {
@@ -78,30 +78,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101989",
-     "title": "Crypto",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2101989/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2074423",
      "title": "Resident Evil",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2074423/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103092",
-     "title": "OM Chapter 1: Udhiram - The Blood Wood",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103092/",
      "status": "now_showing"
     },
     {
@@ -123,6 +105,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2103092",
+     "title": "OM Chapter 1: Udhiram - The Blood Wood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103092/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2103091",
      "title": "Bachelor Party D'eux",
      "rating": "",
@@ -132,21 +123,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103090",
-     "title": "Three Wishes for Cinderella",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103090/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098160",
      "title": "Ghost Soldier",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2098160/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103090",
+     "title": "Three Wishes for Cinderella",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103090/",
      "status": "now_showing"
     },
     {
@@ -168,48 +159,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2101989/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099109",
      "title": "I Play Rocky",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-18",
      "url": "https://elcinema.com/en/work/2099109/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099108",
-     "title": "Ebenezer",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099108/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102967",
-     "title": "Bouma",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102967/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099777/",
      "status": "now_showing"
     },
     {
@@ -222,12 +186,39 @@
      "status": "now_showing"
     },
     {
-     "slug": "2011186",
-     "title": "Rocky",
+     "slug": "2099108",
+     "title": "Ebenezer",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-06",
-     "url": "https://elcinema.com/en/work/2011186/",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2099108/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102967",
+     "title": "Bouma",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2102967/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2099777/",
      "status": "now_showing"
     },
     {
@@ -267,12 +258,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
+     "slug": "2102344",
+     "title": "Pee Mak",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2099119/",
+     "url": "https://elcinema.com/en/work/2102344/",
      "status": "now_showing"
     },
     {
@@ -285,12 +276,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102344",
-     "title": "Pee Mak",
+     "slug": "2099119",
+     "title": "Sense and Sensibility",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2102344/",
+     "url": "https://elcinema.com/en/work/2099119/",
      "status": "now_showing"
     },
     {
@@ -312,21 +303,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2098154",
-     "title": "Whalefall",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-15",
-     "url": "https://elcinema.com/en/work/2098154/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2096857",
      "title": "Street Fighter",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-15",
      "url": "https://elcinema.com/en/work/2096857/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098154",
+     "title": "Whalefall",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-15",
+     "url": "https://elcinema.com/en/work/2098154/",
      "status": "now_showing"
     },
     {
@@ -381,24 +372,6 @@
      "language": "",
      "releaseDate": "2026-07-16",
      "url": "https://elcinema.com/en/work/2095329/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2005514",
-     "title": "The Lord of the Rings: The Return of the King",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2021-03-18",
-     "url": "https://elcinema.com/en/work/2005514/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2006309",
-     "title": "The Lord of the Rings: The Two Towers",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2021-02-25",
-     "url": "https://elcinema.com/en/work/2006309/",
      "status": "now_showing"
     },
     {
@@ -682,10 +655,10 @@
     },
     {
      "slug": "2102922",
-     "title": "The house of Mr. Ibrahim respected",
+     "title": "Manzel El Sayed Ibrahim Al Mohtaram",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-26",
+     "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102922/",
      "status": "coming_soon"
     },

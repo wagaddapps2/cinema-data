@@ -1,0 +1,128 @@
+{
+ "updatedAt": "2026-11-25T16:50:38.988Z",
+ "territory": "MA",
+ "cinemas": {
+  "elcinema-ma": {
+   "name": "Cinemas in Morocco",
+   "films": [
+    {
+     "slug": "2103226",
+     "title": "Bent Lefchouch",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103226/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103624",
+     "title": "Aya and Hady",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2103624/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095523",
+     "title": "Maserati: The Brothers",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-04",
+     "url": "https://elcinema.com/en/work/2095523/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2096022",
+     "title": "Narnia: The Magician's Nephew",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2027-02-12",
+     "url": "https://elcinema.com/en/work/2096022/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2096404",
+     "title": "Dune: Part Three",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-18",
+     "url": "https://elcinema.com/en/work/2096404/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2097036",
+     "title": "Avengers: Doomsday",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-17",
+     "url": "https://elcinema.com/en/work/2097036/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2098162",
+     "title": "Jumanji: Open World",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-11",
+     "url": "https://elcinema.com/en/work/2098162/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2098169",
+     "title": "Children of Blood and Bone",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2027-01-15",
+     "url": "https://elcinema.com/en/work/2098169/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2098170",
+     "title": "The Angry Birds Movie 3",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-23",
+     "url": "https://elcinema.com/en/work/2098170/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2099107",
+     "title": "Werwulf",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-25",
+     "url": "https://elcinema.com/en/work/2099107/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2099776",
+     "title": "Violent Night 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-12-03",
+     "url": "https://elcinema.com/en/work/2099776/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2101516",
+     "title": "The Further Mis-Adventures of Cliff Booth",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101516/",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2102273",
+     "title": "Yugly",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102273/",
+     "status": "coming_soon"
+    }
+   ]
+  }
+ }
+}

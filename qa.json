@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-11-25T01:56:48.195Z",
+ "updatedAt": "2026-11-25T16:50:27.786Z",
  "territory": "QA",
  "cinemas": {
   "elcinema-qa": {
    "name": "Cinemas in Qatar",
    "films": [
+    {
+     "slug": "2100658",
+     "title": "Fjord",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-25",
+     "url": "https://elcinema.com/en/work/2100658/",
+     "status": "now_showing"
+    },
     {
      "slug": "2097394",
      "title": "Focker In-Law",
@@ -21,6 +30,15 @@
      "language": "",
      "releaseDate": "2026-11-25",
      "url": "https://elcinema.com/en/work/2099110/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103100",
+     "title": "Kalli Kheti",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-20",
+     "url": "https://elcinema.com/en/work/2103100/",
      "status": "now_showing"
     },
     {
@@ -42,33 +60,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103100",
-     "title": "Kalli Kheti",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-20",
-     "url": "https://elcinema.com/en/work/2103100/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103092",
-     "title": "OM Chapter 1: Udhiram - The Blood Wood",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103092/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103091",
-     "title": "Bachelor Party D'eux",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103091/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2103090",
      "title": "Three Wishes for Cinderella",
      "rating": "",
@@ -84,15 +75,6 @@
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2101718/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100262",
-     "title": "Rise of the Conqueror",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2100262/",
      "status": "now_showing"
     },
     {
@@ -123,6 +105,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "2103092",
+     "title": "OM Chapter 1: Udhiram - The Blood Wood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103092/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103091",
+     "title": "Bachelor Party D'eux",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103091/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101989",
      "title": "Crypto",
      "rating": "",
@@ -141,12 +141,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
+     "slug": "2100262",
+     "title": "Rise of the Conqueror",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-18",
-     "url": "https://elcinema.com/en/work/2095116/",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2100262/",
      "status": "now_showing"
     },
     {
@@ -156,6 +156,15 @@
      "language": "",
      "releaseDate": "2026-11-18",
      "url": "https://elcinema.com/en/work/2099109/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2095116/",
      "status": "now_showing"
     },
     {
@@ -619,10 +628,10 @@
     },
     {
      "slug": "2102922",
-     "title": "The house of Mr. Ibrahim respected",
+     "title": "Manzel El Sayed Ibrahim Al Mohtaram",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-26",
+     "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102922/",
      "status": "coming_soon"
     },

@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-11-25T01:56:54.453Z",
+ "updatedAt": "2026-11-25T16:50:35.967Z",
  "territory": "JO",
  "cinemas": {
   "elcinema-jo": {
    "name": "Cinemas in Jordan",
    "films": [
+    {
+     "slug": "2102161",
+     "title": "Jahim Al-Abirin",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-25",
+     "url": "https://elcinema.com/en/work/2102161/",
+     "status": "now_showing"
+    },
     {
      "slug": "2095116",
      "title": "The Hunger Games: Sunrise on the Reaping",
@@ -51,15 +60,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102959",
-     "title": "Into the Wonderwoods",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102959/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2100998",
      "title": "Hadoota",
      "rating": "",
@@ -69,12 +69,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099108",
-     "title": "Ebenezer",
+     "slug": "2102959",
+     "title": "Into the Wonderwoods",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099108/",
+     "url": "https://elcinema.com/en/work/2102959/",
      "status": "now_showing"
     },
     {
@@ -84,6 +84,15 @@
      "language": "",
      "releaseDate": "2026-11-12",
      "url": "https://elcinema.com/en/work/2099777/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2099108/",
      "status": "now_showing"
     },
     {
@@ -268,10 +277,10 @@
     },
     {
      "slug": "2102922",
-     "title": "The house of Mr. Ibrahim respected",
+     "title": "Manzel El Sayed Ibrahim Al Mohtaram",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-26",
+     "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102922/",
      "status": "coming_soon"
     }
