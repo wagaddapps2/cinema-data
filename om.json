@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-11-24T17:00:39.646Z",
+ "updatedAt": "2026-11-25T01:56:52.130Z",
  "territory": "OM",
  "cinemas": {
   "elcinema-om": {
    "name": "Cinemas in Oman",
    "films": [
+    {
+     "slug": "2099110",
+     "title": "Hexed",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-25",
+     "url": "https://elcinema.com/en/work/2099110/",
+     "status": "now_showing"
+    },
     {
      "slug": "2103094",
      "title": "Sathyavan Savithiri",
@@ -24,6 +33,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2103093",
+     "title": "Pratap",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-20",
+     "url": "https://elcinema.com/en/work/2103093/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2103095",
      "title": "Appa Kutty",
      "rating": "",
@@ -33,21 +51,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101989",
-     "title": "Crypto",
+     "slug": "2103092",
+     "title": "OM Chapter 1: Udhiram - The Blood Wood",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2101989/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103096",
-     "title": "ENE Repeat",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103096/",
+     "url": "https://elcinema.com/en/work/2103092/",
      "status": "now_showing"
     },
     {
@@ -57,15 +66,6 @@
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2103100/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103092",
-     "title": "OM Chapter 1: Udhiram - The Blood Wood",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103092/",
      "status": "now_showing"
     },
     {
@@ -84,6 +84,24 @@
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2103090/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2101989/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103096",
+     "title": "ENE Repeat",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103096/",
      "status": "now_showing"
     },
     {
@@ -123,15 +141,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102970",
-     "title": "Melcow Pondicherry",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-13",
-     "url": "https://elcinema.com/en/work/2102970/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102967",
      "title": "Bouma",
      "rating": "",
@@ -147,15 +156,6 @@
      "language": "",
      "releaseDate": "2026-11-12",
      "url": "https://elcinema.com/en/work/2102220/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-11",
-     "url": "https://elcinema.com/en/work/2100998/",
      "status": "now_showing"
     },
     {
@@ -177,12 +177,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102704",
-     "title": "Scene",
+     "slug": "2100998",
+     "title": "Hadoota",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102704/",
+     "releaseDate": "2026-11-11",
+     "url": "https://elcinema.com/en/work/2100998/",
      "status": "now_showing"
     },
     {
@@ -192,6 +192,15 @@
      "language": "",
      "releaseDate": "2026-11-05",
      "url": "https://elcinema.com/en/work/2095318/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102704",
+     "title": "Scene",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2102704/",
      "status": "now_showing"
     },
     {
@@ -339,15 +348,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "2097394",
-     "title": "Focker In-Law",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2097394/",
-     "status": "coming_soon"
-    },
-    {
      "slug": "2097507",
      "title": "Artificial",
      "rating": "",
@@ -390,15 +390,6 @@
      "language": "",
      "releaseDate": "2026-12-25",
      "url": "https://elcinema.com/en/work/2099107/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2099110",
-     "title": "Hexed",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2099110/",
      "status": "coming_soon"
     },
     {
@@ -496,7 +487,7 @@
      "title": "The Further Mis-Adventures of Cliff Booth",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-25",
+     "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101516/",
      "status": "coming_soon"
     },

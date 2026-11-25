@@ -1,10 +1,37 @@
 {
- "updatedAt": "2026-11-24T17:00:21.508Z",
+ "updatedAt": "2026-11-25T01:56:38.157Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
    "name": "Cinemas in Egypt",
    "films": [
+    {
+     "slug": "2100835",
+     "title": "Laylat Bazet Khalis",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-25",
+     "url": "https://elcinema.com/en/work/2100835/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097637",
+     "title": "Sophia",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-25",
+     "url": "https://elcinema.com/en/work/2097637/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
     {
      "slug": "2099122",
      "title": "Forgotten Island",
@@ -12,15 +39,6 @@
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2099122/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102527",
-     "title": "Belkis",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2102527/",
      "status": "now_showing"
     },
     {
@@ -33,12 +51,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
+     "slug": "2102527",
+     "title": "Belkis",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2095116/",
+     "url": "https://elcinema.com/en/work/2102527/",
      "status": "now_showing"
     },
     {
@@ -60,12 +78,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102893",
-     "title": "Al Baraneya",
+     "slug": "2099108",
+     "title": "Ebenezer",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-13",
-     "url": "https://elcinema.com/en/work/2102893/",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2099108/",
      "status": "now_showing"
     },
     {
@@ -78,12 +96,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099108",
-     "title": "Ebenezer",
+     "slug": "2101015",
+     "title": "Best Pancakes in the County",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099108/",
+     "url": "https://elcinema.com/en/work/2101015/",
      "status": "now_showing"
     },
     {
@@ -132,15 +150,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099119",
-     "title": "Sense and Sensibility",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-29",
-     "url": "https://elcinema.com/en/work/2099119/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2096928",
      "title": "Naseeb",
      "rating": "",
@@ -177,6 +186,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2095519",
+     "title": "Other Mommy",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099520",
      "title": "Matloub Aaeleyan",
      "rating": "",
@@ -192,15 +210,6 @@
      "language": "",
      "releaseDate": "2026-10-01",
      "url": "https://elcinema.com/en/work/2098232/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100562",
-     "title": "Heart of the Beast",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-24",
-     "url": "https://elcinema.com/en/work/2100562/",
      "status": "now_showing"
     },
     {
@@ -228,15 +237,6 @@
      "language": "",
      "releaseDate": "2026-08-12",
      "url": "https://elcinema.com/en/work/2098547/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2069657",
-     "title": "El Gawahergy",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-08-05",
-     "url": "https://elcinema.com/en/work/2069657/",
      "status": "now_showing"
     },
     {
@@ -339,15 +339,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "2097394",
-     "title": "Focker In-Law",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2097394/",
-     "status": "coming_soon"
-    },
-    {
      "slug": "2098162",
      "title": "Jumanji: Open World",
      "rating": "",
@@ -390,15 +381,6 @@
      "language": "",
      "releaseDate": "2026-12-25",
      "url": "https://elcinema.com/en/work/2099107/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2099110",
-     "title": "Hexed",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2099110/",
      "status": "coming_soon"
     },
     {
@@ -460,7 +442,7 @@
      "title": "The Further Mis-Adventures of Cliff Booth",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-25",
+     "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101516/",
      "status": "coming_soon"
     },

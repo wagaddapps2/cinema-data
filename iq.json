@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T17:00:46.002Z",
+ "updatedAt": "2026-11-25T01:56:57.178Z",
  "territory": "IQ",
  "cinemas": {
   "elcinema-iq": {
@@ -285,15 +285,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "2097394",
-     "title": "Focker In-Law",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2097394/",
-     "status": "coming_soon"
-    },
-    {
      "slug": "2098162",
      "title": "Jumanji: Open World",
      "rating": "",
@@ -330,15 +321,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "2099110",
-     "title": "Hexed",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2099110/",
-     "status": "coming_soon"
-    },
-    {
      "slug": "2099776",
      "title": "Violent Night 2",
      "rating": "",
@@ -352,7 +334,7 @@
      "title": "The Further Mis-Adventures of Cliff Booth",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-25",
+     "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101516/",
      "status": "coming_soon"
     },
