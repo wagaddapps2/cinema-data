@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T01:34:52.280Z",
+ "updatedAt": "2026-11-26T16:25:08.358Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -142,6 +142,24 @@
      "status": "now_showing"
     },
     {
+     "slug": "formula-1-qatar-grand-prix-2026-arabic",
+     "title": "Formula 1: Qatar Grand Prix 2026",
+     "rating": "18TC",
+     "language": "Arabic",
+     "releaseDate": "2026-11-29",
+     "url": "https://kwt.voxcinemas.com/movies/formula-1-qatar-grand-prix-2026-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "violent-night-2",
+     "title": "Violent Night 2",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-12-03",
+     "url": "https://kwt.voxcinemas.com/movies/violent-night-2",
+     "status": "coming_soon"
+    },
+    {
      "slug": "monster-mia",
      "title": "Monster Mia",
      "rating": "18TC",
@@ -166,6 +184,24 @@
      "language": "English",
      "releaseDate": "2026-12-03",
      "url": "https://kwt.voxcinemas.com/movies/spider-man-brand-new-brand-new-day",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "formula-1-abu-dhabi-grand-prix-2026-arabic",
+     "title": "Formula 1: Abu Dhabi Grand Prix 2026",
+     "rating": "18TC",
+     "language": "Arabic",
+     "releaseDate": "2026-12-06",
+     "url": "https://kwt.voxcinemas.com/movies/formula-1-abu-dhabi-grand-prix-2026-arabic",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "pinocchio-and-the-water-of-life",
+     "title": "Pinocchio and the Water of Life",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2026-12-10",
+     "url": "https://kwt.voxcinemas.com/movies/pinocchio-and-the-water-of-life",
      "status": "coming_soon"
     },
     {
@@ -313,6 +349,24 @@
      "status": "coming_soon"
     },
     {
+     "slug": "k-pop-the-debut",
+     "title": "K-Pop: The Debut",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2027-03-11",
+     "url": "https://kwt.voxcinemas.com/movies/k-pop-the-debut",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "the-nightingale",
+     "title": "The Nightingale",
+     "rating": "18TC",
+     "language": "English",
+     "releaseDate": "2027-03-18",
+     "url": "https://kwt.voxcinemas.com/movies/the-nightingale",
+     "status": "coming_soon"
+    },
+    {
      "slug": "day-drinker",
      "title": "Day Drinker",
      "rating": "18TC",
@@ -426,15 +480,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "chopin-chopin",
-     "title": "Chopin, Chopin!",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/chopin-chopin/en",
-     "status": "coming_soon"
-    },
-    {
      "slug": "the-exorcist-martyrs",
      "title": "THE EXORCIST: MARTYRS",
      "rating": "",
@@ -453,6 +498,15 @@
      "status": "coming_soon"
     },
     {
+     "slug": "monster-mia",
+     "title": "Monster Mia",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/monster-mia/en",
+     "status": "coming_soon"
+    },
+    {
      "slug": "shaun-the-sheep-the-beast-of-mossy-bottom",
      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
      "rating": "",
@@ -468,15 +522,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/dune-part-three/en",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "lockbox",
-     "title": "LOCKBOX",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/lockbox/en",
      "status": "coming_soon"
     }
    ]
@@ -620,15 +665,6 @@
      "status": "coming_soon"
     },
     {
-     "slug": "chopin-chopin",
-     "title": "Chopin, Chopin!",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/chopin-chopin/en",
-     "status": "coming_soon"
-    },
-    {
      "slug": "the-exorcist-martyrs",
      "title": "THE EXORCIST: MARTYRS",
      "rating": "",
@@ -644,6 +680,15 @@
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/the-beekeeper-2/en",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "monster-mia",
+     "title": "Monster Mia",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://kw.grandcinemasme.com/movie/monster-mia/en",
      "status": "coming_soon"
     },
     {
@@ -663,21 +708,21 @@
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/dune-part-three/en",
      "status": "coming_soon"
-    },
-    {
-     "slug": "lockbox",
-     "title": "LOCKBOX",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/lockbox/en",
-     "status": "coming_soon"
     }
    ]
   },
   "ozone-0000000274": {
    "name": "Ozone Cinemas Khaitan",
    "films": [
+    {
+     "slug": "gunmaaster-g9-hindi",
+     "title": "Gunmaaster G9",
+     "rating": "R18",
+     "language": "Hindi",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/gunmaaster-g9-hindi",
+     "status": "now_showing"
+    },
     {
      "slug": "bouma-malayalam",
      "title": "Bouma",
@@ -724,18 +769,27 @@
      "status": "now_showing"
     },
     {
-     "slug": "gunmaaster-g9-hindi",
-     "title": "Gunmaaster G9",
-     "rating": "R18",
-     "language": "Hindi",
+     "slug": "dune-part-one-2021-english",
+     "title": "Dune: Part One -2021",
+     "rating": "R15",
+     "language": "English",
      "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/gunmaaster-g9-hindi",
+     "url": "https://www.ozonecinema.com/movies/dune-part-one-2021-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "dune-part-two-2024-english",
+     "title": "Dune: Part Two-2024",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/dune-part-two-2024-english",
      "status": "coming_soon"
     },
     {
      "slug": "spider-man-brand-new-brand-new-day-english",
      "title": "Spider-Man : (Brand New) Brand New Day",
-     "rating": "",
+     "rating": "PG12",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/spider-man-brand-new-brand-new-day-english",
@@ -760,6 +814,24 @@
      "status": "coming_soon"
     },
     {
+     "slug": "hail-mary-malayalam",
+     "title": "Hail Mary",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/hail-mary-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "as-good-as-dead-2-english",
+     "title": "As Good As Dead 2",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/as-good-as-dead-2-english",
+     "status": "coming_soon"
+    },
+    {
      "slug": "bury-the-devil-english",
      "title": "Bury the Devil",
      "rating": "R15",
@@ -778,6 +850,15 @@
      "status": "coming_soon"
     },
     {
+     "slug": "brave-cat-english",
+     "title": "Brave Cat",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/brave-cat-english",
+     "status": "coming_soon"
+    },
+    {
      "slug": "maatrubhumi-hindi",
      "title": "Maatrubhumi",
      "rating": "",
@@ -793,6 +874,24 @@
      "language": "Malayalam",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/mayan-chapter-1-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "grin-english",
+     "title": "Grin",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/grin-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "werwulf-english",
+     "title": "Werwulf",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/werwulf-english",
      "status": "coming_soon"
     },
     {
@@ -1080,9 +1179,27 @@
      "status": "now_showing"
     },
     {
+     "slug": "dune-part-one-2021-english",
+     "title": "Dune: Part One -2021",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/dune-part-one-2021-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "dune-part-two-2024-english",
+     "title": "Dune: Part Two-2024",
+     "rating": "R15",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/dune-part-two-2024-english",
+     "status": "coming_soon"
+    },
+    {
      "slug": "spider-man-brand-new-brand-new-day-english",
      "title": "Spider-Man : (Brand New) Brand New Day",
-     "rating": "",
+     "rating": "PG12",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/spider-man-brand-new-brand-new-day-english",
@@ -1107,6 +1224,24 @@
      "status": "coming_soon"
     },
     {
+     "slug": "hail-mary-malayalam",
+     "title": "Hail Mary",
+     "rating": "",
+     "language": "Malayalam",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/hail-mary-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "as-good-as-dead-2-english",
+     "title": "As Good As Dead 2",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/as-good-as-dead-2-english",
+     "status": "coming_soon"
+    },
+    {
      "slug": "bury-the-devil-english",
      "title": "Bury the Devil",
      "rating": "R15",
@@ -1125,6 +1260,15 @@
      "status": "coming_soon"
     },
     {
+     "slug": "brave-cat-english",
+     "title": "Brave Cat",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/brave-cat-english",
+     "status": "coming_soon"
+    },
+    {
      "slug": "maatrubhumi-hindi",
      "title": "Maatrubhumi",
      "rating": "",
@@ -1140,6 +1284,24 @@
      "language": "Malayalam",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/mayan-chapter-1-malayalam",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "grin-english",
+     "title": "Grin",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/grin-english",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "werwulf-english",
+     "title": "Werwulf",
+     "rating": "",
+     "language": "English",
+     "releaseDate": null,
+     "url": "https://www.ozonecinema.com/movies/werwulf-english",
      "status": "coming_soon"
     },
     {
@@ -1306,6 +1468,210 @@
     }
    ]
   },
+  "cinescape-3101202": {
+   "name": "Cinescape 360",
+   "films": [
+    {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102161",
+     "title": "Jahim Al-Abirin",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102161/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099110",
+     "title": "Hexed",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099110/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099108/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097394",
+     "title": "Focker In-Law",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097394/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099109",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099109/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103227",
+     "title": "Scorpion",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2103227/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096575",
+     "title": "Paper Tiger",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2096575/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100835",
+     "title": "Laylat Bazet Khalis",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100835/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095318/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099777/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101718",
+     "title": "You Can See Everything",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101718/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101989/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "cinescape-3101203": {
+   "name": "Cinescape Al-Bairaq",
+   "films": [
+    {
+     "slug": "2099110",
+     "title": "Hexed",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099110/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097394",
+     "title": "Focker In-Law",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097394/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100835",
+     "title": "Laylat Bazet Khalis",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100835/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "cinescape-3101206": {
+   "name": "Cinescape Ajial",
+   "films": [
+    {
+     "slug": "2103092",
+     "title": "OM Chapter 1: Udhiram - The Blood Wood",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2103092/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103111",
+     "title": "Aakasamlo Oka Tara",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2103111/",
+     "status": "now_showing"
+    }
+   ]
+  },
   "cinescape-3101208": {
    "name": "Cinescape Al Kout",
    "films": [
@@ -1392,6 +1758,92 @@
     }
    ]
   },
+  "cinescape-3101210": {
+   "name": "Cinescape Avenues",
+   "films": [
+    {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099110",
+     "title": "Hexed",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099110/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102161",
+     "title": "Jahim Al-Abirin",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102161/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097394",
+     "title": "Focker In-Law",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097394/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095318/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101989/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096575",
+     "title": "Paper Tiger",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2096575/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100835",
+     "title": "Laylat Bazet Khalis",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100835/",
+     "status": "now_showing"
+    }
+   ]
+  },
   "cinescape-3101339": {
    "name": "Cinescape 1954 Film House",
    "films": [
@@ -1429,6 +1881,137 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2102161/",
+     "status": "now_showing"
+    }
+   ]
+  },
+  "cinescape-3101460": {
+   "name": "Cinescape Assima",
+   "films": [
+    {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101989/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099110",
+     "title": "Hexed",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099110/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097394",
+     "title": "Focker In-Law",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097394/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096575",
+     "title": "Paper Tiger",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2096575/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099109",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099109/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103227",
+     "title": "Scorpion",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2103227/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095318/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101718",
+     "title": "You Can See Everything",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2101718/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100835",
+     "title": "Laylat Bazet Khalis",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100835/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102161",
+     "title": "Jahim Al-Abirin",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102161/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099108/",
      "status": "now_showing"
     }
    ]

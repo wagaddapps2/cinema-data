@@ -1,19 +1,10 @@
 {
- "updatedAt": "2026-11-26T01:36:36.164Z",
+ "updatedAt": "2026-11-26T16:27:01.888Z",
  "territory": "IQ",
  "cinemas": {
   "elcinema-iq": {
    "name": "Cinemas in Iraq",
    "films": [
-    {
-     "slug": "2099110",
-     "title": "Hexed",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2099110/",
-     "status": "now_showing"
-    },
     {
      "slug": "2103227",
      "title": "Scorpion",
@@ -42,6 +33,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099110",
+     "title": "Hexed",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-26",
+     "url": "https://elcinema.com/en/work/2099110/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2097394",
      "title": "Focker In-Law",
      "rating": "",
@@ -60,21 +60,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2100262",
+     "title": "Rise of the Conqueror",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2100262/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101718",
+     "title": "You Can See Everything",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2101718/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101989",
      "title": "Crypto",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2101989/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-18",
-     "url": "https://elcinema.com/en/work/2095116/",
      "status": "now_showing"
     },
     {
@@ -87,12 +96,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099108",
-     "title": "Ebenezer",
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099108/",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2095116/",
      "status": "now_showing"
     },
     {
@@ -105,12 +114,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102959",
+     "title": "Into the Wonderwoods",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2102959/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102981",
      "title": "Azem 6: Muhur",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
      "url": "https://elcinema.com/en/work/2102981/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2099108/",
      "status": "now_showing"
     },
     {
@@ -150,6 +177,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2088495",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-29",
+     "url": "https://elcinema.com/en/work/2088495/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2096928",
      "title": "Naseeb",
      "rating": "",
@@ -165,6 +201,33 @@
      "language": "",
      "releaseDate": "2026-10-22",
      "url": "https://elcinema.com/en/work/2098155/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095519",
+     "title": "Other Mommy",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-08",
+     "url": "https://elcinema.com/en/work/2095519/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101544",
+     "title": "Grandma's House",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-08-27",
+     "url": "https://elcinema.com/en/work/2101544/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095329",
+     "title": "The Odyssey",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-07-16",
+     "url": "https://elcinema.com/en/work/2095329/",
      "status": "now_showing"
     },
     {

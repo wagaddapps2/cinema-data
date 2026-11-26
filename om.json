@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-11-26T01:36:32.022Z",
+ "updatedAt": "2026-11-26T16:26:57.610Z",
  "territory": "OM",
  "cinemas": {
   "elcinema-om": {
    "name": "Cinemas in Oman",
    "films": [
     {
-     "slug": "2096575",
-     "title": "Paper Tiger",
+     "slug": "2103599",
+     "title": "Grin",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2096575/",
+     "url": "https://elcinema.com/en/work/2103599/",
      "status": "now_showing"
     },
     {
@@ -33,21 +33,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102161",
+     "title": "Jahim Al-Abirin",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-26",
+     "url": "https://elcinema.com/en/work/2102161/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096575",
+     "title": "Paper Tiger",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-26",
+     "url": "https://elcinema.com/en/work/2096575/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100835",
      "title": "Laylat Bazet Khalis",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-25",
      "url": "https://elcinema.com/en/work/2100835/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097394",
-     "title": "Focker In-Law",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-25",
-     "url": "https://elcinema.com/en/work/2097394/",
      "status": "now_showing"
     },
     {
@@ -60,12 +69,39 @@
      "status": "now_showing"
     },
     {
+     "slug": "2097394",
+     "title": "Focker In-Law",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-25",
+     "url": "https://elcinema.com/en/work/2097394/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2103111",
      "title": "Aakasamlo Oka Tara",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-20",
      "url": "https://elcinema.com/en/work/2103111/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103100",
+     "title": "Kalli Kheti",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103100/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2101989/",
      "status": "now_showing"
     },
     {
@@ -87,6 +123,51 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099109",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2099109/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101718",
+     "title": "You Can See Everything",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2101718/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099108",
+     "title": "Ebenezer",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-11",
+     "url": "https://elcinema.com/en/work/2099108/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-11",
+     "url": "https://elcinema.com/en/work/2099777/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100998",
      "title": "Hadoota",
      "rating": "",
@@ -96,12 +177,48 @@
      "status": "now_showing"
     },
     {
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2095318/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098323",
+     "title": "Godzilla Minus Zero",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-04",
+     "url": "https://elcinema.com/en/work/2098323/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099759",
      "title": "Ramayana",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-04",
      "url": "https://elcinema.com/en/work/2099759/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097360",
+     "title": "The Mongoose",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2097360/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097221",
+     "title": "Jailer 2",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-14",
+     "url": "https://elcinema.com/en/work/2097221/",
      "status": "now_showing"
     },
     {
@@ -381,24 +498,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2103097/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2103098",
-     "title": "Gunmaaster G9",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-27",
-     "url": "https://elcinema.com/en/work/2103098/",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "2103099",
-     "title": "Cosmic Samson",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-27",
-     "url": "https://elcinema.com/en/work/2103099/",
      "status": "coming_soon"
     },
     {

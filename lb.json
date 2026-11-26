@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T01:36:35.003Z",
+ "updatedAt": "2026-11-26T16:26:58.981Z",
  "territory": "LB",
  "cinemas": {
   "elcinema-lb": {
@@ -33,6 +33,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2103638",
+     "title": "Carlo Acutis: Il Giovane Santo",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-26",
+     "url": "https://elcinema.com/en/work/2103638/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2103227",
      "title": "Scorpion",
      "rating": "",
@@ -57,6 +66,15 @@
      "language": "",
      "releaseDate": "2026-11-24",
      "url": "https://elcinema.com/en/work/2102922/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103400",
+     "title": "De Gaulle: Resistance",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103400/",
      "status": "now_showing"
     },
     {
@@ -87,15 +105,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097360",
      "title": "The Mongoose",
      "rating": "",
@@ -105,12 +114,48 @@
      "status": "now_showing"
     },
     {
+     "slug": "2098161",
+     "title": "Les Miserables",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2098161/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103006",
+     "title": "Chopin, Chopin!",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2103006/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2095318",
      "title": "The Cat in the Hat",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
      "url": "https://elcinema.com/en/work/2095318/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098155",
+     "title": "Clayface",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2098155/",
      "status": "now_showing"
     },
     {
