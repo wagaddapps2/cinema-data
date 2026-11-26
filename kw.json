@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T16:48:45.327Z",
+ "updatedAt": "2026-11-26T01:34:52.280Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -110,30 +110,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "crypto-arabic",
-     "title": "Crypto",
-     "rating": "R15",
-     "language": "Arabic",
-     "url": "https://kwt.voxcinemas.com/movies/crypto-arabic",
-     "status": "now_showing"
-    },
-    {
-     "slug": "clayface",
-     "title": "Clayface",
-     "rating": "R18",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/clayface",
-     "status": "now_showing"
-    },
-    {
-     "slug": "sense-and-sensibility",
-     "title": "Sense and Sensibility",
-     "rating": "R15",
-     "language": "English",
-     "url": "https://kwt.voxcinemas.com/movies/sense-and-sensibility",
-     "status": "now_showing"
-    },
-    {
      "slug": "hexed-arabic",
      "title": "Hexed",
      "rating": "PG",
@@ -164,69 +140,6 @@
      "language": "English",
      "url": "https://kwt.voxcinemas.com/movies/dune-part-three-preview-screening",
      "status": "now_showing"
-    },
-    {
-     "slug": "hexed",
-     "title": "Hexed",
-     "rating": "PG",
-     "language": "English",
-     "releaseDate": "2026-11-26",
-     "url": "https://kwt.voxcinemas.com/movies/hexed",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "travellers-hell-arabic",
-     "title": "Traveller's Hell",
-     "rating": "R15",
-     "language": "Arabic",
-     "releaseDate": "2026-11-26",
-     "url": "https://kwt.voxcinemas.com/movies/travellers-hell-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "paper-tiger",
-     "title": "Paper Tiger",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": "2026-11-26",
-     "url": "https://kwt.voxcinemas.com/movies/paper-tiger",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "scorpion",
-     "title": "Scorpion",
-     "rating": "R15",
-     "language": "English",
-     "releaseDate": "2026-11-26",
-     "url": "https://kwt.voxcinemas.com/movies/scorpion",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "lela-bazit-khalis-arabic",
-     "title": "Lela Bazit Khalis",
-     "rating": "R15",
-     "language": "Arabic",
-     "releaseDate": "2026-11-26",
-     "url": "https://kwt.voxcinemas.com/movies/lela-bazit-khalis-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "hexed-arabic",
-     "title": "Hexed",
-     "rating": "PG",
-     "language": "Arabic",
-     "releaseDate": "2026-11-26",
-     "url": "https://kwt.voxcinemas.com/movies/hexed-arabic",
-     "status": "coming_soon"
-    },
-    {
-     "slug": "violent-night-2",
-     "title": "Violent Night 2",
-     "rating": "18TC",
-     "language": "English",
-     "releaseDate": "2026-12-03",
-     "url": "https://kwt.voxcinemas.com/movies/violent-night-2",
-     "status": "coming_soon"
     },
     {
      "slug": "monster-mia",
@@ -432,48 +345,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "ebenezer",
-     "title": "EBENEZER",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/ebenezer/en",
-     "status": "now_showing"
-    },
-    {
      "slug": "hadoota",
      "title": "HADOOTA",
      "rating": "PG12",
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/hadoota/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "crypto",
-     "title": "CRYPTO",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/crypto/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "i-play-rocky",
-     "title": "I PLAY ROCKY",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/i-play-rocky/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "you-can-see-everything",
-     "title": "YOU CAN SEE EVERYTHING",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/you-can-see-everything/en",
      "status": "now_showing"
     },
     {
@@ -617,39 +494,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "how-to-rob-a-bank",
-     "title": "HOW TO ROB A BANK",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/how-to-rob-a-bank/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "godzilla-minus-zero-japanese",
-     "title": "GODZILLA MINUS ZERO (Japanese)",
-     "rating": "PG12",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/godzilla-minus-zero-japanese/en",
-     "status": "now_showing"
-    },
-    {
      "slug": "focker-in-law",
      "title": "FOCKER IN-LAW",
      "rating": "R18",
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/focker-in-law/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "clayface",
-     "title": "CLAYFACE",
-     "rating": "R18",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/clayface/en",
      "status": "now_showing"
     },
     {
@@ -680,30 +530,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "crypto",
-     "title": "CRYPTO",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/crypto/en",
-     "status": "now_showing"
-    },
-    {
      "slug": "i-play-rocky",
      "title": "I PLAY ROCKY",
      "rating": "R15",
      "language": "",
      "releaseDate": null,
      "url": "https://kw.grandcinemasme.com/movie/i-play-rocky/en",
-     "status": "now_showing"
-    },
-    {
-     "slug": "you-can-see-everything",
-     "title": "YOU CAN SEE EVERYTHING",
-     "rating": "R15",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://kw.grandcinemasme.com/movie/you-can-see-everything/en",
      "status": "now_showing"
     },
     {
@@ -1221,15 +1053,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "crypto-arabic",
-     "title": "Crypto",
-     "rating": "R15",
-     "language": "Arabic",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/crypto-arabic",
-     "status": "now_showing"
-    },
-    {
      "slug": "forgotten-island-english",
      "title": "Forgotten Island",
      "rating": "PG12",
@@ -1254,15 +1077,6 @@
      "language": "English",
      "releaseDate": null,
      "url": "https://www.ozonecinema.com/movies/i-play-rocky-english",
-     "status": "now_showing"
-    },
-    {
-     "slug": "i-object-english",
-     "title": "I, Object",
-     "rating": "PG",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.ozonecinema.com/movies/i-object-english",
      "status": "now_showing"
     },
     {
@@ -1492,247 +1306,25 @@
     }
    ]
   },
-  "cinescape-3101202": {
-   "name": "Cinescape 360",
-   "films": [
-    {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095116/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099777/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098323",
-     "title": "Godzilla Minus Zero",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098323/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095318/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099109",
-     "title": "I Play Rocky",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099109/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101718",
-     "title": "You Can See Everything",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101718/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099122",
-     "title": "Forgotten Island",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099122/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103090",
-     "title": "Three Wishes for Cinderella",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2103090/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101989",
-     "title": "Crypto",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101989/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099108",
-     "title": "Ebenezer",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099108/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097821",
-     "title": "I, Object",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097821/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097394",
-     "title": "Focker In-Law",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097394/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "cinescape-3101203": {
-   "name": "Cinescape Al-Bairaq",
-   "films": [
-    {
-     "slug": "2099122",
-     "title": "Forgotten Island",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099122/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097821",
-     "title": "I, Object",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097821/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095116/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "cinescape-3101206": {
-   "name": "Cinescape Ajial",
-   "films": [
-    {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103111",
-     "title": "Aakasamlo Oka Tara",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2103111/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103092",
-     "title": "OM Chapter 1: Udhiram - The Blood Wood",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2103092/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103091",
-     "title": "Bachelor Party D'eux",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2103091/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102704",
-     "title": "Scene",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102704/",
-     "status": "now_showing"
-    }
-   ]
-  },
   "cinescape-3101208": {
    "name": "Cinescape Al Kout",
    "films": [
     {
+     "slug": "2099110",
+     "title": "Hexed",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099110/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2095116",
      "title": "The Hunger Games: Sunrise on the Reaping",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2095116/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097821",
-     "title": "I, Object",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097821/",
      "status": "now_showing"
     },
     {
@@ -1745,30 +1337,48 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099109",
-     "title": "I Play Rocky",
+     "slug": "2103227",
+     "title": "Scorpion",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099109/",
+     "url": "https://elcinema.com/en/work/2103227/",
      "status": "now_showing"
     },
     {
-     "slug": "2099122",
-     "title": "Forgotten Island",
+     "slug": "2096575",
+     "title": "Paper Tiger",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099122/",
+     "url": "https://elcinema.com/en/work/2096575/",
      "status": "now_showing"
     },
     {
-     "slug": "2098323",
-     "title": "Godzilla Minus Zero",
+     "slug": "2097394",
+     "title": "Focker In-Law",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098323/",
+     "url": "https://elcinema.com/en/work/2097394/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102161",
+     "title": "Jahim Al-Abirin",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102161/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100835",
+     "title": "Laylat Bazet Khalis",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100835/",
      "status": "now_showing"
     },
     {
@@ -1778,155 +1388,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2103092/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101989",
-     "title": "Crypto",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101989/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101718",
-     "title": "You Can See Everything",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101718/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103090",
-     "title": "Three Wishes for Cinderella",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2103090/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097394",
-     "title": "Focker In-Law",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097394/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "cinescape-3101210": {
-   "name": "Cinescape Avenues",
-   "films": [
-    {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103090",
-     "title": "Three Wishes for Cinderella",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2103090/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099109",
-     "title": "I Play Rocky",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099109/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099122",
-     "title": "Forgotten Island",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099122/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099108",
-     "title": "Ebenezer",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099108/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095116/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098323",
-     "title": "Godzilla Minus Zero",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098323/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101718",
-     "title": "You Can See Everything",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101718/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099777/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095318/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101989",
-     "title": "Crypto",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101989/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097394",
-     "title": "Focker In-Law",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097394/",
      "status": "now_showing"
     }
    ]
@@ -1935,143 +1396,39 @@
    "name": "Cinescape 1954 Film House",
    "films": [
     {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095116/",
-     "status": "now_showing"
-    }
-   ]
-  },
-  "cinescape-3101460": {
-   "name": "Cinescape Assima",
-   "films": [
-    {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095116/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098155",
-     "title": "Clayface",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098155/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099109",
-     "title": "I Play Rocky",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099109/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100998",
-     "title": "Hadoota",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099108",
-     "title": "Ebenezer",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099108/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101718",
-     "title": "You Can See Everything",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101718/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099122",
-     "title": "Forgotten Island",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099122/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101989",
-     "title": "Crypto",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2101989/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097821",
-     "title": "I, Object",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097821/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099777/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098323",
-     "title": "Godzilla Minus Zero",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2098323/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095318/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097394",
      "title": "Focker In-Law",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2097394/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099110",
+     "title": "Hexed",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099110/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100998/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102161",
+     "title": "Jahim Al-Abirin",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102161/",
      "status": "now_showing"
     }
    ]
@@ -2152,57 +1509,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "forgotten-island/9999001556",
-     "title": "FORGOTTEN ISLAND",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/forgotten-island/9999001556",
-     "status": "now_showing"
-    },
-    {
-     "slug": "forgotten-island-arabic/9999001555",
-     "title": "FORGOTTEN ISLAND",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/forgotten-island-arabic/9999001555",
-     "status": "now_showing"
-    },
-    {
-     "slug": "crypto-(egyptian)-arabic-/9999001554",
-     "title": "CRYPTO",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/crypto-(egyptian)-arabic-/9999001554",
-     "status": "now_showing"
-    },
-    {
-     "slug": "you-can-see-everything/9999001553",
-     "title": "YOU CAN SEE EVERYTHING",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/you-can-see-everything/9999001553",
-     "status": "now_showing"
-    },
-    {
      "slug": "hadoota-(egyptian)-arabic/9999001551",
      "title": "HADOOTA",
      "rating": "",
      "language": "English",
      "releaseDate": null,
      "url": "https://www.skycinemaskw.com/movie-information/hadoota-(egyptian)-arabic/9999001551",
-     "status": "now_showing"
-    },
-    {
-     "slug": "ebenezer/9999001550",
-     "title": "EBENEZER",
-     "rating": "",
-     "language": "English",
-     "releaseDate": null,
-     "url": "https://www.skycinemaskw.com/movie-information/ebenezer/9999001550",
      "status": "now_showing"
     },
     {
