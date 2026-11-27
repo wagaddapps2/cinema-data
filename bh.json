@@ -1,10 +1,55 @@
 {
- "updatedAt": "2026-11-26T16:26:55.235Z",
+ "updatedAt": "2026-11-27T01:31:11.413Z",
  "territory": "BH",
  "cinemas": {
   "elcinema-bh": {
    "name": "Cinemas in Bahrain",
    "films": [
+    {
+     "slug": "2102343",
+     "title": "Delivery Boy",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-27",
+     "url": "https://elcinema.com/en/work/2102343/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103618",
+     "title": "Prempaatta",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-27",
+     "url": "https://elcinema.com/en/work/2103618/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103099",
+     "title": "Cosmic Samson",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-27",
+     "url": "https://elcinema.com/en/work/2103099/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103098",
+     "title": "Gunmaaster G9",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-27",
+     "url": "https://elcinema.com/en/work/2103098/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103635",
+     "title": "Flat 807",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-26",
+     "url": "https://elcinema.com/en/work/2103635/",
+     "status": "now_showing"
+    },
     {
      "slug": "2102161",
      "title": "Jahim Al-Abirin",
@@ -15,12 +60,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103599",
-     "title": "Grin",
+     "slug": "2103102",
+     "title": "Yeh Prem Mol Liya",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2103599/",
+     "url": "https://elcinema.com/en/work/2103102/",
      "status": "now_showing"
     },
     {
@@ -42,12 +87,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103635",
-     "title": "Flat 807",
+     "slug": "2103599",
+     "title": "Grin",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2103635/",
+     "url": "https://elcinema.com/en/work/2103599/",
      "status": "now_showing"
     },
     {
@@ -69,21 +114,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100835",
-     "title": "Laylat Bazet Khalis",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-24",
-     "url": "https://elcinema.com/en/work/2100835/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2096575",
      "title": "Paper Tiger",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-24",
      "url": "https://elcinema.com/en/work/2096575/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100835",
+     "title": "Laylat Bazet Khalis",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-24",
+     "url": "https://elcinema.com/en/work/2100835/",
      "status": "now_showing"
     },
     {
@@ -96,39 +141,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103090",
-     "title": "Three Wishes for Cinderella",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103090/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2103091",
      "title": "Bachelor Party D'eux",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2103091/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097821",
-     "title": "I, Object",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2097821/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103111",
-     "title": "Aakasamlo Oka Tara",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103111/",
      "status": "now_showing"
     },
     {
@@ -141,6 +159,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2103090",
+     "title": "Three Wishes for Cinderella",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103090/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2103096",
      "title": "ENE Repeat",
      "rating": "",
@@ -150,12 +177,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099109",
-     "title": "I Play Rocky",
+     "slug": "2103111",
+     "title": "Aakasamlo Oka Tara",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-18",
-     "url": "https://elcinema.com/en/work/2099109/",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103111/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097821",
+     "title": "I, Object",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2097821/",
      "status": "now_showing"
     },
     {
@@ -168,12 +204,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099109",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2099109/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2102967",
      "title": "Bouma",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
      "url": "https://elcinema.com/en/work/2102967/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-11",
+     "url": "https://elcinema.com/en/work/2099777/",
      "status": "now_showing"
     },
     {
@@ -195,30 +249,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-11",
-     "url": "https://elcinema.com/en/work/2099777/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102704",
      "title": "Scene",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-05",
      "url": "https://elcinema.com/en/work/2102704/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099759",
-     "title": "Ramayana",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-04",
-     "url": "https://elcinema.com/en/work/2099759/",
      "status": "now_showing"
     },
     {
@@ -237,6 +273,15 @@
      "language": "",
      "releaseDate": "2026-11-04",
      "url": "https://elcinema.com/en/work/2095318/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099759",
+     "title": "Ramayana",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-04",
+     "url": "https://elcinema.com/en/work/2099759/",
      "status": "now_showing"
     },
     {

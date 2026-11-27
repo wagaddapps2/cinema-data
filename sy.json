@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T16:26:59.821Z",
+ "updatedAt": "2026-11-27T01:31:17.779Z",
  "territory": "SY",
  "cinemas": {
   "elcinema-sy": {
@@ -57,51 +57,6 @@
      "language": "",
      "releaseDate": "2026-09-17",
      "url": "https://elcinema.com/en/work/2098173/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2020775",
-     "title": "Frozen",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-09-09",
-     "url": "https://elcinema.com/en/work/2020775/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2033248",
-     "title": "Inside Out",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-05-21",
-     "url": "https://elcinema.com/en/work/2033248/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2090768",
-     "title": "Lilo & Stitch",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2025-05-22",
-     "url": "https://elcinema.com/en/work/2090768/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "1092881",
-     "title": "Ratatouille",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2024-08-07",
-     "url": "https://elcinema.com/en/work/1092881/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2048211",
-     "title": "Red Shoes and the Seven Dwarfs",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2024-07-24",
-     "url": "https://elcinema.com/en/work/2048211/",
      "status": "now_showing"
     },
     {

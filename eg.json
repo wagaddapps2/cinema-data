@@ -1,17 +1,80 @@
 {
- "updatedAt": "2026-11-26T16:26:44.832Z",
+ "updatedAt": "2026-11-27T01:30:59.312Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
    "name": "Cinemas in Egypt",
    "films": [
     {
-     "slug": "2097394",
-     "title": "Focker In-Law",
+     "slug": "2100658",
+     "title": "Fjord",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2097394/",
+     "releaseDate": "2026-11-27",
+     "url": "https://elcinema.com/en/work/2100658/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102886",
+     "title": "The Wishing Tree",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-27",
+     "url": "https://elcinema.com/en/work/2102886/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102883",
+     "title": "Tristan Forever",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-27",
+     "url": "https://elcinema.com/en/work/2102883/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102881",
+     "title": "Tin Castle",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-27",
+     "url": "https://elcinema.com/en/work/2102881/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102843",
+     "title": "The Blood Countess",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-27",
+     "url": "https://elcinema.com/en/work/2102843/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102827",
+     "title": "Gabin",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-27",
+     "url": "https://elcinema.com/en/work/2102827/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100951",
+     "title": "Minotaur",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-27",
+     "url": "https://elcinema.com/en/work/2100951/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102927",
+     "title": "The Violinist",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-27",
+     "url": "https://elcinema.com/en/work/2102927/",
      "status": "now_showing"
     },
     {
@@ -24,39 +87,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102925",
-     "title": "Paris Paris",
+     "slug": "2101718",
+     "title": "You Can See Everything",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2102925/",
+     "url": "https://elcinema.com/en/work/2101718/",
      "status": "now_showing"
     },
     {
-     "slug": "2102878",
-     "title": "Supporting Role",
+     "slug": "2097394",
+     "title": "Focker In-Law",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2102878/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102874",
-     "title": "Heysel 85",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2102874/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102839",
-     "title": "A Messy Tribute to Motherly Love",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2102839/",
+     "url": "https://elcinema.com/en/work/2097394/",
      "status": "now_showing"
     },
     {
@@ -66,15 +111,6 @@
      "language": "",
      "releaseDate": "2026-11-26",
      "url": "https://elcinema.com/en/work/2096575/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101718",
-     "title": "You Can See Everything",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2101718/",
      "status": "now_showing"
     },
     {
@@ -96,12 +132,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099109",
-     "title": "I Play Rocky",
+     "slug": "2099122",
+     "title": "Forgotten Island",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2099109/",
+     "url": "https://elcinema.com/en/work/2099122/",
      "status": "now_showing"
     },
     {
@@ -114,12 +150,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099122",
-     "title": "Forgotten Island",
+     "slug": "2099109",
+     "title": "I Play Rocky",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2099122/",
+     "url": "https://elcinema.com/en/work/2099109/",
      "status": "now_showing"
     },
     {
@@ -141,15 +177,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099777/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099108",
      "title": "Ebenezer",
      "rating": "",
@@ -159,21 +186,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2099777/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100998",
      "title": "Hadoota",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-11",
      "url": "https://elcinema.com/en/work/2100998/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2095318/",
      "status": "now_showing"
     },
     {
@@ -195,12 +222,30 @@
      "status": "now_showing"
     },
     {
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2095318/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2096928",
      "title": "Naseeb",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
      "url": "https://elcinema.com/en/work/2096928/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102123",
+     "title": "Rose",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-23",
+     "url": "https://elcinema.com/en/work/2102123/",
      "status": "now_showing"
     },
     {
@@ -219,15 +264,6 @@
      "language": "",
      "releaseDate": "2026-10-21",
      "url": "https://elcinema.com/en/work/2099773/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100295",
-     "title": "Fatherland",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-18",
-     "url": "https://elcinema.com/en/work/2100295/",
      "status": "now_showing"
     },
     {

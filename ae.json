@@ -1,62 +1,35 @@
 {
- "updatedAt": "2026-11-26T16:26:46.003Z",
+ "updatedAt": "2026-11-27T01:31:03.024Z",
  "territory": "AE",
  "cinemas": {
   "elcinema-ae": {
    "name": "Cinemas in United Arab Emirates",
    "films": [
     {
-     "slug": "2103621",
-     "title": "Call",
+     "slug": "2103618",
+     "title": "Prempaatta",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2103621/",
+     "releaseDate": "2026-11-27",
+     "url": "https://elcinema.com/en/work/2103618/",
      "status": "now_showing"
     },
     {
-     "slug": "2096575",
-     "title": "Paper Tiger",
+     "slug": "2102973",
+     "title": "Bhogi",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2096575/",
+     "releaseDate": "2026-11-27",
+     "url": "https://elcinema.com/en/work/2102973/",
      "status": "now_showing"
     },
     {
-     "slug": "2098722",
-     "title": "Charbel",
+     "slug": "2103637",
+     "title": "Mysaa",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2098722/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099110",
-     "title": "Hexed",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2099110/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100835",
-     "title": "Laylat Bazet Khalis",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2100835/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102161",
-     "title": "Jahim Al-Abirin",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2102161/",
+     "releaseDate": "2026-11-27",
+     "url": "https://elcinema.com/en/work/2103637/",
      "status": "now_showing"
     },
     {
@@ -69,21 +42,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103099",
-     "title": "Cosmic Samson",
+     "slug": "2102161",
+     "title": "Jahim Al-Abirin",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2103099/",
+     "url": "https://elcinema.com/en/work/2102161/",
      "status": "now_showing"
     },
     {
-     "slug": "2103102",
-     "title": "Yeh Prem Mol Liya",
+     "slug": "2102343",
+     "title": "Delivery Boy",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2103102/",
+     "url": "https://elcinema.com/en/work/2102343/",
      "status": "now_showing"
     },
     {
@@ -96,12 +69,39 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103232",
-     "title": "Hail Mary",
+     "slug": "2103621",
+     "title": "Call",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2103232/",
+     "url": "https://elcinema.com/en/work/2103621/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2098722",
+     "title": "Charbel",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-26",
+     "url": "https://elcinema.com/en/work/2098722/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103099",
+     "title": "Cosmic Samson",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-26",
+     "url": "https://elcinema.com/en/work/2103099/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099110",
+     "title": "Hexed",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-26",
+     "url": "https://elcinema.com/en/work/2099110/",
      "status": "now_showing"
     },
     {
@@ -111,6 +111,60 @@
      "language": "",
      "releaseDate": "2026-11-26",
      "url": "https://elcinema.com/en/work/2103599/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103102",
+     "title": "Yeh Prem Mol Liya",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-26",
+     "url": "https://elcinema.com/en/work/2103102/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103232",
+     "title": "Hail Mary",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-26",
+     "url": "https://elcinema.com/en/work/2103232/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100835",
+     "title": "Laylat Bazet Khalis",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-26",
+     "url": "https://elcinema.com/en/work/2100835/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096575",
+     "title": "Paper Tiger",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-26",
+     "url": "https://elcinema.com/en/work/2096575/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103619",
+     "title": "Little Thomas",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-26",
+     "url": "https://elcinema.com/en/work/2103619/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103228",
+     "title": "Pyre",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-26",
+     "url": "https://elcinema.com/en/work/2103228/",
      "status": "now_showing"
     },
     {
@@ -132,21 +186,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099122",
-     "title": "Forgotten Island",
+     "slug": "2103091",
+     "title": "Bachelor Party D'eux",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2099122/",
+     "url": "https://elcinema.com/en/work/2103091/",
      "status": "now_showing"
     },
     {
-     "slug": "2103092",
-     "title": "OM Chapter 1: Udhiram - The Blood Wood",
+     "slug": "2103096",
+     "title": "ENE Repeat",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103092/",
+     "url": "https://elcinema.com/en/work/2103096/",
      "status": "now_showing"
     },
     {
@@ -159,30 +213,30 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100262",
-     "title": "Rise of the Conqueror",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2100262/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103091",
-     "title": "Bachelor Party D'eux",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103091/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095116",
      "title": "The Hunger Games: Sunrise on the Reaping",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100262",
+     "title": "Rise of the Conqueror",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2100262/",
      "status": "now_showing"
     },
     {
@@ -204,15 +258,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103090",
-     "title": "Three Wishes for Cinderella",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103090/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2103111",
      "title": "Aakasamlo Oka Tara",
      "rating": "",
@@ -222,12 +267,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103096",
-     "title": "ENE Repeat",
+     "slug": "2103092",
+     "title": "OM Chapter 1: Udhiram - The Blood Wood",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103096/",
+     "url": "https://elcinema.com/en/work/2103092/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103090",
+     "title": "Three Wishes for Cinderella",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103090/",
      "status": "now_showing"
     },
     {
@@ -240,12 +294,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102967",
-     "title": "Bouma",
+     "slug": "2102971",
+     "title": "Batulo Jun",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102967/",
+     "url": "https://elcinema.com/en/work/2102971/",
      "status": "now_showing"
     },
     {
@@ -258,12 +312,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102971",
-     "title": "Batulo Jun",
+     "slug": "2099777",
+     "title": "How to Rob a Bank",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2102971/",
+     "url": "https://elcinema.com/en/work/2099777/",
      "status": "now_showing"
     },
     {
@@ -276,21 +330,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099777",
-     "title": "How to Rob a Bank",
+     "slug": "2102967",
+     "title": "Bouma",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2099777/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2095318/",
+     "url": "https://elcinema.com/en/work/2102967/",
      "status": "now_showing"
     },
     {
@@ -300,6 +345,15 @@
      "language": "",
      "releaseDate": "2026-11-05",
      "url": "https://elcinema.com/en/work/2102704/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2095318/",
      "status": "now_showing"
     },
     {
@@ -330,6 +384,15 @@
      "status": "now_showing"
     },
     {
+     "slug": "2088495",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2088495/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2098155",
      "title": "Clayface",
      "rating": "",
@@ -354,15 +417,6 @@
      "language": "",
      "releaseDate": "2026-09-24",
      "url": "https://elcinema.com/en/work/2100562/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2002016",
-     "title": "Before Sunset",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2025-07-20",
-     "url": "https://elcinema.com/en/work/2002016/",
      "status": "now_showing"
     },
     {

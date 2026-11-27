@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T16:25:08.358Z",
+ "updatedAt": "2026-11-27T01:29:24.508Z",
  "territory": "KW",
  "cinemas": {
   "vox-kw": {
@@ -134,6 +134,22 @@
      "status": "now_showing"
     },
     {
+     "slug": "formula-1-qatar-grand-prix-2026",
+     "title": "Formula 1: Qatar Grand Prix 2026",
+     "rating": "PG12",
+     "language": "English",
+     "url": "https://kwt.voxcinemas.com/movies/formula-1-qatar-grand-prix-2026",
+     "status": "now_showing"
+    },
+    {
+     "slug": "formula-1-qatar-grand-prix-2026-arabic",
+     "title": "Formula 1: Qatar Grand Prix 2026",
+     "rating": "PG12",
+     "language": "Arabic",
+     "url": "https://kwt.voxcinemas.com/movies/formula-1-qatar-grand-prix-2026-arabic",
+     "status": "now_showing"
+    },
+    {
      "slug": "dune-part-three-preview-screening",
      "title": "Dune: Part Three -Preview Screening",
      "rating": "R15",
@@ -144,7 +160,7 @@
     {
      "slug": "formula-1-qatar-grand-prix-2026-arabic",
      "title": "Formula 1: Qatar Grand Prix 2026",
-     "rating": "18TC",
+     "rating": "PG12",
      "language": "Arabic",
      "releaseDate": "2026-11-29",
      "url": "https://kwt.voxcinemas.com/movies/formula-1-qatar-grand-prix-2026-arabic",
@@ -1605,6 +1621,15 @@
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101989/",
      "status": "now_showing"
+    },
+    {
+     "slug": "2103102",
+     "title": "Yeh Prem Mol Liya",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2103102/",
+     "status": "now_showing"
     }
    ]
   },
@@ -1669,6 +1694,24 @@
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2103111/",
      "status": "now_showing"
+    },
+    {
+     "slug": "2103618",
+     "title": "Prempaatta",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2103618/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103102",
+     "title": "Yeh Prem Mol Liya",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2103102/",
+     "status": "now_showing"
     }
    ]
   },
@@ -1682,6 +1725,42 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099110/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102161",
+     "title": "Jahim Al-Abirin",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102161/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103102",
+     "title": "Yeh Prem Mol Liya",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2103102/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100835",
+     "title": "Laylat Bazet Khalis",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2100835/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097394",
+     "title": "Focker In-Law",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097394/",
      "status": "now_showing"
     },
     {
@@ -1719,42 +1798,6 @@
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2096575/",
      "status": "now_showing"
-    },
-    {
-     "slug": "2097394",
-     "title": "Focker In-Law",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097394/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102161",
-     "title": "Jahim Al-Abirin",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102161/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100835",
-     "title": "Laylat Bazet Khalis",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2100835/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103092",
-     "title": "OM Chapter 1: Udhiram - The Blood Wood",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2103092/",
-     "status": "now_showing"
     }
    ]
   },
@@ -1771,15 +1814,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095116/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099110",
      "title": "Hexed",
      "rating": "",
@@ -1789,12 +1823,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102161",
-     "title": "Jahim Al-Abirin",
+     "slug": "2095318",
+     "title": "The Cat in the Hat",
      "rating": "",
      "language": "",
      "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2102161/",
+     "url": "https://elcinema.com/en/work/2095318/",
      "status": "now_showing"
     },
     {
@@ -1804,15 +1838,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2097394/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095318",
-     "title": "The Cat in the Hat",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095318/",
      "status": "now_showing"
     },
     {
@@ -1831,6 +1856,24 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2096575/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102161",
+     "title": "Jahim Al-Abirin",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2102161/",
      "status": "now_showing"
     },
     {
@@ -1889,6 +1932,51 @@
    "name": "Cinescape Assima",
    "films": [
     {
+     "slug": "2099109",
+     "title": "I Play Rocky",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099109/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099110",
+     "title": "Hexed",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099110/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2099122",
+     "title": "Forgotten Island",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2099122/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097394",
+     "title": "Focker In-Law",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2097394/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103227",
+     "title": "Scorpion",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2103227/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2100998",
      "title": "Hadoota",
      "rating": "",
@@ -1904,69 +1992,6 @@
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2101989/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2095116",
-     "title": "The Hunger Games: Sunrise on the Reaping",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2095116/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099110",
-     "title": "Hexed",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099110/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097394",
-     "title": "Focker In-Law",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2097394/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099122",
-     "title": "Forgotten Island",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099122/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096575",
-     "title": "Paper Tiger",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2096575/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099109",
-     "title": "I Play Rocky",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2099109/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103227",
-     "title": "Scorpion",
-     "rating": "",
-     "language": "",
-     "releaseDate": null,
-     "url": "https://elcinema.com/en/work/2103227/",
      "status": "now_showing"
     },
     {
@@ -2006,12 +2031,39 @@
      "status": "now_showing"
     },
     {
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2095116/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103102",
+     "title": "Yeh Prem Mol Liya",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2103102/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2099108",
      "title": "Ebenezer",
      "rating": "",
      "language": "",
      "releaseDate": null,
      "url": "https://elcinema.com/en/work/2099108/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096575",
+     "title": "Paper Tiger",
+     "rating": "",
+     "language": "",
+     "releaseDate": null,
+     "url": "https://elcinema.com/en/work/2096575/",
      "status": "now_showing"
     }
    ]
