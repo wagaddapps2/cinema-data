@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T01:30:56.981Z",
+ "updatedAt": "2026-11-27T16:11:44.978Z",
  "territory": "BE",
  "cinemas": {
   "cinebel-693": {
@@ -498,6 +498,17 @@
    "fetchedAt": "2026-11-27",
    "films": [
     {
+     "slug": "12382",
+     "title": "2046",
+     "originalTitle": "",
+     "year": 2004,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2004-12-15",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie12382",
+     "status": "now_showing"
+    },
+    {
      "slug": "2628",
      "title": "A Bigger Splash",
      "originalTitle": "",
@@ -507,6 +518,42 @@
      "releaseDate": null,
      "firstShowing": "2026-11-28",
      "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie2628",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "10315",
+     "title": "A l'Est d'Eden",
+     "originalTitle": "East of Eden",
+     "year": 1955,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-03",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie10315",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1028205",
+     "title": "Act of God",
+     "originalTitle": "",
+     "year": 1980,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-27",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1028205",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1585",
+     "title": "Alice dans les villes",
+     "originalTitle": "Alice in den Städten",
+     "year": 1973,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-27",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1585",
      "status": "coming_soon"
     },
     {
@@ -522,6 +569,64 @@
      "status": "coming_soon"
     },
     {
+     "slug": "1028207",
+     "title": "Antoine Castille (Compilation de courts métrages)",
+     "originalTitle": "",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-29",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1028207",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1010382",
+     "title": "Au nom de la loi",
+     "originalTitle": "",
+     "year": 1932,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-02",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1010382",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "4885",
+     "title": "Benvenuta",
+     "originalTitle": "",
+     "year": 1983,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-05",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie4885",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1012849",
+     "title": "Bigamie",
+     "originalTitle": "The Bigamist",
+     "year": 1953,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-04",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1012849",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "5621",
+     "title": "Blade 2",
+     "originalTitle": "Blade II",
+     "year": 2002,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2002-06-12",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie5621",
+     "status": "now_showing"
+    },
+    {
      "slug": "1607",
      "title": "Braindead",
      "originalTitle": "",
@@ -533,6 +638,29 @@
      "status": "now_showing"
     },
     {
+     "slug": "2428",
+     "title": "Carrie au bal du diable",
+     "originalTitle": "Carrie",
+     "year": 1976,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-11",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie2428",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1028198",
+     "title": "Cat Blues",
+     "originalTitle": "",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-02",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1028198",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1007179",
      "title": "Ce n'est pas l'homosexuel qui est pervers mais la société dans laquelle il vit",
      "originalTitle": "Nicht der Homosexuelle ist pervers, sondern die Situation, in der er lebt",
@@ -542,6 +670,41 @@
      "releaseDate": null,
      "firstShowing": "2026-11-30",
      "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1007179",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1884",
+     "title": "Certains l'aiment chaud",
+     "originalTitle": "Some Like it Hot",
+     "year": 1959,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-15",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1884",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1023029",
+     "title": "Chaplin",
+     "originalTitle": "",
+     "year": 1992,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-06",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1023029",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1028203",
+     "title": "Christmas (Compilation de courts métrages)",
+     "originalTitle": "",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-23",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1028203",
      "status": "coming_soon"
     },
     {
@@ -557,6 +720,18 @@
      "status": "coming_soon"
     },
     {
+     "slug": "11003",
+     "title": "Comme deux gouttes d'eau",
+     "originalTitle": "Als twee druppels water",
+     "year": 1963,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-14",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie11003",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1028014",
      "title": "Der Postmeister",
      "originalTitle": "",
@@ -566,6 +741,18 @@
      "releaseDate": null,
      "firstShowing": "2026-11-29",
      "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1028014",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "11857",
+     "title": "Duel dans le Pacifique",
+     "originalTitle": "Hell in the Pacific",
+     "year": 1968,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-04",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie11857",
      "status": "coming_soon"
     },
     {
@@ -592,6 +779,18 @@
      "status": "coming_soon"
     },
     {
+     "slug": "12390",
+     "title": "Et la vie continue",
+     "originalTitle": "Va Zendegi Edameh Darad",
+     "year": 1992,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-07",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie12390",
+     "status": "coming_soon"
+    },
+    {
      "slug": "6469",
      "title": "Evil Dead 2",
      "originalTitle": "Evil Dead 2: Dead by Dawn",
@@ -600,6 +799,77 @@
      "language": "VO",
      "releaseDate": null,
      "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie6469",
+     "status": "now_showing"
+    },
+    {
+     "slug": "3452",
+     "title": "Flaming Creatures",
+     "originalTitle": "",
+     "year": 1963,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-10",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie3452",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "532",
+     "title": "Freaks, la monstrueuse parade",
+     "originalTitle": "Freaks",
+     "year": 1932,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-16",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie532",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "9857",
+     "title": "Gare centrale",
+     "originalTitle": "Bab el hadid",
+     "year": 1958,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-08",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie9857",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1010231",
+     "title": "Histoire de détective",
+     "originalTitle": "",
+     "year": 1929,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-09",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1010231",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1383",
+     "title": "Identification d'une femme",
+     "originalTitle": "Identificazione di una donna",
+     "year": 1982,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-17",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1383",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "6047",
+     "title": "In the Bedroom",
+     "originalTitle": "",
+     "year": 2001,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2002-03-13",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie6047",
      "status": "now_showing"
     },
     {
@@ -615,6 +885,293 @@
      "status": "coming_soon"
     },
     {
+     "slug": "1002494",
+     "title": "Jeunes filles en uniforme",
+     "originalTitle": "Mädchen in Uniform",
+     "year": 1931,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-13",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1002494",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "14864",
+     "title": "Judex",
+     "originalTitle": "",
+     "year": 1963,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-05",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie14864",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "6038",
+     "title": "Jurassic Park",
+     "originalTitle": "",
+     "year": 1993,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-27",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie6038",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1016365",
+     "title": "L'Equipée sauvage",
+     "originalTitle": "The Wild One",
+     "year": 1953,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-07",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1016365",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "14723",
+     "title": "L'Etoile cachée",
+     "originalTitle": "Meghe Dhaka Tara",
+     "year": 1960,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-17",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie14723",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2810",
+     "title": "L'Etrange Noël de Mr Jack",
+     "originalTitle": "The Nightmare Before Christmas",
+     "year": 1993,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-18",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie2810",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1013550",
+     "title": "L'Heure de la libération a sonné",
+     "originalTitle": "Saat el fahrir dakkat, barra ya isti mar",
+     "year": 1974,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-02",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1013550",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1009902",
+     "title": "L'Implacable Ninja",
+     "originalTitle": "Enter the Ninja",
+     "year": 1981,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-25",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1009902",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "12695",
+     "title": "L'Intendant Sansho",
+     "originalTitle": "Sanshô dayû",
+     "year": 1954,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-24",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie12695",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "11470",
+     "title": "La Balade sauvage",
+     "originalTitle": "Badlands",
+     "year": 1973,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-04",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie11470",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "6304",
+     "title": "La Belle et la Bête",
+     "originalTitle": "Beauty and the Beast",
+     "year": 1991,
+     "rating": "6+",
+     "language": "VF/VO",
+     "releaseDate": "2002-01-02",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie6304",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1010647",
+     "title": "La Dernière folie de Mel Brooks",
+     "originalTitle": "Silent Movie",
+     "year": 1976,
+     "rating": "AL",
+     "language": "VF",
+     "releaseDate": null,
+     "firstShowing": "2026-12-11",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1010647",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "9828",
+     "title": "La Joyeuse Divorcée",
+     "originalTitle": "The Gay Divorcee",
+     "year": 1934,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-22",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie9828",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1008879",
+     "title": "La Liste noire",
+     "originalTitle": "Guilty by Suspicion",
+     "year": 1991,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-09",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1008879",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1186",
+     "title": "La Nuit américaine",
+     "originalTitle": "",
+     "year": 1973,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-03",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1186",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1005552",
+     "title": "La Statue de chair",
+     "originalTitle": "La Statua di carne",
+     "year": 1921,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-31",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1005552",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "4666",
+     "title": "Le Boucher",
+     "originalTitle": "",
+     "year": 1970,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-17",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie4666",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "8974",
+     "title": "Le Brasier ardent",
+     "originalTitle": "",
+     "year": 1923,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-14",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie8974",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1027954",
+     "title": "Le Couteau dans la tête",
+     "originalTitle": "Messer im Kopf",
+     "year": 1978,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-07",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1027954",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "2176",
+     "title": "Le Magicien d'Oz",
+     "originalTitle": "The Wizard of Oz",
+     "year": 1939,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-22",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie2176",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "11459",
+     "title": "Le Maître de marionnettes",
+     "originalTitle": "Xi meng ren sheng",
+     "year": 1993,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-28",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie11459",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1001279",
+     "title": "Le Nom de la rose",
+     "originalTitle": "The Name of the Rose",
+     "year": 1986,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-29",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1001279",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1028202",
+     "title": "Le Revenant - After Death",
+     "originalTitle": "A halál után",
+     "year": 1920,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-22",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1028202",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "12713",
+     "title": "Les Grandes espérances",
+     "originalTitle": "Great Expectations",
+     "year": 1946,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-13",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie12713",
+     "status": "coming_soon"
+    },
+    {
      "slug": "10890",
      "title": "Les Inconnus dans la maison",
      "originalTitle": "",
@@ -624,6 +1181,124 @@
      "releaseDate": null,
      "firstShowing": "2026-11-29",
      "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie10890",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1016384",
+     "title": "Les Rapaces",
+     "originalTitle": "Greed",
+     "year": 1924,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-28",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1016384",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "12453",
+     "title": "Les Rendez-vous d'Anna",
+     "originalTitle": "",
+     "year": 1978,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-01",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie12453",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "10066",
+     "title": "Les Voyages de Sullivan",
+     "originalTitle": "Sullivan's Travels",
+     "year": 1941,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-26",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie10066",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1009702",
+     "title": "Lifeforce, l'Etoile du Mal",
+     "originalTitle": "Lifeforce",
+     "year": 1985,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-25",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1009702",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "11918",
+     "title": "Love",
+     "originalTitle": "Women in Love",
+     "year": 1969,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-03",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie11918",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1028201",
+     "title": "Love (Compilation de courts métrages)",
+     "originalTitle": "",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-21",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1028201",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1028199",
+     "title": "Lumière Pathé Gaumont Biograph (Compilation de courts métrages)",
+     "originalTitle": "",
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-07",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1028199",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "124",
+     "title": "Manhattan",
+     "originalTitle": "",
+     "year": 1979,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-20",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie124",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1213",
+     "title": "Martha",
+     "originalTitle": "",
+     "year": 1974,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-04",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1213",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "7919",
+     "title": "Maudite soit la guerre",
+     "originalTitle": "",
+     "year": 1914,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-12",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie7919",
      "status": "coming_soon"
     },
     {
@@ -639,6 +1314,53 @@
      "status": "coming_soon"
     },
     {
+     "slug": "1028204",
+     "title": "Moi aussi, j’accuse",
+     "originalTitle": "",
+     "year": 1923,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-24",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1028204",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "3132",
+     "title": "Ni Dieux ni Démons",
+     "originalTitle": "Gods and Monsters",
+     "year": 1998,
+     "rating": "6+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-27",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie3132",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1004375",
+     "title": "Nine",
+     "originalTitle": "",
+     "year": 2009,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2010-03-03",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1004375",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11480",
+     "title": "Par-delà les nuages",
+     "originalTitle": "Al di là delle nuvole",
+     "year": 1995,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-15",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie11480",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1020806",
      "title": "Par-delà les nuages: le cinéma de Marion Hänsel",
      "originalTitle": "",
@@ -647,6 +1369,41 @@
      "language": "VO",
      "releaseDate": null,
      "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1020806",
+     "status": "now_showing"
+    },
+    {
+     "slug": "11370",
+     "title": "Performance",
+     "originalTitle": "",
+     "year": 1970,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-20",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie11370",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1004854",
+     "title": "Porté disparu",
+     "originalTitle": "Missing",
+     "year": 1982,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-17",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1004854",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1000674",
+     "title": "Ratatouille",
+     "originalTitle": "",
+     "year": 2007,
+     "rating": "6+",
+     "language": "VF/VO",
+     "releaseDate": "2007-08-01",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1000674",
      "status": "now_showing"
     },
     {
@@ -673,6 +1430,75 @@
      "status": "coming_soon"
     },
     {
+     "slug": "1028200",
+     "title": "Santa Claus",
+     "originalTitle": "Santa Claus: The Movie",
+     "year": 1985,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-20",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1028200",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "8875",
+     "title": "Sex is Comedy",
+     "originalTitle": "",
+     "year": 2002,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2002-10-02",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie8875",
+     "status": "now_showing"
+    },
+    {
+     "slug": "10270",
+     "title": "Solaris",
+     "originalTitle": "Solyaris",
+     "year": 1972,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-06",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie10270",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1223",
+     "title": "Star Wars - Episode IV: La Guerre des Etoiles",
+     "originalTitle": "Star Wars - Episode IV: A New Hope",
+     "year": 1977,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "1997-03-19",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1223",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1224",
+     "title": "Star Wars - Episode V: L' Empire Contre-Attaque",
+     "originalTitle": "Star Wars - Episode V: The Empire Strikes Back",
+     "year": 1980,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "1997-04-09",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1224",
+     "status": "now_showing"
+    },
+    {
+     "slug": "5949",
+     "title": "Stardust Memories",
+     "originalTitle": "",
+     "year": 1980,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-13",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie5949",
+     "status": "coming_soon"
+    },
+    {
      "slug": "7018",
      "title": "Stark Love",
      "originalTitle": "",
@@ -683,6 +1509,40 @@
      "firstShowing": "2026-11-30",
      "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie7018",
      "status": "coming_soon"
+    },
+    {
+     "slug": "1009799",
+     "title": "The Symbol of the Unconquered",
+     "originalTitle": "",
+     "year": 1920,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-17",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1009799",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "3982",
+     "title": "The Virgin Suicides",
+     "originalTitle": "",
+     "year": 1999,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2000-08-30",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie3982",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1004090",
+     "title": "Tokyo Sonata",
+     "originalTitle": "",
+     "year": 2008,
+     "rating": "12+",
+     "language": "VO",
+     "releaseDate": "2009-05-20",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1004090",
+     "status": "now_showing"
     },
     {
      "slug": "1022954",
@@ -697,6 +1557,52 @@
      "status": "coming_soon"
     },
     {
+     "slug": "1016056",
+     "title": "Trois femmes",
+     "originalTitle": "Three Women",
+     "year": 1977,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-14",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1016056",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "5299",
+     "title": "Un amour à New York",
+     "originalTitle": "Serendipity",
+     "year": 2001,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2002-02-13",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie5299",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1008698",
+     "title": "Une vie simple / A Simple Life",
+     "originalTitle": "Tou ze",
+     "year": 2011,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": "2012-08-22",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1008698",
+     "status": "now_showing"
+    },
+    {
+     "slug": "1028196",
+     "title": "What Price Hollywood?",
+     "originalTitle": "",
+     "year": 1932,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-01",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1028196",
+     "status": "coming_soon"
+    },
+    {
      "slug": "1028007",
      "title": "You Never Know",
      "originalTitle": "",
@@ -706,6 +1612,30 @@
      "releaseDate": null,
      "firstShowing": "2026-11-28",
      "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1028007",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "14268",
+     "title": "Zéro de conduite",
+     "originalTitle": "",
+     "year": 1933,
+     "rating": "AL",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-18",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie14268",
+     "status": "coming_soon"
+    },
+    {
+     "slug": "1028197",
+     "title": "È piccerella",
+     "originalTitle": "",
+     "year": 1922,
+     "rating": "",
+     "language": "VO",
+     "releaseDate": null,
+     "firstShowing": "2026-12-01",
+     "url": "https://cinebel.dhnet.be/cinema/706/CINEMATEK#movie1028197",
      "status": "coming_soon"
     }
    ]
@@ -2749,6 +3679,17 @@
      "releaseDate": "2026-11-25",
      "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027757",
      "status": "now_showing"
+    },
+    {
+     "slug": "1027846",
+     "title": "Du fioul dans les artères",
+     "originalTitle": "",
+     "year": 2026,
+     "rating": "16+",
+     "language": "VO",
+     "releaseDate": "2026-12-02",
+     "url": "https://cinebel.dhnet.be/cinema/1122/Cin%C3%A94%20Nivelles#movie1027846",
+     "status": "coming_soon"
     },
     {
      "slug": "1026489",
