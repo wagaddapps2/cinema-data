@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T16:12:05.133Z",
+ "updatedAt": "2026-11-28T01:08:02.247Z",
  "territory": "TN",
  "cinemas": {
   "elcinema-tn": {
@@ -15,12 +15,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2099108",
-     "title": "Ebenezer",
+     "slug": "2095116",
+     "title": "The Hunger Games: Sunrise on the Reaping",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-11",
-     "url": "https://elcinema.com/en/work/2099108/",
+     "url": "https://elcinema.com/en/work/2095116/",
      "status": "now_showing"
     },
     {

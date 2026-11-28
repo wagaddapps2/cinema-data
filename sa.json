@@ -1,10 +1,19 @@
 {
- "updatedAt": "2026-11-27T16:11:51.127Z",
+ "updatedAt": "2026-11-28T01:07:49.022Z",
  "territory": "SA",
  "cinemas": {
   "elcinema-sa": {
    "name": "Cinemas in Saudi Arabia",
    "films": [
+    {
+     "slug": "2100658",
+     "title": "Fjord",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-26",
+     "url": "https://elcinema.com/en/work/2100658/",
+     "status": "now_showing"
+    },
     {
      "slug": "2103102",
      "title": "Yeh Prem Mol Liya",
@@ -21,15 +30,6 @@
      "language": "",
      "releaseDate": "2026-11-26",
      "url": "https://elcinema.com/en/work/2103099/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2100658",
-     "title": "Fjord",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2100658/",
      "status": "now_showing"
     },
     {
@@ -60,12 +60,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103599",
-     "title": "Grin",
+     "slug": "2100835",
+     "title": "Laylat Bazet Khalis",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-25",
-     "url": "https://elcinema.com/en/work/2103599/",
+     "url": "https://elcinema.com/en/work/2100835/",
      "status": "now_showing"
     },
     {
@@ -78,12 +78,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100835",
-     "title": "Laylat Bazet Khalis",
+     "slug": "2103599",
+     "title": "Grin",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-25",
-     "url": "https://elcinema.com/en/work/2100835/",
+     "url": "https://elcinema.com/en/work/2103599/",
      "status": "now_showing"
     },
     {
@@ -123,21 +123,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102161",
-     "title": "Jahim Al-Abirin",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2102161/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2103090",
      "title": "Three Wishes for Cinderella",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2103090/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102161",
+     "title": "Jahim Al-Abirin",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2102161/",
      "status": "now_showing"
     },
     {
@@ -177,21 +177,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101989",
-     "title": "Crypto",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-18",
-     "url": "https://elcinema.com/en/work/2101989/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2101718",
      "title": "You Can See Everything",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-18",
      "url": "https://elcinema.com/en/work/2101718/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-18",
+     "url": "https://elcinema.com/en/work/2101989/",
      "status": "now_showing"
     },
     {
@@ -267,21 +267,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2088495",
-     "title": "Wildwood",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-28",
-     "url": "https://elcinema.com/en/work/2088495/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099119",
      "title": "Sense and Sensibility",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
      "url": "https://elcinema.com/en/work/2099119/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2088495",
+     "title": "Wildwood",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-28",
+     "url": "https://elcinema.com/en/work/2088495/",
      "status": "now_showing"
     },
     {
@@ -375,15 +375,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2092570",
-     "title": "GOAT",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-04-22",
-     "url": "https://elcinema.com/en/work/2092570/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2098047",
      "title": "Dolphin Boy 2",
      "rating": "",
@@ -399,24 +390,6 @@
      "language": "",
      "releaseDate": "2025-08-21",
      "url": "https://elcinema.com/en/work/2004262/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2083864",
-     "title": "Paddington in Peru",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2025-01-08",
-     "url": "https://elcinema.com/en/work/2083864/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2083116",
-     "title": "Masha and the Bear: Twice the Fun",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2023-12-21",
-     "url": "https://elcinema.com/en/work/2083116/",
      "status": "now_showing"
     },
     {

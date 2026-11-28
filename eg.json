@@ -1,80 +1,89 @@
 {
- "updatedAt": "2026-11-27T16:11:46.301Z",
+ "updatedAt": "2026-11-28T01:07:44.435Z",
  "territory": "EG",
  "cinemas": {
   "elcinema-eg": {
    "name": "Cinemas in Egypt",
    "films": [
     {
-     "slug": "2100658",
-     "title": "Fjord",
+     "slug": "2101551",
+     "title": "Queen at Sea",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-27",
-     "url": "https://elcinema.com/en/work/2100658/",
+     "releaseDate": "2026-11-28",
+     "url": "https://elcinema.com/en/work/2101551/",
      "status": "now_showing"
     },
     {
-     "slug": "2102886",
-     "title": "The Wishing Tree",
+     "slug": "2097952",
+     "title": "Bitter Christmas",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-27",
-     "url": "https://elcinema.com/en/work/2102886/",
+     "releaseDate": "2026-11-28",
+     "url": "https://elcinema.com/en/work/2097952/",
      "status": "now_showing"
     },
     {
-     "slug": "2102883",
-     "title": "Tristan Forever",
+     "slug": "2099473",
+     "title": "All of a Sudden",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-27",
-     "url": "https://elcinema.com/en/work/2102883/",
+     "releaseDate": "2026-11-28",
+     "url": "https://elcinema.com/en/work/2099473/",
      "status": "now_showing"
     },
     {
-     "slug": "2102881",
-     "title": "Tin Castle",
+     "slug": "2102876",
+     "title": "The Legend of Suram Fortress",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-27",
-     "url": "https://elcinema.com/en/work/2102881/",
+     "releaseDate": "2026-11-28",
+     "url": "https://elcinema.com/en/work/2102876/",
      "status": "now_showing"
     },
     {
-     "slug": "2102843",
-     "title": "The Blood Countess",
+     "slug": "2102875",
+     "title": "To Hold a Mountain",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-27",
-     "url": "https://elcinema.com/en/work/2102843/",
+     "releaseDate": "2026-11-28",
+     "url": "https://elcinema.com/en/work/2102875/",
      "status": "now_showing"
     },
     {
-     "slug": "2102827",
-     "title": "Gabin",
+     "slug": "2102844",
+     "title": "Zejtune",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-27",
-     "url": "https://elcinema.com/en/work/2102827/",
+     "releaseDate": "2026-11-28",
+     "url": "https://elcinema.com/en/work/2102844/",
      "status": "now_showing"
     },
     {
-     "slug": "2100951",
-     "title": "Minotaur",
+     "slug": "2102926",
+     "title": "Amazomania",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-27",
-     "url": "https://elcinema.com/en/work/2100951/",
+     "releaseDate": "2026-11-28",
+     "url": "https://elcinema.com/en/work/2102926/",
      "status": "now_showing"
     },
     {
-     "slug": "2102927",
-     "title": "The Violinist",
+     "slug": "2102841",
+     "title": "A Day in the Life of Jo: Chapter Phaedra",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-27",
-     "url": "https://elcinema.com/en/work/2102927/",
+     "releaseDate": "2026-11-28",
+     "url": "https://elcinema.com/en/work/2102841/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2102879",
+     "title": "Small Talk",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-28",
+     "url": "https://elcinema.com/en/work/2102879/",
      "status": "now_showing"
     },
     {
@@ -87,12 +96,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101718",
-     "title": "You Can See Everything",
+     "slug": "2096575",
+     "title": "Paper Tiger",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2101718/",
+     "url": "https://elcinema.com/en/work/2096575/",
      "status": "now_showing"
     },
     {
@@ -105,21 +114,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2096575",
-     "title": "Paper Tiger",
+     "slug": "2101718",
+     "title": "You Can See Everything",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2096575/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2097637",
-     "title": "Sophia",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-25",
-     "url": "https://elcinema.com/en/work/2097637/",
+     "url": "https://elcinema.com/en/work/2101718/",
      "status": "now_showing"
     },
     {
@@ -129,6 +129,15 @@
      "language": "",
      "releaseDate": "2026-11-25",
      "url": "https://elcinema.com/en/work/2100835/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2097637",
+     "title": "Sophia",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-25",
+     "url": "https://elcinema.com/en/work/2097637/",
      "status": "now_showing"
     },
     {
@@ -159,21 +168,21 @@
      "status": "now_showing"
     },
     {
-     "slug": "2101989",
-     "title": "Crypto",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2101989/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2102527",
      "title": "Belkis",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2102527/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2101989/",
      "status": "now_showing"
     },
     {
@@ -213,15 +222,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2102069",
-     "title": "Üç Harfliler: Mühür",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-05",
-     "url": "https://elcinema.com/en/work/2102069/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2095318",
      "title": "The Cat in the Hat",
      "rating": "",
@@ -231,21 +231,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102069",
+     "title": "Üç Harfliler: Mühür",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-05",
+     "url": "https://elcinema.com/en/work/2102069/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2096928",
      "title": "Naseeb",
      "rating": "",
      "language": "",
      "releaseDate": "2026-10-28",
      "url": "https://elcinema.com/en/work/2096928/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102123",
-     "title": "Rose",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-10-23",
-     "url": "https://elcinema.com/en/work/2102123/",
      "status": "now_showing"
     },
     {

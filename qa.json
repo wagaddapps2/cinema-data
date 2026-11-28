@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-11-27T16:11:55.236Z",
+ "updatedAt": "2026-11-28T01:07:51.404Z",
  "territory": "QA",
  "cinemas": {
   "elcinema-qa": {
    "name": "Cinemas in Qatar",
    "films": [
     {
-     "slug": "2102343",
-     "title": "Delivery Boy",
+     "slug": "2102973",
+     "title": "Bhogi",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-27",
-     "url": "https://elcinema.com/en/work/2102343/",
+     "url": "https://elcinema.com/en/work/2102973/",
      "status": "now_showing"
     },
     {
@@ -24,48 +24,21 @@
      "status": "now_showing"
     },
     {
+     "slug": "2102343",
+     "title": "Delivery Boy",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-27",
+     "url": "https://elcinema.com/en/work/2102343/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2103618",
      "title": "Prempaatta",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-27",
      "url": "https://elcinema.com/en/work/2103618/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2102973",
-     "title": "Bhogi",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-27",
-     "url": "https://elcinema.com/en/work/2102973/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2096575",
-     "title": "Paper Tiger",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2096575/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103227",
-     "title": "Scorpion",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2103227/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103099",
-     "title": "Cosmic Samson",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2103099/",
      "status": "now_showing"
     },
     {
@@ -78,12 +51,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100835",
-     "title": "Laylat Bazet Khalis",
+     "slug": "2103227",
+     "title": "Scorpion",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-26",
-     "url": "https://elcinema.com/en/work/2100835/",
+     "url": "https://elcinema.com/en/work/2103227/",
      "status": "now_showing"
     },
     {
@@ -96,21 +69,39 @@
      "status": "now_showing"
     },
     {
+     "slug": "2100835",
+     "title": "Laylat Bazet Khalis",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-26",
+     "url": "https://elcinema.com/en/work/2100835/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2096575",
+     "title": "Paper Tiger",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-26",
+     "url": "https://elcinema.com/en/work/2096575/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103099",
+     "title": "Cosmic Samson",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-26",
+     "url": "https://elcinema.com/en/work/2103099/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2097394",
      "title": "Focker In-Law",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-25",
      "url": "https://elcinema.com/en/work/2097394/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2099110",
-     "title": "Hexed",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-25",
-     "url": "https://elcinema.com/en/work/2099110/",
      "status": "now_showing"
     },
     {
@@ -123,30 +114,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103111",
-     "title": "Aakasamlo Oka Tara",
+     "slug": "2099110",
+     "title": "Hexed",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103111/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2103090",
-     "title": "Three Wishes for Cinderella",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103090/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2101989",
-     "title": "Crypto",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2101989/",
+     "releaseDate": "2026-11-25",
+     "url": "https://elcinema.com/en/work/2099110/",
      "status": "now_showing"
     },
     {
@@ -159,15 +132,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103091",
-     "title": "Bachelor Party D'eux",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-19",
-     "url": "https://elcinema.com/en/work/2103091/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2097821",
      "title": "I, Object",
      "rating": "",
@@ -177,12 +141,48 @@
      "status": "now_showing"
     },
     {
+     "slug": "2103111",
+     "title": "Aakasamlo Oka Tara",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103111/",
+     "status": "now_showing"
+    },
+    {
      "slug": "2101718",
      "title": "You Can See Everything",
      "rating": "",
      "language": "",
      "releaseDate": "2026-11-19",
      "url": "https://elcinema.com/en/work/2101718/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101989",
+     "title": "Crypto",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2101989/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103090",
+     "title": "Three Wishes for Cinderella",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103090/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2103091",
+     "title": "Bachelor Party D'eux",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-19",
+     "url": "https://elcinema.com/en/work/2103091/",
      "status": "now_showing"
     },
     {
@@ -213,15 +213,6 @@
      "status": "now_showing"
     },
     {
-     "slug": "2103163",
-     "title": "Fantasy Patrol",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-11-12",
-     "url": "https://elcinema.com/en/work/2103163/",
-     "status": "now_showing"
-    },
-    {
      "slug": "2099122",
      "title": "Forgotten Island",
      "rating": "",
@@ -231,12 +222,12 @@
      "status": "now_showing"
     },
     {
-     "slug": "2100998",
-     "title": "Hadoota",
+     "slug": "2103163",
+     "title": "Fantasy Patrol",
      "rating": "",
      "language": "",
-     "releaseDate": "2026-11-11",
-     "url": "https://elcinema.com/en/work/2100998/",
+     "releaseDate": "2026-11-12",
+     "url": "https://elcinema.com/en/work/2103163/",
      "status": "now_showing"
     },
     {
@@ -246,6 +237,15 @@
      "language": "",
      "releaseDate": "2026-11-11",
      "url": "https://elcinema.com/en/work/2099108/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2100998",
+     "title": "Hadoota",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-11-11",
+     "url": "https://elcinema.com/en/work/2100998/",
      "status": "now_showing"
     },
     {
@@ -282,6 +282,15 @@
      "language": "",
      "releaseDate": "2026-10-29",
      "url": "https://elcinema.com/en/work/2099119/",
+     "status": "now_showing"
+    },
+    {
+     "slug": "2101651",
+     "title": "The Dino Family",
+     "rating": "",
+     "language": "",
+     "releaseDate": "2026-10-22",
+     "url": "https://elcinema.com/en/work/2101651/",
      "status": "now_showing"
     },
     {
@@ -327,15 +336,6 @@
      "language": "",
      "releaseDate": "2026-08-06",
      "url": "https://elcinema.com/en/work/2100043/",
-     "status": "now_showing"
-    },
-    {
-     "slug": "2098745",
-     "title": "Minions & Monsters",
-     "rating": "",
-     "language": "",
-     "releaseDate": "2026-07-01",
-     "url": "https://elcinema.com/en/work/2098745/",
      "status": "now_showing"
     },
     {
